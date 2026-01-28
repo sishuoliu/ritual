@@ -1,0 +1,1165 @@
+--- Page 1 ---
+Chapter Title: Vinaya Monasteries, Public Abbacies, and State Control of Buddhism
+under the Song (960-1279)
+Chapter Author(s): MORTEN SCHLUTTER
+Book Title: Going Forth
+Book Subtitle: Visions of Buddhist Vinaya
+Book Author(s): Stanley Weinstein
+Book Editor(s): William M. Bodiford
+Published by: University of Hawai'i Press
+Stable URL: https://www.jstor.org/stable/j.ctvvn5qj.10
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+University of Hawai'i Press is collaborating with JSTOR to digitize, preserve and extend access
+to Going Forth
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 2 ---
+Chapter 6
+Vinaya Monasteries, Public Abbacies,
+and State Control of Buddhism under
+the Song (960-1279)
+MORTEN SCHLUTTER
+THE BUDDHIST vinaya pictures the monastic community as a largely
+autonomous, self-regulating body. But nowhere in premodern East
+Asia was monastic Buddhism truly free of controls imposed by the
+secular state, even when the Buddhist church exercised consider-
+able political influence. In China, the imperial government always
+considered the monastic Buddhist community and its activities as
+properly subject to state supervision. Chinese dynasties actively
+sought to regulate and control many aspects of the Buddhist
+church's activities, such as ordination procedures, the building of
+monasteries, the activities of monks and nuns, and the teachings
+Buddhism was spreading. The Chinese state was traditionally ex-
+tremely hostile toward unregulated religious groups and tended to
+view all religious expression with suspicion (McKnight 1992, 75-
+79). The fear was that religious groups could disrupt public
+order, threaten the authority of the state, corrupt people's morals,
+and even become sources of rebellion. The mainstream Buddhist
+church was tolerated precisely because of its close ties with the
+government and its elite's relative aloofness from the populace.
+Any Buddhist group that appeared deviant was persecuted by the
+state—and decried by the Buddhist establishment. The state never
+completely lost its suspicion of even the elite Buddhist church, and
+from time to time emperors sought to all but eradicate Buddhism
+from Chinese soil (prior to the Song there were major suppressions
+in the years 258, 446, 574, 845, 955; see Overmyer 1976, 23). How-
+ever, government control of Buddhism and other religion was al-
+ways far from total, and many factors combined to keep much of
+the growth and development of monastic Buddhism beyond the
+reach of the state.
+136
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 3 ---
+Vinaya Monasteries and Public Abbacies 137
+During the Song A dynasty (960-1279) monastic Buddhism ex-
+perienced a tremendous growth but was also more tightly regu-
+lated. At first control measures that had existed earlier, such as
+rules and restrictions concerning ordinations, were further devel-
+oped and vigorously implemented (Moroto 1990, 233). But the
+Song government also instituted several innovative ways of control-
+ling monastic Buddhism and concerned itself with aspects of it that
+had not been previously legislated or directly controlled. These new
+control measures had a profound and lasting impact on the devel-
+opment of Buddhism in the Song and subsequent dynasties.
+In this essay I focus my attention on the new Song system of
+classifying Buddhist monasteries as either "hereditary" or "public"
+according to how their abbots were selected. Although the Song
+monastic classification system has received some attention from
+scholars (Takao 1975, Chikusa 1982, Huang 1989, Getz 1994),
+much of it is not well understood, and the profound impact the im-
+plementation of the system had on the development of the Chan ^
+school has hitherto gone unnoticed. Furthermore, because heredi-
+tary monasteries in the Song were often referred to as "vinaya mon-
+asteries,'' confusion about the meaning of this term has given rise to
+serious misunderstandings in scholarship concerning both the sys-
+tem of hereditary and public monasteries and the nature and his-
+tory of the Vinaya school.
+The Northern Song System of Registering Monasteries
+From its establishment the Song government, like previous imperial
+governments, saw the primary raison d'etre for the Buddhist church
+to be the supernatural assistance and blessings it could provide to
+the state and the emperor. Prayers for the long life of the emperor
+and for the prosperity of the state were important functions of all
+Buddhist monasteries, and emperors no doubt felt they could ac-
+crue merit for themselves and their dynasty through pious acts
+toward Buddhism. The Song court patronized Buddhism in various
+ways. Famous monasteries were given money or grants of land,
+and illustrious monks were invited to court and honored with the
+bestowal of purple robes. The state was actively engaged in the
+translation of Buddhist scriptures as well as in the compiling and
+printing of the Buddhist canon. The imperial family also used the
+services of Buddhist clergy directly. Specially built monasteries
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 4 ---
+138 Morten Schlutter
+were charged with taking care of the imperial tombs, and a monas-
+tery was even erected on the site of the first Song emperor Taizu's
+Affl (r. 960-976) birthplace (Song huiyao jigao fasc.
+200.7879c). But the Song rulers were very aware of the considerable
+economic and social power that the Buddhist church wielded and
+saw a need to regulate and exercise control over monastic Bud-
+dhism. The imperial government was uneasy with the enormous
+economic impact the building and maintenance of monasteries
+and the upkeep of monks and nuns had on the economy. It was
+also concerned about the social and cultural impact of Buddhism
+and worried that the Buddhist church could become a threat to the
+state's authority or that monasteries might harbor criminals and
+insurgents.1
+Central to the Northern Song (960-1127) policy of tolerating
+and even encouraging the growth of monastic Buddhism, while at
+the same time seeking to keep it in check, was its policy of granting
+name plaques (e to a large number of monasteries (Takao 1975,
+57-60; Chikusa 1982, 83-110; Huang 1989, 302-305). This policy
+had originally been a way of honoring certain important monas-
+teries; in the Tang ® (618-906) monasteries with name plaques
+enjoyed a high degree of security from officials who wished to
+suppress Buddhism, while those that were merely on the list of
+approved monasteries did not have the same level of protection.2
+During the initial stages of the notorious Huichang (841-847)
+suppression of Buddhism, when the government issued an edict
+ordering the dismantling of various types of Buddhist establish-
+ments, monasteries with name plaques were explicitly exempted.3
+Owning a name plaque also became crucial for a monastery during
+another vigorous suppression of Buddhism that took place under
+the Latter Zhou (951-960), the regime under which the Song
+founder Taizu had served as a general. The Zhou ruler ordered
+in 955 that any monastery without an imperially bestowed name
+plaque was to be destroyed.4
+The Song government exploited the positive connotations of
+name plaques and used them as a way of registering monasteries
+(Chikusa 1982, 101). Beginning with the second Song emperor, Tai-
+zong AA (r. 976-997), the imperial government granted name
+plaques to monasteries in large numbers. Although the plaque
+granting took place throughout the Northern Song (and at a much
+reduced scale in the later part of the Song known as the Southern
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 5 ---
+Vinaya Monasteries and Public Abbacies 139
+Song, 1127-1279), it was especially the reigns of Zhenzong R^
+(r. 977-1022) and Yingzong ^^ (r. 1063-1067) that saw large-scale
+granting of plaques (Chikusa 1982, 109; Huang 1989, 304-305).
+Usually the main requirement for a plaque was that a monastery's
+buildings total thirty bays or more (Chikusa 1982, 98-99). This
+meant that numerous smaller monasteries of primarily local im-
+portance could be granted plaques; prior to the Song only especially
+illustrious or imperially favored monasteries were granted plaques.
+It is clear that the Song government's driving motivation in
+granting plaques was to bring monasteries of any significance
+under control and supervision. But in spite of the occasional edicts
+that ordered the destruction of monasteries with no plaques (i.e.,
+those under thirty bays and of no particular significance), plaque-
+less monasteries seem to have flourished and orders of destruction
+were rarely, if ever, carried out. The Song government appears to
+have been fairly unconcerned with smaller monasteries, probably
+because it was thought that those under thirty bays in general
+would not be important enough in local life to warrant strong
+action.5 It would also seem that the decrees ordering no new mon-
+asteries to be built must have been largely ignored because through-
+out the Northern Song monasteries that qualified for name plaques
+by having more than thirty bays continued to appear.6
+The Northern Song government's policy of registering and facil-
+itating control of all monasteries of importance through the grant-
+ing of plaques was highly successful. Receiving an imperial plaque
+was perceived as a great honor and could provide security for a
+monastery in times of persecution. It is not surprising then that
+those in charge of monasteries petitioned for them with great en-
+thusiasm. Thus the state achieved its goal of facilitating control in
+a way that secured the cooperation of the clergy, who otherwise
+may not have felt that government registration was beneficial to
+them.7 A large number of monasteries were registered during the
+Northern Song: One source from about 1059 reports that there
+were thirty-nine thousand registered Buddhist monasteries in the
+empire, up from twenty-five thousand fifty years earlier (Chikusa
+1982, 89).
+Registering monasteries was essential for the state, for without
+doing so, it could not successfully set down and enforce rules and
+regulations for them. The registration of monasteries facilitated
+an entirely new way of regulating Buddhist monasteries that had a
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 6 ---
+140 Morten Schlutter
+profound impact on the further development of Buddhism in
+China. This was the system of classifying monasteries or, more spe-
+cifically, their abbacies, into two main groups: hereditary (usually
+termed "succession" [jiayi E^Z], but also known as "disciple" [tudi
+ffiA] or "ordained disciple'' [dudi ® A]) monasteries and public
+("ten directions" [shifang +A]) monasteries (cf. Welch 1967). As I
+will discuss shortly, a hereditary monastery was associated with a
+group of monks who held the rights to occupy its abbacy; the mon-
+astery and its property in a sense belonged to these monks. Such
+monasteries could be very large, and many owned land and other
+property, but in the Song, most were small to medium sized. A
+hereditary monastery was "private" in the sense that outsiders could
+not assume any of its offices, and monks from the outside did not
+have rights to reside there. In contrast, a public monastery was a
+kind of independent, self-owned institution over which no individ-
+ual or group of individuals could claim ownership and the abbacy
+of which supposedly was open to any qualified candidate within
+certain sectarian restrictions. Any monk with good credentials
+could be admitted into a public monastery and advance in its vari-
+ous monastic offices. All the largest and most important monas-
+teries in the Song eventually became public monasteries.
+Hereditary Monasteries
+Hereditary monasteries were recognized by the state as in effect the
+legal property of the monks or nuns living there. The residents of a
+hereditary monastery were bound together in a complex lineage re-
+lationship and formed a "tonsure family'' (cf. Welch 1967, 129-134).
+Its abbacy was passed down through the tonsure family only and
+outsiders were excluded. Through its control of the abbacy the ton-
+sure family was able to retain property rights to the monastery and
+its land because the abbot and his officers were the only ones who
+could make decisions concerning it. Like the Chan lineages and
+those developed within other Buddhist groups such as the Tiantai
+An school, the lineage of a tonsure family was similar to that of a
+regular family descent group except that it was based on a teacher-
+disciple relationship. Thus the disciples of one master were re-
+garded as brothers, their master's master was their grandfather,
+and their master's fellow disciples were their uncles.8 But unlike
+the Chan model, the teacher-disciple relationship in a tonsure fam-
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 7 ---
+Vinaya Monasteries and Public Abbacies 141
+ily was not based on a teacher sanctioning the enlightenment expe-
+rience or profound insight of a student, but on the tonsure the nov-
+ice received on entering the Buddhist order. The novice became the
+personally ordained disciple of the master giving or sponsoring his
+tonsure and was adopted into the tonsure family of that master.
+Such personally ordained disciples were usually referred to as "du-
+dizi" S ^ A. In this way, all monks and nuns were members of a
+tonsure family, and for the vast majority their tonsure lineage was
+what gave them identity and defined the framework of their monas-
+tic career. Some monks and nuns went on to gain admission to one
+of the big public monasteries and perhaps later received a special
+transmission in the Chan or Tiantai lineages, but even so they re-
+mained members of their tonsure family and any disciples they
+ordained became members of that family.
+Hereditary monasteries may have had a long history by the
+Song, and it is likely that prior to the Song most monasteries were
+in some sense hereditary.9 However, it was only in the Song that he-
+reditary monasteries acquired a specific legal status, which recog-
+nized the tonsure family's rights to its monastery. This legal status
+no doubt offered the tonsure families in hereditary monasteries
+some protection against those who might try to usurp their prop-
+erty. But together with the system of registration, it also greatly fa-
+cilitated government control and made it possible for the state to set
+down and enforce rules concerning many aspects of monastic life,
+including how the abbacy was to be filled.
+An important source for the study of Song legislation on monas-
+tic Buddhism is the section on Buddhism and Daoism in the Song
+law compendium the Classified Legal Articles of the Qingyuan Period
+(Qingyuan tiaofa shilei ftAfft&ffffi).10 The Classified Legal Articles
+is the only extant (though incomplete) Song law manual. Although
+it dates from the Southern Song, many of the regulations it contains
+are clearly of long standing, and in the Buddhism and Daoism sec-
+tion some were even long outdated by the Qingyuan period (1195-
+1200). In this text rules for the passing down of the abbacy in a he-
+reditary monastery are clearly spelled out. For example, when an
+abbot of a "nonpublic" monastery died or for some reason stepped
+down, the abbacy passed on to one of his dharma brothers (the
+other tonsure disciples of his master) according to their order in the
+lineage, that is, when they were ordained. If there were no dharma
+brothers available, the abbacy was passed to one of the retiring
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 8 ---
+142 Morten Schlutter
+abbot's disciples or to one of his dharma brothers' disciples, also in
+accordance with seniority (fasc. 50.476d). In this way, everybody in
+each generation had a chance, at least theoretically, to succeed to
+the abbacy, and only when one generation had been exhausted
+would the abbacy be passed on to the next generation. It seems the
+abbacy in a hereditary monastery was often held by one person
+until he passed away, so many members of big tonsure family may
+not have lived long enough to succeed to the abbacy.11
+On the other hand, a monk capable of taking over a vacant ab-
+bacy may not always have been available from the tonsure family. A
+note in the Classified Legal Articles (fasc. 50, 476d) says that if there
+is a worthy, well-esteemed monk whom the congregation wants as
+abbot, they can present him to the authorities to have him first in-
+stalled to fill the position. This probably refers for the most part to a
+situation where no one in the tonsure family was ready to take over
+the abbacy, such as instances when everyone in line for the abbacy
+was underage. It is also possible that the tonsure family could sim-
+ply decide to bring an abbot in from outside the group, although it
+would seem likely that the monks normally in line for the abbacy
+would protest such a move.12 The Classified Legal Articles further
+states that only those who were actively involved with the affairs of
+a hereditary monastery could be appointed to its abbacy (fasc. 50,
+476b). Those who had been away from the monastery for more
+than half a year or who were not actually fulfilling the duties of
+their positions were not allowed to take over the abbacy even if
+they were in line for it. The text also asserts that, in most cases,
+those who had been punished by the law could not succeed to the
+abbacy (fasc. 50, 477a).
+Significantly, a stipulation required the newly selected abbot of
+a hereditary monastery to be approved by the authorities before he
+could be installed in the abbacy (fasc. 50.476b). Thus, although the
+Song state had to recognize the rights of the tonsure family to con-
+trol the abbacy of its monastery, the government could at least set
+down very strict rules for how the succession was to take place and
+who in fact could occupy the abbacy. As we have just seen, by law
+only those who were actively taking part in the life of a monastery
+could become its abbots; this rule helped ensure that the govern-
+ing of the monastery remained a local affair and thus easier to su-
+pervise. Because all appointments had to be approved by officials,
+there were plenty of opportunities in the final instance for local au-
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 9 ---
+Vinaya Monasteries and Public Abbacies 143
+thorities to intervene in various ways and to be sure that no unde-
+sirable person occupied an abbacy in their area of jurisdiction.
+There are other indications that the state in principle acknowl-
+edged that a tonsure family had a legal right to its monastery.
+An article in the Classified Legal Articles concerning the selection
+of abbots at public monasteries notes that the succession rules
+must be followed strictly, even at previously hereditary monasteries
+where "the disciples had agreed to [the] change into public'' (fasc.
+50.476c). This remark indicates that a tonsure family had to agree
+to its monastery being changed into a public one and implies that
+the state recognized that the family had property rights. As will be
+discussed below, several documented cases of the conversion of he-
+reditary monasteries into public ones further attest to this.
+Finally, hereditary monasteries were probably supposed to ap-
+ply to the government to have their status officially approved.13
+But this seems to have been rarely done—at least there are very
+few records of such applications. Most likely the understanding
+was that if a monastery was not categorized as public it was auto-
+matically considered hereditary.14
+Public Monasteries
+As noted above, the Classified Legal Articles addresses its rules for
+succession in hereditary monasteries to "all nonpublic'' institutions.
+This suggests that the most important feature of the system of clas-
+sification, and its main innovation, was the public monastery. In a
+public monastery the abbacy was not passed down in a tonsure
+family. In fact, an abbot's own tonsure disciples were not allowed
+to succeed him to the abbacy, a measure clearly meant to prevent a
+return to a hereditary system. The abbot of a public monastery was
+supposed to be the best candidate available, whether he could be
+found within the walls of the monastery or had to be invited from
+elsewhere.
+Some form of the public abbacy system appears to have existed
+prior to the Song.15 But although the Song government did not in-
+vent the system of public abbacies, it was only in the Song that pub-
+lic monasteries become an official legal category. The Song govern-
+ment seems very quickly to have become aware of the advantages
+of having monasteries designated as public and began early on
+to promote public abbacies as an important part of a national
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 10 ---
+144 Morten Schlutter
+policy toward monastic Buddhism. Unlike the case of hereditary
+monasteries, where the secular authorities' power over the selection
+process was limited because the choice of abbot was mainly deter-
+mined by rules of succession within the tonsure family, the abba-
+cies at public monasteries were wide open to state control.
+The Classified Legal Articles includes a section of rules concern-
+ing the selection of the abbot at a public monastery. According to
+this text, when the abbacy at a public monastery became vacant,
+the prefectural authorities were to charge the local Buddhist regis-
+try (Seng zhengsi -A^l) with arranging a meeting between the ab-
+bots of the other public monasteries (presumably from the whole
+prefecture). These abbots were to select someone (again, it would
+seem, from the prefecture) who had been a monk for many years,
+who was accomplished in conduct and study, and who was held in
+high esteem by other monks. The choice of the gathered abbots was
+presented to the prefectural authorities, who would investigate and
+confirm the appointment if no problems were found. If there was
+no suitable candidate, perhaps because no one could be found in
+the prefecture or because the abbots could not agree on anyone,
+the authorities would select a monk from another area who was
+held in high regard and who was not known to have committed
+any crime or to have had other things against him. The Classified
+Legal Articles stresses that this person, once chosen, could not be
+substituted. Also, as mentioned above, even if the monastery previ-
+ously had been hereditary, these rules still had to be obeyed (p.
+476c). Another source that casts some light on the procedure of
+appointing a new abbot in a public monastery is the Pure Rules for
+Chan Monasteries (Chanyuan qinggui ffi^^^), compiled by the
+monk Changlu Zongze AM A© in 1103. Although this code is spe-
+cifically for public monasteries associated with the Chan school,
+much of what it contains is derived from the standard vinaya, and
+later monastic codes of other schools are very similar to it (see Yifa
+in this volume). The procedures of the Pure Rules for Chan Monas-
+teries in general do not seem unique to the Chan school.
+Interestingly, the Pure Rules for Chan Monasteries does not de-
+scribe how an abbot was to be selected. However, it does include a
+detailed outline of the procedure for inviting a new abbot once he
+had been chosen (fasc. 7, pp. 250-255). This seems to have been a
+rather complicated affair. From the monastery with a vacant ab-
+bacy a group of envoys was chosen to go the monastery where the
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 11 ---
+Vinaya Monasteries and Public Abbacies 145
+prospective abbot was residing. They carried with them numerous
+letters and documents from officials, the monastery itself, Buddhist
+officials in the area, abbots of other monasteries in the area, lay pa-
+trons of the monastery, and retired officials, in addition to letters
+and reports from the withdrawing abbot to the local authorities in
+both the area where he had been serving and where the prospective
+abbot resided (fasc. 7, p. 250). The envoys traveled to the prospec-
+tive abbot's monastery and lodged there while one of them went to
+present the various documents to local officials. In the event that
+the officials refused to let the prospective abbot go, one of the en-
+voys would return to their home district and present the refusal to
+the officials there. If the officials in the home district wanted the en-
+voys to make a second request they would do so; if not, the envoys
+would all return home. The authorities in the prospective abbot's
+area had to agree to his release before the candidate himself could
+be formally presented with an invitation (fasc. 7, p. 251; cf. Yifa
+2002, 212-215). Although much of what is found in the Pure Rules
+for Chan Monasteries is perhaps prescriptive rather than descriptive
+(i.e., reflecting how its author thought things ought to be done
+rather than how things were actually done), this section is likely to
+have been based on Zongze's own personal experience and is hardly
+an idealized account. It is probable that the process described was
+common to all public monasteries and not specific to Chan public
+monasteries.
+The most striking aspect of the accounts in both the Classified
+Legal Articles and the Pure Rules for Chan Monasteries is the depic-
+tion of the very active and central role that the secular authorities
+played in the selection and invitation of a new abbot. According to
+the instructions in the Classified Legal Articles, the secular author-
+ities were to initiate the search for a new abbot; if there were any
+problems in finding a candidate, they were to step in and select
+someone directly. Of course, as with appointments to hereditary
+monasteries, the authorities always had to approve the choice of a
+new abbot. The account in the Pure Rules for Chan Monasteries
+nicely complements the one found in the Classified Legal Articles.
+Again it is very clear that the secular authorities played a central
+role. Among other things, officials in the district of the candidate
+had the power to refuse to release him; and only after they had de-
+cided to do so could the prospective abbot be formally invited to the
+new post.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 12 ---
+146 Morten Schlutter
+Although the Classified Legal Articles and the Pure Rules for
+Chan Monasteries depict the secular authorities as having decisive
+power in the selection of an abbot, members of the Buddhist clergy
+in both accounts have an important role to play. According to the
+Classified Legal Articles, abbots of other monasteries were actually
+charged with picking a candidate to present to the authorities, and
+the statement in the Pure Rules for Chan Monasteries that the envoys
+were to carry with them letters from the abbots in the area of the
+vacant monastery may be seen as a confirmation of this. The possi-
+bility that the person chosen for the abbacy might decline the posi-
+tion is also made explicit in the Pure Rules for Chan Monasteries
+(fasc. 7, 252).
+Reading the Classified Legal Articles it would seem that the new
+abbot in most cases was expected to be found within the prefecture;
+in contrast the Pure Rules for Chan Monasteries assumes he will be
+found in a place outside the jurisdiction of the officials searching
+for an abbot.16 According to the Classified Legal Articles the selec-
+tion of the new abbot became the sole responsibility of the officials
+if he had to be found outside the prefecture, something that is not
+reflected in the Pure Rules for Chan Monasteries. It is possible that
+the Classified Legal Articles stems from a time when public monas-
+teries had become so common that finding an abbot locally was
+easy. On the other hand, it seems that by the thirteenth century at
+least half of all registered monasteries were public (cf. Takao 1975,
+67), and a number of prefectures must have had several hundred
+public monasteries: It would hardly have been practicable to gather
+abbots from all of them for a meeting. The Classified Legal Articles is
+probably reiterating older rules on how the selection of an abbot
+ought to be done rather than how it was usually done in the late
+twelfth century. The fact that the Pure Rules for Chan Monasteries
+does not include any information on how the abbot was to be se-
+lected is also noteworthy. It may be a recognition by its editor that
+the clergy had little or no control over most appointments. There is,
+in fact, much evidence that from early on in the Song the abbot of a
+public monastery was in many cases appointed directly by secular
+authorities—without members of the clergy having any formal role
+in the selection of the candidate. No legislation appears to have ex-
+isted for this kind of appointment, but it was very widespread. Di-
+rect appointment would most often take place at a prefectural level,
+and in this case the appointing authority was usually the prefect.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 13 ---
+Vinaya Monasteries and Public Abbacies 147
+But the appointment could also come directly from the court, ulti-
+mately deriving its authority from the emperor himself.
+The direct appointment of abbots to public monasteries by sec-
+ular authorities would seem to be a blatant encroachment on the
+power of the Buddhist church, and one would perhaps expect the
+clergy to be unhappy with such appointments. But this does not
+seem to have been normally the case. In biographies of Buddhist
+monks it is often mentioned that they were appointed to such and
+such a post by the command of a prefect or through the recommen-
+dation of famous literati (which probably then led to an appoint-
+ment by the prefect). These appointments clearly were seen as evi-
+dence of the importance and eminence of a particular monk. Of
+course, imperial appointments were even more prestigious, and
+much is made of monks who were appointed to abbacies by impe-
+rial command.
+The practice of direct appointments to abbacies, whether by the
+prefect or by imperial command, does not seem to have been a for-
+mal category during most of the Song.17 But in 1103, a special class
+of monasteries called Chongning (later renamed Tianning
+Wanshou was established (Chikusa 1982, 95-98). These
+were Buddhist monasteries set up specifically to pray for the long
+life of the emperor. Each prefecture was charged with setting up
+one of these monasteries, although it is not clear whether new mon-
+asteries were built or existing ones appropriated. The Chongning
+monasteries were given various privileges, and it was decreed that
+the most illustrious monks in the empire were to be appointed to
+their abbacies (Luohu yelu M^WM, Z 2B.15.497b). The abbots for
+the Chongning monasteries were naturally appointed by imperial
+command, and it is seems likely that this inspired imperial appoint-
+ments to the abbacies of other monasteries deemed important to
+the state. In the late Southern Song, the practice of imperially ap-
+pointed abbacies seems to have been formalized by classifying the
+most important public monasteries in the so-called "five moun-
+tains'' system, in which all abbots were imperially appointed (cf.
+Imaeda 1970).
+Most of the extant biographies of Song-dynasty monks note that
+their subjects were appointed to at least some of their posts by di-
+rect order from secular authorities. For example, every monk in
+the Song Caodong ^^ Chan lineage for whom relevant biographi-
+cal information can be found is reported to have been appointed to
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 14 ---
+148 Morten Schlutter
+abbacies by influential officials and, for the more illustrious ones,
+by imperial order. Random sampling of the biographies of monks
+in other Chan lineages confirms this pervasive tendency. These
+monks would be moved from monastery to monastery at the will of
+the politically powerful, and it is clear that the clerical community
+had little or no direct influence over their appointments.
+However, the extant biographical material probably distorts the
+picture. Relatively few public monasteries would have been consid-
+ered important enough for the court or powerful officials to take a
+direct interest. By the late twelfth century there may have been as
+many as twenty thousand public monasteries in the Song empire.
+Only a small percentage of these, the largest and most famous,
+would ever have had their abbots appointed directly by the court
+or a high official. The monks for whom biographical information
+is still available were almost all part of the clerical elite and exactly
+the kind of people who would be appointed to famous monasteries.
+Virtually nothing is known about the vast majority of monks who
+served as abbots at the less illustrious public monasteries. It is quite
+likely that at many of these monasteries, and perhaps also at some
+of the more prestigious ones, abbots were picked for their posts by a
+congregation of their peers in a fashion similar to the system out-
+lined in the Classified Legal Articles. The notion that this method
+was the proper one certainly persisted, and a very similar process
+is described in a Chan code from the Yuan ^ (1279-1368) dynasty
+(Qixiu Baizhang qinggui T 48.1130b).
+But there was yet another way by which a monk could be ap-
+pointed to the abbacy of a public monastery. At times, secular au-
+thorities would demand bribes for, or outright sell, the right to the
+position. This practice seems to have become increasingly common
+during the course of the Song. As public monasteries became more
+numerous, many monks had a chance to be appointed to a public
+abbacy. This was naturally an attractive opportunity since it was a
+prestigious position in the clerical world. But there was another as-
+pect of the matter, which seems to have loomed large. Even smaller
+public monasteries frequently had considerable holdings of land
+and other property and, without the check of an entrenched tonsure
+family, abbots at such institutions often took the opportunity to en-
+rich themselves at the expense of the monastery.18 Unscrupulous
+officials recognized this and encouraged the trend by demanding
+bribes to install someone as abbot at a public monastery.19
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 15 ---
+Vinaya Monasteries and Public Abbacies 149
+The notion of having to pay for an abbot's position at a public
+monastery became institutionalized, at least in Fujian when
+in 1131 the prefect of Fujian, Zhang Shou (1084-1145), con-
+ferred with the local literati and, as a means of creating revenue,
+set up a system by which abbacies were auctioned off to the highest
+bidder. The forty-odd top monasteries in Fujian were exempted
+(Song huiyao jigao, fasc. 134.5240d; Chikusa 1982, 163). It is possi-
+ble that such a system became common elsewhere. Having to pay
+either bribes to officials or money to the provincial coffers no doubt
+further encouraged abbots at public monasteries to exploit their
+institutions for all they were worth. This exploitation became a
+problem of such magnitude in the late Song that many public mon-
+asteries converted back to the hereditary system, in spite of the se-
+vere laws forbidding it (Takao 1975, 65).
+Conversion of Hereditary Monasteries into
+Public Monasteries
+Although the Song government's laws stipulated severe punish-
+ments for those who tried to convert a public monastery into a he-
+reditary one, it was quite easy to get permission to turn a hereditary
+monastery into a public one (Classified Legal Articles, fasc. 50.476a).
+Clearly the state had a strong interest in having as many monas-
+teries as possible be public rather than hereditary. Whether the ab-
+bot at a public monastery was chosen directly by the court or local
+authorities, or the abbacy was sold to the highest bidder, or the
+abbot was selected in a process that heavily involved officials, the
+state maintained a high level of control. Furthermore, abbots in
+public monasteries usually held their position for only a few years,
+and every time a new abbot was selected government officials could
+make their influence felt.
+As we have seen, the Song state in principle recognized the
+rights of the tonsure family to its monastery, and a rule existed
+that the tonsure family's agreement was needed to turn a hereditary
+monastery into a public one. Because such a change in effect meant
+that the tonsure family lost all rights to its monastery, this seems
+reasonable enough. Tonsure disciples were excluded from taking
+over the abbacy of a public monastery from their master or even
+holding other important monastic office, so the disciples in line for
+the abbacy of a hereditary monastery would lose both their rights to
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 16 ---
+150 Morten Schlutter
+the abbacy as well as any chance of ever obtaining it (Shishi yaolan
+ff^MR, T 54.302b2-3). Furthermore, monks must have had the
+right to stay in the monastery of their tonsure family, where they
+would be fed and could live comfortable lives; no one seems to
+have had an inalienable right to stay in a public monastery, where
+life usually was much more strictly regulated.
+In an early well-documented instance of a hereditary monastery
+being turned into a public one, further indications are found that
+the tonsure family, and especially the younger generation of disci-
+ples who had a good chance of succeeding to the abbacy, had to
+agree to the change. This was the case at Yanqing MA Monas-
+tery, which the famous monk of the Tiantai school Siming Zhili I
+(960-1028), together with Yiwen petitioned the court
+in 1010 to convert into a public monastery dedicated to the Tian-
+tai teachings (Getz 1994, 139-159). Accompanying Zhili and Yi-
+wen's petition was another petition from six of their personally or-
+dained tonsure disciples that voiced the disciples' support for their
+two masters' plan (Siming Zunzhe jiaoxing lu T
+46.909a-910a, 910a-c; Getz 1994, 139-141). Thus the monks most
+likely to have the opportunity to take over the abbacy of the Yan-
+qing Monastery under the hereditary system agreed to relinquish
+their rights to it. In light of the remark in the Classified Legal Articles
+cited above, it would seem that the agreement of the students to the
+conversion not only strengthened the petition but was a legal re-
+quirement.20
+One might well wonder what would persuade especially the
+younger generation in a tonsure family to give up its monastery
+and face an uncertain future. In the case of Yanqing Monastery,
+it seems the sheer charismatic force of someone like Zhili could
+move tonsure disciples to give up what might otherwise have been
+theirs. But even Zhili and Yiwen were concerned about their ton-
+sure disciples' willingness to give up their rights. They feared that
+once the two of them were gone, their tonsure disciples might try
+to claim back the abbacy, causing Yanqing Monastery to revert to
+the hereditary system. This is evidenced by an oath Zhili and Yiwen
+composed and asked their tonsured disciples to take, which stated
+that the disciples under no circumstances would take over the ab-
+bacy after their masters' deaths, even if one of them was the most
+qualified person that could be found (T 46.907c; Getz 1994, 143-
+147).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 17 ---
+Vinaya Monasteries and Public Abbacies 151
+In fact many, and perhaps most, conversions of hereditary mon-
+asteries into public ones did not happen voluntarily. The Classified
+Legal Articles includes various laws that show how relatively easy it
+was for the state to force the conversion of hereditary monasteries.
+If a monastery was found to harbor criminals, it could be turned
+into a public institution (fasc. 50.477a). Likewise, if no successor
+was at hand in a hereditary monastery, it would automatically be
+converted into a public abbacy, as would a monastery that had be-
+come dilapidated and been abandoned (fasc. 50.476a). Further-
+more, as was the case with the appointment of abbots to public
+monasteries, important monasteries would often be converted into
+public institutions by the government or by high-ranking local offi-
+cials simply by decree.21
+Besides pressure from the state and powerful officials on hered-
+itary monasteries to convert to public ones, other forces were at work.
+In the wars that followed the fall of the Tang, many monasteries were
+damaged and lost their land holdings; their tonsure families were
+dispersed. Among the monasteries that continued to operate many
+must have become almost fully dependent on local lay supporters.
+These supporters of course had little interest in patronizing a hered-
+itary monastery, and they must at times have been able to force
+their institution to adopt the system of public abbacies. There is ev-
+idence for this in a text by the literatus Yu Jing Ain (1000-1064)
+dated to 1038, which describes the succession of abbots at the Puli
+^flj Monastery at Dongshan MIA Its abbacy had first been occu-
+pied by the "founder" of the Caodong tradition of Chan, Dongshan
+Liangjie M I AA (807-869). The text implies that at the time of
+writing the Puli Monastery was a public Chan monastery, although
+nothing is said about when the conversion took place. According to
+the text, in the generations after Liangjie the abbacy was passed on
+from master to disciple, clearly (although this is not stated) in a ton-
+sure relationship. However, during the Five Dynasties period (907-
+960), which followed the breakdown of the Tang, this system seems
+to have been disrupted. When the area came under the control of
+the Southern Tang (937-958) regime, the king ordered a certain
+monk to take up the abbacy. Later, perhaps at the beginning of the
+Song, another abbot (it is not clear how he came into the position)
+wanted his disciple to take over the abbacy after him. The lay sup-
+porters of the monastery objected, and another monk was chosen
+(Yunzhou Dongshan Puli chanyuan chuanfa ji fA'HMH^f'J^l^^
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 18 ---
+152 Morten Schlutter
+ABB, fasc. 9.14b-18b, in Siku quanshu zhenben 6).
+The main forces in converting a monastery from hereditary to pub-
+lic in the Song, aside from those of the state, must thus have been
+lay supporters from the local elite and local officials. These groups
+gained from having a prestigious monastery in their area, and they
+would often have been in a position to apply pressure on hereditary
+monasteries to convert.
+The efforts to convert monasteries from hereditary to public
+were very successful. As mentioned above, by the end of the North-
+ern Song about half of all registered monasteries were public. Al-
+though the total number of hereditary monasteries would be much
+higher if one were to include unregistered monasteries, which had
+proliferated greatly by this time, the proportion of public monas-
+teries to hereditary ones was still remarkably high.
+Vinaya Monasteries and Chan Monasteries
+In public monasteries the abbacy was supposed to be open to any
+competent candidate, but with an important qualification. Most,
+and possibly all, public monasteries in the Song had an official as-
+sociation with a particular tradition within Buddhism, and their
+abbacies were restricted to lineage holders in that tradition. At first
+public monasteries all seem to have been associated with the Chan
+tradition, but early in the Song public monasteries associated with
+the Tiantai school came into existence and later some public mon-
+asteries became affiliated with the Huayan ^^ school. In the late
+Southern Song, public Tiantai and Huayan monasteries were classi-
+fied as teaching (jiao or jiang p) monasteries. Also in the South-
+ern Song, a further category of public vinaya (lu #) monasteries ap-
+peared. These were monasteries associated with the newly emerged
+Vinaya school of Buddhism.
+One of the most intriguing aspects of the Song system of hered-
+itary and public monasteries is the special connection between the
+institution of public monasteries and the Chan school. Not only
+were public monasteries in the beginning all affiliated with the
+Chan school, but even after public teaching monasteries had be-
+come common the system of public abbacies continued to be espe-
+cially associated with the Chan school. Another important point to
+be made here is that the term "lUsi" ## (vinaya monastery) origi-
+nally was a designation for hereditary monasteries and had no con-
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 19 ---
+Vinaya Monasteries and Public Abbacies 153
+nection whatsoever with the later public vinaya monasteries associ-
+ated with the Vinaya school. These two points are closely related:
+Because public abbacies began with the Chan school and hereditary
+monasteries were called "vinaya monasteries," the conversion of a
+hereditary monastery into a public Chan monastery is often de-
+scribed in Song sources as a change from Vinaya to Chan. This has
+been almost universally understood to mean that the monastery in
+question changed its affiliation from the Vinaya school to the Chan
+school, a serious misinterpretation that obscures the nature of the
+system of public and hereditary monasteries as well as the history
+of the Vinaya school.
+Several sources attest to the special relationship between the in-
+stitution of public abbacies and the Chan school on the one hand
+and the use of "vinaya monastery" for "hereditary monastery" on
+the other. Consider, for example, an inscription for the Lingfeng g
+|| Monastery at Mount Dahong A A ("Da Song Suizhou Dahong-
+shan Lingfeng Chansi ji" written by the
+famous statesman Zhang Shangying (1043-1121) in 1102
+(Hubei jinshi zhi fasc. 10.7b-10b, in Shike shiliao xin-
+bian S M ^ M, 1.16; cf. Ishii Shudo, 1987, 430-437). Zhang
+reports that in the fall of 1087 the Lingfeng Monastery was by im-
+perial command changed from Vinaya to Chan, and in 1094 mem-
+bers of the Outer Censorate asked to have the monk Dahong Baoen
+AAISM. (1058-1111) moved there to take up the abbacy. Then,
+Zhang says, in 1102 he was asked to write a "Record of [Becoming]
+a Public Chan Monastery" for the Lingfeng Monastery. Zhang goes
+on to relate that a disciple of the famous Chan master Mazu Mffl.
+(707-786, or 709-788), known as Great Master Ciren Lingji MMM
+first became abbot of the Lingfeng Monastery during the
+Yuanhe Afn period (806-820) of the Tang. After a description of
+the monastery and its history Zhang states that, after having com-
+pared and analyzed Chan and Vinaya, he came to the following
+conclusion:
+Vinaya uses [hereditary] succession (jiayi) and Chan uses the public
+(shifang) [system]. That which is called "succession" means that where
+one generation (jia) is coming from, that is where the next generation
+(yi) establishes itself. So [at the time before Lingfeng Monastery be-
+came public] they would necessarily say: "We are the sons and grand-
+sons of Ciren [the founder of Lingfeng]." Now that a person [to be the
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 20 ---
+154 Morten Schlutter
+abbot] is selected publicly the descendants of Ciren have been cut off.
+(Hubei jinshi zhi, fasc. 10.9b)
+Here Zhang Shangyin describes the Lingfeng Monastery's new des-
+ignation as a public Chan monastery as a change from Vinaya to
+Chan. He explicitly identifies vinaya monasteries with hereditary
+succession and Chan monasteries with public abbacies. In explain-
+ing how the vinaya system works, Zhang describes how previously
+those who were abbots at Lingfeng would be the descendants of
+the monastery's founder, Ciren. But because the monastery had
+now become public, Ciren's descendants had lost their rights to the
+abbacy.
+First of all, this shows that, as T. Griffith Foulk has already sug-
+gested, in the Northern Song the designation "vinaya monastery''
+did not mean a monastery with an abbacy that was held by mem-
+bers of a Vinaya school.22 Rather, "vinaya" in this context simply
+seems to mean "governed by the vinaya.'' A vinaya monastery is,
+therefore, an ordinary hereditary monastery.23 Zhang's statement
+also shows that even if a monastery had some sort of connection to
+the Chan lineage through its tonsure family (as was the case with
+Lingfeng Monastery), it was still a vinaya monastery because the
+succession to its abbacy was hereditary and stayed within the
+tonsure family. This statement further drives home the point that
+"vinaya monastery'' in this context has no association whatsoever
+with a Vinaya school. Another important point to note here is that
+Zhang Shangyin in the inscription above seems to associate public
+abbacies exclusively with the Chan school. As we have already seen,
+and as Zhang must have known, a number of non-Chan public
+monasteries were in existence at the time he wrote his record of
+the Lingfeng Monastery in 1102. However, Zhang must have felt
+that Chan was associated with the system of public monasteries in
+a special way to write as he did.
+Ironically, perhaps the earliest evidence of a special relationship
+between Chan and public abbacies is found in the 1010 petition re-
+ferred to earlier by Zhili and Yiwen. In this petition Zhili and Yiwen
+note that the prefecture already had two monasteries with public
+abbacies, the Jingde Monastery at Mount Tiantong and
+the Xianju ffg Monastery at Mount Damei A^. According to
+them, these institutions were based on the "model of the Buddhist
+monasteries'' in the Jiangnan (most of modern Anhui and
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 21 ---
+Vinaya Monasteries and Public Abbacies 155
+Jiangxi provinces) and Hunan circuits (Siming Zunzhe jiaoxing lu, T
+46.909c2-5, 909c26-28; Getz 1994, 139-159). The Baoqing Siming
+zhi ^ f t H ^A reports that the Jingde Monastery received a name
+plaque in 1007 and the Xianju Monastery had one bestowed in
+1008 (Baoqing Siming zhi, fasc. 13.18b, in Song Yuan difang zhi con-
+gshu 8). The monasteries must have become public at this point and
+been designated Chan, but the Baoqing Siming zhi makes no men-
+tion of that. However, the Tiansheng Era Expanded Record of the
+Lamp (Tiansheng guangdeng lu ASSlSM, Z 2B.8.435c, hereafter
+Expanded Record), a Chan genealogical history first published in
+1036, mentions that the Chan master Basheng Qingjian AS^ffi
+(957-1014) late in his life became the abbot at Tiantong. It would
+seem that Qingjian must have become the abbot at Tiantong very
+soon after it had become public. At Mount Damei, perhaps the first
+Chan abbot was Damei Juxu A^gPA who, according to the
+Expanded Record (Z 2B.8.445a), gained his position there in the
+Xiangfu ## period (1008-1016). All this suggests that Tiantong
+and Damei around the time of Zhili's petition were in fact public
+Chan monasteries. In any event, there is ample evidence from later
+in the Song that both Tiantong and Damei were famous public
+Chan monasteries, and it seems likely that at the time they received
+their new plaques they were converted to public Chan monasteries.
+We should also note that Zhili and Yiwen's petition does not cite
+any examples of public monasteries devoted to the Tiantai teach-
+ings, which suggests that there were none at the time. The 1010
+petition leaves the impression that, until then, whatever public
+monasteries existed had been designated Chan.
+The association between Chan and the institution of public
+abbacies is made further explicit in Yu Jing's previously mentioned
+text from 1038, which describes the succession of abbots at the
+Dongshan Puli Monastery:
+In recent times there has been a twofold division of Chan and Vinaya,
+based on the [selection of] the abbot in residence. In Chan [monas-
+teries] he is chosen according to virtue (de in vinaya [monasteries]
+according to family relationship (qin [i.e., tonsure family]. (Wuxi ji
+fasc. 9.14b, in Siku quanshu zhenben 6).
+Again vinaya monasteries are identified with the hereditary system,
+and Chan is presented as synonymous with the system of public
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 22 ---
+156 Morten Schlutter
+abbacies. Much additional evidence can be found in Song sources.
+For example, in an inscription for the Fuyan Monastery, which
+became public in 1050, it is said several times that disciples agreed
+to turn their hereditary monastery into a public one, after which au-
+thorities were petitioned. The inscription then states that there are
+not two ways in Buddhism but that Chan and Vinaya are distin-
+guished by the different living arrangements monks have in mon-
+asteries. Monasteries where living is communal and where monks
+are not asked whether they have a "family" connection are called
+public. Monasteries where monks live in their own rooms and
+call each other "sons" and "brothers" are called hereditary (jiayi)
+("Fuyan chanyuan ji" IHS^l^fB, Zhiyuan Jiahe zhi AA^AA,
+fasc. 26, 7b-9a, in Song Yuan difangzhi congshu A AAA A S* 12).
+Even in the late twelfth century, when public monasteries desig-
+nated Chan were only slightly more numerous than those desig-
+nated teaching or Vinaya, the tendency to associate Chan with the
+system of public abbacies continued. A late Song inscription relates
+how a monastery became public in 1177 and then describes this
+change as one from Vinaya to Chan ("Jingyan chansi ji" ^ M ^A
+fB, Zhiyuan Jiahe zhi, fasc. 18.1b, in Song Yuan difangzhi congshu
+12). It should also be noted that even after public vinaya monas-
+teries appeared, the term "vinaya monastery" continued to be used
+for hereditary monasteries, so it was necessary to distinguish be-
+tween public and hereditary vinaya monasteries (e.g., Baoqing sim-
+ing zhi, fasc. 11, 6a-11d, in Song Yuan difangzhi congshu 8).
+It is safe to conclude that when a Song text mentions that a
+monastery was changed from Vinaya to Chan, it means that it
+went from being a monastery with a hereditary abbacy to one that
+was public and reserved for members of the Chan lineage. However,
+the granting of a plaque giving a monastery a name that contained
+the word "Chan monastery" (Chansi ^A, or Chanyuan did
+not necessarily mean that the monastery was converted into a pub-
+lic Chan monastery.24 Likewise, a monastery designated as a public
+Chan monastery did not necessarily have the words "Chan monas-
+tery" in its official name.
+Because public monasteries in the early part of the Song were
+exclusively associated with the Chan school at the time, no further
+classification was needed. However, perhaps beginning with Zhili's
+petition in 1010, public monasteries officially reserved for members
+of the Tiantai school came into existence. This eventually led to a
+formal distinction between public Chan monasteries, and public
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 23 ---
+Vinaya Monasteries and Public Abbacies 157
+teaching monasteries that were associated with the Tiantai school
+or the Huayan school that emerged in the eleventh century. A law
+from 1145 (reformulated in 1154) concerning the taxation of monks
+has different rates for monks living in hereditary vinaya and public
+teaching monasteries and those living in public Chan monasteries,
+making it clear that the distinction by this time had become official
+(Song huiyao jigao, fasc. 127.4998a-c; cited in Eichhorn 1968, 35;
+cf. Takao 1975, 66-67, and Gernet 1995, 34-35).25
+However, neither the 1145 or 1154 law nor any earlier source
+mentions public vinaya monasteries. It seems that this category
+only appeared in the thirteenth century, and public vinaya monas-
+teries were never very numerous.26 According to the Japanese foun-
+der of the Soto Zen WM school, Dogen MA (1200-1253), who
+visited China from 1223 to 1227, public vinaya monasteries were as-
+sociated with a lineage claiming descent from the famous Chinese
+vinaya master Daoxuan M^ (596-667).27 The Song Vinaya school
+has not been well studied and it is unclear when it took shape, al-
+though it seems that the monk Yuanzhao AM (1048-1116) was
+instrumental in the early stages of its formation (see Getz in this
+volume). However, it is certain that references to vinaya monas-
+teries in Northern Song sources do not imply the existence a Vinaya
+school at the time.
+Conclusion
+Government policies had a profound impact on the shape and de-
+velopment of Buddhism during the Song, when monastic Bud-
+dhism experienced a tremendous growth. What especially charac-
+terizes the period is the proliferation of monasteries with public
+abbacies and the great success of the Chan school, which became
+the dominant school of monastic Buddhism in the Song and later.
+The rise of Chan can now be understood to a large degree as a result
+of the Song government's policies, or at least as a development that
+could not have taken place without these policies. No doubt the
+Song government had not directly aimed at advancing the Chan
+school. But because Chan from an early point had a special associ-
+ation with the system of public abbacies and the Song government
+saw an advantage in having monasteries become public, Chan mon-
+asteries flourished. Such policies allowed the Chan school to de-
+velop an institutional base and an independent identity that gave
+further validity to its claim as heir to a special transmission going
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 24 ---
+158 Morten Schlutter
+back all the way to the historical Buddha. This assertion probably
+contributed to Chan's popularity among the elite and further helped
+convince the Song government that the proliferation of Chan mon-
+asteries was beneficial to the state. In any case, it seems doubtful
+that Chan could have developed as an independent entity, with its
+distinct literature and carefully constructed history, if it had not
+been for the institution of public monasteries.
+If the flourishing of the Chan school in the Song can only
+be fully understood in the context of the state's promotion of pub-
+lic monasteries, then the study of the Vinaya school can only be
+fruitful if the association of the term "vinaya" with hereditary
+monasteries is understood. The mention of vinaya monasteries in
+sources dating to the Song and earlier has long been taken to mean
+monasteries associated with a Vinaya school, and only T. Griffith
+Foulk (1993) has suspected the fallacy of this assumption. The evi-
+dence, however, clearly shows that the term "vinaya monastery'' in
+Song sources usually refers to hereditary monasteries; only in cases
+where it is made clear that the institution in question was public
+can "vinaya monastery'' be associated with the Vinaya school.
+Notes
+1. The regulations the Song government imposed on the Buddhist church and
+its clergy were also applied to monastic Daoism and were well in line with the rules
+that existed for the rest of Song society. For in-depth discussion of the social control
+exercised by the Song state, see McKnight 1992.
+2. Thus in 778 an official proposed that all monasteries without plaques be de-
+stroyed (Jiu Tang shu fasc. 127.3579; cited in Gernet 1995, 45).
+3. See Nitto guho junrei koki fasc. 4, year 844, 7th moon, 15th
+day (in Bai 1992, 446; cited in Weinstein 1987a, 126; cf. Gernet 1995, 45, 304).
+4. The Latter Zhou occupied from 951 the area of China that stretched from
+Peking in the north to the Yangzi River in the south. It is said that during the repres-
+sion 30,336 monasteries were destroyed and only 2,694 monasteries were spared
+(Chikusa 1982, 84).
+5. According to Hansen (1990, 85), temples for popular gods under the South-
+ern Song were not necessarily considered illegal even if they were not registered.
+Registration was a final measure of accreditation for a cult. It is possible that the sit-
+uation for small Buddhist monasteries was similar.
+6. These monasteries would, however, usually claim to have been established
+during earlier dynasties (Chikusa 1982, 100).
+7. On the other hand, because the orders to dismantle plaque-less monasteries
+were seldom carried out, these smaller monasteries could continue their unofficial
+existence without being subject to government regulations and interference. Such
+unregulated monasteries seem to have become numerous by the end of the Song
+(Chikusa 1982, 103).
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 25 ---
+Vinaya Monasteries and Public Abbacies 159
+8. As in a family descent group, the dharma relatives in the tonsure family had
+inheritance rights to each other's personal property (Classified Legal Articles, fasc.
+51.487a).
+9. The Song system of the abbot as the single head of a monastery did not come
+into existence until, at the earliest, the end of the Tang. In the Tang and probably ear-
+lier, monasteries were governed by the "three supervisors": the dean (shangzuo i j),
+the abbot (sizhu A^)> and the overseer (duweina ^IIS). Among these it seems the
+dean was the most powerful. The abbot system may first have been instituted within
+the Chan school (Xie et al. 1990, 174; Gernet 1995, 8).
+10. See the entry on the Classified Legal Articles by W. Eichhorn (in Hervouet,
+1978, 180-181). The Buddhism and Daoism section of the Classified Legal Articles is
+reproduced and translated into German in Eichhorn 1968.
+11. The proliferation of new monasteries in the Song may have been partly
+driven by the need to create new opportunities for those who were not likely to re-
+ceive an abbacy by default, and many of the new monasteries were probably built as
+branches of existing ones.
+12. A note in the Classified Legal Articles (fasc. 50.476d) seems to indicate that a
+class of hereditary monasteries existed where there was no clear concept of an ex-
+tended tonsure family and where the abbacy primarily was passed from master to
+disciple. Based on this passage Takao (1975, 74 n. 4) argues that a distinction must
+be made between jiayi (succession) monasteries, where each generation had to be
+exhausted before the abbacy could be passed on to the next, and tudi (disciple) mon-
+asteries, where the abbacy passed from master to disciple. I have not found any evi-
+dence for this use of terminology.
+13. This is indicated in a 1332 inscription for a Daoist temple (Liangzhe jinshi
+zhi fasc. 17.9b-10, in Shike shiliao xinbian SMiftfAM, ser. 1.14; cited
+in Takao 1975, 63).
+14. In the Southern Song another class of monasteries became common: pri-
+vate grave monasteries. These were owned by wealthy families and charged with
+looking after the family graves. It must be assumed that the abbots of such monas-
+teries commonly were appointed by the family owning them (Chikusa 1982, 111-43;
+Huang 1989, 241-300).
+15. There are indications that some monasteries had a system of public abba-
+cies in the Five Dynasties period (see below), and throughout Chinese history there
+are reports of monks being appointed directly to monasteries by imperial command.
+Takao (1975, 61) states that public monasteries did exist in the Tang but does not
+elaborate. Foulk (1993) states that public monasteries began in the late Tang and
+were continued on a local level during the Five Dynasties period, but he offers no ev-
+idence. Song sources mention at least two monasteries that are said to have attained
+official public status under the Tang, but both cases can probably be discounted
+(Getz 1994, 134 n. 17, 154 n. 71).
+16. The Pure Rules for Chan Monasteries does not specify the administrative
+level of the officials involved, but it would seem that it must have been prefectural,
+as in the Classified Legal Articles.
+17. Ishikawa Shigeo (1988) maintains that from the beginning of the Song
+there existed a formal category of monasteries whose abbacies were filled only by im-
+perial appointment. This he bases on the Classified Legal Articles (fasc. 50.476b),
+which states that abbacies which in the past had been appointed by imperial order
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms
+
+--- Page 26 ---
+160 Morten Schlutter
+or proclamation can only be filled by first petitioning the central government; all
+others go through the prefectural authorities. However, at many monasteries the
+Song court only occasionally appointed the abbot, indicating that no formal system
+was in place, at least for most of the Song.
+18. Thus the Chan master Zhenjing Kewen HA^A (1025-1102) is reported to
+have complained that in his day people would praise an abbot for not appropriating
+monastic property—as if that were something extraordinary (Chanlin baoxun
+#11, T 48.1021c).
+19. The Songshi (30.10391; cited in Chikusa 1982, 162) tells of an official
+who, when he became prefect of Fujian in 1077, observed that monks were compet-
+ing to become abbots at public monasteries and that bribes were common.
+20. The Yanqing yuan is in other ways an unusual case. It had originally been
+turned over to Zhili and Yiwen by its previous abbots, apparently under the condition
+that it should henceforth be a public monastery devoted to Tiantai teachings (Siming
+Zunzhe jiaoxing lu B^W^^JM, T 46.909a; cited in Getz 1994, 139). It is not clear
+how the previous abbots possessed the power to pass the monastery on to someone
+who was not in their tonsure family or decide it should be a public monastery.
+21. For example, in the Liangzhe jinshi zhi (fasc. 10.50b, in Shike shiliao xinbian,
+ser. 1.14) we find a late-Southern Song stele entitled "Chongjian Jingshan Xingsheng
+wanshou chansi zhiji'' SMff which records that in 1090 the pre-
+fect of Hangzhou changed the monastery at Jingshan into a public institution. There
+is no mention of anyone having petitioned for this.
+22. Foulk (1993, 166) states: "The designation 'Vinaya monastery' in the North-
+ern Sung did not apply to public monasteries and thus does not seem to have had
+anything to do with membership in a Vinaya lineage as such. The term simply refers
+to monasteries regulated by the Vinaya, that is, ordinary Buddhist monasteries where
+no particular precedence was given to Ch'an or T'ien-t'ai monks.'' Foulk, however,
+offers no evidence for this.
+23. As Foulk (1993, 166) points out, this clearly is the meaning of the statement
+that Chan monks originally lived in Vinaya monasteries found in the ''monastic rules''
+attributed to Baizhang Huaihai WA'IS^ (749-814). See the Jingde chuandeng lu
+•ffSM, T 51.251c.
+24. Foulk (1987, 94, n. 6) notes that in the Tang, ''Chan'' in the name of a mon-
+astery did not imply any connection with the Chan school. However, this is also true
+during the Song.
+25. Interestingly, monks in Chan monasteries were taxed less than the others.
+Kenneth Ch'en (1956) suggests, implausibly, that this was because they were thought
+to engage in productive labor and therefore not considered parasites to the degree
+other monks were.
+26. See the chart in Takao 1975 (67), which shows that public Vinaya monas-
+teries made up only a small fraction of the total.
+27. See Dogen's diary from China, the Hokyaki (Kodera 1980, 244, trans-
+lation p. 130). Dogen describes the division of public monasteries into Chan, teach-
+ing, and Vinaya, in addition to the hereditary ''disciple'' monasteries. He exclusively
+associates the teaching monasteries with the Tiantai school.
+This content downloaded from
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)147.8.204.164 on Wed, 28 Jan 2026 03:53:51 UTC(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+All use subject to https://about.jstor.org/terms

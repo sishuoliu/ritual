@@ -1,0 +1,212 @@
+{
+  "4p": {
+    "control": {
+      "win_rates": {
+        "Futian": 13.18,
+        "Bushi": 19.32,
+        "Tudi": 39.28,
+        "Wenhua": 28.22
+      },
+      "score_stats": {
+        "Futian": {
+          "avg": 85.37,
+          "std": 20.45
+        },
+        "Bushi": {
+          "avg": 92.27,
+          "std": 17.35
+        },
+        "Tudi": {
+          "avg": 104.21,
+          "std": 15.22
+        },
+        "Wenhua": {
+          "avg": 92.71,
+          "std": 23.71
+        }
+      },
+      "dice_stats": {}
+    },
+    "experiment": {
+      "win_rates": {
+        "Futian": 12.59,
+        "Bushi": 22.17,
+        "Tudi": 38.19,
+        "Wenhua": 27.05
+      },
+      "score_stats": {
+        "Futian": {
+          "avg": 89.46,
+          "std": 18.99
+        },
+        "Bushi": {
+          "avg": 97.47,
+          "std": 16.64
+        },
+        "Tudi": {
+          "avg": 106.7,
+          "std": 14.4
+        },
+        "Wenhua": {
+          "avg": 96.71,
+          "std": 21.89
+        }
+      },
+      "dice_stats": {
+        "great_fortune": 106378,
+        "small_fortune": 106454,
+        "normal": 107168
+      }
+    }
+  },
+  "5p": {
+    "control": {
+      "win_rates": {
+        "Futian": 12.44,
+        "Bushi": 14.05,
+        "Tudi": 27.92,
+        "Wenhua": 22.62,
+        "Qinlao": 22.97
+      },
+      "score_stats": {
+        "Futian": {
+          "avg": 90.23,
+          "std": 21.3
+        },
+        "Bushi": {
+          "avg": 94.95,
+          "std": 17.9
+        },
+        "Tudi": {
+          "avg": 106.01,
+          "std": 15.83
+        },
+        "Wenhua": {
+          "avg": 95.11,
+          "std": 24.17
+        },
+        "Qinlao": {
+          "avg": 90.11,
+          "std": 31.22
+        }
+      },
+      "dice_stats": {}
+    },
+    "experiment": {
+      "win_rates": {
+        "Futian": 12.63,
+        "Bushi": 15.29,
+        "Tudi": 28.07,
+        "Wenhua": 20.71,
+        "Qinlao": 23.3
+      },
+      "score_stats": {
+        "Futian": {
+          "avg": 94.73,
+          "std": 20.2
+        },
+        "Bushi": {
+          "avg": 99.57,
+          "std": 16.93
+        },
+        "Tudi": {
+          "avg": 108.78,
+          "std": 15.2
+        },
+        "Wenhua": {
+          "avg": 99.07,
+          "std": 22.4
+        },
+        "Qinlao": {
+          "avg": 93.99,
+          "std": 29.3
+        }
+      },
+      "dice_stats": {
+        "normal": 133257,
+        "great_fortune": 133093,
+        "small_fortune": 133650
+      }
+    }
+  },
+  "6p": {
+    "control": {
+      "win_rates": {
+        "Futian": 13.67,
+        "Bushi": 12.5,
+        "Tudi": 22.9,
+        "Wenhua": 19.6,
+        "Qinlao": 20.93,
+        "Duhua": 10.4
+      },
+      "score_stats": {
+        "Futian": {
+          "avg": 102.98,
+          "std": 26.35
+        },
+        "Bushi": {
+          "avg": 105.5,
+          "std": 23.13
+        },
+        "Tudi": {
+          "avg": 116.45,
+          "std": 21.46
+        },
+        "Wenhua": {
+          "avg": 106.73,
+          "std": 28.19
+        },
+        "Qinlao": {
+          "avg": 101.89,
+          "std": 34.82
+        },
+        "Duhua": {
+          "avg": 92.37,
+          "std": 21.76
+        }
+      },
+      "dice_stats": {}
+    },
+    "experiment": {
+      "win_rates": {
+        "Futian": 13.34,
+        "Bushi": 13.67,
+        "Tudi": 23.11,
+        "Wenhua": 18.69,
+        "Qinlao": 20.93,
+        "Duhua": 10.26
+      },
+      "score_stats": {
+        "Futian": {
+          "avg": 106.59,
+          "std": 25.27
+        },
+        "Bushi": {
+          "avg": 110.16,
+          "std": 21.88
+        },
+        "Tudi": {
+          "avg": 118.99,
+          "std": 21.03
+        },
+        "Wenhua": {
+          "avg": 109.91,
+          "std": 26.8
+        },
+        "Qinlao": {
+          "avg": 105.48,
+          "std": 32.81
+        },
+        "Duhua": {
+          "avg": 96.46,
+          "std": 20.83
+        }
+      },
+      "dice_stats": {
+        "small_fortune": 159617,
+        "great_fortune": 160227,
+        "normal": 160156
+      }
+    }
+  }
+}

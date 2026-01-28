@@ -1,0 +1,907 @@
+═══════════════════════════════════════════════════════════════════════════════
+                    "The Economics of Salvation: 
+            Toward a Theory of Exchange in Chinese Buddhism"
+                     Group Presentation Materials
+                   Total Duration: 30 minutes (6 × 5 min)
+               Each speech: ~650-750 words, suitable for 5 min
+═══════════════════════════════════════════════════════════════════════════════
+
+TABLE OF CONTENTS:
+Speaker 1: Introduction and Research Background (Slides 1-5)
+Speaker 2: Merit and the Institution (Slides 6-10)
+Speaker 3: The Experience of Merit (Slides 11-15)
+Speaker 4: Salvation in the Fields (Slides 16-20)
+Speaker 5: The Problem with Giving (Slides 21-25)
+Speaker 6: Commodity, Capital, and Exchange + Conclusion (Slides 26-32)
+
+═══════════════════════════════════════════════════════════════════════════════
+                    【SPEAKER 1】Introduction and Research Background
+                              (Duration: 5 minutes)
+═══════════════════════════════════════════════════════════════════════════════
+
+▌SLIDE 1: Title Page
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Title: The Economics of Salvation: 
+       Toward a Theory of Exchange in Chinese Buddhism
+Author: Michael J. Walsh, Vassar College
+Source: Journal of the American Academy of Religion, Vol.75, No.2, 2007
+Presentation Group: [Group Members' Names]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 2: Research Background and Academic Positioning
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Research Fields: Sociology of Religion × Buddhist Economic History × Institutional Analysis
+• Core Question: How did Buddhism survive in China for 2,500 years?
+• Research Perspective: Re-examining religious practice through "economic exchange"
+• Theoretical Resources:
+  - Anthropology: Marcel Mauss - "The Gift"
+  - Philosophy: Jacques Derrida - Impossibility of the Gift
+  - Economics: Karl Marx - Commodity Theory
+  - Sociology: Pierre Bourdieu - Capital Theory
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 3: Core Case Study — Ayuwang Monastery Stele Inscription
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Historical Background】
+• Time: Late 12th century (Southern Song Dynasty, ~1190s)
+• Location: Ayuwang Monastery, Mingzhou (modern Ningbo, Zhejiang)
+• Author: Lu You (1125-1210) — Famous Song Dynasty poet
+• Event: Chan Master Deguang used imperial and donor gifts to purchase land
+        Annual harvest reached 5,000 bushels
+
+【Key Quote from the Stele】
+"He prayed for the long life of the emperors and empresses.
+ He established blessings for all the world and enabled them to multiply;
+ it was unlimited and eternally peaceful."
+
+[Suggested Image: Photo of Ayuwang Monastery or Map of Ningbo]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 4: Overview of Six Transactions
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        ┌─────────────────────────────────────────────┐
+        │   Six Transactions in the Stele Inscription  │
+        ├─────────────────────────────────────────────┤
+        │ ① Emperors donate calligraphy → monastery   │
+        │   flourishes                                 │
+        │ ② Imperial-monastic relationship established│
+        │ ③ Monks pray for imperial family's longevity│
+        │ ④ Monks "repay the emperor's benevolence"   │
+        │ ⑤ Establishing and multiplying merit        │
+        │ ⑥ Monastery purchases land                  │
+        └─────────────────────────────────────────────┘
+        
+Core Argument: These transactions form the foundation of 
+               "The Economics of Salvation"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 5: Significance and Presentation Structure
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Academic Innovation】
+• Breaks down the "religion vs. economics" dichotomy
+• Reconceptualizes merit as a "commodity" rather than pure spirituality
+• Reveals the material foundation of religious institutional survival
+
+【Contemporary Relevance】
+• Understanding how modern religious organizations operate
+• Re-examining the social function of "selfless giving"
+• Enabling cross-cultural comparative religious economics
+
+【Presentation Structure】
+Speaker 1: Intro → Speaker 2: Institution → Speaker 3: Merit Experience
+→ Speaker 4: Land Salvation → Speaker 5: Gift Problem → Speaker 6: Conclusion
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+【SPEAKER 1 SCRIPT】(~700 words, 5 minutes)
+───────────────────────────────────────────────────────────────────────────
+
+Good morning/afternoon everyone. Today our group will present a fascinating academic article titled "The Economics of Salvation: Toward a Theory of Exchange in Chinese Buddhism." This paper was published in 2007 in the Journal of the American Academy of Religion, authored by Professor Michael Walsh of Vassar College.
+
+Let me begin by introducing the background and significance of this research.
+
+In our everyday understanding, religion and economics seem to belong to two entirely different spheres. Religion concerns the spiritual, the faithful, and the transcendent—it is sacred and non-utilitarian. Economics, on the other hand, deals with interests, exchange, and material things—it is secular and calculative. We rarely connect these two domains. But Professor Walsh poses a subversive question: How did Buddhism manage to survive in China for two and a half millennia?
+
+This question appears simple but is actually quite profound. Any organization—whether a business, a political party, or a religious group—needs to solve the problem of resource acquisition to survive long-term. Buddhist monks do not engage in production, so where do their food, clothing, and shelter come from? The maintenance of monastery buildings, the printing of scriptures, the worship of Buddha statues—all these require substantial resources. Professor Walsh's answer is that Buddhism solved this problem through an elaborate "exchange mechanism," which he calls "the economics of salvation."
+
+What makes this paper particularly distinctive is its synthesis of theoretical resources from multiple disciplines. French anthropologist Marcel Mauss's theory in "The Gift" tells us that gift-giving is not selfless but creates social obligations. French philosopher Jacques Derrida further argues for the impossibility of a "pure gift." German economist Karl Marx's commodity theory helps us understand how value is generated through exchange. And French sociologist Pierre Bourdieu's concept of capital shows us how economic capital transforms into cultural capital and social prestige. This interdisciplinary theoretical synthesis is one of the paper's major strengths.
+
+So how does Professor Walsh develop his argument? He chooses a very clever entry point: a stele inscription from the Southern Song period.
+
+In the late twelfth century, around the 1190s, the famous poet Lu You wrote a stele inscription for Ayuwang Monastery in Zhejiang Province. Ayuwang Monastery is a renowned Buddhist sacred site, said to house a reliquary stupa from the time of King Asoka. The inscription records the following story: In 1131, Emperor Gaozong, while fleeing southward, passed by Ayuwang Monastery and personally inscribed calligraphy as a gift to the monastery, also granting permission for the monastery to purchase land. Fifty years later, Chan Master Deguang finally realized this vision, using donations from the emperor, high officials, and Buddhist patrons to purchase vast tracts of farmland, with annual harvests reaching 5,000 bushels. Lu You writes that Deguang "established blessings for all the world and enabled them to multiply."
+
+Professor Walsh keenly observes that this short stele inscription actually contains six distinct "transactions." First, emperors donate their calligraphy, and in exchange, the monastery and surrounding area flourish. Second, a formal relationship of protection is established between the imperial house and the monastery. Third, monks perform blessing rituals for the imperial family. Fourth, monks commit to "repaying the emperor's benevolence." Fifth, Master Deguang "establishes merit and causes it to multiply." Sixth, the monastery purchases substantial amounts of land.
+
+These seemingly pious religious acts actually constitute a complete economic exchange system. The emperor invests calligraphy, money, and political support; he receives religious legitimacy and blessing rituals. The monastery invests religious services and the bestowal of merit; it receives land, money, and imperial protection. This is what Walsh calls "the economics of salvation"—an economic system for exchanging material resources for spiritual salvation.
+
+The innovation of this research lies in breaking down the dichotomy between religion and economics, redefining "merit"—this seemingly purely spiritual concept—as a kind of "commodity." But please note: this is not meant to denigrate religion or deny the sincerity of religious faith. What Professor Walsh emphasizes is that understanding religion's economic foundation is not about dissolving religion, but about more completely understanding how religion operates as a social phenomenon.
+
+For us today, this research also has contemporary significance. It helps us understand how modern religious organizations—whether Buddhist temples, Christian churches, or other religious groups—operate. It also prompts us to reconsider the social function behind so-called "selfless giving": Why do people donate to religious organizations? What return do they expect?
+
+Next, my colleagues will examine the paper from various angles: "Merit and the Institution," "The Experience of Merit," "Salvation in the Fields," "The Problem with Giving," and "Commodity and Capital." Now let me hand over to the second speaker, who will explain the institutional exchange relationship between imperial power and Buddhism.
+
+【SPEAKER 1 DISCUSSION QUESTION】
+───────────────────────────────────────────────────────────────────────────
+💬 Open Discussion Question:
+
+"If we accept Walsh's view that merit is a kind of 'commodity,' does this mean that all religious behavior is essentially 'transactional'? Does this analytical perspective oversimplify the genuine spiritual pursuits within religious faith? In other words, can an economic perspective explain everything about religion? Or are there dimensions of religion that economics simply cannot capture?"
+
+【Question Design Notes】
+This question addresses the core methodological tension: economic reductionism vs. religious authenticity. It asks the audience to consider the limits of analytical tools while also suggesting that the speaker understands the subtle difference between "explanation" and "explaining away."
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                    【SPEAKER 2】Merit and the Institution
+                              (Duration: 5 minutes)
+═══════════════════════════════════════════════════════════════════════════════
+
+▌SLIDE 6: Chapter Title
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        ╔═══════════════════════════════════════╗
+        ║   Part Two: Merit and the Institution ║
+        ╠═══════════════════════════════════════╣
+        ║   Core Issue: The reciprocal          ║
+        ║   relationship between imperial       ║
+        ║   power and Buddhism                  ║
+        ║   Transactions: ①②③④                 ║
+        ╚═══════════════════════════════════════╝
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 7: Historical Interaction Between Imperial Power and Buddhism
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Historical Timeline】
+• 2nd century: Buddhism enters China, seeks imperial recognition
+• Sui Dynasty (581-618): Buddhist institutions frequently visit court
+• Tang Dynasty (618-907): Sangha takes root in urban and rural settings
+• Song Dynasty (960-1276): Imperial-monastic relations institutionalized
+
+【Why Would Emperors Support Monasteries?】
+  ┌─────────────────────────────────────────┐
+  │ • Gain political support from powerful  │
+  │   monasteries                           │
+  │ • Need monks for rituals (for deceased, │
+  │   soldiers)                             │
+  │ • Attracted to Buddhist philosophy and  │
+  │   salvation                             │
+  │ • Use "Dharma King" identity to         │
+  │   consolidate legitimacy                │
+  └─────────────────────────────────────────┘
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 8: Bidirectional Exchange Relationship
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+         【Imperial Court】              【Monastery】
+              │                              │
+              │  Calligraphy, Land, Money    │
+              ├─────────────────────────────→│
+              │                              │
+              │  Rituals, Spiritual          │
+              │  Legitimacy                  │
+              │←─────────────────────────────┤
+              │  Protecting Empire,          │
+              │  Repaying Benevolence        │
+              │                              │
+         
+【Key Concept: Patronage】
+• From farmers donating harvests to emperors granting land
+• Affected all levels of Chinese society
+• Song Dynasty Baoqing Gazetteer: 90 Buddhist monasteries in Yin county alone
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 9: The Sacred Power of Writing
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Symbolic Meaning of Imperial Calligraphy】
+• Chinese cultural tradition: Writing possesses "magical power" 
+  (Kieschnick 2003)
+• Imperial inscription = Authority recognition + Sacred blessing
+• Literati writing stele inscriptions = Elevated monastery prestige
+
+【Returns on Exchange】
+In exchange, patrons/emperors would receive:
+  ✓ Hospitality with tea and scenic views
+  ✓ Aesthetic experience for relaxation
+  ✓ Enhancement of their own prestige ("to bestow was to receive")
+  ✓ Merit — the reward of karmic investment
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 10: The Monastery as "Site of Exchange"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Core Argument】
+"A Buddhist monastery was a site of exchange where Buddhist monks 
+and nuns, as institutionalized bodies, made institutional decisions, 
+delineated corporate models of distinction, and embarked upon 
+conspicuous consumption, all in order to perpetuate the dharma 
+and ensure the survival of the sangha."
+
+【Logic of Institutionalization】
+• Monks preserving monasteries ≈ Clans continuing bloodlines
+• Monasteries = Source of community pride
+• Local elites rebuilt monasteries out of civic duty
+
+【Insight】
+Religious institutions survive not just on faith, but on 
+institutionalized networks of exchange
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+【SPEAKER 2 SCRIPT】(~700 words, 5 minutes)
+───────────────────────────────────────────────────────────────────────────
+
+Thank you to the first speaker for that excellent introduction. I will now explain the first substantive section of the paper—"Merit and the Institution." This section primarily discusses the first four transactions from the stele inscription. The core question is: What kind of reciprocal relationship was formed between imperial power and Buddhism?
+
+First, let me review the historical timeline. Buddhism entered China from India around the first century CE. As a foreign religion, Buddhism faced a survival problem from the very beginning: How could it establish itself in a society with deep Confucian and Daoist traditions? Early Buddhist missionaries quickly realized that gaining imperial recognition was crucial. From that point on, a two-thousand-year interaction began between Buddhism and imperial power.
+
+This interaction took different forms in different dynasties. During the Sui dynasty, Buddhist institutions frequently visited the imperial court, and Emperor Wen strongly supported Buddhism. By the Tang dynasty, the sangha had taken root in both cities and villages, becoming an indispensable part of Chinese society. By the Song dynasty, relations between the imperial house and monasteries had become highly institutionalized. Professor Walsh chose the Song period as his research focus precisely because this was when Chinese Buddhist institutions were most mature and documentation most abundant.
+
+So a key question is: Why would emperors support monasteries? From a rational calculation perspective, there were several possible reasons.
+
+First, political considerations. Large monasteries often wielded extensive social influence, particularly in southern regions. During the Southern Song, the emperor had fled to Hangzhou and urgently needed support from southern local powers, and major Buddhist monasteries were important local power centers. Second, ritual needs. The empire needed monks to perform various rituals, such as delivering souls of deceased imperial family members or praying for soldiers killed in battle. These rituals served important political and psychological functions in that society. Third, personal faith. Some emperors may genuinely have been attracted to Buddhist philosophy and salvation teachings. Fourth, and most importantly, emperors could use the identity of "Dharma King"—a king who protects the Buddhist teachings—to consolidate the legitimacy of their rule. In Buddhist discourse, a monarch who protects the Dharma possesses a kind of sacredness.
+
+Of course, this was a bidirectional exchange relationship. The imperial house provided monasteries with calligraphy, land, and money; in return, monasteries provided the imperial family with blessing rituals and spiritual legitimacy. The four characters "repay the emperor's benevolence" in the stele inscription precisely summarize this obligatory relationship. Lu You even warns the monks at the end of his inscription: If you don't practice diligently and repay the imperial benevolence, "you eat without plowing, making yourselves fat and jolly, while commoners must support themselves. Would this not be a shameful existence?" This is a stern warning, indicating that this exchange relationship carried mandatory social expectations.
+
+The paper makes a very interesting point about the emperor's calligraphy having special symbolic significance. In Chinese cultural tradition, writing itself was believed to possess a kind of "magical power." Scholar John Kieschnick specifically discusses this in his research. When an emperor personally inscribed calligraphy and bestowed it upon a monastery, this was not merely authoritative recognition but carried a kind of sacred blessing. Similarly, having a famous literatus like Lu You write a stele inscription could greatly enhance a monastery's prestige. This is why monasteries actively invited literary figures to visit, compose poems, and write essays.
+
+So what did patrons or emperors receive in exchange? The paper mentions several returns: They received hospitality with tea and scenic views, an aesthetic experience for relaxation—precious respite from busy government affairs. More importantly, they received enhancement of their own prestige. Here Professor Walsh uses a brilliant phrase: "to bestow was to receive." When you donate to a respected religious institution, your own social status also rises. Of course, the core return was merit—the reward of karmic investment.
+
+Finally, Professor Walsh arrives at his core argument: A Buddhist monastery was essentially "a site of exchange." He uses terminology from economics and sociology to describe monasteries: monks and nuns as "institutionalized bodies" making "institutional decisions," delineating "corporate models of distinction," and even engaging in "conspicuous consumption"—a term originally used to describe consumption behavior in capitalist society, but which Walsh boldly applies to medieval Buddhist monasteries. All these behaviors aimed to perpetuate the Dharma and ensure the sangha's survival.
+
+The insight I draw from this is: Religious institutions' long-term survival depends not just on pure faith, but on institutionalized exchange networks. Monks preserving monasteries, like clans continuing bloodlines, is an institutional behavior that transcends individual lifespans.
+
+Now let me hand over to the third speaker, who will explain "The Experience of Merit"—how merit was understood, produced, and accumulated.
+
+【SPEAKER 2 DISCUSSION QUESTION】
+───────────────────────────────────────────────────────────────────────────
+💬 Open Discussion Question:
+
+"The paper argues that emperors supported Buddhist monasteries to gain political support and spiritual legitimacy. But Chinese history also witnessed multiple Buddhist persecution campaigns, such as the famous 'Three Wus and One Zong' suppressions. Doesn't this suggest that the relationship between imperial power and Buddhism was not simply 'mutually beneficial,' but contained fundamental tensions? If such tensions existed, why did Buddhism ultimately survive and revive after each suppression?"
+
+【Question Design Notes】
+This question introduces the "Buddhist persecution campaigns" as a counterexample not discussed in detail in the paper, requiring the audience to consider the complexity of imperial-Buddhist relations. It shows that the speaker has broader knowledge of Chinese Buddhist history and can critically examine the paper's argumentative boundaries.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                    【SPEAKER 3】The Experience of Merit
+                              (Duration: 5 minutes)
+═══════════════════════════════════════════════════════════════════════════════
+
+▌SLIDE 11: Chapter Title
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        ╔═══════════════════════════════════════╗
+        ║   Part Three: The Experience of Merit ║
+        ╠═══════════════════════════════════════╣
+        ║   Core Issue: How is merit produced   ║
+        ║   and accumulated?                    ║
+        ║   Transaction: ⑤                      ║
+        ╚═══════════════════════════════════════╝
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 12: What is "Field of Merit" (Futian)?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Futian (福田): Field of Merit】
+
+        🌱 ─────────────────────────────→ 🌾
+        Sowing                           Harvesting
+        (Donating to Sangha)             (Receiving Merit)
+
+"Any donation to the Buddhist sangha is like planting a seed 
+ in the 'great field of merit'—it will grow and provide the 
+ donor with more than they originally donated."
+                                    — Tambiah 1976
+
+【Significance of Agricultural Metaphor】
+• "Cultivating," "planting," "sowing good karma," "reaping benefits"
+• Easily understood and accepted in agrarian cultural context
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 13: Karma vs. Merit
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        ┌─────────────────┬─────────────────┐
+        │      Karma      │      Merit      │
+        ├─────────────────┼─────────────────┤
+        │ Result of one's │ Can be obtained │
+        │ own actions     │ with third-party│
+        │                 │ help            │
+        │ Requires good   │ Requires proper │
+        │ intention       │ action          │
+        │ Personal        │ Social/         │
+        │                 │ exchangeable    │
+        │ Internal        │ Transferable/   │
+        │ accumulation    │ Dedicate-able   │
+        └─────────────────┴─────────────────┘
+
+【Merit Transfer】
+• Dedicate merit to deceased relatives — improve their afterlife
+• "Spiritual bank account" — can make payments to others
+• Paradox: Transferring merit actually increases original merit
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 14: Seven Ways to Earn Merit
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Seven Merit-Making Methods from the Buddhist Canon】
+
+        ┌──────────────────────────────────┐
+        │ ① Help build temples or pagodas  │
+        │ ② Plant trees                    │
+        │ ③ Give medicine to the ill       │
+        │ ④ Build sturdy boats             │
+        │ ⑤ Repair bridges                 │
+        │ ⑥ Build irrigation canals        │
+        │ ⑦ Build public toilets           │
+        └──────────────────────────────────┘
+
+【Common Feature】
+• Each action provides tangible benefit to others
+• Merit = Reward for good deeds = "Concrete blessings—long life 
+  and wealth" (Teiser)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 15: Merit as "Practical Religiosity"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Key Concepts】
+• Practical Religiosity — Reader & Tanabe
+• Buddhist-inspired Option — ter Haar
+
+【Donors' Practical Needs】
+  ┌─────────────────────────────────────────┐
+  │  Daily problems: illness, financial     │
+  │  difficulties, poor harvest             │
+  │  Ultimate concerns: death and afterlife │
+  │                 ↓                        │
+  │       Resolved through accumulating     │
+  │       merit                             │
+  └─────────────────────────────────────────┘
+
+【Key Quote】
+"The experience of merit and merit-making was a material exchange 
+process, and at the heart of this exchange process was the practice 
+of seeking, attaining, and accumulating this-worldly benefits."
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+【SPEAKER 3 SCRIPT】(~700 words, 5 minutes)
+───────────────────────────────────────────────────────────────────────────
+
+Thank you to the previous speakers for setting the stage. Now let me explain the third section of the paper—"The Experience of Merit." This section primarily discusses the fifth transaction, namely how Chan Master Deguang "established merit and enabled it to multiply." In this section, we will explore what merit actually is, and how it was understood, produced, and accumulated.
+
+First, I want to introduce a core concept: "field of merit," or futian in Chinese. This term appears frequently in Chinese Buddhist literature. The Sanskrit original means "field of merit," which translates directly in English as "field of merit." This is an ingeniously crafted agricultural metaphor.
+
+Imagine this: when you donate to the Buddhist sangha, it's like sowing seeds in a fertile field. The seeds will grow, sprout, flower, and bear fruit, ultimately providing you with returns far exceeding your initial investment. As anthropologist Stanley Tambiah puts it: "Any donation to the Buddhist sangha is like planting a seed in the 'great field of merit'—it will grow and provide the donor with more than they originally donated."
+
+Why did Buddhists choose agricultural metaphors to explain merit? This is closely related to China's cultural context. China has been an agrarian society since ancient times, and terms like "cultivating," "planting," "sowing," and "harvesting" are familiar to everyone. Using these terms to explain abstract religious concepts made them understandable and acceptable even to ordinary farmers. Professor Walsh points out that Buddhists clearly knew who their target audience was when choosing their communication strategies. This was a very clever localization strategy.
+
+Next, I want to distinguish between two frequently confused concepts: karma and merit. Both are very important in Buddhism, but they have essential differences.
+
+Karma, in Sanskrit, refers to the results of one's own actions. If you do good deeds, you accumulate good karma; if you do evil deeds, you accumulate bad karma. Karma emphasizes personal good intentions and internal motivation—it is a personal, internal accumulation.
+
+But merit is different. Merit can be obtained with the help of third parties—such as monks. It emphasizes not just good intentions but, more importantly, proper action. And most crucially, merit is transferable.
+
+This point is very important and is one of the most distinctive practices in Chinese Buddhism. One scholar used a very vivid metaphor: merit is like a "spiritual bank account" from which you can make payments to others. For example, you can "dedicate" the merit you've accumulated to deceased relatives, helping them obtain better circumstances in their next life. This practice is very popular in Chinese ancestral worship culture—many people attend Buddhist ceremonies and donate to temples specifically to accumulate merit for their deceased parents or ancestors.
+
+Even more interesting is a seemingly paradoxical point: transferring merit not only doesn't reduce your own merit, but actually increases it. It's like one candle lighting another candle without diminishing its own flame. This concept is explicitly recorded in Pali Buddhist scriptures and was further developed in Chinese Buddhism.
+
+So how can ordinary people earn merit? The Buddhist Canon records seven methods: help build temples or pagodas, plant trees, give medicine to the ill, build sturdy boats, repair bridges, build irrigation canals, and build public toilets.
+
+Looking carefully at these seven methods, you'll notice they share a common feature: each action provides tangible benefit to others. This shows that merit is not some ethereal abstract concept, but is closely connected to concrete good deeds. Scholar Stephen Teiser points out in his research that merit brings "concrete blessings—long life and wealth." This is not a promise for the afterlife, but benefits in this life.
+
+Professor Walsh draws on several scholars' concepts to summarize this point. Japanese scholars Reader and Tanabe call this "practical religiosity," meaning that religion is not just metaphysical contemplation but a means of solving practical problems. Dutch scholar Barend ter Haar calls it a "Buddhist-inspired option," meaning Buddhism provides ordinary people with a path to obtaining salvific value.
+
+Whatever we call it, the core meaning is the same: for ordinary donors, accumulating merit was a very pragmatic strategy. They faced various daily problems—illness, financial difficulties, poor harvests—as well as ultimate concerns—death and the afterlife. Merit provided a path to solving these problems. This is why Lu You's stele inscription says Master Deguang was able to "establish merit and enable it to multiply"—merit can be produced, accumulated, and increased, just like grain.
+
+As the paper states: "The experience of merit and merit-making was a material exchange process, and at the heart of this exchange process was the practice of seeking, attaining, and accumulating this-worldly benefits." This sentence precisely captures the core argument of this section: merit is not a purely spiritual concept, but a material entity that can be exchanged.
+
+Now let me hand over to the fourth speaker, who will explain "Salvation in the Fields"—how land donations became the core medium of merit exchange.
+
+【SPEAKER 3 DISCUSSION QUESTION】
+───────────────────────────────────────────────────────────────────────────
+💬 Open Discussion Question:
+
+"Merit can be 'transferred' or 'dedicated' to others—this is a very unique concept. But does this mean that a person can obtain salvation through others' good deeds, without needing to practice themselves? Doesn't this contradict Buddhism's core teaching of 'self-liberation'—that each person must achieve liberation through their own efforts? Is this 'merit economy' in some sense a secularized transformation of original Buddhist doctrine?"
+
+【Question Design Notes】
+This question touches on the tension between merit transfer and Buddhism's teaching of "self-liberation," showing that the speaker has some understanding of Buddhist intellectual history and can connect the paper's analysis to broader doctrinal issues.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                    【SPEAKER 4】Salvation in the Fields
+                              (Duration: 5 minutes)
+═══════════════════════════════════════════════════════════════════════════════
+
+▌SLIDE 16: Chapter Title
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        ╔═══════════════════════════════════════╗
+        ║   Part Four: Salvation in the Fields  ║
+        ╠═══════════════════════════════════════╣
+        ║   Core Issue: How did land become the ║
+        ║   core medium of merit exchange?      ║
+        ║   Transaction: ⑥                      ║
+        ╚═══════════════════════════════════════╝
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 17: History and Logic of Land Donations
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Historical Background】
+• From the 5th century CE, land donations became an important 
+  form of "good deeds"
+• Ways monasteries acquired land:
+  - Imperial gifts or grants
+  - Donor donations (primary source)
+  - Purchases
+  - Mortgages
+  - Illegal occupation (paper acknowledges)
+
+【Exchange Logic】
+        Land/Harvest ───────────────→ Monastery
+             ↑                           │
+             │        Merit              │
+             └───────────────────────────┘
+             
+"Donating land was the most enduring institutional act 
+ a donor could make"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 18: The Buddhist Paradox
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        ╭─────────────────────────────────────────╮
+        │      "The Wonderful Irony of Buddhism"   │
+        │                                         │
+        │   "In renouncing wealth through a       │
+        │   series of metaphysical positions,     │
+        │   one result was the accumulation       │
+        │   of material wealth in abundance."     │
+        ╰─────────────────────────────────────────╯
+
+【How Was This Justified?】
+• Monasteries rarely spoke directly of "wealth accumulation"
+• Focus of argument: Land donations were for "feeding monks"
+• Connecting land and merit:
+  "Crops coming out of the ground were actually derivative of 
+   past moral actions, and... future availability of food could 
+   be secured only by exchanging a portion of this food for 
+   Buddhist merit" — Cole 1998
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 19: Zongmi's Doctrine of "Planting Merit"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Tang Dynasty Monk Zongmi (780-841) Explains】
+
+"It is like worldly people who want to obtain a granary so 
+ abundantly stocked with the five grains that they are never 
+ in want. They must gather the seeds from grain, use an ox 
+ and plow to till the fields, and plant the seeds...
+ This is called 'planting merit.'
+ If they do not plant merit, they will be poor;
+ lacking merit and wisdom, they will enter the dangerous 
+ path of birth-and-death."
+
+【Agricultural Interpretation of "Field of Merit"】
+• No sowing → No cultivation → No harvest
+• Field can be fertile or barren → Donor must choose the right "field"
+• "Donate to monastery = Sow good seeds, perform good deeds, 
+   earn merit, protect family"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 20: Unifying Land and Pure Land
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Song Literatus Ma Tingluan (1223-1289) Writes】
+
+"If your heart is purified so too will Amitabha Buddha's land 
+ be pure. This is the teaching of the Pure Land.
+ When I have not done any bad deeds I receive unlimited good 
+ karma—this is the teaching of 'field of merits.'"
+
+【Fusion of "Field of Merit" and "Pure Land"】
+  Cultivating Mind      ←──────→     Donating Land
+  (Internal)                         (External)
+        ↓                                 ↓
+     Pure Mind                        Pure Land
+        ↓                                 ↓
+        └──────────→ Pure Land ←──────────┘
+
+【Ma Tingluan's Key Point】
+"Among all the donations given to the monastery the most important 
+ has been land"
+"Who, over a period of a thousand years, can take care of their 
+ land without destroying or ruining it? The Buddhist family, the 
+ monks, the Buddhist monasteries can do this"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+【SPEAKER 4 SCRIPT】(~700 words, 5 minutes)
+───────────────────────────────────────────────────────────────────────────
+
+Thank you to the third speaker for that excellent explanation of "The Experience of Merit." Now I will introduce the fourth section of the paper—"Salvation in the Fields." This section focuses on the sixth transaction from the stele inscription: the monastery purchasing land. This is the most material element of the entire "economics of salvation."
+
+From the fifth century CE onward, land donations became an important form of "good deeds" in Chinese Buddhism. French sinologist Jacques Gernet, in his classic study, detailed the economic history of Chinese Buddhist monasteries and found that monasteries acquired land in many ways. First, through imperial gifts or grants, as in the Ayuwang Monastery example. Second, through donor donations—this was the primary source. Third, through purchases, where monasteries used accumulated funds to buy land. Fourth, through mortgages, where people mortgaged their land to monasteries for loans and eventually couldn't redeem it. Fifth, Professor Walsh also acknowledges, monasteries sometimes illegally occupied ownerless land.
+
+Regardless of how it was obtained, land was a monastery's most important asset. A simple but key exchange logic operates here: donors gave land or harvests to monasteries, and in return, monasteries awarded donors merit. Professor Walsh points out that donating land was "the most enduring institutional act a donor could make"—because land can be passed down through generations, its benefits are permanent, far more lasting and reliable than a one-time monetary donation.
+
+But here lies what I call "the wonderful irony of Buddhism." One of Buddhism's core teachings is relinquishing attachment and transcending material desire. Monks leave their families, renounce property, and live simple lives. Yet through the merit exchange mechanism, Buddhist monasteries instead accumulated vast material wealth, becoming some of the largest landowners in Chinese history. How can this be explained?
+
+The paper points out that monasteries rarely directly addressed the sensitive topic of "wealth accumulation." Their argument focused instead on this: land donations were for "feeding monks." Monks don't engage in production and need lay support; land produces grain, grain supports monks, monks pray for believers—a perfect circular argument. Scholar Alan Cole uses a very clever formulation to describe this argumentative strategy: Buddhists convinced farmers that crops growing from the ground were actually derived from past moral actions, and that future food supplies could only be secured by exchanging some of this food for merit. In other words, if you want a good harvest next year, you must donate grain to the monastery this year. Merit—this "invisible and rather magical product"—was the Buddhists' specialty.
+
+Tang dynasty monk Zongmi provides a brilliant interpretation. He says: "It is like worldly people who want to obtain a granary so abundantly stocked with the five grains that they are never in want. They must gather the seeds from grain, use an ox and plow to till the fields, and plant the seeds...This is called 'planting merit.' If they do not plant merit, they will be poor; lacking merit and wisdom, they will enter the dangerous path of birth-and-death."
+
+This passage completely agriculturalizes the abstract concept of merit. It uses things ordinary farmers do every day—selecting seeds, plowing fields, sowing seeds—to explain the logic of merit. If you don't sow, you can't cultivate; if you don't cultivate, you have no harvest. Fields can be fertile or barren—this depends on whether you choose the right "field of merit" to sow in. And what is the right "field of merit"? Of course, Buddhist monasteries. So the conclusion is: donate to monasteries, sow good seeds, perform good deeds, earn merit, protect your family, and ensure a good harvest next year.
+
+By the Song dynasty, literatus Ma Tingluan further developed this thinking, and a very interesting conceptual fusion occurred. He writes: "If your heart is purified so too will Amitabha Buddha's land be pure. This is the teaching of the Pure Land." Here, "field of merit" (futian, the merit field, real farmland) and "Pure Land" (Amitabha Buddha's Western Paradise) are unified. Cultivating the mind is internal work; donating land is external action, but both ultimately lead to the same goal—the Pure Land. The more land you donate, the purer your mind becomes; the purer your mind, the closer you are to the Pure Land. This is a very ingenious religious argument.
+
+Ma Tingluan also makes a very practical point. He says: "Among all donations given to the monastery the most important has been land." Why is land most important? Because land is a permanent asset. He continues: "Who, over a period of a thousand years, can take care of their land without destroying or ruining it? The Buddhist family, the monks, the Buddhist monasteries can do this." What does this mean? Ordinary families divide property within three generations and decline within five; no one can guarantee their land will remain unchanged for a thousand years. But monasteries are different—monasteries are institutions that transcend individual lifespans and can continue forever. So if you want your merit to last forever, you should donate your land to a monastery, not leave it to your descendants.
+
+This section shows us how Buddhism combined abstract salvific ideas with concrete land economics to form a powerful argumentative system. This system has both religious sacredness and economic practicality—no wonder it could persist for a millennium.
+
+Now let me hand over to the fifth speaker, who will explain "The Problem with Giving"—analyzing the distinction between gift and commodity at a theoretical level.
+
+【SPEAKER 4 DISCUSSION QUESTION】
+───────────────────────────────────────────────────────────────────────────
+💬 Open Discussion Question:
+
+"The paper shows how Buddhist monasteries justified their land accumulation through 'merit discourse.' But in Chinese history, the expansion of monastic landholdings repeatedly triggered social conflicts—monastery land was tax-exempt, occupied substantial labor, and reduced state revenue. This was an important trigger for various Buddhist persecution campaigns. From today's perspective, how should we evaluate this 'land-for-merit' exchange? Was it a reasonable survival strategy for religious organizations, or a form of economic exploitation in the name of faith?"
+
+【Question Design Notes】
+This question introduces a moral evaluation dimension, requiring the audience to consider the relationship between academic analysis and value judgment. It shows the speaker can go beyond purely descriptive analysis to think about the ethical implications of historical phenomena.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                    【SPEAKER 5】The Problem with Giving
+                              (Duration: 5 minutes)
+═══════════════════════════════════════════════════════════════════════════════
+
+▌SLIDE 21: Chapter Title
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        ╔═══════════════════════════════════════╗
+        ║   Part Five: The Problem with Giving  ║
+        ╠═══════════════════════════════════════╣
+        ║   Core Issue: Is land donation a      ║
+        ║   "gift" or an "exchange"?            ║
+        ║   Theoretical Resources: Mauss,       ║
+        ║   Derrida                             ║
+        ╚═══════════════════════════════════════╝
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 22: Mauss's "Gift" Theory
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Marcel Mauss (1872-1950)】
+"The Gift: Forms and Functions of Exchange in Archaic Societies" (1925)
+
+【Core Arguments】
+• Gift-giving is not "selfless" — it creates social obligations
+• Three obligations: to give, to receive, to reciprocate
+• Behind gift exchange: competition, rivalry, ostentation
+
+【Key Quote】
+"To make a gift of something to someone is to make a present 
+ of some part of oneself"
+
+    Give ──→ Receive ──→ Debt Created ──→ Must Reciprocate
+      │                                        │
+      └────────── Power Relations Established ─┘
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 23: Derrida's "Impossibility of the Gift"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Jacques Derrida (1930-2004)】
+"Given Time: I. Counterfeit Money" (1992)
+
+【Core Argument】
+• If a gift requires reciprocation, it is no longer a gift
+• A true gift must "not appear," must not be recognized as a gift
+• This is logically impossible
+
+【Derrida's Progression】
+    Gift Appears → Acceptance Occurs → Gift is Annulled
+        
+"If it [the gift] presents itself, it no longer presents itself."
+
+【Dialogue with Mauss】
+• Mauss: Gifts are really exchanges
+• Derrida: Pure gifts cannot exist
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 24: "Double Negation" in Buddhist Context
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Tambiah's "Double Negation of Reciprocity"】
+
+  ┌────────────────────────────────────────────────┐
+  │  Monks supposedly do not "give" anything       │
+  │              +                                 │
+  │  Donors supposedly give without expecting      │
+  │  return                                        │
+  │              =                                 │
+  │  Merit "somehow" is generated and bestowed     │
+  └────────────────────────────────────────────────┘
+
+【But Walsh Points Out】
+• This "pure" exchange process never truly existed
+• Both parties clearly understood the meaning of land donation 
+  and merit bestowal
+• Level of Representation (discourse) ≠ Level of Practice (action)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 25: From "Gift" to "Exchange"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Walsh's Core Argument】
+
+        ╭──────────────────────────────────────────╮
+        │  Land was never "given" to Ayuwang       │
+        │  Monastery: Land was "exchanged" at      │
+        │  Ayuwang Monastery for merit             │
+        ╰──────────────────────────────────────────╯
+
+【Gift vs. Commodity】
+  • Gift: In principle, no profit motive
+  • Commodity: Transaction with awareness of profit and loss
+  
+【Conclusion】
+• Merit is a commodity, not a gift
+• Merit was never freely bestowed without expected return
+• When "giving" land, some return was expected — this is not a gift
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+【SPEAKER 5 SCRIPT】(~700 words, 5 minutes)
+───────────────────────────────────────────────────────────────────────────
+
+Thank you to the fourth speaker. I will now explain the fifth section of the paper—"The Problem with Giving." This is the theoretical core of the entire analysis. Professor Walsh uses theories from Mauss and Derrida to ask a fundamental question: Is land donation a "gift" or an "exchange"? This question may seem simple, but it touches on our fundamental understanding of the nature of religious behavior.
+
+First, let me introduce French anthropologist Marcel Mauss. Mauss was Durkheim's nephew and academic successor. His 1925 book, "The Gift: Forms and Functions of Exchange in Archaic Societies," remains a classic of social science, still widely cited today.
+
+Mauss studied gift exchange phenomena around the world—from the "potlatch" of North American indigenous peoples to the "kula ring" of Pacific islands—and reached a subversive conclusion: gift-giving is not "selfless" but creates social obligations.
+
+Mauss argued that gift exchange involves three compulsory obligations: the obligation to give, the obligation to receive, and the obligation to reciprocate. When I give you a gift, you must accept it—refusing a gift is a social offense, meaning you refuse to establish a relationship with me. And once you accept the gift, you owe me a debt—you must reciprocate at an appropriate time. So Mauss says, "to make a gift of something to someone is to make a present of some part of oneself"—the gift carries part of the giver's spirit, and the recipient must reciprocate, or this spirit will cause trouble.
+
+Behind gift exchange lies competition, rivalry, and ostentation—it's a power game. Whoever gives more occupies the moral and social high ground. This is why in many cultures, people hold "potlatches"—competitions to see who can give away or even destroy more wealth, thereby establishing their social status.
+
+Next is French philosopher Jacques Derrida. Derrida was a representative figure of deconstruction. In his 1992 book "Given Time," he pushes Mauss's analysis to a more radical logical conclusion.
+
+Derrida poses a sharp question: If a gift requires reciprocation, is it still a true gift? He argues that a true gift must be completely selfless—expecting no return, not even gratitude. But the problem is, once a gift is given, accepted, and recognized as a gift, it automatically activates the obligation to reciprocate. So Derrida concludes: A true gift must "not appear," must not be recognized as a gift—but this is logically impossible. Therefore, pure gifts do not exist.
+
+Derrida uses a very elegant formulation: "If it [the gift] presents itself, it no longer presents itself"—the gift, upon appearing, annuls itself.
+
+These two thinkers provide Walsh with a theoretical framework for analyzing Buddhist donations. In the Buddhist context, there exists what scholar Tambiah calls "the double negation of reciprocity." On the surface, monks supposedly don't "give" anything—they just accept offerings and then focus on practice; donors supposedly give without expecting return—they act out of piety and compassion. Then, merit "somehow" is magically generated and bestowed.
+
+But Walsh points out that this seemingly "pure" exchange process never truly existed. In reality, both parties clearly understood the meaning of land donation and merit bestowal. Donors knew they could obtain merit, improve their afterlife, help deceased relatives; monks knew they needed these donations to maintain the monastery's operations. There was a huge gap between the level of representation—what people said—and the level of practice—what people did.
+
+Based on these analyses, Walsh arrives at his core argument. Note this formulation: "Land was never 'given' to Ayuwang Monastery—land was 'exchanged' at Ayuwang Monastery for merit." This is not wordplay, but a fundamental conceptual shift.
+
+What is a gift? A gift, in principle, has no profit motive. What is a commodity? A commodity is an object of transaction with awareness of profit and loss. In merit exchange, both parties had clear "profit" awareness: donors expected merit, monasteries obtained land. This fully conforms to the definition of commodity exchange.
+
+Therefore, Walsh's conclusion is: Merit is a commodity, not a gift. Merit was never freely bestowed without expected return. When donors "gave" land, they expected some return—longevity, blessings in the afterlife, family well-being. Since an expected return exists, this is not a gift, but an exchange.
+
+The significance of this analysis is that it helps us penetrate the surface of religious discourse to see the socioeconomic logic behind it.
+
+Now let me hand over to the sixth speaker, who will use Marx and Bourdieu to further analyze how merit operates as "commodity" and "capital," and will provide our concluding summary.
+
+【SPEAKER 5 DISCUSSION QUESTION】
+───────────────────────────────────────────────────────────────────────────
+💬 Open Discussion Question:
+
+"Derrida argues that 'a pure gift is impossible'—any gift implicitly expects reciprocation. But in daily life, we often do help others selflessly, even donate anonymously. Are these behaviors also just 'disguised exchanges'? If we accept Derrida's argument, does it lead to a kind of moral nihilism—since there's no true 'selflessness,' all moral behavior is just self-interested disguise? Or perhaps we need to distinguish between 'motives that are selfless' and 'structures that are exchange'?"
+
+【Question Design Notes】
+This question extends theoretical analysis to everyday moral life, requiring the audience to think about the relationship between academic theory and ethical practice. It shows the speaker can connect abstract philosophical arguments to concrete life experiences and is aware of the potential ethical consequences of the theory.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+               【SPEAKER 6】Commodity, Capital, and Exchange + Conclusion
+                              (Duration: 5 minutes)
+═══════════════════════════════════════════════════════════════════════════════
+
+▌SLIDE 26: Chapter Title
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        ╔═══════════════════════════════════════╗
+        ║   Part Six: Commodity, Capital, and   ║
+        ║   Exchange + Conclusion               ║
+        ╠═══════════════════════════════════════╣
+        ║   Core Issue: How does merit operate  ║
+        ║   as "commodity" and "capital"?       ║
+        ║   Theoretical Resources: Marx,        ║
+        ║   Bourdieu                            ║
+        ╚═══════════════════════════════════════╝
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 27: Marx's Commodity Theory
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Karl Marx (1818-1883)】
+"Capital" (1867)
+
+【Dual Nature of Commodity】
+  ┌─────────────────┬─────────────────┐
+  │   Use-value     │  Exchange-value │
+  ├─────────────────┼─────────────────┤
+  │ Variable in     │ Variable in     │
+  │ quality         │ quantity        │
+  │ Realized in     │ Can be exchanged│
+  │ use/consumption │ for other       │
+  │                 │ commodities     │
+  │ Satisfies       │ Carrier of      │
+  │ concrete needs  │ social relations│
+  └─────────────────┴─────────────────┘
+
+【Key Concept: "Congealed Labor-Time"】
+• Value of commodity = Socially necessary labor time to produce it
+• Exchange makes different commodities comparable
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 28: Merit as Commodity
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Applying Marx's Theory to Merit】
+
+   Cultivated Field           Field of Merit
+   (Material Product)         (Spiritual Product)
+         │                          │
+         ↓                          ↓
+    Result of Labor            Result of Labor
+         │                          │
+         ↓                          ↓
+    Has Use-value              Has Use-value
+    and Exchange-value         and Exchange-value
+
+【Merit's "Surplus-Value"】
+• Not the result of excessive labor
+• Rather, the potential for salvation and long-term survival
+• Merit can "exchange for time" — blessings in the afterlife
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 29: Bourdieu's Capital Theory
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Pierre Bourdieu (1930-2002)】
+
+【Two Types of Capital】
+  ┌─────────────────────────────────────────────┐
+  │   Economic Capital      Cultural Capital    │
+  ├─────────────────────────────────────────────┤
+  │   Land, money           Prestige, legitimacy│
+  │   Quantifiable          Hard to quantify    │
+  │   Directly obtained     Requires conversion │
+  └─────────────────────────────────────────────┘
+
+【Function of the Stele】
+• Stele = Tool for converting economic capital to cultural capital
+• Donor's generosity carved into stone → Permanent prestige
+• Monastery's legitimacy publicly displayed → Attracts more donations
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 30: Complete Logic of Merit Exchange
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+        Donor                               Monastery
+          │                                     │
+          │ Land/Harvest (Economic Capital)     │
+          ├────────────────────────────────────→│
+          │                                     │
+          │ Merit (Salvation Potential)         │
+          │←────────────────────────────────────┤
+          │                                     │
+          ↓                                     ↓
+    Stele Records Donation           Land Produces Income
+    (Cultural Capital)               (Economic Capital)
+          │                                     │
+          ↓                                     ↓
+    Prestige → Afterlife          Legitimacy → More Donations
+    Blessings                      
+          
+【Conclusion】Merit Exchange = A Self-Reinforcing Economic-Religious System
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 31: Summary of the Paper
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Core Arguments Reviewed】
+• Merit is a commodity, not a gift
+• Buddhist monasteries are sites of exchange, not just practice sites
+• Survival of religious institutions depends on institutionalized 
+  economic exchange
+
+【Key Terms】
+  Transaction → Institution → Patronage → Salvation → Capital → Commodity
+
+【Methodological Insights】
+• Interdisciplinary perspective: Religious Studies + Economics + 
+  Anthropology + Philosophy
+• From case study (stele) to theoretical framework
+• Material analysis ≠ Dissolving religion
+
+【Open Questions】
+• Do contemporary religious organizations still follow similar logic?
+• Cross-cultural comparison: Christianity, Islam, etc.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 32: Thank You and Discussion
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        ╔═══════════════════════════════════════╗
+        ║      Thank You for Listening!         ║
+        ║                                       ║
+        ║   Now Entering Open Discussion        ║
+        ║                                       ║
+        ║   Questions and Comments Welcome      ║
+        ╚═══════════════════════════════════════╝
+
+【Review of Discussion Questions from Each Speaker】
+1. Can an economic perspective explain all of religion?
+2. Why did the tension with imperial power not cause Buddhism to perish?
+3. Does merit transfer contradict "self-liberation" doctrine?
+4. Is "land-for-merit" exchange a reasonable strategy or exploitation?
+5. Does Derrida's argument lead to moral nihilism?
+6. What insights does this analysis offer for understanding 
+   contemporary religion?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+【SPEAKER 6 SCRIPT】(~750 words, 5 minutes)
+───────────────────────────────────────────────────────────────────────────
+
+Thank you to the fifth speaker for that excellent analysis. As the final speaker, I will introduce the sixth section of the paper—"Commodity, Capital, and Exchange"—and provide a concluding summary of today's entire presentation.
+
+The fifth speaker used Mauss and Derrida's theories to argue that merit is "exchange" rather than "gift." Now I will use Marx and Bourdieu's theories to further analyze how merit operates as "commodity" and "capital."
+
+First, Marx's commodity theory. Marx begins Capital with a discussion of the commodity, considering it the basic cell of capitalist society. So what is a commodity? Marx argues that commodities have a dual nature: use-value and exchange-value.
+
+Use-value is a commodity's ability to satisfy concrete needs—food can satisfy hunger, clothing can provide warmth. Exchange-value is a commodity's ability to be exchanged for other commodities in the market—a pound of rice can be exchanged for a foot of cloth. Marx further argues that the value of a commodity is essentially "congealed labor-time"—the socially necessary labor time required to produce it. It is labor that gives commodities their value.
+
+Professor Walsh creatively applies this framework to analyzing merit. He points out that both cultivated fields and fields of merit are the result of labor. Farmers cultivate land and produce grain; monks practice and pray and produce merit. Both have use-value—grain can satisfy hunger, merit can bring blessings; both also have exchange-value—grain can be exchanged for money, merit can be exchanged for good fortune in the afterlife.
+
+So what is merit's "surplus-value"? In Marx's analysis, surplus-value is the value produced by workers' labor beyond their wages, appropriated by capitalists. Merit's "surplus-value" is not this. Professor Walsh argues that merit's "surplus-value" is the potential for salvation and long-term survival—merit can "exchange for time," trading present labor and donations for blessings in the afterlife. This is a value transformation that transcends temporal boundaries.
+
+Next is Bourdieu's capital theory. Bourdieu is one of France's most important contemporary sociologists. He expanded Marx's concept of capital and proposed multiple forms of capital. Here we focus on two: economic capital and cultural capital.
+
+Economic capital is what we typically understand as capital—land, money, quantifiable wealth. Cultural capital includes prestige, legitimacy, social recognition—resources that are hard to quantify but equally important. Bourdieu's key insight is that these two types of capital can be converted into each other. You can use economic capital to obtain cultural capital—for example, donating to a university in exchange for having a library named after you. You can also use cultural capital to obtain economic capital—for example, using your reputation to secure business contracts.
+
+Within the framework of merit exchange, the function of the stele becomes very clear. The stele is a tool for converting economic capital into cultural capital. Donors give land (economic capital), and monasteries erect steles for donors. The donor's generosity is carved into stone, becoming a permanent record of prestige—this is cultural capital. At the same time, the monastery's legitimacy is publicly displayed, thereby attracting more donations. This is a self-reinforcing cycle: economic capital produces cultural capital, and cultural capital produces more economic capital.
+
+Let me now use a diagram to display the complete logic of merit exchange. Donors give land and harvests (economic capital) to monasteries; in exchange, monasteries bestow merit (salvation potential) on donors. Then, this exchange is recorded in stele inscriptions. For donors, the stele brings prestige enhancement (cultural capital), ultimately transforming into blessings in the afterlife; for monasteries, land produces income (economic capital), legitimacy increases (cultural capital), thereby attracting more donations. This is a perfect self-reinforcing system—what Walsh calls "the economics of salvation."
+
+Now let me provide a concluding summary of today's entire presentation.
+
+The paper's core arguments can be summarized in three points: First, merit is a commodity, not a gift. Second, Buddhist monasteries are sites of exchange, not just sites of practice. Third, the long-term survival of religious institutions depends on institutionalized economic exchange.
+
+The paper employs a series of key terms: transaction, institution, patronage, salvation, capital, commodity. These terms together constitute a conceptual framework for analyzing religious economics, applicable beyond Chinese Buddhism to other religious traditions.
+
+From a methodological perspective, this paper offers several important insights. First is the power of interdisciplinary perspectives—Professor Walsh synthesizes theoretical resources from religious studies, economics, anthropology, and philosophy, demonstrating the rich possibilities of interdisciplinary research. Second is the method of building theory from case studies—a single stele inscription can reveal an entire exchange system; this is an exemplar of "microhistory" in social science. Third, and most importantly: material analysis does not mean dissolving religion. Understanding religion's economic foundation is not about negating its spiritual value, but about more completely understanding how religion operates as a social phenomenon.
+
+Of course, the paper also leaves some questions worth further exploration: Do contemporary religious organizations still follow similar logic? Can this "economics of salvation" analytical framework be applied to other religious traditions such as Christianity and Islam?
+
+That concludes our group's entire presentation. Thank you all for listening! Now we enter the open discussion phase. Questions and comments are welcome. Before discussion, let me review the discussion questions each of our six speakers has posed, for your reference and selection.
+
+【SPEAKER 6 DISCUSSION QUESTION】
+───────────────────────────────────────────────────────────────────────────
+💬 Open Discussion Question:
+
+"Walsh's analysis uses Song dynasty Chinese Buddhism as its case study, but he suggests this 'economics of salvation' may have broader applicability. Can this analytical framework be applied to contemporary religious phenomena? For example, can modern religious donations, temple admission fees, merit boxes, ceremonial fees, and even 'merit dedication' via mobile payment all be understood through the lens of 'economics of salvation'? What insights does this analysis offer for understanding contemporary religion's social function? Is the 'commercialization' of religion a modern problem, or is it the eternal logic of religious institutional survival?"
+
+【Question Design Notes】
+This question extends historical analysis to contemporary reality, requiring the audience to consider the practical significance of academic research. It shows the speaker can apply the paper's theoretical framework to contemporary contexts and think about religion's role in modern society.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                        APPENDIX: Presentation Guidelines
+═══════════════════════════════════════════════════════════════════════════════
+
+【Word Count and Time Reference】
+• English presentation normal speed: 120-150 words/minute
+• 5-minute speech requires: 600-750 words
+• Each speech in this material: ~650-750 words, suitable for 5 minutes
+
+【Time Control】
+• Each person strictly within 5 minutes
+• Practice 2-3 times beforehand to ensure accurate timing
+• Prepare a shortened version (cut ~100 words) in case of overtime
+
+【PPT Design Suggestions】
+• Fonts: Sans-serif for titles (e.g., Arial, Helvetica), serif for body (optional)
+• Font size: Titles 36pt+, body text 24pt+
+• Colors: Warm tones (Buddhist gold/brown) or academic blue recommended
+• Each slide should not have too much content; leave adequate white space
+• Suggested images: Ayuwang Monastery photos, Ningbo map, thinkers' portraits
+
+【Presentation Tips】
+• Opening: Get to the point quickly; don't have lengthy self-introductions
+• Transitions: Use phrases like "I will now explain..." for smooth handoffs
+• Closing: Clearly hand over to the next speaker
+• Speaking pace: Moderate; slow down for key points to give audience time to absorb
+• Eye contact: Scan the entire audience; don't just look at PPT or notes
+• Gestures: Use appropriately to emphasize key points
+
+【Discussion Phase Suggestions】
+• Each question is open-ended with no standard answer
+• Encourage audience to respond from different perspectives
+• Speakers should prepare their own preliminary thoughts on their questions 
+  to guide discussion
+• If no one responds, specifically invite certain audience members to speak
+• Control time for each question to leave time for other questions
+
+═══════════════════════════════════════════════════════════════════════════════
+                              END OF MATERIALS
+═══════════════════════════════════════════════════════════════════════════════

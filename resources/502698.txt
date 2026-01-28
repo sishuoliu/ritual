@@ -1,0 +1,1980 @@
+--- Page 1 ---
+Wendi L. Adamek THE IMPOSSIBILITY OF
+THE GIVEN:
+REPRESENTATIONS OF
+MERIT AND EMPTINESS
+IN MEDIEVAL CHINESE
+BUDDHISM
+Medieval Chinese Buddhist merit discourse and donor practices constitute
+a diverse and fertile field that awaits comprehensive study. In this article,
+I take up several quite different examples of representations of merit in
+order to elucidate relationships among notions of gift, emptiness, salvific
+images, and commemoration of the deceased. Let me first summarize
+the Buddhist soteriology linking these concepts. One of the fundamental
+tenets of Buddhism is the notion that good deeds earn “merit” (punya)
+that will negate the effects of past evil deeds and lead to beneficial future
+conditions, especially good rebirth. Generous giving (dana), especially
+giving support to monks and nuns, is the paradigmatic merit-gaining
+practice. In terms of the Mahayana (Greater Vehicle) doctrine of the Two
+Truths, the practice of generosity and the accumulation of merit belong
+to the truth of “provisional means” relative to the absolute truth of empti-
+ness/interdependence. At the same time, in Mahayana contexts generosity
+is construed as one of the perfections practiced by bodhisattvas on their
+path to ultimate Buddhahood, and both lay and ordained devotees can
+aspire to this path.1
+1This ideal picture has been readjusted somewhat since the publication of Jan Nattier’s
+study of the exclusionary and extremist tendencies in some early Mahayana scriptures; see A
+Few Good Men: The Bodhisattva Path according to “The Inquiry of Ugra (Ugrapariprccha)”
+(Honolulu: University of Hawai’i Press, 2003).
+ç 2005 by The University of Chicago. All rights reserved.
+0018-2710/2005/4502-0003$10.00
+
+--- Page 2 ---
+136 Representations of Merit
+In Chinese Buddhism, the soteriology of representations of salvific
+figures also reflects the Two Truths doctrine of provisional/absolute truth
+and duality/nonduality. On the provisional level of apparent duality, de-
+votion to Buddhas and bodhisattvas and to images representing them
+elicits a response, moving the salvific figure to deploy the power of his/
+her merit as upaya, skillful means, in order to relieve the sufferings of the
+devotee. The ultimate aim of upaya is to bring all beings to the realiza-
+tion of emptiness/nonduality, the lack of inherent self-identity, and the
+interdependence of all phenomena. According to this soteriology, images
+and the salvific figures they represent are similarly virtual—they are
+conditional and ultimately illusory manifestations created for the sake of
+illusion-bound “virtual” sufferers. However, the apparently localized and
+provisional nature of images and merit refers to their nonlocalized, abso-
+lute nature, and vice versa. This recursivity is what makes merit transfer
+possible and desirable. Giving a gift to the Buddhist Sa“gha (community
+of the ordained) and then dedicating the merit for the benefit of others,
+the donor compounds provisional merit into inexhaustible merit. This is
+accomplished through appealing to the meditation of a Buddha or bodhi-
+sattva, who enables the devotee to sow seeds of individual merit in the
+universal merit field, and also deploys the inexhaustible universal merit
+field in order to benefit the devotee and his/her family.
+Merit practice is concerned with giving bodies in various ways. It sus-
+tains the deceased and their fortunate rebirth, and it is the substance and
+function of the salvific bodies manifested by Buddhas and bodhisattvas.
+In Chan (Zen) discourse, merit is the Dharmakaya (body of the law, ulti-
+mate reality) and its realization in Buddha nature. In relation to images,
+merit is the power inherent in the Buddhist image as well as the desired
+product of its creation. To explore this family of traces, I make use of
+widely disparate materials: Pali scriptures, a Chinese exegetical treatise,
+Chinese Buddhist paintings and inscriptions, a Chan memorial eulogy, and
+also a eulogy written by the late Jacques Derrida.
+In the first section of this article, “Merit and Gift,” I discuss the ten-
+sion between the foundational Buddhist teachings of no-self and non-
+attachment and the equally foundational teaching that the laity gain merit
+by supporting the Sa“gha. The next section, “Mahayana and Merit Trans-
+fer,” explores a Chinese synthesis of doctrines of merit and merit transfer
+in key Mahayana scriptures. Compiled by the Buddhist exegete Huiyuan
+(523–592), this synthesis is a good example of ways that merit prac-
+tices were both upheld and circumscribed through reference to the authori-
+tative Mahayana doctrines of emptiness and the Two Truths. “Merit and
+Images,” the third section, concerns donor inscriptions on three painting
+scrolls that were recovered from the hidden storehouse at Dunhuang, in
+northwest China. In a subsection, “Economies of Merit,” I discuss the re-
+
+--- Page 3 ---
+History of Religions 137
+lationship between Buddhist economic practices and merit, with refer-
+ence to the mediating function of the clergy and the notion of “symbolic
+capital.” The fourth section, “‘No-Merit’ and Portrait Dharma,” concerns
+the representation of a human figure as a manifestation of merit; I focus
+on a portrait-eulogy for an eighth-century Chan master that evokes the
+power of the master’s realization of emptiness and presents the image of
+the master as a salvific manifestation.
+In the last section, “The Image and the Work of Mourning,” I discuss
+the representation and memorialization of the Chan master in relation to
+Derrida’s reflections on the nature and functioning of the “work of mourn-
+ing,” image, and gift. The notion of “the gift” has attracted much theoret-
+ical attention in the fields of sociology and religious studies and has been
+taken as a topic of deconstructive analysis by Derrida and others. Merit,
+the quintessential “gift that keeps on giving,” is clearly a good place to
+start thinking about connections between Buddhist and poststructuralist or
+postmodern discourse on giving. A simple structural opposition animates
+my ongoing inquiries into poststructuralist discourse on the gift: for Bud-
+dhists, merit/gift is sustained by emptiness, while for Derrida, giving is
+lost in aporia. Derrida argues that the gift, like immediate experience or
+“self-presence,” is annulled by recognition of it as such.2 Pure giving is
+impossible because of the giver’s awareness of him/herself as giving.
+In terms of Derridean différence, the Buddhist experience of the non-
+duality of subject and object would be held to be similarly impossible
+and self-delusional. In other contexts, he deconstructs the Heideggerian
+notion, possibly Buddhist influenced, of the experiencing of pure Being or
+self-presence as itself. For Derrida, experiencing and what is experienced
+can never be united in a self-identical essence—experience and meaning
+are possible only because of differentiation and deferment, the endless
+opening of signification to otherness and what is in excess of itself, and
+therefore the lack of essence, center, or totality. Derridean deconstruction
+at times appears to resemble the methods of certain Buddhists, particularly
+the Madhyamika dialectician Nagarjuna. However, according to the terms
+of deconstruction, the liberative experience of the totality of the simulta-
+neous interdependence and relativity of all things is impossible.
+Derrida’s meditation on this impossibility is related to his questioning
+of writing and memory. As experience can only be grasped in the act of
+auto-inscription referring to its own gesture of reference, likewise memory
+is a trace, not of some “one” but of absence of one, a reference to the
+ongoing differentiation of self from others. But it also refers to differ-
+entiation from oneself, from other selves that are actively forgotten. In
+2Jacques Derrida, Given Time: I. Counterfeit Money, trans. Peggy Kamuf (Chicago: Uni-
+versity of Chicago Press, 1992), 12.
+
+--- Page 4 ---
+138 Representations of Merit
+considering various writings and images that were created to commemorate
+and benefit the living and the dead, I have tried to elucidate the interplay
+of the impossible and the given in these traces of emptiness and merit.
+The apparent analogies between Buddhist emptiness and the Derridean
+“impossible” invites mutual appropriation and mutual deconstruction,
+and this invitation has inspired a small but growing body of scholarship.3
+Deconstructive analysis of the work of misrecognition and desire in the
+functioning of gift and memory does, like Buddhist analysis of emptiness,
+point to the lack of any self-identical gift-act, giver, or recipient. How-
+ever, postmodern aporia cannot point to a safe place for one’s deceased
+parents, teachers, children, or siblings, while Buddhist affirmation of the
+ultimate nonduality of merit and emptiness creates the adamantine given
+upon which donors can confidently inscribe their names and the names of
+their loved ones. In other words, deconstruction and various types of
+Buddhist analyses may bring one to realization of the self-contradictions
+inherent in the epistemological structures that create one’s lived reality.
+Though both may demonstrate that there is no reality corresponding to
+one’s experience, Buddhists can assert that the merit and compassion of
+the Buddhas and bodhisattvas enables them to create a provisional after-
+life “realm” or effect. (As lived reality is also an effect, there is no on-
+tological divide—indeed, no ontology.)
+Robert Glass comments on those who see postmodernism and Buddhism
+as allies in providing insight into the interdependent or relational nature
+of self/reality: “They have moved away from independent existence only
+to rest in mutual existence. However, there is no resting place or mutuality
+in the endless deferral of deconstruction, and this is the whole point.
+Whether the place is ‘words beyond words’ or ‘images beyond images,’
+both are illusions which bar honest acknowledgment of the infinite ne-
+gation of negation. For Indra’s Net to be postmodern, there needs to be a
+rip or tear in the net.”4 I agree with Glass that the difference between
+Derridean impossibility (endless deferral) and Buddhist emptiness (mu-
+tuality) is irremediable, and yet once it has been put into play this differ-
+ence is itself a trace deferring to the mutual reference of aporia and merit
+as much as to their irreconcilability.
+3Examples include Bernard Faure, Double Exposure: Cutting across Buddhist and Western
+Discourses, trans. Janet Lloyd (Stanford, CA: Stanford University Press, 2004); Robert
+Newman Glass, “Splits and Gaps in Buddhism and Postmodern Theology,” Journal of the
+American Academy of Religion 63, no. 2 (1995): 303–19; David Loy, ed., Healing Decon-
+struction: Postmodern Thought in Buddhism and Christianity (New York: Oxford University
+Press, 196); and Robert Magliola, On Deconstructing Life-Worlds: Buddhism, Christianity,
+Culture (New York: Oxford University Press, 1997).
+4Robert Newman Glass, review of Healing Deconstruction, by David Loy, and On De-
+constructing Life-Worlds, by Robert Magliola, Journal of Buddhist Ethics 5 (1998): 62.
+
+--- Page 5 ---
+History of Religions 139
+merit and gift
+Let me begin by considering the more conventional interdependencies
+involved in donor inscription. Commissioning the production of Buddhist
+images, bells, stupas, and shrines; commissioning, copying, and reciting
+scripture; and supporting the community of the ordained—all these gain
+merit for the donor, mitigating future conditions in this life and the next.
+Activities centered on objects, scripture, and support are said to sow the
+“merit fields” of Buddha, Dharma (teaching/law), and Sa“gha, respec-
+tively. In subsequent sections I will focus on activity of the first type, the
+making of images, but in early Buddhist scriptures the most typical donor
+activity depicted is support of the monastic community.
+The relationship between individual donors and the collective Sa“gha
+has been a major factor in the development of Buddhism, carrying its
+ways and means through many centuries and countries, and yet it has fre-
+quently been a target of criticism from Buddhists and non-Buddhists
+alike. At the heart of this powerful and contested relationship is the prob-
+lem of the personal. The fundamental Buddhist teachings of no-self and
+nonattachment, and later the Mahayana teaching of the emptiness of gift,
+giver, and recipient, are conveyed through scriptural settings in which
+the tension between personal relationships and liberation are resolved in
+favor of liberation. However, in some scriptures and in the Vinayas (rules
+of conduct for the ordained), it is acknowledged that monks’ and nuns’
+dependence on gifts for survival can create personal ties with the donors,
+which are to be annulled by repaying the debt with the universal and im-
+personal currency—merit.
+In the Dakkhinavibhanga-sutta (The exposition of offerings) we find
+Ananda arguing with his cousin the Buddha that he should accept a per-
+sonal gift from their aunt: “Venerable sir, let the Blessed One accept
+the new pair of cloths from Mahapajapati Gotami. Mahapajapati Gotami
+has been very helpful to the Blessed One, venerable sir. As his mother’s
+sister, she was his nurse, his foster mother, the one who gave him milk
+when his own mother died. The Blessed One too has been very helpful to
+Mahapajapati Gotami, venerable sir. It is owing to the Blessed One that
+Mahapajapati Gotami has gone for refuge to the Buddha, the Dhamma,
+and the Sa“gha.”5
+To this the Buddha replies, “That is so, Ananda, that is so! When one
+person, owing to another, has gone for refuge to the Buddha, the Dhamma,
+5Dakkhinavibhanga Sutta (The exposition of offerings), Majjhima Nikaya (hereafter MN)
+III 253, 3, in The Middle Length Discourses of the Buddha: A New Translation of the Maj-
+jhima Nikaya, trans. Bhikkhu Nanamoli and Bhikkhu Bodhi (Boston: Wisdom Publications,
+1995), 1102–6.
+
+--- Page 6 ---
+140 Representations of Merit
+and the Sa“gha, I say that it is not easy for the former to repay the latter.”6
+Note that the Buddha claims that the balance of obligation is on the side
+of Mahapajapati, for he has repaid the transitory “milk debt” that sustained
+his infant body with the inestimable Triple Gem, which offers liberation
+from rebirth.7
+The Buddha then expostulates on personal offerings to an individual
+versus offerings to the Sa“gha. Regarding individual offerings, it is said
+that the rewards of making an offering to an animal repay a hundredfold,
+and so on up the chain of beings to offerings to a stream entrant, which re-
+pays immeasurably. Beyond the level of stream entrant and up to the final
+level of a gift to a Tathagata, the incalculable reward is inexpressible:
+“What should be said about giving a gift to a Tathagata, accomplished
+and fully enlightened?”8 However, gifts to the collective Sa“gha are ex-
+tolled in a passage that concludes with the assertion, “And I say that in
+no way does a gift to a person individually ever have greater fruit than an
+offering made to the Sa“gha.”9
+Thus the merit gained from personal gifts to the Tathagata is inexpress-
+ibly incalculable, but this immeasurability is yet somehow less than the
+results of giving to the collective Sa“gha. Moreover, the recipient of the
+Dharma cannot repay the obligation incurred by having received the gift
+of refuge and the ending of suffering, for that debt is also incalculable.
+Rather, the individual donor to the Buddha and Sa“gha receives the
+opportunity to sow the seeds of future incalculable reward. While it is
+too simplistic to reduce this to the calculus of institutional self-interest,
+neither can one convincingly defend the Buddhist rhetoric of merit and
+debt as transparent and benign.10
+Oliver Freiberger, in his “Profiling the Sa“gha: Institutional and
+Non-Institutional Tendencies in Early Buddhist Teachings,” points to a
+countervailing soteriology of merit in certain Pali scriptures, in which the
+individual dispositions of both donor and recipient determine the efficacy
+6MN III 254, 4, in Nanamoli and Bodhi, trans., The Middle Length Discourses of the
+Buddha, 1103.
+7The notion of the Buddha-Dharma as a repayment for the “milk debt” owed to mothers
+by their children is discussed by Alan Cole in his Mothers and Sons in Chinese Buddhism
+(Stanford, CA: Stanford University Press, 1998).
+8MN III 255, 6, in Nanamoli and Bodhi, trans., The Middle Length Discourses of the
+Buddha, 1104.
+9MN III 256, 8, in Nanamoli and Bodhi, trans., The Middle Length Discourses of the
+Buddha, 1105.
+10For examples of studies that stress institutional self-interest in medieval Chinese
+Buddhism, see Jacques Gernet, Buddhism in Chinese Society: An Economic History from
+the Fifth to the Tenth Centuries, trans. Franciscus Verellen (New York: Columbia University
+Press, 1995); and Cole, Mothers and Sons in Chinese Buddhism.
+One Line Short
+
+--- Page 7 ---
+History of Religions 141
+of the gift.11 The recipient qualifies as an ideal merit field due to his/her
+own ascesis and not to his/her status as a representative of the Sa“gha,
+and there are even passages that recommend the efficaciousness of gifts
+to non-Buddhist ascetics. Freiberger cites an A“guttara Nikaya passage
+regarding the “sixfold-endowed offering,” which stresses the individual
+merits of the giver and recipient over their differential religious roles:
+“What is the giver’s threefold part? Herein, bhikkhus (monks), before the
+gift he is glad at heart; in giving the mind is calmed; and he is delighted
+when he has given. And what is the recipients’ threefold part? Herein,
+bhikkhus, the recipients are free from craving, hatred, and delusion, or
+they strive to put an end to craving, hatred, and delusion.”12
+Freiberger’s observations are supported by James Egge’s recent book,
+Religious Giving and the Invention of Karma in Theravada Buddhism.13
+Egge argues that the Pali scriptures contain two distinct rhetorical patterns
+regarding gift giving, which he characterizes as being based on theories
+of sacrifice (yañña) and theories of karma, respectively. He demonstrates
+that these discourses were antithetical enough to require later exegetical
+effort in order to establish the ascendancy of karmic soteriology. The above
+passage from the Dakkhinavibhanga-sutta illustrates a karmic ideology:
+giving to the Sa“gha is categorically the most karmically rewarding, and
+the donor’s intention to give to the Sa“gha automatically carries a karmic
+result. Conversely, discourse based on sacrifice is reflected in the above
+passage from the A“guttara Nikaya, in which the dispositions of both
+donor and recipient affect the degree of reward. Works that retain traces
+of sacrificial ideology also tend to lay more stress on the dedication of
+the offering (daksina) and the practices of abstinence of both donor and
+recipient.
+In considering the significance of institutional categories and individual
+dispositions in the soteriologies of merit, it is important to keep in mind
+that the individual donor was just as likely or even more likely to have
+been a monk or a nun, both in India and in China.14 Theoretically, the
+11Compare A“guttara Nikaya (hereafter AN) I 161,13–16; MN I 379,16–18; AN IV 185,
+22–24; cited in Oliver Freiberger, “Profiling the Sa“gha: Institutional and Non-institutional
+Tendencies in Early Buddhist Teachings,” Marburg Journal of Religion 5, no. 1 (2000): 1–6.
+12AN III 336,16–22, in Freiberger, “Profiling the Sa“gha: Institutional and Non-
+Institutional Tendencies in Early Buddhist Teachings,” 5. See also AN III 57.
+13James Egge, Religious Giving and the Invention of Karma in Theravada Buddhism
+(Richmond, Surrey: Curzon, 2002).
+14For Indian examples, see Gregory Schopen, Bones, Stones, and Buddhist Monks (Hono-
+lulu: University of Hawai’i Press, 1997); for Chinese examples, see Hao Chunwen ,
+“Guanyu Tang houqi wudai Song chu Shazhou seng-su de shishe wenti”
+(Alms donations by monks and laymen in Sha prefecture during the
+Later Tang, Five Dynasties, and Early Song), Tang yanjiu 3 (1997): 19–40.
+
+--- Page 8 ---
+142 Representations of Merit
+Buddhist gift and its impersonal reward, merit, circulate in a system that
+consists entirely of individual donors and no individual recipients or
+reciprocators. Therefore, even giving to an unworthy monk is efficacious,
+because he is resolved (and absolved of obligation) into the collective
+Sa“gha. This extreme, though itself problematic, is a logical result of the
+need to pull the Buddhist gift out of the matrix of personal obligation that
+was both its model and its antithesis.
+However, from the perspective of studies of social identity, the desire
+both to uphold the law of obligation and to be absolved of debt is one of
+the driving forces of social organization, in relation to which the Buddhist
+escape route is mere epiphenomenon. Studies of gift-giving practices in a
+wide range of social contexts (such as the studies by Malinowski, Mauss,
+and their heirs and critics) show that the personal quality is recognized
+to be both necessary and dangerous to the functioning of the circuit of
+giving. Recognition of the danger of the personal is evident precisely in
+its “misrecognition,” its transmutation into collective representation. Let
+us consider Mauss’s now-classic statement on the system of the gift: “Ma-
+terial and moral life, and exchange, function within it [i.e., the system of
+the gift] in a form that is both disinterested and obligatory. Moreover,
+this obligation is expressed in a mythical and imaginary way or, one might
+say, symbolic and collective. It assumes an aspect that centers on the in-
+terest attached to the things exchanged. These are never completely de-
+tached from those carrying out the exchange. The mutual ties and alliance
+that they establish are comparatively indissoluble.”15
+Mauss’s essay on the gift revolves around the conundrum of free and
+obligatory exchange, on the power by which things circulate through
+“total” or undifferentiated social phenomena (at once religious, political,
+moral, familial) that characterize so-called primitive societies. Although
+his work has come to symbolize his simplest proposition, namely, that
+what goes by the name of gift is really exchange, throughout his essay it
+is the intermingling of self-interest, collective interest, and disinterest that
+provides a motivating force for both the social dynamics that he interprets
+and for his interpretive quest.
+His evocation of a “power in the object” (the Maori hau), that (imper-
+sonally) impels reciprocity, was criticized by Levi-Strauss as recourse to
+mystification and uncooked indigenous theory.16 Nevertheless, let us look
+once more at Mauss’s intuition that “souls are mixed with things; things
+15Marcel Mauss, The Gift, trans. W. D. Halls (New York: Norton, 1990), 33.
+16Claude Lévi-Strauss, Introduction to the Work of Marcel Mauss, trans. Felicity Baker
+(London: Routledge, 1950), 47–50. See also Marshall Sahlins, “The Spirit of the Gift,” in
+The Logic of the Gift: Toward an Ethic of Generosity, ed. Alan Schrift (New York: Rout-
+ledge, 1997), 70–95.
+
+--- Page 9 ---
+History of Religions 143
+with souls”17 in an incalculable social, economic, and sacred flux of ex-
+change: “In all this there is a succession of rights and duties to consume
+and reciprocate, corresponding to rights and duties to offer and accept.
+Yet this intricate mingling of symmetrical and contrary rights and duties
+ceases to appear contradictory if, above all, one grasps that mixture of
+spiritual ties between things that to some degree appertain to the soul, and
+individuals, and groups that to some extent treat one another as things.”18
+In a Buddhist rendering of this economy, the spiritual ties between
+things, between gift and merit, yields personal benefits (including salva-
+tion) for oneself and one’s loved ones. The Sa“gha, on the other hand, is
+reified as a receptacle of offerings so that the donor may exercise his or
+her right to generate merit. However, donors and Sa“gha, treating each
+other as things and dealing with things that are tied to the soul, depend on
+karma rather than obligation to maintain balanced scales. The challenge
+for the scholar of sacred objects and sacred rhetoric is to see with a kind
+of double vision both the ideally balanced and the personally weighted
+scales.
+mah y na and merit transfer
+A A
+Gregory Schopen, working with early Buddhist inscriptions and Vinayas,
+has demonstrated that merit dedication for the benefit of deceased family
+members by laypeople, monks, and nuns was a flourishing aspect of
+pre-Mahayana Buddhism.19 Nevertheless, here I will focus on practices
+grounded in Mahayana soteriology, as this was the prevailing context in
+which merit practices were received in China. Key Mahayana sutras, such
+as the Saddharmapundarika and the Avatamsaka, promoted the notion
+that the cosmic Buddhas and bodhisattvas use the power of merit gained
+through eons of good deeds in order to save beings—which earns them
+further merit. Their merit is thus inexhaustible, and this enables them to de-
+ploy upaya, skillful means, adapting the salvific Dharma to the receptive
+capacities of various kinds of beings. According to this schema, merit,
+including the merit gained by copying and spreading such scriptures, was
+foremost among the conventional skillful means through which beings
+were ultimately saved. Furthermore, as propounded in the Nirvana and
+Avatamsaka sutras, the perfection (paramita) of generous giving enabled
+the devotee to make progress on the bodhisattva path.
+An excellent compendium of key Mahayana tenets, including merit and
+merit transfer, was compiled by Huiyuan (523–592), a monk who
+lived during the Northern Zhou and Sui dynasties. His Dasheng
+17Mauss, The Gift, 20.
+18Ibid., 14.
+19Schopen, Bones, Stones, and Buddhist Monks, 56–71.
+
+--- Page 10 ---
+144 Representations of Merit
+yi zhang (Chapters on the meaning of Mahayana)20 draws on the
+translations of Dharmaksema (385–433) and others, and he cate-
+gorizes Mahayana doctrines according to principles such as numerical
+groups and the structure of the bodhisattva path. He was especially in-
+fluenced by the Nirvana-sutra, and a number of his sections are abstracts,
+with explications, of various portions of that sutra.
+Through Huiyuan’s work we may thus understand something of the
+hermeneutics through which concepts of merit and merit transfer were
+received in early medieval China. Huiyuan follows time-honored Chinese
+exegetical practice, selecting and organizing source passages according to
+an overall schema modeled after authoritative texts and made intelligible
+through the author’s commentary. This approach can also be seen in two
+better-known medieval compendia of Buddhist practices, the Mohe zhi-
+guan (The great cessation and insight), T. 46 (1911), and the
+Fayuan zhulin (Jade grove of the Dharma garden), T. 53 (2122).
+Much of Huiyuan’s work consists of outlines of scriptural sources and is
+full of technical terms and doctrines, as we will see. However, his com-
+mentary often appears to address a lay or mixed audience, as he argues
+for the effectiveness of Mahayana practices in addressing immediate as
+well as ultimate concerns. Here I will give abridged accounts of his sec-
+tions on merit and merit transfer. First I will outline the sections on merit
+in the fourteenth fascicle, which is concerned with doctrinal tenets that
+are comprised of ten items, following the numerical principle of organi-
+zation used in some early Buddhist scriptures. Then I turn to sections on
+merit in the ninth fascicle, which are organized according to the Two
+Truths hermeneutic.
+In his preface to the section on merit in the fourteenth fascicle,
+Huiyuan gives an explanatory abstract of the ten merits discussed in the
+Nirvana-sutra.21 He glosses the term “merit” (gongde ) into two parts:
+gong is gongneng , the function or power that enables beings to attain
+nirvana, and this power derives from practice of the virtues, de , the
+paramitas or perfections cultivated by bodhisattvas. He then goes on to
+detail the ten kinds of merit, as follows: (1) the entrance to wisdom, which
+is the merit of hearing the teachings and being able to cultivate them to
+the level of realization of Buddha nature; (2) the arising of powers, con-
+stituting the superknowledges and supernormal powers; (3) the immeasur-
+able, unconditional compassion of the bodhisattvas, benefiting all beings;
+(4) the “ten benefits and results,” a lengthy sublist of karmic results that
+first establishes the bases of the path—a bodhisattva’s “root” or karmic
+20T. 44 (1851) = Taisho shinshu daizokyo (Taisho Buddhist canon [here-
+after, T.]), 85 vols. (Tokyo: Daizo shuppan kai, 1922–33), vol. 44 (no. 1851).
+21Daban niepan jing ([Mahapari]nirvana-sutra), T. 12 (374), trans. Dhar-
+maksema (385–433).
+One Line Long
+
+--- Page 11 ---
+History of Religions 145
+disposition, and the bodhisattva vow—and then enumerates the types of
+actions and results. The principal types of actions and results that are pre-
+sented are cultivation of the field of merit through giving with equanimity,
+maintenance of the precepts, practice of the ten virtuous acts and avoid-
+ance of the ten evil deeds, retribution causing births in lower realms (in-
+cluding hell), understanding that cause and effect are ultimately empty,
+the eight kinds of intolerable demons, and the repudiation of karmic
+proclivities.
+The list of ten merits then continues with (5) the five rewards (of which
+we might note especially the fourth, “reverently making offerings on be-
+half of all beings, human and divine”); (6) the mind that is spontaneous
+and self-present (zizai ), also called the vajrasamadhi (adamantine
+meditation); (7) cultivation (of the path) as the appropriate treatment (of
+the illness of existence): (8) the eight prescriptions for successful treat-
+ment, including six mindfulnesses (one of which is mindfulness of gen-
+erosity), five dhyanas (meditative absorptions), the mind of bodhi,22 and
+ultimate truth; (9) the correct path of cultivation—this section includes a
+definition of belief (xin ), with “belief in the rewards of generous giving”
+listed as one of the definitive types of belief, along with belief in the Triple
+Gem, the Two Truths, and skillful means. The last type of merit listed is
+(10) “the culmination of the correct path,” for which Huiyuan refers us to
+an overview given in a subsequent chapter.23
+The corresponding passage on merit transfer in the fourteenth fascicle
+discusses the ten designations of merit transfer from the Avantamsaka-
+sutra.24 Merit-transfer, huixiang , is glossed as follows: hui, to return
+to reverse direction (to nirvana) is what the good Dharma tends toward
+(xiang). The ten designations of merit transfer are (1) the merit transfer
+that delivers beings from the tendency to return to rebirths—it is merit
+transfer that enables bodhisattvas practicing the perfections to free beings
+22In context, “the mind of bodhi” (puti zhi xin) should not be regarded as bodhicitta, the
+initiation of the path. Rather, it is number five in a list of eight cultivations, as follows: “the
+‘one thing to be guarded,’ known as the mind of bodhi” (shouyishizhe, wei puti zhi xin
+). Furthermore, regarding the term shouyi, in other sections Huiyuan
+discusses it and jianxing (seeing the nature) within their scriptural contexts as items in
+the classification of the elements of the bodhisattva path. In the eighth century, both of these
+terms would be used to represent the timelessness or simultaneity of practice and ultimate
+realization. However, in Southern School Chan polemics they were made into oppositional
+symbols: shouyi was said to be an instance of the deluded gradual view of practice, while
+jianxing was said to be the correct “sudden” practice/realization. Huiyuan also discusses
+“sudden and gradual,” interpreting them, in accord with the Two Truths hermeneutic, as two
+perspectives of the same “path” rather than two different types of approach; T. 44 (1851)
+643b. The refashioning of these terms in polemical Southern School discourse parallels the
+creation of a polemical context for the notion of merit, which will be further discussed in the
+final section of this article.
+23Dasheng yi zhang, T. 44 (1851) 751b–753b.
+24Da fangguang fo huayan jing ([Buddha]avatamsaka-sutra), T. 9 (278),
+trans. Buddhabhadra (359–429).
+
+--- Page 12 ---
+146 Representations of Merit
+from the sufferings caused by defilements and establish them in bodhi;
+(2) the merit transfer of incorruptible faith; (3) the bodhisattva’s vow to
+perfect merit transfer equal to that of all Buddhas of past, present, and
+future. The next two items are particularly pertinent for donor practices.
+Item (4) is the universal efficacy of the power of merit transfer, which
+causes good roots to “reach everywhere,” that is, to be like reality, omni-
+present. The bodhisattva’s cultivation of good roots functions as merit
+transfer, and the power of merit transfer causes good roots to extend.
+This is what enables inexhaustible offerings to extend to Buddha, Dharma,
+and Sa“gha, complete cultivation to extend to all paths, complete fulfill-
+ment to extend to all karmic results, complete adornments to extend to all
+Buddha lands, complete conversion to extend to all beings, and complete
+understanding to extend to all dharmas (constituents of reality). Item (5) is
+the inexhaustible store of merit, wujin gongde zang : by solic-
+iting the inexhaustible merit of the Buddhas and bodhisattvas, one is able
+to accomplish the good roots of inexhaustible merit. The list of types of
+merit transfer continues with (6) furthering the firm establishment of
+good roots, whereby the good roots initiated by the cultivation of giving,
+and so forth, are made obdurate due to the protection of the Buddhas;
+(7) equally furthering all beings, whereby the merit of the bodhisattva’s
+good roots equally benefits all; (8) the characteristics of suchness (ru ,
+tathata), whereby all kinds of good roots and merit transfers are grounded
+in the characteristics of ultimate reality; and (9) “nonbound, nonattached,
+liberation”—that the mind of all dharmas is nongrasping is called non-
+bound and nonattached, that the Dharma is spontaneous and self-present
+is called liberation. Bodhisattvas do not waste good dharmas; by non-
+attachment, and so forth, all good dharmas are transferred, so (for ex-
+ample), when one solicits the bodhisattva Samantabhadra, the entirety of
+the merit of Samantabhadra is available. Finally, item (10) extols the im-
+measurable merit transfer of the Dharmadhatu (realm of the Dharma),
+that which is ultimately sought and the reason that bodhisattvas transfer
+their good roots. This completes the discussion on the ten designations of
+merit transfer. The designations are followed by the division of merit
+transfer into three categories of efficacy (i.e., resulting from the good
+roots of beings and bodhisattvas, and from the good Dharma of ultimate
+reality). The section ends with a visualization sequence focused on the
+bodhisattva Jin’gangchuang (Gaganagañja) in Tusita heaven.25
+25Dasheng yi zhang, T. 44 (851) 748b–749b. Jin’gangchuang is one of the sixteen great
+bodhisattvas, enumerated in the Siyifantian suo wen jing (Vi¶esacinta-
+brahmapariprccha), T. 15 (586) (cf. 585 and 587), and other scriptures. Jin’gangchuang also
+designates one of the forms taken by Ksitigarbha (Dizang ) to save beings in the six
+paths, but in this case parallel visualization sequences in other sections make it clear that
+Huiyuan was referring to the sixteen bodhisattvas scheme.
+One Line Long
+
+--- Page 13 ---
+History of Religions 147
+In both of these sections from the fourteenth fascicle, we see merit and
+merit transfer presented in the context of the bodhisattva path, which pro-
+vides the background for an appealing portrayal of the inexhaustible bene-
+fits of the cultivation of good deeds and the practice of merit transfer,
+with just a few dark hints of the consequences of bad deeds. Especially
+in items (4) and (5) in the section on merit transfer, we are shown the
+capitalization economics of inexhaustible merit: by drawing on the in-
+exhaustible merit store of the Buddhas and bodhisattvas, one is able to
+produce one’s own “good roots” of merit, which can be dedicated for
+the benefit of others and thereby compounded and extended.26 Thus,
+“merit” represents the ideal of perpetual increase of the good (and goods)
+through circulation, the principle of “yield” or productiveness that Mar-
+shall Sahlins claims is the real significance of the Maori hau.27
+However, in the ninth fascicle of the Dasheng yi zhang, the ultimate
+background of the bodhisattva path becomes the foreground, and the
+worldly benefits and protections afforded by the system of merit are
+explicitly relegated to a subordinate position. In this fascicle, outlined
+below, Huiyuan discusses merit and merit transfer according to the Two
+Truths hermeneutic, emphasizing that the only real benefit of merit prac-
+tice is realization, ultimate truth. I have reversed the order of Huiyuan’s
+chapters (which are not necessarily related) by presenting the karmic
+benefits in the fourteenth fascicle first and the ultimate perspective in the
+ninth fascicle second, because the question of the ultimate meaning of
+merit will be taken up in a subsequent discussion of the paradigmatic
+Chan position on merit.
+In the ninth fascicle of the Dasheng yi zhang, the discussion of merit
+occurs in the section on “the two kinds of adornment (zhuangyan ).”
+The “two kinds of adornment” are the Two Truths, conventional and ul-
+timate, in this case merit (gongde or fude ), and wisdom (zhihui
+, prajña). The terms fude and gongde indicate that good deeds have
+the efficacy (gongneng ) to enhance the welfare (fuli ) of the
+practitioner, and that welfare is the intrinsic virtue (jiade ) of good
+practices. The term zhihui indicates the two aspects of wisdom: the func-
+tioning of awareness (zhaojian ) and also the knowledge (zhi ,
+jñana) of conventional truth are called zhi, while complete apprehension
+(jieliao ) and also illuminating or experiencing (zhao ) ultimate
+truth are called hui.
+Huiyuan analyzes the path schemes in four scriptures28 and endorses that
+of the Nirvana-sutra, which assigns the first five perfections (paramitas)—
+26Dasheng yi zhang, T. 44 (1851) 748c 12–24.
+27Sahlins, “The Spirit of the Gift,” 81–83.
+28Three of these works are translations attributed to Dharmaksema: the Youposaijie
+jing (Upasakasila-sutra), T. 24 (1488); the Pusadichi jing (the
+
+--- Page 14 ---
+148 Representations of Merit
+generosity, discipline, vigor, forbearance, and meditation—plus the phe-
+nomenal aspect of wisdom, the sixth paramita, to the category of merit, all
+on the conventional level. To the category of wisdom proper belongs only
+the absolute aspect of wisdom, direct seeing of ultimate truth. Huiyuan
+correlates the two levels with several other two-tiered rubrics, conclud-
+ing with a discussion of essence (ti ) and function (yong ). Essence
+refers to verifying nirvana, that is, experiencing ultimate truth, and func-
+tion refers to practices that accord with cause and effect in the world, that
+is, worldly benefits or merit Huiyuan quotes a Nirvana-sutra passage
+stating that the latter, the adornment of merit, is conditioned, produces
+outflows, karmic results, and hindrances, and is impermanent, while the
+adornment of wisdom is the opposite. Further along, Huiyuan quotes an-
+other Nirvana-sutra passage asserting that from the initiation of the path
+up through the ninth bhumi (stage) of the ten-stage bodhisattva path the
+aspirant does not directly perceive Buddha nature, and that all this is
+“merit”—only direct perception is “wisdom.” Repeating a formula he
+uses in other sections, Huiyuan concludes this section by saying that it is
+not that ordinary practitioners of the two lower vehicles29 are without
+wisdom, but it is hidden and not manifest. And it is not that the Buddhas
+and bodhisattvas are without merit, but it is hidden and not expounded.30
+The ninth fascicle also has its corresponding section on merit transfer,
+which is construed as seeking absolute truth and not worldly benefits.
+Merit transfer is discussed according to three rubrics: bodhi (enlighten-
+ment), beings, and reality. “Merit transfer of bodhi” refers to the mind
+that seeks wisdom, motivating one to transfer the good dharmas one has
+cultivated and seek the virtues of bodhi. “Merit transfer of beings” is the
+mind of profound mindfulness of beings, motivating one to transfer the
+good dharmas one has cultivated and give them to others. “Merit transfer
+of reality” refers to the mind that loathes the conditioned and seeks ulti-
+mate reality. Huiyuan then makes a tripartite argument for the necessity of
+each category of merit transfer. Without merit transfer of bodhi, the good
+dharmas one cultivates would not be able to transcend the triple world,31
+would be impermanent, and good deeds could not be increased limitlessly.
+“Bodhisattvabhumi” section of the Yogacarabhumi-s3astra), T. 30 (1581); and the above-
+mentioned Daban niepan jing, T. 12 (374). The fourth is the Mahaprajñaparamita-sutra,
+probably the twenty-seven fascicle version, the translation of which is attributed to Kumara-
+jiva (344–413), T. 8 (223).
+29According to Mahayana soteriology, there are two vehicles inferior to that of the bodhi-
+sattva: (1) the ¶ravaka, shengwen “hearer,” a designation for disciples of Hinayana, and
+(2) the pratyekabuddha, yuanjue , “self-enlightened Buddha.”
+30Dasheng yi zhang, T. 44 (1851) 649c–650c.
+31“Triple-world” refers to the three levels or qualities of the mundane (including the
+heavens): desire, form, and formlessness.
+
+--- Page 15 ---
+History of Religions 149
+Without merit transfer of beings, beings would be attached to pleasure
+and would be unable to adapt to conditions and benefit other beings; they
+would seek extinction in nirvana and would be unable to bear staying in
+the world to be merciful and beneficial to other beings; and the limited
+benefit of their good deeds could not be limitlessly extended. Without
+merit transfer of reality, beings would be attached to the good roots they
+cultivate and would be unable to let them go; as the intrinsic nature of
+dharmas is impermanent, the good produced does not abide until it is made
+secure by accordance with the absolute. Cultivating the good for super-
+ficial reasons is limited in scope, but through practicing in accord with
+the absolute, good roots become boundless.32
+Thus, Huiyuan maintains the hierarchy between the two levels of truth,
+a conservative approach that is consistent with the message of the authori-
+tative Mahayana scriptures he summarizes. However, over time the in-
+fluence of the nondual hermeneutics of the Prajñaparamita-sutra (sutra
+on the Perfection of Wisdom) resulted in an ever-more pervasive and
+confident use of recursivity in Chinese Buddhist discourse on conditional
+and ultimate. In a recursive view of the merit wisdom hierarchy, merit
+practice is the function or immanence of the unconditioned, and wisdom
+and merit produce each other, are empty/interdependent and inseparable.
+Moreover, as this emptiness is the intrinsic Buddha nature of reality and
+individual beings, the notion that the fulfillment of the path was thus im-
+mediately given to realization would become the foundation of Chan/Zen
+soteriology. In the eighth-century Platform Sutra, the Chan sixth patriarch
+Huineng (638–713) is said to have preached, “Merit is in the Dharma-
+kaya, not in the field of blessings (futian ). In Dharma-nature itself
+there is merit (gongde ). [Seeing into your own nature is gong]; level
+and direct mind is de. [Inwardly, see] the Buddha-nature, outwardly, prac-
+tice reverence.”33
+In the sudden-enlightenment understanding, maintained in Chan, every-
+thing and nothing is merit. However, even the Platform-Sutra retained
+conventional Buddhist forms (“practice reverence”) and avoided the anti-
+nomian patch of quicksand on the shore of nonduality, where there appears
+to be no distinction between good and evil. In the eighth and ninth cen-
+turies, several Chan schools explored the edges of this dangerous area in
+order to lay greater emphasis on recognition of innate Buddha nature and
+claimed that all practices, including practices aimed at gaining merit, were
+32Dasheng yi zhang, T. 44 (1851) 636a–637b.
+33Philip Yampolsky, trans., The Platform Sutra of the Sixth Patriarch (New York: Columbia
+University Press, 1967), 156, with minor modifications. The portion in the first bracket is
+Yampolsky’s emendation based on the Koshoji text; the portion in the second is an addition
+considered necessary by D. T. Suzuki and subsequent editors.
+
+--- Page 16 ---
+150 Representations of Merit
+a form of delusion. Thus, emphasis on the nonduality of merit and empti-
+ness created a polemical rhetoric, according to which conventional merit
+practices had no value whatsoever.
+The “no merit” polemic will be taken up again in the fourth part of this
+article, but let us return to Huiyuan’s treatise and conventional merit prac-
+tices. In the ninth-fascicle section on merit transfer, Huiyuan addresses
+an issue that was central to the popular practice of inscribing prayers for
+merit transfer on donated objects, namely, “how does it work?” In order
+to explain this, under the category of “merit-transfer of beings” Huiyuan
+stages a hypothetical dialogue:
+“The Buddha-Dharma holds that others do not receive the recompense of what
+one has done, and one does not receive the fruition of what others have done.
+How can the bodhisattvas transfer their own good dharmas and give them to
+others? If they cannot be given, then how can others obtain the benefits?” The
+Buddhist answers: “Although (what you say is true), it is not that ‘this’ and ‘that’
+do not have a relationship of mutual aid; because of mutual aid, it is possible to
+transfer one’s good [dharmas] to give to others. Because of merit-transfer, in
+the future age one will not be abandoned. Benefiting beings also helps [the bodhi-
+sattva] cultivate the good. Therefore, merit-transfer is necessary. Furthermore,
+merit-transfer is what enables one’s family to be converted. Because of the
+power of merit-transfer, in the future age, beings who have seen will reverently
+receive the Dharma. This is the fruition of enabling one’s family to be converted.
+Because one takes it upon oneself to practice and receive the Buddha-Dharma,
+one needs merit-transfer in order to successfully enable one’s family to convert.”34
+This point was clearly an important one for Huiyuan and for the
+audience he had in mind. Though he alludes to the conventional scrip-
+tural assurance that merit transfer is what maintains the bodhisattva’s
+inexhaustible storehouse of merit for the benefit of all beings, it is the
+benefit of conversion of one’s own family that he repeats three times. In
+the following sections on donor inscriptions in Dunhuang paintings, we
+will see that the doctrine of merit transfer and its inclusion of one’s
+family in a beneficial circle were the foundations of a flourishing prac-
+tice. The custom of including inscriptional and visual representations of
+the donor’s family in a work of art was among the most widely dissemi-
+nated of Buddhist practices, and in these portable paintings we enjoy the
+rare privilege of seeing how donors who were not of the noblesse had
+themselves portrayed.
+merit and images
+Buddhist images marked with donor inscriptions are in some ways
+analogous to an important type of artifact of pre-Buddhist China, namely,
+34Dasheng yi zhang, T. 44 (1851) 636c28–637a9.
+One Line Long
+
+--- Page 17 ---
+History of Religions 151
+Zhou bronze ritual vessels inscribed and dedicated with records of sac-
+rifices and achievements in complex patterns and textures. Both types of
+work derived their value from their function within an intricate system of
+patterned gifting. Though the systems were different, both types of object
+were intended to include the living and the dead in the circuit of merit
+and memory. Moreover, the conjunction of writing and sacred object was
+integral to the aesthetic merit that earned a transcendent “countergift.”
+I have selected three examples of donor-inscribed paintings from among
+the many resplendent ninth- and tenth-century paintings in the Stein col-
+lection at the British Museum and the Pelliot collection at the Musée
+Guimet.35 These materials were taken from Mogao cave 17 at Dun-
+huang . Paintings of Buddhist images were given to temples in order
+to commemorate and benefit deceased relatives, and both living and de-
+ceased family members were often depicted in the paintings. Inscriptions
+on the scrolls include prayers to transfer the merit that the donor had gained
+through donation of the painting; this popular form of commemoration
+was carried out by devotees of varied ethnicity, social status, and degree
+of Buddhist affiliation, including monks and nuns. Commonly, these paint-
+ings have a main image or images of salvific Buddhas and bodhisattvas
+(often Avalokite¶vara and Kssitigarbha), with representations of the prin-
+cipal donor and family members in a separate register at the bottom of the
+painting. Representations of the donors range from unidentified stylized
+images of a lay couple flanking the central image and holding offerings to
+an array of figures with names and relationships inscribed in cartouches
+adjacent to their images. Male and female donors are separated, but their
+placement to the right or left of the image is not consistent. Longer in-
+scriptions, if included, are usually in a central cartouche.36
+k itigarbha as the lord of the six ways
+S
+The first image I will discuss is a painting of Ksitigarbha as the Lord of
+the Six Ways, dated 963 (see fig. 1).37 The bodhisattva Ksitigarbha is
+shown seated, wearing the distinctive patterned head kerchief that appears
+frequently in Dunhuang representations of him in his role as afterlife
+mediator. He is flanked by two attendant bodhisattvas, with scenes of the
+35Reproductions are found in Roderick Whitfield, Art of Central Asia: The Stein Collec-
+tion in the British Museum, 3 vols. (Tokyo: Kodansha, 1982–85); and Jacques Giès, ed., Les
+arts de l’Asie centrale: la collection Paul Pelliot du musée national des arts asiatiques-
+Guimet, 2 vols. (Paris: Réunion des musées nationaux, 1995–96).
+36For a general description of the arrangement of donors in these paintings, see Michel
+Soymié, “Les donateurs dans les peintures de Dunhuang,” Cahiers d’Extrême-Asie 11
+(1999–2000): 1–24.
+37Stein painting 19, in Whitfield, Art of Central Asia, vol. 2, pl. 22; Arthur Waley, A Cat-
+alogue of Paintings Recovered from Tun-huang by Sir Aurel Stein, K.C.I.C. (London: British
+Museum, 1931), 34.
+
+--- Page 18 ---
+152 Representations of Merit
+Fig. 1.—Photo of Ksitigarbha as Lord of the Six Ways (Stein painting 19,
+Stein Collection, British Museum). ç The Trustees of The British Museum.
+Used by permission.
+
+--- Page 19 ---
+History of Religions 153
+beings in the six realms of rebirth (hell-being, hungry ghost, animal,
+human, asura [demigod], and deva [god]) in the background.38
+At the bottom of the painting there are two male donor figures on the
+right, and two women on the left. These are members of the donor’s family,
+living and dead, who are represented as sharing in making the gift while,
+at the same time, they are recipients of the merit of the gift made on their
+behalf. The cartouches read: (1) “the son Xingtong dedicates whole-
+heartedly (yixin gong yang )”; (2) “the deceased Dun[huang] (il-
+legible) bin “(perhaps the donor’s father)”; (3) “the deceased mother
+madame Yin dedicates wholeheartedly”; (4) “the Tenth Daughter ded-
+icates wholeheartedly. Married into the Yin family.”39
+The central inscription identifies the main donor and his motivations:
+The one who caused this to be painted is the disciple of pure faith Kang Qingnu
+.40 His body lodges in the Burning House and he fears to fall into the
+Five Evil Ways. Fortune and disaster are inconstant; his heart longs to be among
+the ranks of the emancipated. Now he is again attacked by sickness and pain and
+cannot obtain relief. He desires that his small afflictions should rapidly retreat
+from his body and all misery from his constitution. May his merit cause [Ksiti-
+garbha’s] staff to shake so that in hell lotus buds grow; and may his radiant
+gem shine forth in the Dark Ways, till they be turned into the semblance of the
+Pure Land. Also he desires that his parents and relations by marriage and all his
+connections may rest in health and security and that his brothers, cousins, and
+all the collateral branches of his family may be moistened with the dew of a
+prosperous portion. Qianlong 4th year (963), a guihai year, 5th month 22nd day
+(June 16).41
+This somber plea for salvation and release from pain is well matched
+with the painting’s subject, the bodhisattva who rescues loved ones from
+hell, surrounded by figures representing the “dark ways” or undesirable
+rebirths. The prayer for relief from suffering is thick with Buddhist allu-
+sions that link the personal and the universal. Weakness and affliction is
+complemented by the image of the power of the sufferer’s merit to activate
+the salvific mercy of Ksitigarbha, such that there is a sense of the suppli-
+cant’s individual connection with the bodhisattva. The final part of the
+prayer expresses a conventional wish for family health and prosperity
+38Asuras are beings that are more powerful but also more passionate and violent than
+humans, and devas are gods, also subject to eventual death and rebirth. For a study of popu-
+lar beliefs about the six paths in medieval Chinese Buddhism, see Stephen Teiser, The Ghost
+Festival in Medieval China (Princeton, NJ: Princeton University Press, 1988).
+39Translation adapted from Waley, A Catalogue of Paintings Recovered from Tun-huang, 34.
+40The “Kang” surname indicates Sogdian origins.
+41Whitfield, Art of Central Asia, vol. 2, 318; translation adapted from Waley, A Cata-
+logue of Paintings Recovered from Tun-huang, 34.
+
+--- Page 20 ---
+154 Representations of Merit
+without alluding to a Buddhist context or to merit transfer. The soteriol-
+ogy evoked is thus closer to the “sacrificial” than the “karmic” mode; the
+purity of the supplicant is stressed over his sins, and he appeals directly
+to Ksitigarbha without visual or textual reference to the mediation of the
+Sa“gha.
+the advent of maitreya
+Contrasting with this evocation of illness and the sufferings of samsara,
+the next image I will discuss is one of the ideal donor in the ideal world.
+Both textually and visually, the prevailing tone of the second example, a
+tenth-century image of advent of the future Buddha Maitreya, presents a
+“bright” counterpoint to the darkness of the painting of Ksitigarbha and
+the six realms (see fig. 2).42 Scenes in the painting illustrate passages from
+the Maitreya-sutra,43 focusing on King Sa“ka and his consort ‡yamavati
+as ideal devotees and donors.
+Inscribed in the painting’s cartouches, passages from the Maitreya-sutra
+portray a paradise on earth, where there is no pain and nothing to fear.
+Beings are still subject to death, but it is said that “in those days the
+people of the land when their span of life is over, will go of their own
+accord to the tomb and die there.”44 Although the sutra and the painting
+evoke an idyllic time when everyone is freed from suffering and the world
+is made beautiful, they also tell us that in the midst of this bounty people
+realize that “even if for a thousand million years I escape the Three Evil
+Ways, the world is impermanent and life cannot be preserved forever.”45
+The painting shows scenes of the future when Maitreya will finally leave
+his own Tusita heaven to be born on earth, and myriads of his devotees
+will be reborn with him and become monks and nuns. First the king and
+then the queen and their son Devarupa will take the tonsure.46 The med-
+itating power of the Sa“gha is amply represented in the figures of monks
+who attend the central figure of Maitreya, the monk and possibly nun
+who accompany Maitreya as he visits an elderly couple in the city, and
+the clergy who assist in tonsuring the king, queen, crown prince, and their
+retinues.
+42Stein painting 11, in Whitfield, Art of Central Asia, vol. 2, pl. 12.
+43T. 14 (454) 423–25, trans. Kumarajiva.
+44Top right, first cartouche, in Whitfield, Art of Central Asia, vol. 2, 309. See T. 14 (454)
+424a.
+45Fourth cartouche, four men by central courtyard, in Whitfield, Art of Central Asia, vol. 2,
+310. See T. 14 (454) 424c.
+46Cartouche next to the king’s tonsuring, in Whitfield, Art of Central Asia, vol. 2, 311.
+See T. 14 (454) 424c. Cartouche next to the tonsuring of the queen and prince, in Whitfield,
+Art of Central Asia, vol. 2, 312. See T. 14 (454) 424c.
+
+--- Page 21 ---
+History of Religions 155
+Fig. 2.—Detail of photo of Paradise of Maitreya (Stein painting 11, Stein
+Collection, British Museum). ç The Trustees of The British Museum. Used by
+permission.
+In the city where Maitreya is born the earth is gold sand, and heaps of
+gold and silver lie about.47 This lack of necessity is the ground on which
+the offering table is set up and laden with precious vessels, and the king’s
+jewelled throne is set forth to be dismantled and given to Maitreya.48 Two
+copyist errors provide food for thought regarding donation. At the end of
+the scriptural passage about the heaps of gold and silver, the copyist has
+added the superfluous phrase “will make offering” (gongyang shi ).
+This phrase occurs as a standard code to subsequent passages detailing
+the offerings of devas and brahmans, but in the sutra itself the precious
+ground is not offered, it is simply the given.49
+47Fifth cartouche, four women on opposite side of central courtyard, in Whitfield, Art of
+Central Asia, vol. 2, 311. See T. 14 (454) 424a.
+48Representing the utopian end of kingship associated with Maitreya, the symbolism
+worked both ways, inspiring proscription of Maitreya cults by Emperor Wen of the Sui
+(r. 581–604), and embrace of Maitreya worship by Empress Wu Zetian (r. 684–705).
+See Jan Nattier, Once Upon a Future Time: Studies in the Buddhist Prophecy of Decline
+(Berkeley, CA: Asian Humanities Press, 1991); Antonino Forte, Political Propaganda and
+Ideology in China at the End of the 7th Century: Inquiry into the Nature, Authors, and Func-
+tion of the Tunhuang Document S. 6502 Followed by an Annotated Translation (Naples: In-
+stituto Universitario Orientale, 1976).
+49This recalls the motif of A¶oka “giving the earth” in a former life and at his death; see
+John Strong, The Legend of King A¶oka: A Study and Translation of the A¶okavadana (Prince-
+ton, NJ: Princeton University Press, 1983).
+
+--- Page 22 ---
+156 Representations of Merit
+The second error also occurs in conjunction with an offering, an offer-
+ing that does not occur in the sutra but is described in the cartouche next
+to the offering table. This inscription tells of Brahmans who will leave
+their homes and will “build a stupa (reliquary edifice) and make an offer-
+ing of it.”50 In the scripture, Maitreya gives the Brahmans the throne given
+to him by the king, and they then dismantle it.51 In the painting, however,
+the inscription in the cartouche refers to building a stupa while the visual
+representation shows the dismantling of a throne. This scribal disjunction
+results in an echo of Mauss’s “total prestation” of both sides of the gift—
+the creation of an object of sacred power through the destruction of an
+object of secular power, a potlatch in the court of Maitreya.52
+the bodhisattva avalokite vara, the nun yanhui,
+‡
+and her brother zhang youcheng
+The last inscribed painting that I will discuss is an image of the bodhisattva
+Avalokite¶vara (Guanyin) flanked by portrayals of the deceased siblings
+of the unnamed donor, dated 910 (see fig. 3).53 The figures of the siblings
+Yanhui and Zhang Youcheng are called portraits and are handled more in-
+dividualistically than the majority of standardized donor figures seen in
+these paintings. We cannot assume that they look like the deceased, but
+it is clear that they were intended to reflect the high quality of painting
+associated with portraits. The three inscriptions on the painting itself are
+similar in format to dedications on other ninth- and tenth-century paint-
+ings in the Dunhuang collection, but this painting is notable for having
+two additional inscriptions on paper attached to the back. In considering
+these inscriptions, I would like to draw attention to the various ways that
+the figures are identified and relationships of offering and “mutual aid” are
+established.
+1. Upper right green cartouche:
+Praise to the great merciful, great compassionate savior from hardship Ava-
+lokite¶vara Bodhisattva, in perpetual offering. Offered in the hope that the
+50Green cartouche between table and throne, in Whitfield, Art of Central Asia, vol. 2,
+312. See T. 14 (454) 424c.
+51Waley, A Catalogue of Paintings recovered from Tun-huang, 18.
+52Though the notion of the Northwest Indians’ destructive potlatch inspired much creative
+speculation, most notably in the work of Marcel Mauss and Georges Bataille, subsequent an-
+thropological reassessments indicate that the destructive potlatch was an anomaly caused by
+population decline and breakdown of traditions in the wake of European contact. See Philip
+Drucker and Robert F. Heizer, To Make My Name Good: A Reexamination of the Southern
+Kwakiutl Potlatch (Berkeley: University of California Press, 1967); Margaret Seguin, In-
+terpretive Contexts for Traditional and Current Coast Tsimshian Feasts (Ottawa: National
+Museums of Canada, 1985); Aldona Jonaitis, ed., Chiefly Feasts: The Enduring Kwakiutl
+Potlatch (Seattle: University of Washington Press, 1991).
+53Stein painting 14, Whitfield, Art of Central Asia, vol. 2, pl. 7.
+One Line Long
+
+--- Page 23 ---
+History of Religions 157
+Fig. 3.—Photo of Avalokite¶vara (Stein painting 14, Stein Collection, British
+Museum). ç The Trustees of The British Museum. Used by permission.
+empire may be peaceful and that the Wheel of the Law may continually turn
+therein. Secondly, on behalf of my elder sister and teacher, on behalf of the
+souls of my deceased parents, that they may be born again in the Pure Land,
+I reverently [had this image of] the Great Holy One made, and dedicate it
+wholeheartedly.54
+54The cartouche should be read from left to right; see Whitfield, Art of Central Asia,
+vol. 2, 301.
+
+--- Page 24 ---
+158 Representations of Merit
+The “perpetual offering” of devotion is represented in the words of the
+inscription, by the fact of having had the painting made, and by the por-
+traits of the two deceased represented in the attitude of offering worship
+to Avalokite¶vara. Following a pattern found in a number of other such
+paintings, transfer of the merit of this perpetual offering is first dedicated
+for the sake of the welfare of the empire, linking this with the practice of
+the Dharma, and then turns to personal dedications. The parents and the
+elder sister-nun who are to receive the merit are identified not by name
+but by their relationship with the donor (who might be either male or
+female). They appear to be set apart for special respect, and the nun,
+identified as the donor’s teacher, is mentioned before their parents. This
+sister-teacher of the donor is portrayed in the painting, but the parents are
+not. Also on the painting itself is the following identification by name of
+the younger brother portrayed in the painting, who is not mentioned in
+the above inscription.
+2. Lower right white cartouche:
+[On behalf of] my late younger brother the Probationary Chamberlain Zhang
+Youcheng , dedicated wholeheartedly.
+Also on the face of the painting, above the portrait of the nun, is a large
+cartouche of prayers for the deceased, with the dedication date.
+3. Left, darker white cartouche:
+All things born are unstable as a lightning-flash;
+They perish as soon as their karma is exhausted, for they have no permanence.
+But the compassionate Avalokite¶vara rescues creatures of every sort;
+with love, how painstakingly he builds a bridge [to salvation]!
+Giving insubstantial wealth (sheshi foucai ) to make a portrait (zhen-
+xiang ),
+the beams of his light flash and glint in the splendor of a colored painting.
+I only pray that the dead may be born in the Pure Land,
+that they escape the pain of the Three Ways and mount to the Heavenly Halls.
+Tianfu 10th year, a gengwu year, 15th day of 7th month finished and inscribed.55
+Here the fundamental Buddhist theme of salvation from impermanence
+is evoked, though the soteriology is inconsistent with classic Buddhist
+soteriology, which holds that it is the continual accumulation of karma
+that causes death and rebirth, and exhaustion of karma is liberation. How-
+ever, the notion that impermanent good karma/good deeds will be ex-
+hausted unless transmuted by compassion echoes Huiyuan’s explanation
+55Translation adapted from Waley, A Catalogue of Paintings Recovered from Tun-huang, 27.
+One Line Long
+
+--- Page 25 ---
+History of Religions 159
+of merit transfer as a function of the nature of reality. As described pre-
+viously, according to the rubric of “merit transfer of reality” the intrinsi-
+cally impermanent nature of all dharmas, including good deeds, is “made
+secure by accordance with the absolute” through the practice of giving
+away merit for the sake of others. In this prayer the donor alludes to his
+or her offering of the painting on behalf of the dead. At the same time,
+the donor appeals to Avalokite¶vara’s compassion, which is extended to
+“all sorts” of beings, implying that even those who may not be worthy
+according to the universal laws of cause and effect may still hope for re-
+birth in the Pure Land through faith in the bodhisattva.56
+Moreover, in the line “the beams of his light flash and glint in the
+splendor of a colored painting,” we see a reflection of the notion that
+images have individualized numinous powers.57 This was a repeated
+theme in both Indian and Chinese Buddhist popular stories, and its Chi-
+nese manifestations were also influenced by indigenous metaphysical
+notions of the relationship between natural sympathetic resonances (gan-
+ying ) and supramundane powers (gantong ). The eighth century
+also saw the beginnings of a sophisticated discourse playing on the idea
+of the virtual nature of all things, body and image alike. References to
+the mutually resonating qualities of physical bodies, natural phenomena,
+salvific manifestations, and artistic representations were developed in the
+discourses of Chan Buddhism, literati poetry, and art appreciation. By the
+Song, we see playful and witty references to the notion that representa-
+tion was the “true form” of emptiness, because it directly embodied vir-
+tuality, other-dependence, and illusory self-referentiality drawing attention
+56Avalokite¶vara is known as the attendant and mediator for the Buddha Amitabha, who
+presides over the Western Pure Land. According to popular beliefs based on the Pure Land
+scriptures (T. 12 [360], [365], and [366]), while still a bodhisattva Amitabha vowed to dedi-
+cate his merit in order to create a special realm wherein beings could be reborn with ideal
+conditions for practice of Dharma and swift liberation. See Luis O. Gómez, The Land of
+Bliss: The Paradise of the Buddha of Measureless Light: Sanskrit and Chinese Versions of
+the Sukhavativyuha Sutras (Honolulu and Kyoto: University of Hawai’i Press and Higashi
+Honganji Shinshu Otani-ha, 1996); and Fujita Kotatsu, “The Textual Origins of the Kuan
+Wu-liang-shou ching: A Canonical Scripture of Pure Land Buddhism,” in Chinese Buddhist
+Apocrypha, ed. Robert E. Buswell Jr. (Honolulu: University of Hawai’i Press, 1990), 149–73.
+57There are many stories of images with powers in Chinese lore, and I will cite two that
+are readily at hand. The first is a story from the Song gaoseng zhuan (Song biog-
+raphies of eminent monks) of an image with powers derived from the physical substance of
+its subject; it was said that a clay image of the Chan master Wuxiang that had been
+mixed with his ashes was responsible for performing a miracle; Song gaoseng zhuan, T. 50
+(2061) 832c24–833a3. Another story in the Taiping yulan shows that the devotion or
+qualities of the maker of an image could also give it numinous power. It was said that Yong-
+jing temple in Chang’an had a stone image five chi (Chinese feet) tall that was made by
+the fourth daughter of King A¶oka; the image was crudely made but had great numinous
+efficacy. Taiping yulan, fascicle 657, cited in Zengding Tang liangjing chengfang kao
+, ed. Li Jianchao (rev. and expanded Study of the City Streets of the
+Two Capitals of the Tang), originally compiled by Xu Song (Xian: San Qin , 1996), 72.
+
+--- Page 26 ---
+160 Representations of Merit
+to its illusory nature.58 Although the Dunhuang painting inscription does
+not partake in this style of discourse, it does evoke analogy and contrast
+between the “lightning flash” instability of the physical body and the
+beams of the transcendent that are made present in the painting by the
+power of the bodhisattva’s salvific merit.
+Turning the painting over, we find two inscriptions on the back:
+4. Identification on paper attached to back:
+Identical with number 2.59
+5. Inscription on paper attached to back:
+Praise to the figure of the Bodhisattva Avalokite¶vara,60 respectfully offered
+on behalf of the deceased nun who was Dharma-Vinaya Ordination Admitter
+(Falu lintan ) of Paguang monastery, the Worthy Yanhui ,
+and on behalf of the Probationary Chamberlain Zhang Youcheng. These two
+portraits (maozhen ) are dedicated wholeheartedly, with the following gatha-
+appreciation (hezan ):
+Great indeed is the Law-King, his manifestations boundless;
+he roams through the Six Ways, and wherever suffering is, he is there first.
+When he is evoked he arrives at once, rescue is assured;
+he takes on the sufferings of beings who dwell in Jambudvipa.
+Mysterious, hard to discern, yet always at one’s side;
+according to the minds of beings, he has transformations innumerable.
+The delusions of those who worship him are extinguished; the lives of those
+who make obeisance to him are lengthened.
+May departed loved ones not experience the slough and scalding [cauldron];
+may they be the beneficiaries of the Bodhisattva’s vow, and in his shadow enter
+the Western [Paradise],
+and may living loved ones’ days be prolonged for endless eons.
+Color painting, of the figure of the Great Holy One and the portrait of the nun
+Dharma-Vinaya [Ordination Admitter], [on such a day] finished and inscribed.61
+58For a discussion of these developments, see Wendi L. Adamek, The Mystique of Trans-
+mission (New York: Columbia University Press, forthcoming), chap. 7.
+59Whitfield, Art of Central Asia, vol. 2, pl. 8.
+60Namu Guanshiyin pusa yiqu . Qu is body, form, and is the standard
+word used to itemize images. For an example of a merit record of images, see the lists of
+groups of images in the Dunhuang ms. Pelliot 2641; the eulogy at the end praises the images
+as having the thirty-two major marks in brilliant array and the eighty minor marks of “com-
+pletely perfect bodies” (zhoubian shenqu ). In Zheng Binglin , Dunhuang
+beimingzan jishi (An annotated compilation of Dunhuang memorial in-
+scription eulogies) (Lanzhou: Gansu jiaoyu, 1992), 521–22.
+61Whitfield, Art of Central Asia, vol. 2, pl. 8. Translation adapted from Waley, A Catalogue
+of Paintings Recovered from Tun-huang, 28–29. The fifth inscription, with its preface iden-
+tifying the subject followed by a gatha appreciation (hezan), is very similar in format to a
+One Line Long
+
+--- Page 27 ---
+History of Religions 161
+In these eulogies and identifications on the front and back of the paint-
+ing, the interplay of redundancies and omissions create the impression of
+overlapping symbolic hierarchies. The donor’s brother and even her or
+his parents appear to be farther down the chain of reverence than her or
+his sister, but the brother’s name and rank appear three times, while the
+nun’s name and title are given only in the preface to the eulogy on the
+back. In the painting itself, however, the image of the nun is larger than
+that of her brother, and almost as large as that of the bodhisattva.
+Hierarchy was essential to the maintenance of the system of reciprocal
+benefit between clergy and lay believers. The clergy, on a level above
+the lay devotee but below the bodhisattvas, functioned as a “merit field”
+because they collectively represented the aspiration to liberation and ul-
+timate truth, the matrix within which “merit seeds,” on the level of cause
+and effect or conventional truth, were actualized. At the same time, the
+mediating role of monks and nuns was a function of proximity, to human
+suffering on the one hand and to the bodhisattva’s merit on the other. The
+bodhisattvas were likewise mediators between the human realm and the
+Pure Lands of the Buddhas.
+In the painting, the proximity of the three figures gives the impression
+that the deceased have immediate access to the bodhisattva, which in turn
+serves to bring the viewer closer to Avalokite¶vara. As noted, the figures
+of the nun Yanhui and her younger brother are carefully rendered, and
+rather than kneeling at the foot of the painting they stand upright. Seen in
+three-quarters view, the deceased flank the front-facing main image, in
+the manner of personal attendants. In other paintings, this is a treatment
+usually reserved for ideal bodhisattvas, devas, guardian deities, and monks,
+while the donors and deceased are usually portrayed kneeling or standing
+in a lower register. However, there are other Dunhuang paintings that
+portray identified monk or nun donors in the same register or on the same
+scale as the central image.62
+portrait eulogy, zhenzan , of which there are numerous examples in the Dunhuang
+cache. See Rao Zongyi , ed. in chief, Dunhuang miaozhenzan jiaolu bing yanjiu
+(Critical edition and study of Dunhuang portrait eulogies) (Taibei:
+Xinwenfeng, 1994); and Zheng Binglin, Dunhuang beimingzan jishi. We will examine a
+Chan zhenzan in the next section.
+62For other examples of conspicuous depictions of donors, see the following Dunhuang
+paintings in the Pelliot collection of the Musée Guimet: (1) MG. 17665 in Giès, ed., Les arts
+de l’Asie centrale, vol. 1, pl. 72. In this tenth-century image of Avalokite¶vara, the nun Xin-
+qing is the daughter of the donor, and both kneel at the feet of the main image. (2) MG.
+17778, in ibid., vol. 1, pl. 92. Kneeling in the lower register of this early tenth-century paint-
+ing of Eleven-faced Avalokite¶vara, the donor, the administrator Cheng Enxin , faces
+his deceased older sister, the nun Miaoda . Her image is also identified as a maozhen, a
+portrait. (3) MG. 25486, in ibid., vol. 1, pl. 93. In this painting of Twelve-faced Avalokite¶-
+vara dated 959, only the monk Fayuan (the uncle of the donor) kneels at the feet of the
+image, while the other deceased and living family members, including the principal donor
+Zhang Baozhi , are in the separate register at the bottom. Interestingly, there is no
+
+--- Page 28 ---
+162 Representations of Merit
+The colophon recording the completion of the painting reinforces the
+sense of connection between the transcendent and the human merit fields
+and mediators, for it identifies the image of the painting as the figure of
+the bodhisattva Avalokite¶vara along with a portrait of the nun Yanhui.63
+In the soteriology of skillful means, the image of the bodhisattva is as
+real (and as illusory) a site of salvific manifestation as any other form, as
+evoked in the verse above: “mysterious, hard to discern, yet always at one’s
+side; according to the minds of beings, he has transformations innumer-
+able.” Through the pairing of Avalokite¶vara and Yanhui in the colophon
+and the idealized attitude of Yanhui’s image, she appears to take on a
+pivotal role as both supplicant and mediator. The donor refers to Yanhui
+as her or his teacher, and she is identified as a ranking member of the
+clergy. The prayers dedicate the merit of the donation for the sake of
+deceased family members’ entry into the Pure Land in Avalokite¶vara’s
+“shadow,” but the manner of pictorial representation could suggest that
+the donor also hopes for Yanhui’s continued aid and intervention on
+behalf of “living loved ones” once she is successfully reborn in the Pure
+Land. Furthermore, the image of the younger brother is reminiscent of
+images of the “boys of good and evil” who flank Avalokite¶vara or the
+Kings of Hell in other paintings.64 Given these echoes, I would argue that
+this painting might reflect something of the older, pre-Buddhist belief in
+deceased ancestors as mediators for living family, translated into Buddhist
+iconographic and inscriptional idioms.
+image to go with the cartouche opposite Fayuan, which marks the dedication of the daughter
+of Zhang (Bao)zhi. Jean-Pierre Drège speculates that this cartouche should correspond to the
+image of the little girl beside Zhang’s wife and notes that this elevation of the cartouche
+without an image is curious; see ibid., vol. 1, notes to pl. 93. I am wondering if this might
+mean that the family had decided that she would become a nun in the future.
+63There is also overlapping and redundancy at work in the identifications of the type of
+image to which the figures belong. On the front, the painting of Avalokite¶vara is referred to
+as a zhenxiang , while in this inscription on the back his figure (qu ) is grouped with
+the maozhen of the nun and her brother. Jiang Boqin demonstrates that both
+zhenxiang and maozhen were used for portraits and Buddhist images, though here there
+appears to be a distinction. See his Dunhuang yishu zongjiao yu liyue wenming
+(Dunhuang arts, religion, and “rites and music” civilization) (Beijing:
+Zhongguo shehui kexue, 1996), 84–85. As noted above, the inscription on MG. 17778 also
+identifies the image of a deceased nun (dedicated by her brother) as a maozhen; see Giès, ed.,
+Les arts de l’Asie centrale, vol. 1, pl. 92. See also Soymié, “Les Donateurs dans les Peintures
+de Dunhuang,” 13 and 19.
+64Shan’e tongzi ; these boys or twins of Daoist origin attend all persons through-
+out life, recording good and bad deeds that will determine one’s future incarnations. I do not
+know of other research suggesting that donors may have had themselves or loved ones por-
+trayed as one of these attendants, but this may be a topic worthy of further exploration.
+Regarding the background and iconography of these figures, see Giès, ed., Les arts de l’Asie
+centrale, vol. 1, pl. 52; see also Stephen F. Teiser, The Scripture on the Ten Kings and the
+Making of Purgatory in Medieval Chinese Buddhism (Honolulu: University of Hawai’i Press,
+1994), 184–93, 203.
+
+--- Page 29 ---
+History of Religions 163
+economies of merit
+I would like to draw some attention to the economic ramifications of the
+notion of monks and nuns as mediators for their families. Regarding the
+painting of Avalokite¶vara, the nun Yanhui, and her brother Zhang You-
+cheng, Roderick Whitfield suggests that the lavish inscriptions and the
+portrait style, which would have been considerably more expensive than
+generic donor images, may have been due to the ostentatious Buddhist
+giving discernible in other artifacts of this period, corresponding to the
+period of ascendancy of the Cao family.65 We could thus take the ref-
+erence to “giving insubstantial wealth” (sheshi foucai ) as a
+means to draw attention to the expenditure while at the same time gain-
+ing merit for nonattachment.66 However, this phrase also usefully points
+to concrete economic distinctions between landed and liquid wealth.
+Jacques Gernet, in his magisterial Buddhism in Chinese Society: An
+Economic History from the Fifth to the Tenth Centuries, explicates and
+often excoriates the connection between Buddhist monasteries and the
+volatile loan markets and money-making enterprises that expanded in
+the ninth and tenth centuries to the detriment of the hereditary manorial
+economy.67 Dunhuang, independently administered by prominent local
+clans who came into power upon the expulsion of the Tibetans in 860
+and maintained their position until the Xi Xia takeover in 1036, reflects
+this trend. Indeed, the social and economic documents found in Dunhuang
+provide some of the most concrete remaining evidence of a medieval mer-
+cantile middle class, and surviving examples of its portable and mass-
+produced art also attest to the growing economic power of this sector.
+Drawing on the insights of Pierre Bourdieu’s The Logic of Practice, I
+would like to briefly examine this economic trend in terms of the work-
+ings of “symbolic capital.” Symbolic capital refers to the accumulation
+of wealth, authority, and goodwill that enables its possessors to mediate
+the misrecognition or masking of exploitative or asymmetrical economic
+relationships in traditional societies.68 This collective misrecognition
+converts starkly economic relationships into social interdependencies in
+a world where “scarcity of time is so rare and scarcity of goods so great.”69
+When we look at Dunhuang art, manuscripts, and social documents,
+we could say that “everything happens as if” symbolic capital was also
+65Whitfield, Art of Central Asia, vol. 2, 301.
+66Here one could draw analogies with Derrida’s discussion of the “counterfeit coin,” but
+I do not want to further tax the reader’s goodwill with an excursus within an excursus and
+therefore refer those interested to the second part of Given Time: I. Counterfeit Money.
+67Regarding Gernet’s work, Buddhism in Chinese Society, see n. 10 above.
+68Pierre Bourdieu, The Logic of Practice, trans. Richard Nice (Stanford, CA: Stanford
+University Press, 1990), 112–21.
+69Ibid., 17.
+
+--- Page 30 ---
+164 Representations of Merit
+being transformed by processes of rationalization, capitalization, and spe-
+cialization, reflecting the social and economic pressures attendant on ex-
+pansion of trade and financial markets. And it is through the notion of merit
+that we can see these processes working. Merit would seem to be sym-
+bolic capital par excellence, and while it does perform the local social
+sublimating function of symbolic capital, it also evokes the power of im-
+personal universal law, Dharma. Consider, for example, the rationale pro-
+vided by Huiyuan in the Dasheng yi zhang discussed above. He explains
+that through merit transfer (i.e., continual reinvestment of merit), one is
+able to turn good deeds into permanent assets that increase limitlessly
+and “transcend the triple-world.” Through circulating rather than stock-
+piling the merit they gain, beings are able to make their spiritual good/s
+secure through “accordance with the absolute.”70 By implication, this
+economy dwarfs the aims of traditional symbolic capital—mere worldly
+prestige, family honor, and prosperity.
+In the traditional manorial system, family interests were bound to the
+costly and time-consuming “circuit of giving” necessary to the mainte-
+nance of symbolic capital. Rituals of reciprocity between host and client
+naturalized their asymmetry, converting the raw power differential into a
+mutually (though not equally) beneficial relationship that, like land and
+debts, could extend through generations. Gernet shows that from the fifth
+century onward the growing Buddhist economy copied the traditional land-
+bound economy in many ways, but it was also porous to the more liquid
+mercantile economy. Monks and nuns could function as mediators in many
+ways, for while they were symbolically independent and to varying de-
+grees economically independent of traditional family ties, they also, as
+Hao Chunwen shows, continued to be part of their natal families and net-
+works.71 In their dual function as members of a family and members of
+an entity independent of family, the clergy were ideal agents for the pro-
+cesses of capitalization.
+Thus it is no anomaly that the clergy were so instrumental in developing
+protocapitalist sectors of the medieval Chinese economy, so that temples
+functioned as early banking institutions. They offered loans at interest,
+maintained a storehouse of liquid assets (donated objects of silk and metal,
+pawned items, and cash), and held goods and cash on deposit for traveling
+merchants. The clergy were also actively engaged in industry, commerce,
+services, and the arts. Those who had “left home” were able to mediate
+70See above, Dasheng yi zhang, T. 44 (1851) 637a–b.
+71Hao Chunwen , Tang houqi Wudai Songchu Dunhuang sengni de shehui sheng-
+huo (The social life of Buddhist monks and nuns in
+Dunhuang during the Late Tang, Five Dynasties and Early Song) (Beijing: Zhongguo shehui
+kexue, 1998).
+
+--- Page 31 ---
+History of Religions 165
+between the traditional clan system and the economic forms that threatened
+that system. The Sa“gha was a medium of transfer between two systems
+of wealth production, and the notion of merit and merit transfer is an
+ideal representation of this conduit function. The circulation of portable
+wealth through the more mobile and liquid aspects of the Buddhist
+economy was also backed by the traditional “gold standard” of land, im-
+perial honors, and metal wealth bound up in the large monasteries. These
+monasteries in turn became centers for other forms of social fluidity and
+professional specialization—printing, the arts, public education and wel-
+fare, and alternative employment for those unwilling or unable to enter
+into civil service.
+A darker side of economic fluidity may also be reflected in the Dun-
+huang prayers for relief from disease, such as we saw in the donor’s lament
+in the painting of Ksitigarbha. Although treatment of illness is clearly a
+major focus of religious practice in most premodern societies, we could
+speculate that the networks of travel and cultural exchange sustained by
+merchants and monks may have facilitated the spread of infectious dis-
+eases from one region to another. Again at a nexus between traditional
+categories and the new interstices, the monasteries served as both inns
+and hospitals, offering care for the afflicted that was not dependent on
+family connections. Michel Strickmann gives us a glimpse of the vivid
+array of treatments for disease contained in Buddhist and Daoist mantic
+scriptures and manuals produced in China between the fifth and twelfth
+centuries.72
+Visual and textual representations of heavens and Pure Lands were the
+crowning glory of Buddhism’s symbolic capital. “The potlatch in Mai-
+treya’s court” reflects the utopian vision of the benefits of the traditional
+economy, which depended on strict hierarchies, impossibly transformed
+into wealth for all alike. Images of tonsuring are symbolic of transfer into
+this utopia. However, at the other extreme lay the Buddhist hells, also
+vividly evoked in Dunhuang manuscripts and paintings. The balance-sheet
+approach to moral accountability, reflected in the “boys of good and evil”
+who keep track of one’s deeds, can be traced through centuries of mutual
+influence between Buddhist and Daoist notions of the afterlife. We may
+also see this obsession with moral accounts as a response to the frighten-
+ing aspects of a market economy, in which the circulation of goods ex-
+tended beyond the control of the local clans and defaulters and charlatans
+might hope to escape the gaze of local and imperial authority. Popular
+Buddhist works such as the Scripture on the Ten Kings could assure
+devotees that lack of accountability on earth would be taken care of in
+72Michel Strickmann, Chinese Magical Medicine (Stanford, CA: Stanford University
+Press, 2002).
+
+--- Page 32 ---
+166 Representations of Merit
+Yama’s court, yet they could also pledge that aid would be extended to
+those who ended up in hell.73
+In Huiyuan’s treatise, bodhisattvas as a class function as mediators for
+the universal cause-and-effect laws of the transmutation of good and goods
+into merit, while in the Dunhuang paintings paradigmatic bodhisattvas
+function as personal saviors of the faithful. Ksitigarbha could deliver
+even the unworthy from hell, Maitreya could welcome devotees into his
+own heaven to await induction into the ideal Sa“gha of the future, and
+Avalokite¶vara could aid those praying to be reborn into the Pure Land,
+where ultimate liberation is swiftly achieved. The mediating function of
+monks and nuns was also due to both collective and personal identities.
+Collectively the Sa“gha represented guidance and intercession for the
+laity, and individual monks and nuns served as links connecting various
+kinds of spiritual, economic, social, and family relationships.
+The status of nuns is particularly expressive of the pivotal functioning
+of clerics, mediating between universal and personal salvation and be-
+tween clerical and household spheres. Unlike daughters and sisters who
+left home to be absorbed into their husband’s household economy, nuns
+could remain part of their natal family’s system of interests and at the same
+time provide access to the beneficial networks of the Sa“gha. Normative
+notions of Sa“gha authority centered on male lineages of master and dis-
+ciples, and, while nuns were not privileged in this alternative kinship
+structure, their identities were also not as thoroughly transmuted by it.
+From the evidence provided by Dunhuang paintings and documents, and
+also by memorial inscriptions from other areas of China, we are able to
+discern that nuns’ relationships with their natal families often formed an
+important part of their Sa“gha identities.74
+In the system of circulation of symbolic capital, living and deceased
+nuns had a unique status. They were owed nothing by the family, and yet,
+unlike unmarried daughters, they were a credit to the family. Through the
+Sa“gha a nun could even be a creditor to the family, but she was safely
+“outside” (chujia ) even if she still lived in the family compound and
+ate family grain—which counted as a gift to the Sa“gha and earned
+merit. By virtue of being outside the family, she was not someone who
+could lay competing claims to autonomous deployment of clan resources.
+By virtue of being in the family, she was someone who could deploy the
+merit of belonging to the clergy for the benefit of the family. Therefore,
+she was in a unique position as a childless daughter, sister, and aunt
+73See Stephen F. Teiser, The Scripture on the Ten Kings and the Making of Purgatory in
+Medieval Chinese Buddhism.
+74This observation is based on Hao Chunwen’s Tang houqi Wudai Songchu Dunhuang
+sengni de shehui shenghuo cited above and also on my current research on memorial inscrip-
+tions for Buddhist nuns.
+
+--- Page 33 ---
+History of Religions 167
+whose accomplishments and services could be acknowledged and even
+celebrated. Furthermore, as I suggested in connection with the portrait of
+Yanhui, a deceased nun or monk could be seen as an otherworldly mediator
+for living and dead family members.
+According to Bourdieu, cultural practice and symbolic structure are not
+in a simple relationship of avowed significance over and against uncon-
+scious motivation, and it is not that the relations of practice and symbolic
+structure must then be unmasked and interpreted by the theorist to reveal
+their true nature as facilitating rational economic and social interests. In
+Bourdieu’s analysis, “misrecognition” points precisely to the agents’
+recognition of the necessity for conscious manipulation on dual or mul-
+tiple levels. In medieval Chinese negotiation of these levels, the Buddhist
+notion of merit, and the function of the Sa“gha as agents of merit, were
+valuable additions to the repertoire of representations through which
+necessary misrecognition functioned. Buddhist practices contributed to
+socially destabilizing economic activities, but they also offered new
+spheres of cultural and social activity. I suggest that among other func-
+tions explored in this article, the notion of merit offered a symbolic rec-
+onciliation between systems in tension between the manorial and market
+economies. Merit represented the utopia of unlimited wealth, honor, and
+status within a system that was designed to protect these resources from
+overuse and depletion. Merit transfer afforded the possibility of satisfac-
+tion of social and familial debts and spiritual capitalization—not just the
+“keeping-while-giving” of traditional exchange, but also unlimited return
+on investments.75
+“no-merit” and portrait dharma
+In a well-known scene in the annals of Chan/Zen, the legendary first
+patriarch of Chinese Chan, Bodhidharma , meets Emperor Wu
+of the Liang (r. 502–49) and brusquely dismisses his meritorious
+activities. The episode was probably created by the “Southern School”
+advocate Shenhui (684–758), but it enjoyed many subsequent retell-
+ings.76 The following version is taken from the Lidai fabao ji
+75Annette Weiner analyzes Pacific systems of exchange that revolved around various forms
+of “inalienable” possessions, a system that she calls “keeping-while-giving.” See Inalienable
+Possessions: The Paradox of Keeping-While-Giving (Berkeley: University of California Press,
+1992).
+76The encounter is found in Shenhui’s Putidamou nanzong ding shifei lun
+(Treatise determining the true and false about the Southern School of Bodhi-
+dharma); in Hu Shi , Xinjiaoding de Dunhuangxieben Shenhui heshang yizhu liang-
+zhong (A new collation of two Dunhuang manuscripts
+authored by the Venerable Shenhui) (Taibei: Hu Shi jinian guan, 1970), 261–62. See also
+Yanagida Seizan , “Goroku no rekishi” (A history of the “Recorded
+Sayings” genre), Toho gakuho 57 (1985): 379–81.
+
+--- Page 34 ---
+168 Representations of Merit
+(Record of the Dharma-Jewel through the ages), a late eighth-century
+work that was roughly contemporaneous with the Platform Sutra and was
+associated with the antinomian tendency of Chan.77 It is said that the
+Indian prince-turned-monk Bodhidharma had just disembarked in China
+when he was met by the emperor: “Emperor Wu of the Liang came out of
+the city to welcome him personally. He had [Bodhidharma] ascend to the
+audience hall and asked him, ‘What teachings to convert beings has the
+Venerable brought from the other country?’ The Great Master [Bodhi]-
+dharma replied, ‘I have not brought a single word.’ The emperor asked,
+‘What merit have We gained in building monasteries and saving people,
+copying scriptures and casting statues?’ The Great Master responded, ‘No
+merit whatsoever. This is contrived goodness, not true merit.’”78
+Disciplies of Chan Master Wuzhu (714–774) of the Bao Tang
+(Protect the Tang Dynasty) school that produced the Lidai fabao ji took
+the words “no merit” quite literally, perhaps more literally than their origi-
+nal proponent Shenhui had intended, and gave up conventional Buddhist
+works.79 Above, in Huiyuan’s glorification of merit in the Dasheng yi
+zhang, the self-perpetuating and permanent merit field is sustained by the
+limitless multiplications of even the smallest act of merit transfer of a
+good deed, and this is precisely the conventional soteriology that the Bao
+Tang rejected. However, the eighth-century Chan experiment with “no
+merit” did not supersede the sixth-century merit field. As traces of the
+Bao Tang faded, the exegete Zongmi (780–841) argued that they had
+misinterpreted the doctrine of sudden awakening. Zongmi upheld the
+view that true practice is possible only after realization of Buddha nature,
+and thus he was, doctrinally speaking, on the same ground as Huiyuan, the
+merit field wherein all practices and paths are the subordinate function of
+ultimate wisdom.80
+During the Bao Tang’s brief antinomian moment, however, how did
+they apply the doctrine of “no-merit”? Elsewhere I have considered the
+77Lidai fabao ji texts and fragments were preserved only among the Dunhuang materials;
+the complete or nearly complete texts are P. 2125, S. 516, P. 3717, and Jinyi 304. (P. = Dun-
+huang manuscripts in the Pelliot collection of the Bibliothèque Nationale, S. = Dunhuang
+manuscripts in the Stein collection of the British Library, Jinyi = Dunhuang ms. in the
+collection of the Tianjin Museum of Art.) My translation is from S. 516, with reference to
+Yanagida Seizan’s annotated redaction of P. 2125 in Shoki no zenshi II: Rekidai hoboki
+(Early Chan history II: Lidai fabao ji) (Tokyo: Chikuma shobo,
+1976). I cite the page and line numbers in the Taisho edition because it is the most readily
+available, but its Lidai fabao ji is not the best redaction.
+78Lidai fabao ji, T. 51 (2075) 180c19–23.
+79Wuzhu and his disciples were later designated the “Bao Tang” lineage, derived from the
+name of the temple they occupied, the Dali Bao Tang si in Chengdu , Jiannan
+(modern-day Sichuan). The Lidai fabao ji was probably composed sometime between
+774 and 780 at the Bao Tang monastery by an anonymous disciple or disciples of Wuzhu.
+80See the discussion of Zongmi’s map of the path in Peter Gregory, Tsung-mi and the
+Sinification of Buddhism (Princeton, NJ: Princeton University Press, 1991), 173–223.
+One Line Long
+
+--- Page 35 ---
+History of Religions 169
+background of Bao Tang practices at length, but here I will focus on the
+portrait-eulogy, zhenzan , commemorating the portrait of the deceased
+Chan Master Wuzhu.81 This eulogy is included at the end of the Lidai
+fabao ji, which is the sole remaining relic of the Bao Tang; the fate of the
+portrait is unknown.
+The author of the Lidai fabao ji portrait-eulogy expresses his devotion
+to Wuzhu by praising the life breath infused into the portrait by the artist’s
+skill and the subject’s intrinsic virtue:
+Accordingly we summoned the fine artist, secretly he made the painting. [The
+artist] brandished his brush and produced the characteristics, and gazing at the
+majestic response-body (yingshen ) separate from characteristics and emptied
+of words, we see the expansive vessel of the Dharma. His attainments are like
+Heaven’s gifts, his bones (i.e., intrinsic qualities) are not like those of this world.
+How silently mysterious and fine! [The portrait] seems to be truly breathing,
+the face quivers and wants to speak, the eyes dance and are about to see. “I
+look up and it is ever loftier, I venerate and it is ever more dear.”82
+Wuzhu’s portrait is called a response body, a salvific manifestation and
+a “vessel of the Dharma.” A few lines before the passage quoted, the
+eulogist also claims: “Those who gaze at the portrait are able to destroy
+evil, those who rely on the Dharma are able to attain the mystery.”83
+Wuzhu’s portrait is thus evoked as having the qualities of an image of a
+Buddha of bodhisattva, the image itself becoming a focus of devotion
+and a site of aid. We recall that the eulogy portion of the inscription on
+the image of Avalokite¶vara, above, also praised the bodhisattva’s salvific
+transformations, conceptually analogous to the notion of yingshen: “Mys-
+terious, hard to discern, yet always at one’s side; according to the minds
+of beings, he has transformations innumerable. The delusions of those
+who worship him are extinguished, the lives of those who make obei-
+sance to him are lengthened.” In the Lidai fabao ji eulogy, this power of
+salvific manifestation is attributed to both Chan Master Wuzhu and his
+portrait.
+Buddhism has a long history of relic veneration, and stupas that were
+said to enshrine the relics of the Buddha, his disciples, and subsequent
+exemplary monks were important sites of devotional offerings made by
+both clergy and laity. In China, the relics of eminent monks were some-
+times fashioned into images such as lacquered mummies and clay statues
+mixed with the ashes of the deceased, and tales of wonder-working were
+81See my study and translation of the Lidai fabao ji (entitled The Mystique of Transmission).
+82Lidai fabao ji, T. 51 (2075) 196a22–26. The last phrase is an adaptation of Yan Hui’s
+praise of virtue in Lunyu 9.10; see Arthur Waley, trans., The Analects of Confucius
+(London: George Allen & Unwin, 1938), 140.
+83Lidai fabao ji, T. 51 (2075) 196a11–12.
+
+--- Page 36 ---
+170 Representations of Merit
+frequently associated with such images. However, the notion that the
+painted image of a recently deceased Buddhist monk was a kind of re-
+sponsive manifestation of the Dharma appears to have been uncommon.84
+Wuzhu, moreover, does not simply represent the power of ordinary
+Buddha-Dharma. It is the distinctive Chan Dharma of sudden awakening
+that is evoked in the eulogy: “Just so did our Venerable ground his teach-
+ings and transmit his Dharma. He displayed the meaning of no-thought,
+not moving and not still. He expounded the teaching of sudden awakening,
+no-recollection and no-thought. He often told his disciples, ‘The Dharma
+is just this, not something verbal explanation can reach. Our Ancestral
+Master Dharmatrata (Bodhidharma) transmitted these essentials of the
+Dharma, passed from legitimate heir to legitimate heir. It is the secret
+teaching of the Buddhas, it is the Prajñaparamita.’”85
+Sudden awakening (dunwu ) and no-thought (wunian ) were
+by then established as the hallmarks of Southern School Chan, and for
+sheer number of repetitions of the term “no-thought” in a single text, the
+Lidai fabao ji surely has no equal. Bernard Faure has cast a searching
+light on the vivid array of ritual and representational innovations, appro-
+priations, and contradictions generated by Chan subitist rhetoric.86 We
+may see a manifestation of the paradoxical effects of this “rhetoric of im-
+mediacy” at work in the Bao Tang evocation of their teacher’s portrait.
+On the one hand, Wuzhu’s disciples commemorated him in a conventional
+manner—they commissioned an image and wrote an inscription express-
+ing devotion to the teacher and his image. At the same time, they identify
+the focus of that devotion as the doctrine of no-thought, the subitist
+teaching that both cultivation and culmination of the Buddhist path were
+fulfilled in the nonconceptual realization of Buddha nature, without de-
+pendence on the mediation of Buddhas, bodhisattvas, clergy, or rituals.
+In Song dynasty Chan, the play of identity and difference among rep-
+resentation, ritual, and nondual Buddha nature would become a sophis-
+ticated game in the Chan paradoxical repertoire, but here devotion to the
+image is not ironical and the paradox is not intentional.
+Let us consider the pairing of the teaching of no-thought with “no-
+recollection,” wuyi . This is one of the “three phrases” Wuzhu claims
+to have inherited from his putative master, the Korean monk Wuxiang
+(684–762). Wuxiang and Wuzhu are portrayed as being connected
+in thought, and in the following passage Wuzhu receives his first trans-
+84This claim is based on initial examination of Dunhuang zhenzan (see Rao Zongyi, ed.,
+Dunhuang maiozhenzan jiaolu bing yanjiu), but I hope to make a more comprehensive study
+of portraits and portrait eulogies as part of my research on donor practices.
+85Lidai fabao ji, T. 51 (2075) 195c27–196a5.
+86See particularly Bernard Faure, The Rhetoric of Immediacy: A Cultural Critique of Chan/
+Zen Buddhism (Princeton, NJ: Princeton University Press, 1991).
+
+--- Page 37 ---
+History of Religions 171
+mission of Wuxiang’s essential teaching in the form of “three phrases,”
+without having ever been in his presence. Wuxiang and Wuzhu are iden-
+tified as sharing a mysterious resemblance, like “transformation bodies”
+(huashen ), and it is their mutual resonance as related salvific mani-
+festations that enables this long-distance, instantaneous transmission:
+It happened that there was a merchant [named] Cao Gui who came to pay his
+respects [to Wuzhu] and asked, “Has the Venerable ever been to Jiannan? Do
+you know the Venerable Kim?” [Wuzhu] answered, “I don’t know him.” Gui
+said, “Your features are exactly like those of the Venerable Kim. You [both]
+have a mole above the bridge of your nose, and the shape of your face so re-
+sembles that of the Venerable in our locale that one could even say there is no
+difference. It must be a transformation-body (huashen).”
+The Venerable asked Cao Gui, “So the layman has come from Jiannan. [Tell
+me], what doctrine does that Venerable preach? Cao Gui replied, “No-recollection,
+no-thought, and do not be deluded (wuyi wunian mowang . . .).”87
+When the Venerable heard this teaching he understood clearly, and from afar he
+met the Venerable Kim face-to-face.88
+Here we see the “three phrases” that are partially repeated in the allu-
+sion to Wuzhu’s teachings as “no-recollection and no-thought” found in
+the portrait eulogy discussed above.89 The Lidai fabao ji authors claim
+that Wuxiang taught “no-recollection is the precepts, no-thought is med-
+itation, and ‘do not be deluded’ is wisdom.”90 The phrase “No-recollection
+is the precepts” illustrates the antinomian “formless practice” for which
+the Bao Tang disciples were infamous. Particularly, they were criticized
+for not maintaining a well-cultivated merit field fertilized by observation
+of the precepts, daily prayers, dedications, and scriptural recitations. They
+chose to disassociate themselves from the cycle of offerings, and it is
+said that they sometimes went hungry and cold as a result. The Bao Tang
+radical reduction of all Buddhist practice to wunian and wuyi did not sur-
+vive, and Wuxiang’s other followers were more famous for promulgating
+87The last character is the focus of a controversy, and a possible copyist’s error in one
+of the mss. does not help matters. S. 516 has , “to forget,” while P. 2125 has , “false” or
+“deluded.” In the next section of the Lidai fabao ji, Wuzhu makes a vehement claim that
+Wuxiang meant , “deluded” and not , “to forget” (189a14–21), so use of in S. 516
+points either to an editing error or is meant to show that Cao Gui misunderstood.
+88Lidai fabao ji, T. 51 (2075) 186b8–17.
+89The phrase that is omitted in the eulogy, mowang (not being deluded) is disputed,
+as noted above. The Chan scholar Zongmi considered the use of to be Wuzhu’s
+mistaken understanding of Wuxiang’s own usage mowang (do not forget); see Yuanjue
+jing dashu chao (Subcommentary to the scripture of perfect enlightenment),
+ZZ. vol. 14; 278d. ZZ. = Nakano Tatsue , ed., Dai Nippon zokuzokyo ,
+150 vols. (Kyoto: Zokyo shoin, 1905–12).
+90Lidai fabao ji, T. 51 (2075) 185a14.
+
+--- Page 38 ---
+172 Representations of Merit
+his special style of vocalizing nianfo (recitation of the Buddha’s
+name), also mentioned in the Lidai fabao ji.
+Indeed, the tension and complementarity between wunian and nianfo
+is at the crux of the question of Wuzhu’s Dharma as embodied in his por-
+trait. Wunian is usually translated as no-thought, while nianfo also points
+to a related meditative aspect of nian and is often translated “Buddha
+recollection.” This is one of the most basic types of meditation, buddha-
+anusmrti, the practice of recalling in detail (yinian ) the merit and
+marks (xiang ) of the Buddha. While in Japan wunian and nianfo would
+become hallmarks of a sectarian division between Zen and Pure Land
+practice, in China and Korea many masters advocated both, and Wuxiang
+(a Korean) was apparently one of the early proponents of this trend.
+However, though Wuzhu and the Bao Tang placed exclusive stress on the
+wunian aspect and did not overtly advocate nianfo, in effect Wuzhu’s
+portrait eulogy exhorts the viewer to nianshi or shiyi , that is, to
+recollect the merit and marks of the master.91
+This apotheosis should not be understood in the later tantric sense of
+guru veneration, but rather with reference to the related concepts of hua-
+shen, transformation body, and yingshen, response-body. In the context
+of Chinese Buddhist discourse on the trikaya, the three bodies of the
+Buddha, yingshen sometimes denotes the Sambhogakaya, the marvelous
+“merit body” or “reward body” that is the emanation of the Dharmakaya,
+the absolute/emptiness body of the Buddha. However, both yingshen and
+huashen are also used to refer to the Nirmanakaya, the “teaching body”
+or “transformation body” of the Buddha that manifests in the world to aid
+suffering beings. Robert Sharf shows that by the eighth century, notions
+of yingshen and huashen were integral to a lively and complex debate on
+the nature of the Buddha, a debate in which there was little consensus
+and no clear derivation from Indian sources. However, Sharf argues, Chi-
+nese Buddha body theories clearly reflect indigenous philosophical and
+cosmological theories of ganying , stimulus-response or sympathetic
+resonance.92 This centuries-old protean theory of natural resonance be-
+tween like essences was one of the many factors that contributed to an
+era of Buddhist experimentation with received notions of image, Dharma-
+kaya, Buddha, master, mind, and merit.
+It is this idea of sympathetic resonance—and the mysterious resem-
+blance that is its visible mark—that allowed the Lidai fabao ji authors to
+claim that Wuzhu received Wuxiang’s transmission without being in his
+presence. Because they are identified as huashen, as analogous salvific
+91These are neologisms and are not actually used in the text.
+92Robert H. Sharf, Coming to Terms with Chinese Buddhism: A Reading of the “Treasure
+Store Treatise” (Honolulu: University of Hawai’i Press, 2002), 77–133.
+
+--- Page 39 ---
+History of Religions 173
+manifestations, they can be understood as continually present to each other.
+Their shared wunian, no-thought, which is also Buddha-nature, allows
+them to connect with each other in thought. This notion that master and
+disciple share a mysterious connection is not a new one, and it was de-
+ployed similarly in the Platform Sutra story of Dharma transmission be-
+tween the fifth and sixth patriarchs. The Lidai fabao ji authors go further
+than most would dare, however, in claiming that mind-to-mind resonance
+was the sole means through which Wuzhu was given the transmission
+that established him as the single legitimate heir of the true Dharma.
+Moreover, the authors also tell an alternative version of the story, one
+that they wish to refute. Yet it is due to the Lidai fabao ji narrative that
+the need to deny a “false” version is still, twelve hundred years later, as
+much a part of the Bao Tang identity as their claim to the true Dharma of
+“no-recollection.”
+In his article on the dice-playing epic hero Nala, David Shulman play-
+fully comments on the desire for a self: “All in all, one would probably
+prefer to have a self. Something minimally integrated and not wholly dis-
+continuous, where memory, or its more powerful and personal multiform,
+forgetting, could reside.”93 Shulman’s insight that forgetting is “more
+powerful and personal” than memory as a matrix of identity helps eluci-
+date the Bao Tang community’s commemorative portrait. On the conven-
+tional level, the Bao Tang were concerned to establish an identity through
+a history of their master, set in the context of the history of the Chan
+school. Much of the Lidai fabao ji is taken up with defending Wuzhu’s
+highly dubious claim to Wuxiang’s lineage, and, as noted, this defense
+itself preserves for us the traces of what the Bao Tang wanted everyone
+to forget. Through Wuzhu’s portrait-eulogy, and the text in which it is
+enshrined, the Bao Tang community hoped to establish the symbolic cap-
+ital that would empower their “personal multiform,” their force of forget-
+ting, to become history.
+Though the Lidai fabao ji authors fashioned their polemical claims with
+utmost seriousness, these conventional means were implicitly justified by
+their portrait of the ultimate. On the absolute level, no-thought does not
+erase the unthinkable history (i.e., that Wuzhu did not actually inherit
+Wuxiang’s Dharma); it simply makes it irrelevant. No-thought is both the
+self-present truth of inherent Buddha nature and the talismanic symbol of
+investiture of those entrusted to teach this truth. The virtue of Wuzhu’s
+Dharma of no-thought is then said to be manifested in his portrait after
+his death, and the viewer is urged to look to Wuzhu’s image as a direct
+source of aid in his or her own realization. This is both a departure from
+93David Shulman, “On Being Human in the Sanskrit Epic: The Riddle of Nala,” Journal
+of Indian Philosophy 22 (1994): 1.
+
+--- Page 40 ---
+174 Representations of Merit
+and an appropriation of previous models. Wuzhu’s merit as manifested in
+his image is not claimed to be a source of miracles, but rather a source of
+the immediacy of Buddha nature. He is not represented as an ancillary
+mediator between the human and bodhisattvic realms but as a response
+body of the Dharma. His image does not symbolize the collective merit
+field of the Sa“gha but rather the no-merit of an antinomian and icono-
+clastic Sa“gha. Later, in the Song, the latent paradoxes in Wuzhu’s
+portrait-eulogy would be deployed more deliberately, and Chan icono-
+clasm and Chan rites of devotion to a lineage of deceased masters were
+assimilated into a comprehensive institutional and ritual structure. The
+notion that the merit of the salvific image manifests as no-merit and no-
+thought thus appears at a curious nexus in the annals of the Buddhist
+soteriology of the image.
+the image and the work of mourning
+In order to draw out further implications of the relationship among
+no-thought, no-recollection, and no-merit, I am going to turn now to dis-
+cussion of an issue raised in the introduction, namely, the possibility of
+interplay between the discourses of Buddhist emptiness and Derridean
+“impossibility.” Taking up an inquiry into the ontology of the image that
+emerges from a eulogy by Derrida, I will draw out some resonances and
+contrasts between this inquiry and the Buddhist soteriology of no-thought
+evoked in Wuzhu’s portrait-eulogy. Each of these forms of commemora-
+tive writing plays on the themes of the merit of the virtual and the virtue
+of the image.
+In a recent and perhaps prescient work, The Work of Mourning, Derrida
+collected his writings commemorating departed friends and colleagues.
+Among his eulogies for the pantheon of major contemporary philosophers
+he numbered among his close friends, Derrida’s engagement with Louis
+Marin’s work on the work of mourning, Des pouvoirs de l’image: Gloses,
+is a key to the collection as a whole and is provocative in the present con-
+text.94 In considering the self-deconstructive nature of the “work” of
+mourning, Derrida evokes the “law of mourning”—that a work of mourn-
+ing succeeds only in failing. Elsewhere he elaborates the impossible
+choice between inevitable infidelities to the dead; to appropriate the voice
+or effect of the loved one is a kind of narcissism, and to refrain is a be-
+trayal of the relationship—“How to leave him alone without abandoning
+him?”95 This is a variation on a key Derridean theme: the impossibility
+94Louis Marin, Des pouvoirs de l’image: Gloses (Paris: Editions du Seuil, 1993).
+95Jacques Derrida, The Work of Mourning, ed. Pascale-Anne Brault and Michael Naas
+(Chicago: University of Chicago Press, 2001), 225.
+One Line Short
+
+--- Page 41 ---
+History of Religions 175
+and absoluteness of response to death.96 Mourning is this aporia, “work-
+ing at its own unproductivity,” work that has to work at getting over its
+own force.97
+In this light, commemoration and amnesia—the double work of the
+Lidai fabao ji—can be seen as trajectories of the Bao Tang community’s
+self-affirming or self-interested force of mourning, force that is “in bad
+taste” because it attempts “to draw from the dead a supplementary force
+to be turned against the living.”98 However, “bad taste” and the faithful
+work of mourning are intimately related, even inseparable—both depend
+on absorption in the absence of the departed. The likeness of vulgarity
+and fidelity is perfectly captured in the iconography of the Buddha’s
+parinirvana, in which the ludicrously grief-distorted faces of the dis-
+ciples expose their failure to realize no-self and their failure to obey the
+last injunctions of the Buddha whose departure they are mourning, yet
+this self-forgetful infidelity is also a sign of their fidelity. The Bao Tang
+eulogy shows signs of both self-abandonment and self-interest, claiming
+that “without our master, this Dharma will sink,” but also defending
+his lineage in the strong terms of a group whose survival depended on
+acknowledgment of these claims by the Buddhist community.
+The Lidai fabao ji eulogy also shows signs of what Derrida terms a
+“psychoanalytic” understanding of mourning as interiorization, “an ideal-
+izing incorporation, introjection, consumption of the other.” For Louis
+Marin, Derrida confides, the paradigmatic mourning interiorization is the
+transfiguring consumption of the eucharistic body.99 The Lidai fabao ji is
+clearly a work of idealizing incorporation, urging the reader to partake of
+Wuzhu’s Dharma and full of the remembrances of those who accepted
+the gift. However, intriguing as the notion of an eucharistic Wuzhu may
+be, in the terms of his subitist creed of “no-merit” the gift cannot be sac-
+rificial, nor even karmic (to recall Egge’s terminology). Interiorization
+of the other here demands no-interiorization, but rather a recollection of
+one’s own Buddha nature/emptiness, a recollection that is no-recollection,
+wuyi.
+For Derrida/Marin the question of the “force” of the work of mourning
+points to the paradox of death as absolute force that is thereby the place
+of utter helplessness, the defenselessness of the dead and of the survivors
+in the face of death. Derrida, speaking for Marin, brings his questioning
+of “force” to the fore, emphasizing its provocative disturbance of the
+96See Jacques Derrida, The Gift of Death, trans. David Wills (Chicago: University of Chi-
+cago Press, 1995).
+97Derrida, The Work of Mourning, 144.
+98Ibid., 51.
+99Ibid., 159.
+
+--- Page 42 ---
+176 Representations of Merit
+authority of the ontological question. To ask “what is?” of this force that
+makes one other to oneself, and makes all others as oneself, is to con-
+front the breakdown of the logic of being.100 And it is the power of the
+image that most troubles the authority of the logic of being, logic that
+would distinguish the image as an inferior being: “To submit the image
+to the question ‘what is?’ would thus already be to miss the image and its
+force, the image in its force, which has to do perhaps not with what it is
+or is not, with the fact that it is not or does not have much being, but with
+the fact that its logic or rather its dynamic, its dynamis, the dynasty of its
+force, will not submit to an onto-logic.”101 This leads him/us to the shift
+in perspective that enables us to suspect ontology or philosophy to have
+been constituted precisely in order to mistake the power of the image, to
+oppose it, to assert power over and against the image.102
+Derrida notes that Marin links dynamis, force, and the virtue of the
+image, a linkage that extends to the notion of the virtual. We are told that
+in thinking this dynamis (without reference to “being”) it is not necessary
+to think of actualization, the virtue of the image, as the destruction of its
+potentiality or potency.103 In the context of Buddhist discourse on empti-
+ness, of course, there is no Platonic tendency to short-circuit, so this
+assurance—or warning—is not needed, for it is orthodox to not think of
+actualization as the destruction of potentiality.104 The force of the image
+and the force of the person, who is also virtual/empty, are not ontologi-
+cally divided. The virtue of the image that is given in the notion of the
+transformation-body or of the response-body is in fact a compounding of
+potentiality, for it is a manifestation of merit that produces further merit.
+Derrida goes on to reflect on the force of the Resurrection and the
+image of Christ in Marin’s thought. In particular, it is the image of absence
+that lends itself to Marin’s meditation on the power of the virtual, an emp-
+tiness, we may say, that allows the power of “imaginal transfiguration” to
+work: “and it is in this that its pragmatic and historical force resides, its
+foundational efficacity—the absence of the founding body.”105 Derrida
+draws attention to and supports Marin’s gesture toward “an intuition of a
+100Ibid., 145.
+101Ibid.
+102Ibid., 145–46.
+103Ibid., 146.
+104Buddhist exegetes of emptiness have had skirmishes with various forms of onto-logic,
+but this history (which has a recent manifestation in the Critical Buddhism controversy) is
+too complex to address here. For examples of studies of encounters between emptiness dis-
+course and medieval Chinese notions of being, see Robert H. Sharf, Coming to Terms with
+Chinese Buddhism: A Reading of the “Treasure Store Treatise”; and Richard H. Robinson,
+Early Madhyamaka in India and China (New York: Samuel Weiser, 1978).
+105Derrida, The Work of Mourning, 151; direct quote from Marin, Des pouvoirs de l’image:
+Gloses.
+One Line Short
+
+--- Page 43 ---
+History of Religions 177
+general essence concerning the nature of representation or imagination in
+general, beyond the Christic space.”106
+Derrida’s reading of Marin thus appears to pay tribute to his friend’s
+thought at the cost of sacrificing his own. At the expense of différence, he
+commemorates his friend’s intuitive enshrining of this “image of absence”
+as its own source and transcendence. Regarding this source, this “general
+essence” (which is a functioning), how can the absence of Christ’s found-
+ing body—or the absence of Wuzhu’s founding body—support an in-
+tuition of the essential nature of representation without sacrifice of those
+particularities, differentials, and deferments that keep their virtues in play?
+How can we think the nature of representation as distinguishable from
+representations without becoming subject once more to the authority of
+ontology—or phenomenology?
+In contrast to Marin’s gesture, the nature of representation that animates
+the portrait eulogy for Wuzhu was never subject to “onto-logic” and thus
+has no need to subvert it. The Bao Tang were subject to different master
+discourses and invested in different subversions. In this particular Chan
+“space,” which one must acknowledge is provisionally constructed, the
+theoretical and efficacious spheres, or the descriptive and performative
+work, are not separate. Evoking the image of their deceased master as a
+yingshen, a response body or manifestation of the Dharmakaya, the Bao
+Tang eulogist acts as both philosopher and ritual master. The living force
+of the image of the departed loved one (“the face quivers and wants to
+speak”) invites the reader to contemplate the nonduality—or non-
+triplicity—of being/nonbeing/image. At the same time, the Lidai fabao ji
+eulogy actualizes the virtue of the image, just as painting on the eyes of
+a Buddhist statue is a ritual empowerment bringing it to life—“the eyes
+dance and are about to see.” And what the image sees/empowers is the
+returning of the gaze, redoubled in force: “I look up and it is ever loftier,
+I venerate and it is ever more dear.”
+The forces at work in the portrait-eulogy for Wuzhu reflect the para-
+dox of the “impossibility of the given” alluded to at the outset. In Given
+Time, Derrida argues that the donor’s recognition of the gift entails a
+symbolic return or gift of equal or greater value, the recognition of one-
+self as giving—or, as we might say, gaining merit. Recognition of the gift
+as such is its destruction. For there to be gift, it is necessary that gift it-
+self not appear to recognition, for there to be an absolute forgetting—“in
+such a way that this forgetting, without being something present, present-
+able, determinable, sensible or meaningful, is not nothing.”107 The gift is
+106Ibid., 152.
+107Derrida, Given Time: I. Counterfeit Money, 17.
+
+--- Page 44 ---
+178 Representations of Merit
+thus a huashen of the work of mourning, they are analogous representa-
+tions. Recognition both destroys the gift and makes it impossible not to
+give, just as recollection of the departed loved one is a force of destruc-
+tion and consumption that is impossible to separate from fidelity. Wuzhu’s
+teaching of no-recollection is also marked with this aporia: “At the time
+of true no-thought, no-thought itself is not.”108 And how do we know this
+no/self-presence of Wuzhu? We know because his disciples were faith-
+ful, because they commemorated his refusal of the link between practice
+and the gift of merit through their practice of the meritorious work of
+mourning.
+conclusion
+I do not intend to suggest anything like an evolutionary model of offering
+and commemorative practices. Rather I have aspired to present scriptural,
+representational, and literary examples in order to highlight relation-
+ships and disjunctions among notions of merit and merit transfer, the so-
+teriology of emptiness, the creation of commemorative images, and the
+practice of deconstruction. I have attempted to view these practices as
+supplements rather than displacements of one another, without erasing
+their contradictions.
+In the context of the early Buddhist scriptures, the problems presented
+by the potentially personal nature of meritorious gift giving (i.e., gifts
+given by a layperson to a monk or nun with whom he or she had a per-
+sonal relationship) were addressed by construing the benefit of libera-
+tion as far greater than any conceivable offering made to the Sa“gha. This
+appropriation and reworking of the social and sacrificial system of obliga-
+tory circulation of gifts was ultimately rationalized as the impersonal law
+of karma. However, it is important to recognize this foundational tension
+at work in further permutations of the Buddhist soteriological understand-
+ing of merit and generosity.
+Huiyuan’s sixth-century compendium gives us a starting point from
+which to appreciate the reception of Mahayana notions of merit and
+merit transfer in Chinese Buddhism. From the selections in the fourteenth
+fascicle, we can understand the tremendous allure of the image of the in-
+exhaustible productivity of the field of merit. However, turning to selec-
+tions from the ninth fascicle, we can also discern the tension between the
+imaginative appeal of the notion of merit transfer and the need to affirm
+the doctrine of the Two Truths, in which the inexhaustible field of merit
+is subordinate to the absolute both/neither of emptiness. Though Huiyuan
+108Zheng wunian zhi shi wunian bu zi . For one of many examples,
+see Lidai fabao ji, T. 51 (2075) 192a22.
+
+--- Page 45 ---
+History of Religions 179
+presents an orthodox account of merit as provisional, he also takes pains
+to support the culturally valued practice of merit transfer to benefit family
+members.
+In the Dunhuang paintings we see a range of representations of the
+dedication and transfer of merit, from the stylized rendering of suppli-
+cant donors at the foot of the painting, to the rich evocation of Maitreya’s
+heaven, to the individualized inscriptions and portraits on the painting of
+Avalokite¶vara. In the latter example, the portraits of the nun Yanhui and
+her brother Zhang Youcheng are especially vivid. The inscriptions and
+visual representations evoke the deceased siblings, especially Yanhui, in
+such a way that they appear to function as mediating figures who both
+supplement and propitiate the central image.
+The eighth-century portrait-eulogy for the Chan master Wuzhu articu-
+lates the notion that the portrait of a deceased master is a manifestation
+of the Chan Dharma, offering immediate access to realization of one’s
+true nature. But at the same time, Bao Tang iconoclasts rejected the tra-
+ditional practice of making offerings to Buddhist images in order to gain
+merit and relieve worldly suffering. In the Song period this paradox
+would become institutionalized; portrait-eulogies developed into witty
+inscriptions written by the subjects themselves, while Chan monasteries
+maintained offerings to Buddhist images in their main halls, and offerings
+to deceased masters in their lineage halls. This is analogous to the con-
+trast and coexistence of literary representations of Chan antinomian
+antics with the fairly traditional style of practice maintained in Chan
+monasteries.
+Derrida’s sacrifice of différence in order to pay tribute to Louis Marin’s
+intuition of essence is a gift and a fidelity that he himself would no doubt
+have deconstructed with pleasure. One could say, however, that the sac-
+rifices required in the practice of deconstruction are also a kind of upaya,
+skillful means. Sacrifice of intuitions of a “nature in general,” or sacrifice
+of notions of pure experience or pure gift, are also offerings and “provi-
+sional means” through which the lack of inherent self-identities emerges.
+However, as Glass put it, there needs to be a rip in Indra’s net. One also
+sacrifices the soteriological intuition of this lack, this image of absence,
+as a means to liberation and ultimate truth. Yet there is undeniably a dif-
+ficult fidelity required in attempting to trace interdependence, differential
+self-referentiality, and nonclosure at work in a set of representations, while
+at the same time continuing to recognize the inevitable infidelity and self-
+interest involved in the construction of subjects and relationships. It is an
+expression of this challenge that although one may practice these provi-
+sional means of deconstruction via Derridean différence and/or Buddhist
+emptiness, in order to “give them up without abandoning them,” they must
+remain irreconcilable.
+
+--- Page 46 ---
+180 Representations of Merit
+Merit and no-merit, nianfo and wunian, and commemoration and de-
+construction can provisionally be made to supplement each other, to refer
+to each other, and to refer to the irreconcilable distinction of a given
+practice over and above any other. Images of the deceased supplement
+and refer to the images of the Buddhas and bodhisattvas, which supple-
+ment and refer to the emptiness of giver/gift/recipient and to the aporia
+of the gift of merit. Such ideal excess recalls the soteriology of the
+Dakkinavibhanga–sutta, in which there is a surplus of types of offering
+that result in more immeasurable merit than any other type of offering.
+However, this utopia is a sign of its impossibility—wherein we may find
+Wuzhu’s “At the time of true no-thought, no-thought itself is not,” and
+Derrida’s “this forgetting, without being something present, presentable,
+determinable, sensible or meaningful, is not nothing.”
+Barnard College/Columbia University

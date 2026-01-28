@@ -1,0 +1,2507 @@
+--- Page 1 ---
+Journal of Economic Literature 2016, 54(2), 395–441
+http://dx.doi.org/10.1257/jel.54.2.395
+The New Economics of Religion
+†
+Sriya Iyer*
+The economics of religion is a relatively new field of research in economics. This
+survey serves two purposes—it is backward-looking in that it traces the historical
+and sociological origins of this field, and it is forward-looking in that it examines the
+insights and research themes that are offered by economists to investigate religion
+globally in the modern world. Several factors have influenced the economics of reli-
+gion: (1) new developments in theoretical models including spatial models of religious
+markets and evolutionary models of religious traits; (2) empirical work that addresses
+innovatively econometric identification in examining causal influences on religious
+behavior; (3) new research in the economic history of religion that considers religion
+as an independent, rather than a dependent, variable; and (4) more studies of religion
+outside the Western world. Based on these developments, this paper discusses four
+themes— first, secularization, pluralism, regulation, and economic growth; second,
+religious markets, club goods, differentiated products, and networks; third, identifi-
+cation including secular competition and charitable giving; and fourth, conflict and
+cooperation in developing societies. In reviewing this paradoxically ancient yet bur-
+geoning field, this paper puts forward unanswered questions for scholars of the eco-
+nomics of religion to reflect upon in years to come. (JEL D64, D72, L31, O43, Z12,
+Z13)
+1. Introduction very foundation of the American Economic
+Association by Richard Ely and others asso-
+Economics and religion are closer than ciated with the Social Gospel was very much
+some might believe. In the nineteenth a religious movement” (Oslington 2003,
+century in the United States, religion influ- p. xii). Ely’s vision in founding the American
+enced key economic policy debates through Economic Association in 1885 was to bring
+the economics profession because “the the ethics and ideals associated with the
+Social Gospel movement into economics
+* Faculty of Economics and St. Catharine’s College,
+University of Cambridge. I thank the Editor Steven Froemel, Jane Fruehwirth, Julien Gagnon, Dan Hunger-
+Durlauf for his kind encouragement to write this paper and man, Timur Kuran, Rohit Lamba, Michael McBride, Rob-
+for his wide-ranging comments on it. I also thank seven bie Mochrie, Kaivan Munshi, David Newbery, Sheilagh
+anonymous referees for their immensely helpful comments Ogilvie, Anja Prummer, Raghuram Rajan, Christopher
+and suggestions for improvement. For helpful discussions Rauh, Bartosz Redlicki, Jared Rubin, and Chander Velu.
+or valuable comments, I thank Jean-Paul Carvalho, Vasco † Go to http://dx.doi.org/10.1257/jel.54.2.395 to visit the
+Carvalho, Partha Dasgupta, Daniel Friedman, Maren article page and view author disclosure statement.
+395
+
+--- Page 2 ---
+396 Journal of Economic Literature, Vol. LIV (June 2016)
+in order to foster cooperation and greater inquiry (McCleary 2011b; Oslington 2014).
+equality in society, but with a key role for Consequently, there is a need to illuminate
+historical and statistical analysis. In so doing, the new directions in the territory in which
+eventually this led to fundamental reforms the economics of religion finds itself today,
+in US economic policy including unem- bringing up-to-date the many important
+ployment insurance and child labor laws developments in research that have been
+(Bateman and Kapstein 1999). made along the way. This paper attempts
+And yet paradoxically, in a seminal article to do this and its ambition is both back-
+published in 1998 in the Journal of Economic ward-looking as well as f orward-looking. It
+Literature, Laurence Iannaccone introduced identifies some of the most important devel-
+a new field of research to a wide audience opments in the economics of religion in
+of economists and other social scientists— the last couple of decades, notably: (1) new
+the economics of religion. In this paper he developments in theoretical models, includ-
+argued, “If the study of religion does not yet ing spatial models of religious markets and
+warrant a JEL classification number, let alone evolutionary models of religious preferences
+the subfield status it enjoys within every and traits; (2) empirical work that innova-
+other social science, it nevertheless qualifies tively addresses matters concerning econo-
+as new territory within the expanding domain metric identification in examining causal
+of economics” (Iannaccone 1998, p. 1465). influences on religious behavior; (3) new
+How times have changed—apart from now research in the economic history of religion
+having its own JEL classification number that considers religion as an independent,
+(Z12), its own annual meetings, and a large rather than a dependent, variable; and (4)
+body of international scholars invested and more studies of religion outside the Western
+interested in this issue, the economics of reli- world. This paper also puts forward the still
+gion has made important strides, with studies many unanswered questions in the econom-
+that now encompass economic theory, public ics of religion that I hope scholars will reflect
+economics, experimental economics, mac- upon in years to come. By highlighting how
+roeconomics of growth, economic history, developments in economic theory, econo-
+and economic development.1 As Chen and metric concerns with identification, and new
+Hungerman (2014) rightly point out, there data both historical and contemporary, have
+has been a six-fold increase in the number changed the way in which research in this
+of economics papers alone published in this field is currently being conducted, this paper
+area in the last decade. Although the field attempts in short to survey, to evaluate, and
+is still nascent compared to other fields to make suggestions for the “new” economics
+of economics research, this increase has of religion.
+highlighted that the study of religion now Economic studies of religion contribute in
+falls firmly within the purview of economic three ways: first, they show how economic
+and statistical tools can be used to evalu-
+ate the role of religion in society; second,
+1 The economics of religion, although it now has its own
+JEL code, still lacks its own journal. This reflects the fact they continue to cast light on the econom-
+that research in the economics of religion intersects with ics of nonmarket behavior illustrating the
+other fields in economics such as labor economics, pub-
+role that norms, values, social capital, and
+lic economics, and industrial organization, as well as fields
+outside economics in sociology and political science. Since “spiritual capital” may play in influencing
+authors can publish their work in a variety of venues, this human behaviors by affecting both beliefs
+often makes it difficult for a researcher to comprehend
+and actions; and third, they show how cul-
+a complete grasp of the literature in the economics of
+religion. ture more broadly, whether through religion
+
+--- Page 3 ---
+Iyer: The New Economics of Religion 397
+or other kinds of cultural beliefs, affect eco- religious faith and this survey will not ven-
+nomic systems. Many social scientists argue ture to comment on these topics. It is not
+that when explaining countries’ economic that personal religious faith is unimportant;
+growth, we should evaluate the role of cul- simply that as economists, it is difficult for us
+ture more deeply (Landes 1998; Norris and to comment on it appropriately.
+Inglehart 2004) and that as economists, Most theoretical research in the econom-
+we ought to be vitally concerned about the ics of religion focuses on the demand side
+moral consequences of economic growth in terms of the preferences of consumers
+(Friedman 2005). Others have argued that of religion, or on the supply side in terms
+the evolution of markets and the evolution of the structures of religious organizations.
+of morals, culture, and institutions, includ- While early work in the economics of reli-
+ing religion, need to be studied together gion explored the incentives that individ-
+(Friedman 2008; Bowles 1998). On the one uals might have to hold religious beliefs
+hand, religion and culture inform economic (Ekelund, Hébert, and Tollison 2002), more
+behaviors and economic systems, markets, recent research is focused quite heavily on
+and institutions. On the other hand, one’s the socioeconomic consequences of religion,
+economic environment is also likely to influ- using economic theory and sophisticated sta-
+ence one’s beliefs, morals, and religious tistical tools. As new data both historical and
+choices. So the economic approach directly contemporary has become available, con-
+links the study of markets with the study of cern with identification of religiosity effects
+religion and culture.2 has become more pronounced.
+In his 1998 review, Iannaccone made a This survey provides a selective, critical
+very clear distinction between the econom- review of the literature and I focus mainly
+ics of religion and other areas of academic on research conducted by economists in the
+inquiry that is worth reiterating here. The economics of religion. A difficult issue here
+economics of religion is research that uses is drawing a boundary between more general
+the tools and methods of economics to study social science research on religion and the
+religion as a dependent variable or to study work done by economists, because frequently
+religion as an independent variable on other these boundaries intersect. Therefore I have
+socioeconomic outcomes. In doing so, it also included the work of noneconomists,
+draws upon ideas in public economics, labor notably sociologists and political scientists,
+economics, industrial organization, devel- that use economists’ tools and methods or
+opment economics, and international trade, that address the questions that economists
+and uses tools developed in game theory and ask. As many ideas in the economics of reli-
+econometrics. The economics of religion gion today owe their origins to other disci-
+must be distinguished from what might be plines, it is important to give due precedence
+called “religious economics,” which would to ideas that have come into economics from
+be the use of religious ideas to provide these related social science domains.
+social commentary on economic systems or In the first section, I discuss definitions of
+behaviors. The economics of religion also religion, the historical and sociological roots
+does not concern itself with the theological of the economics of religion that first raised
+and institutional propagation of personal three hundred years ago many of the themes
+we are still investigating today, and a snap-
+shot of global religiosity. This sets the stage to
+2 It is to be acknowledged that when discussing insti-
+examine a number of themes that currently
+tutions, economists do distinguish between religion and
+culture. interest economists of religion including
+
+--- Page 4 ---
+398 Journal of Economic Literature, Vol. LIV (June 2016)
+secularization, pluralism, regulation, reli- their lives or supporting them either socially
+gious competition, club goods models, char- or psychologically. Glock and Stark (1965)
+itable giving, religious service provision, define it this way: “Religion, or what societ-
+and other themes. I also discuss the evo- ies hold to be sacred, comprises an institu-
+lution of ideas in broadly chronological tionalised system of symbols, beliefs, values,
+order in which they have influenced the and practices focused on questions of ulti-
+evolution of this field. Consequently, mate meaning” (p. 4). Of course, there are
+this survey is divided into six sections— very famous textbook definitions including
+(1) Historical Background and Global Durkheim’s definition of religion: “A reli-
+Religiosity; (2) Secularization, Pluralism, gion is a unified system of beliefs and prac-
+Regulation, and Economic Growth; tices relative to sacred things, that is to say,
+(3) Religious Markets, Club Goods, things set apart and forbidden—beliefs and
+Differentiated Products, and Networks; practices which unite into one single moral
+(4) Identification, Secular Competition, community called a Church, all those who
+and Charitable Giving; (5) Conflict and adhere to them” (Durkheim 1912).
+Cooperation in Developing Societies; and Probing the economic concern with
+(6) Unanswered Questions for Future religion is not restricted to scholars of the
+Research in the Economics of Religion. twenty-first century. Adam Smith first made
+reference to the church and competition
+between religions in The Wealth of Nations
+2. Historical Background
+and in The Theory of Moral Sentiments.3
+and Global Religiosity
+Smith discusses three concepts that econ-
+The economics of religion as a subfield is omists of religion still debate—the role of
+relatively new, but the study of religion itself competition, religious institutions includ-
+is ancient—many other disciplines, notably ing service provision, and religious plu-
+philosophy, theology, history, anthropology, ralism (Anderson 1988).4 As Smith saw it,
+and sociology have had much to say about competition was about an individual buyer
+religion and religious beliefs. For econo- or seller raising or lowering their prices in
+mists, definitions are central to the process response to conditions prevailing in the
+of modeling. There are many different defi- market, largely independent of any notion
+nitions of religion; some are substantive of market structure. 5 By the time Adam
+and others are functional, so among schol-
+ars there is no commonly accepted defini-
+3 Alfred Marshall’s The Principles of Economics high-
+tion of religion. Substantive definitions of lights the fundamental role of religion in molding both an
+religion concern investigating religion as individual’s motivations and the course of world history
+(see Marshall 1890, p. 1). Religion also features in Joseph
+a philosophy or as a system of beliefs, and
+Schumpeter’s History of Economic Analysis (1954).
+using this to try to understand the world. For 4 But interpretations of how Adam Smith saw religion
+example, in his 1928 book The Religion We are often varied among historians of economic thought: for
+example, Emma Rothschild (1994), in her interpretation
+Need, the distinguished Indian philosopher
+of how Adam Smith viewed the invisible hand, also argues
+Sarvepalli Radhakrishnan wrote that religion that Smith was critical of established religion in most of his
+“is an expression of the spiritual experience work. She contends that “Smith’s comments on religion,
+like Hume’s, are often ironical, and also highly conscious of
+of a race, a record of its social evolution,
+pious public opinion” (Rothschild 1994, p. 321).
+an integral element of the society in which 5 As Anderson writes, “Smith viewed participation in
+it is found” (Radhakrishnan 1928, p. 25). religion as a rational device by which individuals enhanced
+the value of their human capital” (Anderson 1988, p. 1066).
+Functional definitions focus on what reli-
+They could then choose both their degree of belief and
+gion does for people in terms of its role in their degree of participation in religion.
+
+--- Page 5 ---
+Iyer: The New Economics of Religion 399
+Smith wrote about competition, it was a that a monopoly religious organization could
+very familiar concept in the tradition of undermine a state.6 This has implications
+economics writing at the time. His main for state repression of religion, the debates
+contribution lies in using this concept to about international religious freedom, and
+understand behavior and as a way of orga- the relation between the church and the
+nizing society. Smith’s arguments are rele- state, a theme I return to in section 2.7
+vant to understanding both contemporary Away from economics, in the nineteenth
+religious violence and the balance between century, social scientists wrote much about
+publicly and voluntarily provided services religion, including in related fields such as
+by religious organizations, such as primary psychology, sociology, and anthropology.8
+schooling and poor relief (Mochrie 2014). In the twentieth century, there was much
+These themes recur in more contemporary less written about religion. Glock and Stark
+studies, as discussed in section 5 below. quote Gordon W. Allport who wrote that the
+Friedman (2011) argues that the evolution “subject of religion seems to have gone into
+of economics as we know it today was influ- hiding” (Glock and Stark 1965, p. x). This
+enced profoundly by changes in religious all changed with World War II, when much
+beliefs in the times in which Adam Smith more began to be written about religion in
+lived. As he contends, “Further, those other social sciences exploring themes such
+at-the-outset influences of religious think- as religious commitment and the beginnings
+ing not only fostered the subsequent spread of religious competition (Greeley 1962).
+of Smithian thinking, especially in America, Sociologists were the first to study modern
+but shaped the course of its reception. The religion and religious organizations using the
+ultimate result was a variety of fundamental
+resonances between economic thinking and
+6 The view of religion supported by the state and get-
+religious thinking that continue to influence ting benefits from a monopolistic state-supported structure
+our public discussion of economic issues, of religion is also found in work of sociologists like Peter
+Berger (1967).
+and our public debate over economic pol-
+7 A century later, although himself famous for speak-
+icy, today” (Friedman 2011, p. 166). ing first of “the wall of separation between church and
+Contemporary themes discussed in sec- state” Thomas Jefferson wrote about religion in a letter
+from Monticello on September 1, 1820, thus: “It excites
+tion 2 about the value of religious plural-
+in him the gratifying reflection that his country has been
+ism, the relationship between pluralism the first to prove to the world two truths, the most salutary
+and religious participation, and the role to human society, that man can govern himself, and that
+religious freedom is the most effectual anodyne against
+of the church and the state, is exemplified
+religious dissension: the maxim of civil government being
+in the debate between Adam Smith and reversed in that of religion, where its true form is ‘divided
+David Hume. Hume argued for the state we stand, united, we fall.’ ” This point of view of Jefferson
+is very similar to the Adam Smith view of religious compe-
+sponsorship of one unique religion and also
+tition and freedom, but the importance of religious free-
+highlighted rent seeking within religious dom extends also to the kind of religion that it espouses, for
+organizations, and the relationship between example, religions themselves may be more tolerant and
+moderate in societies that encourage religious competition.
+religion and politics that led to civil disorder
+8 For example, Sigmund Freud’s views on religion are
+(Mochrie 2014). In contrast, Adam Smith contained in his book The Future of an Illusion (1927), in
+argued that religious competition is ulti- which he thinks of religion as an irrational response to fam-
+ily influences, especially the reassuring need for parental
+mately good for the consumers of religion
+protection, and the power of nature before which man is
+and for the nature of the religious product aware of his own inconsequence and the inevitability of
+itself because it reduces the capacity of reli- death. Freud goes so far as to argue that religion is linked
+to the repression of an Oedipus complex by highlighting
+gious organizations to extract rents, caused
+instead the father’s role. Freud thus regarded religion as a
+by poor governance. Smith was concerned sort of collective neurosis.
+
+--- Page 6 ---
+400 Journal of Economic Literature, Vol. LIV (June 2016)
+analogy of firm behavior, focusing on concepts for religion was viewed increasingly as very
+such as competition (Stark and Bainbridge competitive.
+1987), and this is first found in the work of One of the classic papers written on the
+the sociologist Peter Berger (1963, 1967).9 economics of religion, Azzi and Ehrenberg
+This initial notion was developed much fur- (1975), summarized the literature on what
+ther in the seminal works of Roger Finke and the empirical correlates of religiosity had
+Rodney Stark, who developed the thesis into discovered about the United States until
+the “religious economies” argument (Finke then. Some of these trends are still visible,
+and Stark 1992). Based on their analysis of although we now have data on a broad set
+religious markets in the United States, Finke of countries. At the time, these trends were
+and Stark are some of the early scholars who that women participated more in church-re-
+made very important contributions in this lated activities than men;11 that church
+area. Their focus was on questions such as attendance increases with age; that there are
+the movement from sects to churches, the only weak relationships between income and
+formation of cults as well as schisms, and church attendance, with it usually being pos-
+renewal movements.10 The main themes in itive or backward bending, so that it is high-
+this research are the idea of religious compe- est for those with middle incomes. Racial
+tition, religious regulation, and new religious differences were also observed with A frican
+movements. In the same tradition, Warner Americans attending church more than
+(1993) articulated that a new paradigm had whites; and church attendance was found to
+emerged for the sociological study of reli- be higher in rural than in urban areas (Azzi
+gion in which he argued that in the United and Ehrenberg 1975, p. 32). Contemporary
+States, organized religion flourished in an studies of the United States show the con-
+open market. What motivated this para- tinued importance and practice of religion
+digm was the empirical observation that in (Putnam and Campbell 2010).
+the United States in the nineteenth century Contemporary research studies are aided
+and the first half of the twentieth century, greatly by the availability of much better
+“societal modernization went hand in hand data than we have ever had on religion pre-
+with religious mobilization” (Warner 1993, viously (Finke 2013). In empirical work,
+p. 1049). Religion in the United States was religion is conventionally measured either
+thus distinct from religion in other parts of in terms of religious beliefs, such as prayer
+the world, particularly the older paradigm and other indicators of “believing,” or alter-
+of European secularization, and the market natively in terms of religious participation
+and attendance such as church going, which
+are indicators of “belonging.” These indica-
+tors have been widened now to include data
+9 The notion of competition here is an individual buyer on religious regulations and persecution,
+or seller raising or lowering his or her prices in response to which incorporates international regulation
+conditions prevailing in the market.
+and violence indices, a research agenda that
+10 Some definitions may be useful here: “churches” and
+“sects” are both religious institutions, but the former depict
+less tension with the wider world than the latter. As Stark
+and Finke argue, “Tension consists of differences in norms 11 Although women participate more in church-related
+and values and refers to the degree of distinctiveness, activities in the United States, in the Islamic world men
+separation, and antagonism in the relationship between a participate much more in religion-related activities. In
+religious group and the “outside” world. Put another way, some countries, women going to mosques is much more
+the higher the tension between a religious group and its restricted, except in back rows, or upstairs. They are
+surroundings the more costly it is to belong.” (emphasis in also not required to participate in Friday congregational
+original, Stark and Finke 2002, p. 35). prayers.
+
+--- Page 7 ---
+Iyer: The New Economics of Religion 401
+has flourished since 2000 (Grim and Finke in some countries, such as Saudi Arabia, it is
+2006). These are used in many studies of not possible to be unaffiliated by law, and in
+religion and the creation of these indices is others it is not possible in practice because
+of fundamental importance to future work of social pressures. Equally, in countries that
+on the economics of religion. are officially atheist, the number of unaffil-
+Since the 1700s, scholars and writers from iated may be exaggerated because religious
+Galileo and Voltaire to Mark Twain have people may falsify their religious preferences
+forecast the extinction of religion in general to appear irreligious in public (Kuran 1995).
+or some faiths in particular. Yet with all its For similar reasons, in places where the
+consequences, positive and negative, religion devout dominate, the percentage of practic-
+continues enduringly to persist. Moreover, ing or sincerely believing adherents may also
+faiths once considered on their way to be inflated.
+extinction have grown in numbers of adher- The geographic distribution of religious
+ents and in global significance. The Global groups varies considerably (Pew Forum on
+Religious Landscape Study showed that a Religion and Public Life 2012). Many are
+large majority of the world’s population con- concentrated in the Asia-Pacific region,
+tinues to be religious by various measures especially those who are Hindu, Buddhist,
+(Pew Forum on Religion and Public Life folk or traditional religions, and other world
+2012). This comprehensive demographic religions.12 Large numbers of the religiously
+study of more than 230 countries and terri- unaffiliated live in China. The Asia-Pacific
+tories estimated that more than 5.8 billion also hosts most of the world’s Muslims, who
+adults and children are religiously affiliated also populate the Middle East, North Africa,
+around the globe, representing 84 percent of and sub-Saharan Africa. The Christians are
+the 2010 world population of 6.9 billion. The relatively equally distributed in Europe,
+study analyzed 2,500 censuses, surveys, and Latin America, and sub-Saharan Africa.
+population registers. As shown in figure 1, The Jews live mainly in North America and
+the study showed that the world’s major Israel.13
+religious groups in 2010 were Christians
+(32 percent), Muslims (23 percent), Hindus
+3. Secularization, Pluralism, Regulation,
+(15 percent), Buddhists (7 percent), and
+and Economic Growth
+Jews (0.2 percent). As many as 16 percent
+of respondents have no formal reported One set of ideas in the economics of reli-
+religious affiliation (although they may have gion literature concerns the secularization
+spiritual beliefs or beliefs in a higher power), hypothesis, which predicts how pervasive
+which makes them the third largest group in
+their sample. These findings are also consis-
+12 The folk religions include African traditional reli-
+tent with other scholarly work in the sociol- gions, Chinese folk religions, Native American religions,
+ogy of religion that has documented the rise and Australian aboriginal religions. The other world reli-
+gions include the Baha’i faith, Taoism, Jainism, Sikhism,
+of the “nones” in the United States (see Hout
+Shintoism, Tenrikyo, Wicca, and Zoroastrianism, which are
+and Fischer 2002; Hout, Fischer, and Chaves not always included in country censuses.
+2013). Hout, Fischer, and Chaves (2013) 13 The age distribution of the population also shows that
+those religions concentrated in China or Western coun-
+show that in 2012, 20 percent of Americans
+tries have older populations. The median age for Muslims
+reported no religious affiliation, a trend that and Hindus at twenty-three years and twenty-six years,
+has increased since 1990 (Hout, Fischer, and respectively, is much lower than the median age for the
+world’s population overall, which is twenty-eight years, or
+Chaves 2013). The share of the unaffiliated
+for Jews, which is thirty-six years (Pew Forum on Religion
+group probably forms a lower bound because and Public Life 2012, p. 13).
+
+--- Page 8 ---
+402 Journal of Economic Literature, Vol. LIV (June 2016)
+Other
+Folk
+religions**
+Jews 0.8%
+religionists*
+5.9%
+0.2%
+Buddhists
+7.1%
+Christians
+31.5%
+Hindus
+15.0%
+Unaffiliated
+Muslims 16.3%
+23.2%
+Figure 1. Size of Major Religious Groups in 2010, Percentage of the Global Population
+Notes: * Includes followers of African traditional religions, Chinese folk religions, Native American religions,
+and Australian aboriginal religions.
+** Includes Bahai’s, Jains, Sikhs, Shintoists, Taoists, followers of Tenrikyo, Wiccans, Zoroastrians, and many
+other faiths. Percentage may not add to 100 due to rounding.
+Source: Pew Research Center’s Forum on Religion and Public Life—Global Religious Landscape, December,
+2012.
+religion is as countries become richer. The between religion and growth the other way
+main theme of this work is that economic round, examining the influence of religion
+development by increasing education and on economic growth through cross-country
+urbanization leads to decreased religiosity, studies.
+and the role of organized religion is mini- Among other economists, Jacob Viner
+mized with development.14 This is related to (1978) wrote about secularization.15 In his
+debates about religious pluralism and partic- 1966 Jayne Lectures, Viner defined secu-
+ipation, as well as state regulation of religion. larization as “a lessening of the influence
+This section also evaluates the relationship on ethical and economic thought of eccle-
+siastical authority and traditional church
+creeds, and a shifting of weight from dogma
+14 See Norris and Inglehart (2004) for carefully pre-
+sented evidence using World Values Survey data to test the
+secularization thesis. They conclude that “rich societies are
+becoming more secular but the world as a whole is becom- 15 Viner’s unpublished work was edited posthumously
+ing more religious” (emphasis in the original, Norris and by Jacques Melitz and Donald Winch and reproduced in
+Inglehart 2004, p. 217). Oslington (2003).
+
+--- Page 9 ---
+Iyer: The New Economics of Religion 403
+and r evelation and other-worldliness to to the supply of religious institutions such as
+reason and sentiment and considerations churches, and these are also correlated with
+of temporal welfare” (Viner as quoted in nonlinearities in population size and density
+Oslington 2003, p. 159). The secularization (Olson 2011).
+hypothesis was largely accepted by sociolo- A related question in these seculariza-
+gists until the work of Iannacconne, Finke, tion debates is whether religious pluralism
+and Stark, and others. Their work suggested per se decreases religious participation or
+that rather than focusing only on the demand not (McBride 2008; Montgomery 2003;
+side, which the secularization hypothesis Voas, Crockett, and Olson 2002). For many
+epitomized, it is also crucial to examine the decades, sociologists argued that pluralism
+supply side. It is to be acknowledged that reduces religious activity and is associated
+many of the studies of secularization have with the secularization hypothesis. Finke and
+been based primarily on US data. Stark (1988) argued the reverse—that plu-
+The work by Barro and McCleary ralism increases church membership. Other
+attempted to reinstate the secularization evidence from the United States also showed
+hypothesis. Barro and McCleary (2003) that pluralism was associated with increased
+find that economic development, mea- church attendance (Warner 1993). Pluralism
+sured by increases in the standard of liv- is measured by the population percentage
+ing, causes small declines both in religious that is affiliated with a particular religious
+participation and beliefs. Yet, the effect is denomination. However, the evidence on
+ambiguous, because although people in rich pluralism is limited by the statistical methods
+countries might spend less time devoted to used to calculate its effects; for example one
+religion than in poor countries, this is coun- study shows that correlations between mea-
+terbalanced by greater money contribution sures of pluralism like a Herfindahl index
+geared towards organized religion (Barro and religious participation are a function of
+and McCleary 2005, p. 1348). The European the data and statistical methods used to cal-
+experience, in terms of low religious partic- culate these measures (Voas, Crockett, and
+ipation, is also explained by regulations that Olson 2002).
+deter new religious entrants rather than McBride (2008) and Montgomery (2003)
+explanations that rely on demand-side issues, use the literature from industrial organiza-
+while the high levels of participation in the tion and product differentiation to exam-
+United States are often attributed to more ine the relationship between pluralism and
+competitive religious markets (Finke and participation. Using a Hotelling location
+Stark 1992). model of product differentiation, McBride
+The work on secularization was supported examines the equilibria of the model to
+by other research on Europe that suggested show how pluralism and participation arise
+that the decrease in religious attendance in out of religious demand and supply, illus-
+Europe was not only due to fewer religious trating that correlations exist between plu-
+“suppliers,” but that there was a genuine ralism and participation, which does not
+fall in the demand for religion (Voas 2007). say anything about causality. He shows that
+However, as Olson (2011) points out, distin- participation and pluralism are caused by
+guishing the demand-side influences from unregulated entry into religious markets, the
+the supply-side influences is difficult to do low costs of providing religious services, and
+empirically, as they might be related to each religious preferences. His model demon-
+other, mainly because religious participa- strates that population growth may increase
+tion data that measures demand is related pluralism; that the relationship between
+
+--- Page 10 ---
+404 Journal of Economic Literature, Vol. LIV (June 2016)
+religious demand and population size mat- either when it is very secularized or when it
+ters depending upon the level of the data is highly religious. Economic growth affects
+used to i nvestigate this relationship; and that religious demand and hence participation,
+religious regulations decrease pluralism but but also supply, as it can decrease the costs of
+secular regulations may encourage religious service provision through advertising, better
+participation. Montgomery (2003), while in monitoring of the faithful, and so forth, which
+general being critical of models of this type, can increase rather than decrease pluralism.
+puts forward a new measure of religious McBride highlights the role of religious mar-
+competition that is a partial order on the set ket structure so that a monopoly denomina-
+of religious markets so that, for instance, one tion may lower its strictness to become more
+religious market A is considered to be more secularized. Moreover, restricting secular
+competitive than the other B if the denom- substitutes will increase the demand for reli-
+inations set in A includes the set of denom- gion, but the effect of prohibiting new entry
+inations in B. Given this partial order of is more complicated. If it is combined with
+competition measure, Montgomery’s model secular restrictions, then there could still be
+shows that markets that are more compet- high religiosity. If secular substitutes are not
+itive have higher religious participation, restricted, then the outcome will depend
+although depicting this with US historical on how incumbent groups react. One of the
+data demonstrates a negative relationship.16 interesting predictions of the model is that
+He also shows that there is a relationship higher income inequality might cause more
+between religious competition and the size strict religious groups. So, religious compe-
+of the population, so that larger markets tition on the demand side and on the supply
+are more competitive than smaller markets. side may lead to the increasing strength of
+This is because larger markets can support a religion, even if secularization occurs, if the
+larger range of religious options, and hence religious market is more open rather than
+demonstrate greater participation. Also, if more regulated.
+there are new denomination entrants into This has implications for whether regula-
+the religious market, this may cause incum- tion of religious organizations is necessary.
+bent denominations to increase their level of One theme in this largely empirical litera-
+effort. On the empirical side, Hungerman ture is whether or not state religions and a
+(2013) also suggests that predictions from monopolistic structure matters for the free-
+some of the location models may not always dom of markets (Barro and McCleary 2003;
+fit the data in all settings. Stark and Finke 2000; Barro and McCleary
+Taking the secularization hypothesis 2005; North and Gwin 2004; Gruber 2005;
+and religious competition further formally, Gruber and Hungerman 2008). One concern
+McBride (2010) examines specifically why is whether deregulation or lack of regula-
+“economic growth has not led to a decline tion of religious organizations is imperative
+in religion despite past predictions that it (Hungerman 2011). Examining a large sam-
+would” (p. 148). He shows that growth has ple of 188 independent countries of which
+little effect on a market at the extremes, i.e., 40 percent had a state religion, Barro and
+McCleary (2005) and McCleary and Barro
+(2006) showed that if a country had a state
+16 McBride’s (2008) analysis implies that Montgomery’s
+approach may be looking at only one side of the market, religion, for given regulation, it provided
+since by measuring competition by the observed diversity subsidies to organized religion, and that
+of the market, this may ignore demand-side characteristics.
+this affected economic growth. State reli-
+This probably explains the finding that there is more com-
+petition in larger markets. gions also reflect in higher adherence rates,
+
+--- Page 11 ---
+Iyer: The New Economics of Religion 405
+a nonlinear effect with population, and per for secularization (Becker and Woessman
+capita GDP has little effect. They also argue 2013; Cesur and Mocan 2014; Gulesci
+that state religions are persistent for countries and Meyersson 2013; Hungerman 2014a).
+in which there is no major regime change so Hence, the literature has examined the sec-
+that if a state religion existed in 1900, it was ularization hypothesis empirically, as well as
+much more likely to do so many decades later the relationship between religious pluralism,
+in 1970 or 2000. McCleary and Barro (2006) religious participation, and the role of state
+show that on the one hand, if state subsidies religions. There seems to be some evidence
+to religion are provided, then this might for the secularization hypothesis, although
+increase the demand for religion and reli- whether it is driven by demand-side or
+gious participation; on the other hand, state supply-side changes in religious markets is
+regulation decreases religious participation subject to debate.
+because it affects the supply of religion. In Other econometric studies of religion
+the context of state religions, a wide-ranging examine the relationship between religion
+study by North and Gwin (2014) develops a and income the other way round, i.e., they
+model of how a government may establish or cast light on whether religion has any effect
+disestablish a state church, and then tests the at all on economic growth and performance
+model on a panel dataset of western coun- across countries (Noland 2005). Barro and
+tries over a sixty-five-year period. They con- McCleary (2003) examine the effects of reli-
+firm that state religions mostly take hold in gious participation and beliefs on a country’s
+countries with homogenous populations, a rate of economic growth. They conclude that
+state religion reduces the overall religiosity believing matters more than belonging, so
+of a population in religiously heterogeneous that for a given level of church attendance,
+populations, and religious freedom increases increases in some religious beliefs—nota-
+both attendance and pluralism. bly belief in heaven, hell, and an after-
+Secularization research is also moving life—tends to increase economic growth.
+into more micro-level empirical studies. For Economic growth is also affected negatively
+example, Buser (2014) examines the effect by church attendance. They show this using
+of income on religiosity in Ecuador. He uses instrumental variable analysis where the
+an exogenous source of income variation—a instruments include the presence of a state
+change in the eligibility criteria for a govern- religion, religious adherence, and an indica-
+ment cash transfer program in Ecuador—in tor for religious pluralism. The underlying
+order to estimate a causal effect of income model behind their work is that religious
+on religiosity using a regression discontinu- beliefs affect individual traits that support
+ity approach that deals with the identifica- economic progress. Their work is important
+tion issues (discussed further in section 4, in the context of the secularization hypoth-
+below). The Ecuadorian study demonstrates esis because they present the alternative
+that households with higher incomes have “ religion-market” model, namely that greater
+higher church attendance, and are also religious diversity promotes greater competi-
+more likely to be members of Evangelical tion between religions, which leads to better
+churches than the more widespread Catholic services provided, which leads to enhanced
+churches in Ecuador. Moreover, while participation and beliefs, also influenced by
+most of the debates about secularization the ability of the state to regulate religious
+concern income, there are several papers organizations. The influence of the state can
+that examine secularization and education, work in two ways—either by greater subsi-
+rather than income, and which find evidence dies to religious organizations, the state can
+
+--- Page 12 ---
+406 Journal of Economic Literature, Vol. LIV (June 2016)
+increase adherents because better facilities separately from the effect of other fac-
+are now better provided. Alternatively, if it tors, notably geography, other institutions,
+is assumed that the state regulates religious and ethnic fractionalization, which are also
+organizations by promoting monopoly such important growth determinants. Different
+as, for example, with very established state results are obtained at the cross-country
+religions, then this reduces their a bility versus intracountry levels. This is especially
+to be as efficient in their operations, and true of religion, because diversity may lead
+hence may lead to lower religious participa- to higher religiosity at the country level,
+tion rates. So the effects of a state religion where individuals may move to join commu-
+becomes an empirical question and in their nities of their same faith, but be detrimental
+study, they do find evidence that govern- to religiosity within smaller areas, such as
+ment regulation of religion decreases church the subcountry level where the diversity of
+attendance; although state religion and state beliefs weakens the theological grip of any
+regulation together show a very mildly posi- worldview and leads to lower religiosity, as
+tive effect on attendance. some studies have shown. Perhaps echoing
+In general, the cross-country the historical debates, the evidence foretells
+regression-based studies are interesting, but that Adam Smith was probably correct about
+not without their limitations. Some of them religion at the macro or national level, while
+have statistical difficulties such as, for exam- David Hume assessed religion better at the
+ple, those outlined by Voas, Crockett, and micro or community level.
+Olson (2002). Durlauf et al. (2012) demon-
+3.1 The Protestant Ethic, Human Capital,
+strate the sensitivity of results to instrument
+and Democracy
+choices in such analyses. Durlauf et al. (2012)
+show that when model-averaging methods The economics of religion today is influ-
+are used, there is very little evidence that enced by Max Weber’s thesis, which discusses
+religion-related variables do in fact predict the effect of the Protestant ethic on capital-
+cross-country differences in income. Durlauf ism (Weber 1904). As Iannaccone reminds
+et al. (2012) find that the work of Barro and us in his 1998 review, “Over the past cen-
+McCleary (2003) demonstrating an effect tury, scholars have made many claims about
+of religion on growth is statistically replica- the economic consequences of religion, but
+ble, but not statistically robust. Arguing that none grander than those associated with Max
+“God is not in the details,” they find no evi- Weber’s The Protestant Ethic and the Spirit
+dence for the effect of religious beliefs on of Capitalism” (Iannaccone 1998, p. 1474).
+growth once they control for model uncer- The central thesis of Weber’s writing is that
+tainty, although they do find weak evidence there are certain theological aspects of the
+for the effect of religious participation on Protestant doctrine such as “predestination,”
+growth (Durlauf et al. 2012, p. 1060). “election,” “calling,” and success in business
+Cross-country regressions have been the that were seen as contributing to salvation,
+main staple of the macroeconomics of reli- generating a set of economic attitudes which
+gion since the early days of research in the were the spirit of capitalism. The core of
+economics of religion, and the collective set the Weber argument, which describes the
+of results from such studies do need to be interplay between faith and human action, is
+evaluated critically. Cross-country studies described by McCleary (2011a) thus: “God
+typically use different econometric formula- demanded of each person a lifetime of works
+tions. A problem is that it is often difficult that were ordered by morality. The believ-
+to evaluate the effects of religion on growth er’s actions in the world originate in God’s
+
+--- Page 13 ---
+Iyer: The New Economics of Religion 407
+grace; this faith in turn justifies itself by the discourse among economists at least, there
+moral quality of the action. The quality of the has been a renewed interest in revisiting
+action, Christian conduct, was defined by a the Weber hypothesis both theoretically
+rational system of morality and became the and empirically (Cavalcanti, Parente, and
+standard by which to measure the glory of Zhao 2007; Basten and Betz 2013). Part of
+God. Thus, salvation by work (daily work, the reason this theory is interesting to econ-
+not ascetic activities of monastic communi- omists is because, empirically, economic
+ties) was organized and rationally justified in development in northern Europe could be
+an impartial moral system that applied to the explained by developments that were asso-
+activities of one’s daily life and logically led to ciated with Protestantism—e.g., the con-
+the rational organization of labor” (McCleary cern with savings, entrepreneurial activity,
+2011a, p. 4). Thus, Protestantism directly the frugality that Puritanism demanded,
+contributed to the rise of modern capital- and the literacy needed to read the scrip-
+ism by altering it in specific ways. In turn, as tures. Since spiritual grace from religion is
+Landes (1998) and others have argued, the attained by demonstrating temporal success
+causality could also have gone the other way in one’s calling through diligence, discipline,
+so that secular ideas occasioned by capitalist self-denial, and thrift, the Protestant ethic
+development may have led to less religious promoted a work ethic that increased sav-
+attendance as, for example, in Northwest ings, capital accumulation, entrepreneurial
+Europe. There are also other critiques of the activity, and investment. An important side
+Weber thesis based on the view that the capi- effect is that it also encouraged human capi-
+talist spirit predates the Reformation (Tawny tal formation and literacy, all of which might
+1926; Gorski 2005). have contributed to economic growth in this
+Sociologists have extensively evaluated period. Many empirical studies have sought
+Weber’s thesis (see, for example, Lenski to establish if these economic relationships
+1961). Among economists, many have been are found in historical or contemporary data,
+interested in it. For example, Jacob Viner both from Europe and elsewhere.
+(1978) discussed the Weber hypothesis in In macroeconomic work, Guiso, Sapienza,
+one of five chapters on religion that were and Zingales (2003) revisit the Weber
+edited and published posthumously. Viner hypothesis to examine the effect of religion
+points out that Weber himself freely acknowl- on individuals’ economic attitudes, rather
+edged that there were many predecessors to than looking at outcomes. Using World
+his writings who remarked on a close his- Values Survey data between 1981 and 1997,
+torical association between Protestantism they showed that religious beliefs were asso-
+and capitalism. However, an important, and ciated with economic attitudes conducive to
+often overlooked point in the discussions economic progress as measured by attitudes
+of Weber—and it is a nuanced observation towards cooperation, government, women,
+by Viner on Weber—is that while previous legal rules, thrift, and the market economy,
+studies hinted at a “correlation,” to use the with different effects across religions, con-
+language of modern economics, Weber may trolling for country fixed effects and individ-
+have been the first to attribute “causality” to ual characteristics. They also used religious
+the Protestant ethic. upbringing to identify the effect of religion
+In Iannaccone’s 1998 review paper, he independently of individual characteristics,
+pointed out that the most noteworthy aspect and by examining attitudes they are able
+of the Protestant ethic thesis was the lack to identify the effect of religion on prefer-
+of empirical support for it. In more recent ences. In examining attitudes, they found
+
+--- Page 14 ---
+408 Journal of Economic Literature, Vol. LIV (June 2016)
+that religious people were more trusting, every town to have a school, and these
+trusted others and governments more, and authors look at the share of Protestants in a
+believed more that markets are fair, com- county compared to Cath o lics and find that
+pared to those who were less religious. They literacy in all-Protestant counties was 7–12
+also found that religious people in this sam- percent higher than in all-Catholic counties.
+ple were less sympathetic to women’s rights To identify causality in the face of the poten-
+and more intolerant. They also found that tial endogeneity of Protestantism and liter-
+trust was associated with participation while acy, they also use “distance to Wittenberg”
+intolerance was associated with religious in Prussia (the place from which the
+upbringing. Bénabou and Tirole (2006) dis- Reformation began) as their instrumental
+cuss theoretically the links between having variable for Protestantism, on the basis that
+more religious populations, high work effort, those further away were less likely to adopt
+and its implications for low taxes and redis- Protestantism, to test for the effect on lit-
+tribution. An effort to test the Weber work- eracy, which they find is very significant.
+ethic hypothesis is Basten and Betz (2013), Consequently, this human-capital explana-
+who investigate if Protestantism has effects tion may provide an alternative theory for
+on the preferences for leisure, redistribution, Weber’s hypothesis. As shown in their work,
+and state intervention in Switzerland. Using girls benefited especially from the Protestant
+a fuzzy regression discontinuity design, they emphasis on education, reducing consider-
+examine a historical experiment in which two ably the gender gap in education, and even-
+parts of Switzerland in the sixteenth cen- tually fertility as well (Becker, Cinnirella, and
+tury adopted different religions, Reformed Woessmann 2010).
+Protestantism and Roman Catholicism. Relatedly, Jared Rubin (2014) explores
+Subsequently using data from 1980 onwards, econometrically whether the initial spread
+they find that in those municipalities that of the Protestant Reformation was associ-
+were completely Reformed Protestant, ated with the spread of the printing press
+support for leisure and redistribution was because it allowed the ideas engendered by
+greater, and support for intervention lower, the Reformation to spread to a much wider
+than in Roman Catholic municipalities. audience. Examining city-level data on con-
+A renewed interest in revisiting the version to Protestantism and other factors
+Weber hypothesis using historical data within the Holy Roman Empire, he shows
+has also prompted alternative explana- that cities with a printing press by 1500 were
+tions for economic growth. An import- 29 percent more likely to be Protestant by
+ant side-effect of Protestantism is that it 1600 (Rubin 2014).17 In keeping with studies
+encouraged human-capital formation and that use distance indicators as instrumental
+literacy. Becker and Woessmann (2009) variables to deal with potential endogene-
+propose that rather than a work-ethic argu- ity, Rubin instruments for printing presses
+ment, the human-capital explanation is a with the “distance from Mainz,” which
+more plausible reason for Weber’s theory. was the birthplace of printing in 1450. His
+They argue that Protestants in late-nine- results are robust even when using a mea-
+teenth-century Prussia had higher human sure of the intensity of printing, as measured
+capital, which increased their productiv- by the number of books written in German
+ity and hence economic growth for coun-
+tries dominated by them. Martin Luther’s
+17 The Holy Roman Empire comprises modern
+Reformation had unintended consequences
+Germany, Belgium, Switzerland, Netherlands, Austria,
+with respect to education, as he encouraged France, Poland, and the Czech Republic (Rubin 2014).
+
+--- Page 15 ---
+Iyer: The New Economics of Religion 409
+between 1450 and 1600 and printed in a democracy, such as the literacy necessary
+city, rather than only by the existence of a to read the scriptures. More interestingly,
+printing press. Again he finds that cities with he finds that the historical prevalence of
+greater intensity of printing were more likely Protestant missionaries predicts democracy,
+to adopt Protestantism. So there seems to be although Catholic missionaries do not do so.
+some evidence that a more human- capital- He also argues that this is because missionary
+based explanation of Weber’s theory has organizations in the nineteenth century in the
+some empirical support in the literature. United States were larger in terms of their
+The role of Protestantism is also relevant size and access to financial resources than
+in the context of research on missionary most labor unions, NGOs, and banks, with
+activity (Woodberry 2011; 2012). This work the exception of some very large commercial
+locates the study of Protestantism in the con- banks (Woodberry 2012, p. 247). Especially
+text of the broader role of institutions that outside Europe, religion influenced both
+affect macroeconomic growth (Acemoglu, whether countries went in for printing and
+Johnson, and Robinson 2001). In a masterly whether printing led to the development
+paper, Robert Woodberry (2012) relates mis- of mass literacy through the publication of
+sionary activity to the formation of democratic newspapers.18 In cross-national statistical
+institutions. He argues that “conversionary analysis, he shows that the existence of these
+Protestants” influenced the development of missions affected printing, education, devel-
+democracy around the world because they opment, rule of law, corruption, and espe-
+espoused particular things that spurred cially democracy. In summary, the literature
+democracy, including liberty, education, has some support for the Weber hypothesis,
+printing, newspapers, voluntary organiza- but also for other explanations including
+tions, and reforms associated with colonial- human-capital-based theories, which may be
+ism, creating preconditions for the success linked to the formation of democratic insti-
+of democratic institutions. Religious, moral, tutions around the world.
+and cultural factors shape moral behavior—
+as he writes, “Many of the major histori-
+4. Religious Markets, Club Goods,
+cal and statistical arguments about the rise
+Differentiated Products, and Networks
+and spread of democracy collapse when we
+account for religious factors in a historically While some studies in the economics of
+sensitive way” (Woodberry 2012, p. 244). religion consider the role of religion on mac-
+Based on a sample of 142 countries, he roeconomic growth, others focus on devel-
+shows that Protestant missions explain about oping insights from microeconomics. As
+half the variation in democracy in Africa, Iannaccone pointed out in his 1998 review,
+Asia, Latin America, and Oceania, and that while the Azzi–Ehrenberg model was the
+their inclusion in standard growth regres- first formal model of religious participation,
+sions makes variables that are popularly used
+in these regressions insignificant. He argues
+that there are omitted variables that might 18 Woodberry writes of India: “For example, within
+drive the relationship between Protestantism 32 years of importing a press to India in 1800, three British
+missionaries printed more than 212,000 copies of books in
+and the factors that are ascribed to helping
+40 languages and, along with other missionaries, created
+democracy. Encouraging people to read the the fonts and paper that dominated South Asian printing
+Bible in their own language and allowing for much of the nineteenth century” (Woodberry 2012,
+p. 250). He also points out that this spurred the Hindus
+the religious laity to be more involved with
+and Muslims to respond, often with religious books that
+religion encouraged factors that prompted arose in competition.
+
+--- Page 16 ---
+410 Journal of Economic Literature, Vol. LIV (June 2016)
+and the basis of almost all subsequent eco- 1998; Montgomery 1996; Stark, Iannaccone,
+nomic models in this area, the models that and Finke 1996; Stark and Finke 2000;
+came later highlighted a host of other pay- Berman 2000). In this approach, individuals
+offs to religion incorporating the collective are rational consumers of religion who decide
+dimensions of identity, social support, and whether or not to believe, or in which reli-
+mutual aid (Iannaccone 1998, pp. 1480–81). gion to believe, based on a cost–benefit anal-
+The microeconomic approach has brought ysis and relative to their initial endowments.
+many key insights to the study of religion. In this view, people adopt religion because it
+First, it has highlighted the value of thinking is optimal for them to do so and their beliefs
+about religion in terms of club goods models, and activities may change over time. In a sim-
+religious markets, and differentiated prod- ilar way, the supply of religion is explained by
+ucts in such markets. Second, it has high- churches behaving similarly to clubs or firms
+lighted a role for spatial competition models in a competitive market, and especially pro-
+from industrial organization, and for reli- viding services to attract potential custom-
+gious networks. Third, new research in this ers. One methodological concern for these
+area is testing economic theories of religion economic rational choice theories of religion
+in laboratory and field experiments. and religious competition is the nature of the
+In thinking about religion as an industry or objective function and the possibility of mul-
+beliefs as a product, it is clear that religion usu- tiple equilibria: As Hungerman writes, econ-
+ally has entry costs, and that it competes with omists need to decide, “what a congregation’s
+other religions (Jelen 2002). As with other objective function is. Do congregations max-
+products, we can learn about the characteris- imize members, donations, or some ethereal
+tics of religious goods and how different they concept of ‘religiosity?’ ”(Hungerman 2011,
+are from each other and other products that p. 259; see also Eswaran 2011; Montgomery
+compete with them. The literature has been 2003).
+concerned with evaluating secular substi- The first formal model of consumer choice
+tutes to religion and philanthropy by religious in religious markets was that developed by
+organizations. Economics has also been use- Azzi and Ehrenberg (1975). The paper exam-
+ful for thinking about the evolution of con- ined household time allocation and church
+gregations and denominations, theoretically attendance by developing a multiperiod util-
+and empirically in different institutional con- ity-maximizing model of household behavior
+texts. Economists and other social scientists including the household’s life-cycle religious
+have been proactive in exploring the rational participation profile. It argued that the rela-
+choice approach to understanding religion, tive differences in wages between men and
+but also to understanding how religious com- women, and consequently their different
+petition matters (Becker and Murphy 2000; opportunity costs of time, could explain their
+Montgomery 2003; Putnam and Campbell differential involvement in religious activi-
+2010; Iannaccone and Berman 2008; Bisin ties. The argument here was that as wages
+and Verdier 2000; Prummer and Siedlarek increased, less time would be devoted to
+2014). This view also examines “spiri- religious participation. They also extended
+tual capital”— or religious capital—which the model in several ways and tested their
+embodies the norms and networks organized theory on church membership and church
+on the basis of religion. The rational choice attendance data from the United States.
+approach to the study of religion is found in One of the key assumptions of the model is
+the work of many economists and sociologists that there are benefits in the afterlife to reli-
+(Azzi and Ehrenberg 1975; Iannaccone 1992, gious participation—unlike other forms of
+
+--- Page 17 ---
+Iyer: The New Economics of Religion 411
+participation in nonmarket activities, which the economics of religion sometimes fail to
+have implications for the allocation of time resonate with non-Western religions, pre-
+during the individual’s lifetime. They identi- cisely because of their neglect of social pres-
+fied three motives for church attendance—a sures. In contrast, the club goods models of
+“salvation motive” (expected afterlife con- religion do allow for social pressures within
+sumption), a “consumption motive” (satis- clubs, and it is these models that I discuss
+faction with current church attendance) and next.
+a “social-pressure motive” (where church
+4.1 Club Goods Models
+attendance directly increases the chance
+of success in business). Most subsequent One of the most influential papers in the
+research in the economics of religion that economics of religion is the 1992 paper pub-
+used the Azzi–Ehrenberg framework has lished in the Journal of Political Economy by
+focused on the salvation motive and the con- Lawrence Iannaccone. The paper initiated
+sumption motive; fewer studies have focused the literature on the club models of religion,
+on the social-pressure motive. They also used which think of religion as a club good that has
+the model to explain some of the sociological positive returns to “participatory crowding,”
+findings on religious attendance mentioned showing that this can lead to free-rider prob-
+previously; for example, if market consump- lems that are mitigated by costs that increase
+tion alternatives are limited in rural areas, participation of the devout while at the same
+the social value of religious activities may be time screening out those whose participa-
+higher there, leading to higher participation. tion is likely to be low.19 Iannaccone pres-
+If discrimination in the job market reduced ents an economic analysis of religious groups
+the market consumption alternatives of that explains why religious group members’
+nonwhites, then this could be a factor that utility can increase when unusual religious
+drives greater religious participation among practices and “seemingly inefficient prohibi-
+nonwhites. Research by Iannaccone also tions” exist. He argues that efficient religions
+shows that religious activities increase later with rational members may adopt practices
+in life, and why as wages increase, religious such as stigma, sacrifice, and other unusual
+participation is reflected more in contribu- behaviors. If some religions prohibit alterna-
+tions than in religious attendance per se. tive activities that compete away members’
+One critique of the Azzi–Ehrenberg resources, then these prohibitions in effect
+framework is that the notion of “freedom of screen the more committed members from
+religion” is largely, though not exclusively of the less committed ones. They also induce
+course, a Western phenomenon. In India, substitution towards religious activities
+the Middle East, Tibet, or Indonesia, one because they make participation in alterna-
+is born into a religion and “choice” in this tive activities more costly. The unproduc-
+instance typically means giving up one’s right tive costs of behavioral requirements can be
+to live within the community of one’s birth. thought of as a tax on alternative, more sec-
+Practically speaking then, people do not have ular activities. His analysis also makes a use-
+a choice of religion. This implies that many ful distinction between churches and sects,
+people may practice a religion that they do
+not approve of, or which even harms their
+interests. Kuran (1995) discusses this at 19 A “club” is a “voluntary group deriving mutual bene-
+length in the context of Islam, Catholicism, fits from sharing one or more of the following: production
+costs, the members’ characteristics, or a good character-
+and Judaism. For this reason, the Azzi–
+ised by excludable benefits” (Sandler and Tschirhart as
+Ehrenberg framework and other models in quoted in McBride 2007, p. 396).
+
+--- Page 18 ---
+412 Journal of Economic Literature, Vol. LIV (June 2016)
+where groups that have norms that are very effects on their labor market outcomes. The
+deviant from the existing culture are termed core of Berman’s argument is that contrary
+sects while groups that are more consistent to the predictions of price theory, partici-
+with prevailing cultures are termed churches. pating more in prescriptive religion-related
+While this distinction has been usefully activity is highly time-intensive and so should
+applied to Christian religions, I would con- not be observed when there is an increase
+tend that this distinction is also equally valid in real wages. But across the world, the
+for non-Christian and non-Western religions growth of the most time-intensive radical
+as well. Also, sectarian groups attract those religious movements, whether ultraorthodox
+with less “secular” opportunities and again, Judaism or radical Islam and Hinduism, are
+this is true of non-Christian religions as well. occurring precisely as real wages are increas-
+This work by Iannaccone spawned a dis- ing. Berman skillfully resolves this paradox:
+tinct line of research within the econom- using club model explanations, he argues
+ics of religion, which is the so-called “club that mutual insurance networks are formed
+models” of religion. These models have con- by actions that are religiously motivated.
+tributed vitally to our understanding of how Prohibitions imposed by religions can then
+sects develop.20 These models are based on be understood in the context of these models
+the idea that producing and consuming reli- because they can be seen as an extreme tax
+gion has all the features of a collective good on other secular activities outside the reli-
+and that like other collective goods, there gious club. This increases religious activity
+is potential for free riding, lack of commit- among members. Thus, even if real wages
+ment, and participation. Hence, in keeping are rising, greater strictness of religious
+with the broad Iannaccone framework, these observance counteracts this effectively. He
+models look at stigmas and sacrifice as ways also makes the very interesting point that one
+of screening members, and predict that can also observe “efficient intolerance” if, for
+more sectarian communities have tighter example, there is more secular antagonism
+networks and higher aid from members than towards an extreme religious sect, and this
+less sectarian religious groups (Iannaccone also discourages the members of this club
+1992; Berman 2000; Chen 2010). More from engaging in other secular activities.
+recent research that conducts an experi- Using the example of yeshiva attendance in
+mental test of the club model using a sacri- Israel, he argues that subsidies have caused
+fice mechanism within a public goods game, labor supply to fall, because it causes greater
+and allowing groups to form endogenously, sacrifices. This might also explain high fer-
+shows that groups that have preferences for tility rates among these populations. This is
+higher sacrifice screen out free-riders and because when viewed as a tax, religious pro-
+increase their contributions to the public hibitions lower increases in wages, but do
+good (Aimone et al. 2013). not alter the value of women’s time, which
+A seminal paper in this area is Eli perhaps explains the higher fertility of these
+Berman’s study of ultraorthodox Jews in ultrareligious communities.
+Israel (Berman 2000), in which he examined Other studies of club-goods models of reli-
+how subsidies to students in Jewish religious gion include Chen (2010) which is based on a
+schools increased participation and had survey of 8,140 households from 1997–1999
+in Indonesia. He examines how the Asian
+financial crisis affected religious participa-
+20 One paper which examines how a specific denomina-
+tion in Indonesia, showing that those who
+tion fits the club model is McBride (2007) who examines
+how the Mormon Church fits the club goods model. were most affected by the crisis were more
+
+--- Page 19 ---
+Iyer: The New Economics of Religion 413
+likely to increase their religious p articipation Berman by arguing that religious ideology
+as measured through the study of the Koran including rituals and increasing h omogeneity
+and Islamic school attendance; in this way, has a key role to play in the sustenance of
+religious organizations were providing the commune—notably, by increasing
+ex post social insurance for people who were equality, commitment, loyalty, and the ben-
+the subject of negative income and consump- efits of commune membership, when for
+tion shocks. Economic distress in particular example the returns to skills outside the
+stimulates religious intensity and this is pro- commune increase with economic develop-
+viding something that other forms of insur- ment. Overall, the club goods models have
+ance are not providing. Chen also shows that been very useful in providing an overarching
+increased religious intensity is not simply a framework within which to view the activi-
+consequence of having more leisure time ties of religious organizations, and to explain
+for religious activities or a decrease in the religion-related phenomena.
+opportunity cost of time; rather, in response
+4.2 Strictness and Networks
+to economic distress, people increased labor
+and religious intensity. The stigma-screening theory developed
+The evolution of research on club mod- in the work of Iannaccone, Berman, and
+els has also been developed by Abramitzky others is a cornerstone of the economics of
+(2008 and 2009). Sociologists have discussed religion.21 Their argument is that stigmatiz-
+communes (Bader, Mencken, and Parker ing behaviors in religion screen out potential
+2006; Sosis and Bressler 2003). Abramitzky free-riders, so according to this theory, strict
+argues that agricultural communes that churches in general ought to have fewer
+share a common set of values, using the free-riders, higher contributions, and better
+example of the Israeli kibbutzim, persist and religious goods. While much of the research
+can collapse, and that studying the condi- on the economic theory of religion examines
+tions under which this happens is interest- groups in a static context, some research
+ing. He highlights theoretical concerns such examines religious groups in a dynamic
+as communes trying to maximize equality setting. Counter to this established theory
+subject to participation constraints, such as and showing that even strict churches have
+a brain drain caused by more productive free-riders and target efforts towards them,
+members leaving, free riding causing moral McBride (2015) argues that religious groups
+hazard, and shirking, which is an incentive need free-riders to potentially increase
+compatibility constraint, and constraints future memberships. This argument is very
+caused by adverse selection. Greater equal- compelling because it suggests that if expo-
+ity makes all of these constraints severe and sure to a religious good increases religious
+therefore communes such as the Hutterrites capital22 and subsequent commitment, then
+and the Israeli kibbutzim evolved norms in the church needs to view free-riders as an
+response to these issues, notably, factors like investment, and that consequently strict
+isolating themselves, group ownership of churches might permit some free riding to
+property, investments in education within
+the commune, high fertility, and a greater
+21 It should be noted that Iannaccone’s work on the
+emphasis on ideology and commitment to a
+strictness thesis built on the work of Dean Kelley and his
+religious commune, which have all contrib- book on Why Conservative Churches are Growing (1972).
+uted to the evolution of communes as we 22 Religious capital is defined as “a type of human and
+social capital that increases an individual’s productivity and
+know them today. Abramitzky takes forward
+consumption value of religious goods” (McBride 2015,
+the club goods models of Iannaccone and p. 11).
+
+--- Page 20 ---
+414 Journal of Economic Literature, Vol. LIV (June 2016)
+achieve their objectives. This is because the person would join a fundamentalist sect if it
+church uses stigmas as a way of screening out is costly to do so. He focuses on how behav-
+those who are most likely to stay free-riders, ioral rules arise in fundamentalist groups
+concentrating its efforts and managing those and makes several predictions that are rele-
+who might invest in the church later, even if vant to study the growth of fundamentalism.
+they free ride in their consumption of reli- Unproductive costs (such as sacrifice, stigma,
+gious goods in the present. Moreover, as an behavioral rules) perform two functions—
+individual’s religious capital increases, the they screen out people whose participation
+incentive to free ride diminishes.23 would otherwise be low and they increase
+Models of religious strictness examine participation among those who do join. His
+how and why groups become more or less model predicts that sectarian groups will dis-
+strict. Levy and Razin (2012) examine the proportionately attract poor, less educated,
+relationship between how religions instill and minority members of the society; that
+religious beliefs, participation, and coopera- a general decline in secular opportunities
+tion. They show that more demanding reli- (for example an economic recession) will
+gious groups are smaller, more cohesive, and encourage the growth of sects. His model
+comprise those with extreme beliefs. Models also predicts that the most successful sects
+of strictness are very useful, but it seems to maintain an optimal level of tension with the
+me that there is a lack of evolutionary mod- surrounding society, i.e., they set an optimal
+els that examine how strict groups grow. In level of cost for any target population. Finally,
+this context, one area that is still relatively a sect can prohibit only those commodities
+underresearched is the economic theory for which it offers a close substitute—arbi-
+on extremism (Berman 2009; Berman and trary strictness fails just as much as excessive
+Laitin 2008; Ferrero 2005). There are papers strictness. As Iannaccone writes, “sectarian
+that address this issue in the context of the religion appeals to people not because the
+evolution of fundamentalism, such as Arce people have deviant wants, but because the
+and Sandler (2003, 2009), Epstein and Gang sects provide a collective setting in which
+(2007), and Iannaccone (1997). Although it normal, but unsatisfied, wants can be met.”
+is to be acknowledged that there are many One of the key benefits of being a member
+different definitions of fundamentalism, of a sect is access to the network. Iannaccone
+Iannaccone (1997) defines fundamentalism and Berman (2006) take these ideas forward
+as “the degree to which a group demands sac- even further to explain why religious extrem-
+rifice and stigma or, equivalently, the degree ists sometimes, but not always, engage in
+to which it limits and thereby increases the violent activities: “Sects are high-powered
+cost of nongroup activities.”24 religious organizations, run by credible lead-
+Iannaccone (1997) takes forward the ideas ers and peopled by active members carefully
+in his 1992 paper to examine why a rational screened for commitment. Sad to say, these
+same institutional attributes are also keys
+to the successful ‘production’ of organized
+23 Related to the club goods models by Iannaccone
+(1992), Iannaccone (1997), Iannaccone and Berman violence, especially clandestine violence.”
+(2006), and Makowsky (2012) are other papers that exam- (pp. 119–120).
+ine models of tolerance and intolerance such as, for exam-
+One important dimension is the
+ple, Cerqueti, Correani, and Garofalo (2013).
+24 It should be acknowledged that fundamentalism is role of social networks. For example, a
+a term that means different things to different people. well-established literature in related disci-
+The six volume Martin Marty–Scott Appleby collection
+plines such as sociology has found social net-
+(1994–2004) deals with all the controversies of definition
+and intricacies of the issues involved. works to be important for religion, religious
+
+--- Page 21 ---
+Iyer: The New Economics of Religion 415
+conversion, and recruitment, and yet this that the role of social norms, social networks,
+work often lacks formal theoretical models in and social pressures need to be considered
+the spirit of economics, or handles selection more carefully.
+effects imperfectly in empirical research. It is The economic theory of religious norms
+here, among other areas, that economists of and networks has been widened to examine
+religion have yet to contribute significantly. religious competition in the context of spe-
+The main areas that many existing studies cific religious practices such as veiling among
+do not examine is the role of network struc- Muslim women (Carvalho 2013; Patel 2012).
+ture, the role of leadership, the authoritarian Carvalho (2013) discusses a theoretical
+structure of an organization, the militancy explanation for veiling (the hijab, which are
+of fundamentalists, and how fundamental- head coverings) in which this social prac-
+ism might arise as a response to secularity tice is a commitment mechanism that limits
+or modernity. More research, especially on temptation to deviate from religious norms
+how fundamentalism spreads spatially in a of behavior. Carvalho argues that even
+network structure, is needed. For example, though the rise of the new veiling movement
+how isolated nodes in the society form new since the 1970s might seem counterintuitive
+links with the society, how the influence as it is observed mainly among urban, edu-
+of a fundamentalist leader changes over cated, and working women, this practice can
+time, and so forth. While Arce and Sandler be conceived as a strategy for integration, as
+(2003 and 2009) are evolutionary models it allows women to make the most of eco-
+that explain how subpopulations grow and nomic opportunities outside the household
+decline as a proportion of the whole popu- while permitting them to adhere to norms
+lation (with the subpopulations differing in that preserve their reputation. This explains
+assortativity), more research on how funda- the counterintuitive empirical finding that
+mentalism spreads over the network would veiling laws have led to a decline in religi-
+be useful, especially with respect to which osity and bans on veiling have been shown
+parts of the network are most vulnerable. to increase religiosity. In his model, Carvalho
+Of these models, Arce and Sandler (2003) shows that the demand for veiling would be
+specifically examined the rise of fundamen- highest among women who are from highly
+talism using a game-theoretic framework. religious groups, but who interact in highly
+They divided society into two groups of “irreligious environments.” This is because
+fundamentalists and others, showing that individuals may value the opinions of their
+fundamentalists are more cohesive and less community, regardless of whether they
+willing to compromise. They use a Nash hold those opinions themselves. And veiling
+demand game for modeling the interaction emerges as a response to the greater eco-
+between fundamentalists and others. Other nomic integration of women, who do not
+aspects that are worth considering here are want to face social disapproval if they come
+interactions between the government and from a more traditional background, and it
+a fundamentalist group, the role of norms, is a practice that might prevent the agent
+preference changes, and other behavioral from engaging in behavior that is religiously
+criteria, perhaps looking at reputation mod- prohibited. One of the key contributions
+els more closely.25 But all this does suggest is also to model the agent’s type as endog-
+enously determined by their social identity.
+25 It should be acknowledged that fundamentalists
+do differ greatly in their economic outcomes—some in successful; others in many Arab nations are economically
+Latin America and East and West Africa are economically unsuccessful.
+
+--- Page 22 ---
+416 Journal of Economic Literature, Vol. LIV (June 2016)
+So as religious values spread, even secular suggests that one factor that pushes religious
+types may conform to more religious norms organizations toward more extremes is non-
+of veiling behavior. The theoretical research religious service provision: religious organi-
+on religious strictness and religious net- zations essentially product differentiate to
+works has widened the scope of theoretical minimize competition in service provision.
+models in the economics of religion, but in This model and others that use theories
+my view, this still remains a comparatively from industrial organization are particularly
+less-researched area in the microeconomics applicable to religion in developing coun-
+of religion. tries, where inequality may be very high and
+where the state cannot adequately provide
+4.3 Spatial Location Models
+services such as education and healthcare.
+The theoretical study of religion is also The model also suggests why, as religious
+well-suited to models that examine the organizations differentiate themselves more,
+demand side and the supply side together, this sets up the potential for greater con-
+for example, models from the economics of flict among them, which may be mitigated
+industrial organization. A few papers have then by the same organizations also pro-
+argued that a useful way to think about reli- viding more nonreligious services. Having
+gion, such as the emergence of sects with said that, the location models also raise the
+strict rules, is using Hotelling-style spatial issue of whether it is realistic to assume one
+location models (see, for example, Barros religion per person. In various parts of the
+and Garoupa 2002; Montgomery 2003; world, people may successfully belong to two
+Barro and McCleary 2005; McBride 2010), religions, a formal religion (like Christianity)
+although some of these models do not solve and a folk religion. In Africa, for example,
+for the full equilibrium outcome. McBride people practice two religions at once and
+(2008) uses a Hotelling model to understand may celebrate Muslim or Christian holidays,
+religious pluralism and participation, dis- but also days that involve the spirits of local
+cussed above. Iyer, Velu, and Weeks (2014) religions. So perhaps the location models
+develop and solve a formal Hotelling-style also need to be more complex to take these
+model to elucidate how religious organiza- local factors on board. All this does suggest,
+tions might differentiate themselves on the though, that the whole area of applying mod-
+strength of religious beliefs and its implica- els from industrial organization to the study
+tions for service provision, as applied to the of religion seems ripe for further research.
+context of a developing country like India.
+4.4 Experiments
+Their model emphasizes the dependence of
+the religious decision and the service decision Reputation is a theme that emerges from
+on each other: this interdependence is often both the evolutionary and current experi-
+mentioned, but not always fully developed mental research on religion. Some studies
+formally in the economics of religion litera- are exploring evolutionary models of religion
+ture. This model is also particularly import- that examine religion as a response to evo-
+ant in societies that have income inequality, lutionary behavior by groups that concern
+a factor that is alluded to in many of the issues such as reputation and competition
+Hotelling-style models, but again, not devel- between groups. While some of this work is
+oped into the thinking as fully.26 The model
+inequality as measured by the Gini coefficient is strongly
+26 Examining World Values Survey data from 1981– related to religiosity as measured by the propensity to
+2001, Norris and Inglehart (2004) show that economic engage in religiosity through prayer.
+
+--- Page 23 ---
+Iyer: The New Economics of Religion 417
+empirical, including agent-based modeling monitoring, to the degree that it is genuinely
+to explain religious regionalism (Iannaccone believed and cognitively salient, offers the
+and Makowsky 2007), economists of reli- powerful advantage that cooperative interac-
+gion have also been taking theory to exper- tions can be observed even in the absence of
+imental data based on field and laboratory social monitoring” (Norenzayan and Shariff
+experimental research. A growing number 2008, p. 58). The effect on trust is that reli-
+of studies examine how religion affects gen- gious belief increases trust, decreases the
+erosity, trust, and fairness toward strangers cost of monitoring, and hence increases pro-
+(Anderson and Mellor 2009; Henrich et al. social behavior. They suggest that further
+2010; Paciotti et al. 2011), as well as the research on issues such as empathy and com-
+evolution of cooperation, such as for exam- passion, which motivate prosocial behavior,
+ple among the Israeli kibbutzim (Sosis and is needed. It would also be useful to know
+Ruffle 2004). Paciotti et al. (2011) present more about the substance of the religious
+experiments that test if religion promotes thoughts involved, because some religions
+prosocial behavior in dictator, trust, and pub- discourage free riding within the commu-
+lic-goods games. Keuschnigg and Schikora nity of believers, but encourage it within
+(2014) conduct an experiment on voluntary the broader community. So more research is
+contributions to public goods among reli- needed on the content of religious teachings
+giously heterogeneous groups in India by and if the teachings differ, the experimental
+conducting a laboratory experiment to find results may then only apply to a subset of
+that while cultural diversity does not affect people in the experiment.
+contributions in a public-goods game, the
+interaction between cultural heterogene-
+ity and leadership shows that there is less 5. Identification, Secular Competition,
+cooperation from followers in mixed groups. and Charitable Giving
+A set of experimental studies also examine
+religion’s impact on health behaviors (both In his 1998 review, Iannaccone alluded to
+mental and physical), crime, and norms the possibility that religion’s statistical effects
+toward charitable giving (Lambarraa and may be spurious and that “nothing short of
+Riener 2012). In this context, one interest- a (probably unattainable) ‘genuine experi-
+ing wide-ranging experimental study that ment’ will suffice to demonstrate religion’s
+amalgamates research from anthropology, causal impact. Yet one should also recog-
+experimental psychology, and economics, is nize that there exist plausible a priori argu-
+that of Norenzayan and Shariff (2008), who ments for religion’s impact and that despite
+examine the evolution of religion in the con- numerous attempts to root out spurious
+text of prosocial behavior, i.e., good behavior correlation, many religion effects remain
+towards others that might engender a cost substantively large and statistically signifi-
+to the individual. They highlight the role of cant” (Iannaccone 1998, pp. 1,475 –76). For
+reputation and selection that reinforces the contemporary research on religion, the prob-
+relationship between religion, prosociality, lems of identifying the causal effect of reli-
+and cooperation in general. Their findings giosity on economic outcomes still remains
+show that if religious thoughts are imbibed in the focus of most current empirical studies.
+experiments, then this increases trust as well These studies explore the effect of religious
+as altruism toward strangers. The question is, competition, secular competition, and policy
+why that might be the case, and they offer debates about faith-based welfare programs
+one suggestion: “However, supernatural and the economic regulation of the church.
+
+--- Page 24 ---
+418 Journal of Economic Literature, Vol. LIV (June 2016)
+The difficulty of identifying the causal in Wittenberg is not always available in other
+effect of religion clearly in econometric contexts. Alternatively, one can use a theoret-
+studies is an important concern, as reli- ical model to ground an approach that then
+gious variables do not always help pre- negates the need for an instrument, but this
+dict cross-country differences in income also requires strong adherence to the model
+(Durlauf, Kourtellos, and Tan 2012). This itself, and may not always be applicable to all
+issue is a feature of macroeconomic and individuals. Consequently, there is no single
+microeconomic research on religion (see accepted solution to the problem of religion
+Hungerman 2011 for a thoughtful review and endogeneity, but a menu of options that
+of the statistical issues of identification in economists can draw from.
+models of religion). The main issues arise One significant study in this respect is
+with respect to measurement error, reverse Gruber (2005). He highlights the potential
+causality, omitted variables, missing values, difficulty of evaluating the effect of religiosity
+and self-selection, which cause the covari- on economic outcomes, because of various
+ates to be correlated with the errors, ren- other factors that are likely to be very highly
+dering our regression estimates both biased correlated with the outcomes of interest. He
+and inconsistent. Addressing endogeneity, suggests one way of getting around this issue
+clear identification of religion effects and is a measure of religion market density—this
+the heterogeneity of samples are important is simply the share of the population living in
+concerns. The basic problem is that religi- an area that belongs to the individual’s own
+osity is endogenous and many studies have religion. The idea underlying this thinking is
+attempted instrumental variable strategies that if more people in your area share your
+such as demographic indicators of various religion, then the social interaction effects
+kinds, including religion market density, eth- might affect you more. Moreover, the den-
+nic heritage, or other instrumental variables, sity itself can be exogenously predicted
+to provide an exogenous source of variation. based on the ancestry in an area. Based on
+There are a number of ways in which General Social Survey data from the United
+economists have attempted to address the States, Gruber finds that higher market den-
+issues surrounding religion and endogeneity. sity causes greater religious participation,
+For example, some experimental research higher education and income, lower levels
+can “prime” religion, or rely on the exoge- of welfare receipt and disability, higher mar-
+nous timing of religious events such as the riage rates, and lower divorce rates.
+Ramadan fasting period, as discussed below, Gruber’s (2005) identification strategy is
+but this approach may not be easily general- important to the development of empirical
+izable to other religions. Some researchers, work on religion, and so is reproduced below.
+as discussed below, have used policy events In essence, he estimates religious attendance
+such as blue laws, which are interesting in as a function of religious market density:
+that they are exogenous to religiosity, but
+may impact both religious and secular phe- (1) R RELIGDEN S
+ia = α+β ia
+nomena, so may not be ideal instruments
+for religions in all situations. Some stud-
+ANCESDEN S AGESDEN S
+ies use distance from a historical event, as + γ ia+δ ia
+discussed in section 2, but this requires an
+ANCE S AGE S RELI G
+assumption that the location and timing of +θ ia+λ ia+ρ ia
+the event is exogenous, and a seminal histor-
+ical event such as the birth of Protestantism ARE A YEA R .
++ π a+τ t+ε
+
+--- Page 25 ---
+Iyer: The New Economics of Religion 419
+In this equation, R measures religious atten- refinement of his strategy, he also excludes
+dance, i is the individual, a is the area in which the individual’s ancestral group when he
+she lives, and t is the year. RELIGDENS is computes PRDEN so that this shows the
+the percentage of the population in the area likelihood that an individual lives with her
+that also belongs to individual i’s religion. coreligionists, but based as a calculation of
+ANCESDENS is the density of ancestry the other ancestral groups resident in the
+group, and A GESDENS is the density of the area.
+age and sex composition of the group. The Gruber’s approach has many strengths,
+model also includes a range of fixed effects including that if we have access to data on
+for the individual’s ancestry ( ANCES ), age religion and ancestry in one dataset, such
+and sex, religion, area, and year fixed effects. as for example the GSS, and ancestry and
+This approach parcels out the effect of reli- outcomes (but not religion) in a another
+gious market density on the individual’s own dataset, such as for example the US Census,
+religious participation. This specification then these two datasets may be combined to
+allows us to examine if an individual is more study religion even when data on religion is
+religious if there are a higher percentage of not available in all the datasets being used
+coreligionists in the same area (a higher ) for a study. It should also be acknowledged
+β
+compared to other religionists in the same that while the Gruber study is very important
+area, and relative to other coreligionists who to empirical studies of religion, its focus is
+live in other areas that have lower market on non-Hispanic white males. So while this
+density. Gruber is careful to point out that, approach may be very intuitive in thinking
+even with this specification, there could still about Catholics in America, it may be less
+be instances of measurement error in cal- intuitive for other groups, faiths, and ethnic-
+culating the relevant densities. To address ities. The value of this approach may also be
+these issues, he then creates an instrument constrained if ancestry data is unavailable, or
+for religious density that is based on an indi- if everyone is of the same ancestry, because
+vidual’s ancestry and the ancestries of other then religious density may not be as useful if
+individuals living in the area. Gruber’s instru- people are self-selecting not only on the basis
+ment is: of their religion, but also on their location.
+If we can identify religion effects in this
+(2) PRDE N way, among others, then it allows us to
+na
+demonstrate the effect of religion on var-
+r P ( n P ANCE S ) ious economic outcomes. For example,
+= Σ [ rn× Σ rn× na ].
+using a variety of identification strategies
+In this equation, n denotes the ancestries, r including religious market density, sibling
+denotes the religions, and a denotes the area fixed effects, and others, some studies show
+in which individuals live. PRDE N is then that religious participation is associated
+na
+the predicted density for an ancestry group with less depression, greater happiness,
+n in an area a and P is the distribution of and more mental-health stability (Mellor
+rn
+religious preferences r within each ancestry and Freeborn 2011). Others point to a
+n . ANCE S is the density of each ancestry relationship between religion, aging, and
+na
+group n in each area a . Gruber’s approach health (Deaton 2011), and a lower likeli-
+is important to the literature on identifica- hood of committing crimes (Gruber and
+tion of religion effects because the ancestry Hungerman 2008). In this context, econo-
+captures the religious density, and it also mists have also used secular variables as a
+deals with measurement error. As a further way to distinguish between subpopulations,
+
+--- Page 26 ---
+420 Journal of Economic Literature, Vol. LIV (June 2016)
+identifying the effect of religiosity clearly as An alternative strategy that economists
+discussed in more detail below. have used to aid identification is to examine
+Exploring secular variables to obtain iden- the “charity gap”—religious giving in the con-
+tification is related to the interaction between text of more general secular charitable giving.
+religious competition and secular competi- The research on giving to religious charities
+tion because religion may provide a form of is closely related to work on charitable giving
+social insurance. Some work has examined (Andreoni 1989; Andreoni 1990). A third of
+whether households who contribute to reli- charitable giving in the United States goes to
+gious organizations are better able to insure religious causes (Engelberg et al. 2014); but
+against income shocks (Dehejia, DeLeire, even in the United Kingdom, which is less
+and Luttmer 2007). Self-insurance provided religious on average, data from the National
+by religious organizations may have impli- Council for Voluntary Organisations’ UK
+cations for social insurance provided by the Civil Society Almanac 2010 shows that reli-
+government. There might be less demand gious and international organizations obtain
+for social insurance in more religious areas, the greatest share of income from individu-
+and when social insurance is being provided als; each receiving approximately 40 percent
+and provided well, this might also “c rowd of their total income from individual dona-
+out” insurance functions being provided by tions (NCVO/CAF 2010).
+religious organizations (Hungerman 2005). In this context, Hungerman’s work (2005)
+Dehejia, DeLeire, and Luttmer (2007) study has focused on the public policy implications
+whether participation through contributions of the intersection between religious and
+provides consumption insurance, compared charitable giving, secular institutions, taxa-
+to participation through attendance that pro- tion, and public spending. His focus is on how
+vides happiness insurance against income religious institutions may compete with other
+shocks, using data from the US Consumer secular institutions such as schools, local
+Expenditure Survey from 1986–2000. In their government, or shopping malls, which may
+survey, they find that religious contributions be even more important than competition
+represent about 1.2 percent of household between religious organizations themselves.
+income. They also find some limited evidence He finds that congregations in his survey
+that the form of insurance provided by orga- are more concerned with secular competi-
+nizations differs by race. Norris and Inglehart tion than with competition from other reli-
+(2004) provide cross-sectional evidence that gious groups (Hungerman 2011). This work
+rising state coverage, for example health-care also stems from a methodological concern to
+plans or pensions, decreases religiosity. Chen find instrumental variables that identify the
+(2010) presents religious groups as providing effect on religion of policy changes ostensi-
+insurance benefits. Related to thinking about bly unrelated to religiosity or demograph-
+religion as insurance, research on Protestants ics. Hungerman’s research examines policy
+in the United States has assessed whether changes that concern formal governmental
+changes in the business cycle affect religi- regulation of religion, especially the United
+osity by examining the relationship between States’ blue laws, which controlled economic
+macroeconomic conditions and Protestant and other activities on Sundays and resulted
+religiosity, finding a countercyclical compo- in decreases in religious participation. Gruber
+nent to participation in evangelical Protestant and Hungerman (2007) examine historic pub-
+denominations, mainly due to lower socioeco- lic goods provision in the Great Depression;
+nomic status, and a p rocyclical c omponent they argue that such provision can crowd
+for mainline Protestants (Beckworth 2009). out religious provision of these goods.
+
+--- Page 27 ---
+Iyer: The New Economics of Religion 421
+Hungerman (2014) has pursued these Based on US Protestant denominations in
+identification issues further, showing how the 2005, and focusing on their foreign opera-
+club-goods model can be used to generate tions, they show that religious denomina-
+an empirical test for whether religious rules tional strictness attracts more adherents
+and proscriptions alter people’s behavior. where service provision is weaker and where
+The test allows rigorous study of this topic, the risk of vulnerability through disease or
+even in settings where exogenous changes diasters is higher.
+in religious rules are unavailable, i.e., where While this paper dealt with Christian
+it is difficult to find an instrumental variable churches, another series of papers looks
+for religiosity. Religious individuals may at Islam, using the exogenous timing of
+be more responsive to variation in secular Ramadan to explore the effects of religious
+incentives such as, for example, changes in fasting on outcomes (Oosterbeek and van der
+blue laws, casino openings, and variations in Klaauw 2013; Almond and Mazumder 2011;
+laws that concern the minimum legal drink- Majid 2013).27 These papers take advantage
+ing age. Highly religious individuals are very of Ramadan as a treatment variable and their
+responsive to changes in secular incentives. contribution is important both conceptually,
+These identification issues continue to be in terms of examining the effect of Ramadan
+very important in the context of empirical practices in Islam on educational and other
+research on religion. economic outcomes, and econometrically, in
+In this context, one study examines the terms of having found a way to identify the
+structure within religious organizations effects of religion on outcomes that takes
+themselves—notably, whether religious advantage of the exogenous timing of the
+personnel, such as pastors, and their labor fasting period. For example, Oosterbeek and
+inputs have a causal effect on religious atten- van der Klaauw (2013) estimate the effect
+dance and church growth (Engelberg et al. of Ramadan on the educational outcomes
+2014). This study examines Methodist con- of economics students who are Muslim but
+gregations in Oklahoma between 1961 and who live in the Netherlands, and where
+2003, showing that better pastors sizably teaching and exam dates are not adjusted
+and significantly increase church growth, for the fasting period, as is the case in coun-
+and that a pastor’s performance in his first tries that are Muslim. The fast is expected to
+church, which is usually randomly assigned reduce academic performance because the
+in Methodist groups, predicts significantly students have less nutrition, hence may be
+their future performance, so that while pas- less able to concentrate and to study. They
+tor effects are important in churches that examine data over five academic years from
+are both large and small, better-performing 2003–08 and use a difference-in-difference
+pastors are invariably assigned to larger con- framework that uses the number of fasting
+gregations. The study observes a particular weeks over the duration of an introductory
+church under the tenure of different pastors. microeconomics course, and which varies
+This study overcomes identification issues by yearly. If students observe Ramadan, then
+using the random assignment of pastors in this has a negative impact on their academic
+their first church in order to predict subse-
+quent performance. Another carefully done
+empirical paper is Hanson and Xiang (2013), 27 Ramadan is a religious fast undertaken by Muslim
+which examines how a denomination’s men and women for about a month each year, in which
+they eschew all food and drink between sunrise and sun-
+doctrine, as well as its governance structure,
+set. The fast is undertaken to encourage patience and piety,
+influences its capacity to attract adherents. and the timing of Ramadan follows the Islamic calendar.
+
+--- Page 28 ---
+422 Journal of Economic Literature, Vol. LIV (June 2016)
+achievement, reducing the final grades of direct effects of reduced nutritional intake
+Muslim students by approximately 10 per- having an impact on productivity, Ramadan
+cent of a standard deviation. Interestingly, affects the relative preferences of Muslims
+there is no difference between male and between work and religiosity by changing
+female students, and the Ramadan effect is beliefs that may influence labor-market
+not caused by lower attendance in the intro- choices.
+ductory microeconomics course. Studies that use Ramadan fasting sys-
+Majid (2013) studies the effects of in utero tematically exploit the timing of the fast-
+exposure to Ramadan fasting over the life ing period and the geographic location of
+cycle and finds very significant school per- countries that observe Ramadan rules as
+formance differences among Indonesians in an exogenous source of variation. Yet this
+during childhood and in the labor market in type of tidy exogenous instrument may not
+adulthood, based on whether mothers fasted always be available for other religions. What
+during pregnancy and when they fasted. we have learned from all of these empirical
+Children whose mothers fasted also had studies of different religions is that econo-
+lower birth weight, performed more child mists are coming up with innovative ideas
+labor, and scored lower on cognitive tests, to aid identification, whether by relying on
+suggesting that the practice of mothers fast- innovative instruments that are drawn from
+ing during pregnancy should be minimized. religious, ancestral, or secular factors, or by
+Almond and Mazumder (2011) show that deferring to long-standing religious prac-
+for Arab parents in Michigan in the United tices, to demonstrate causally the effect of
+States between 1989 and 2006, mothers’ religion on various educational, health, labor
+prenatal adoption of Ramadan fasting rules market, and other economic outcomes.
+causes lower birth weight in babies, although
+the magnitude of these effects is small. The
+6. Conflict and Cooperation in Developing
+timing of prenatal nutrition is important
+Societies
+here, as Almond and Mazumder compare
+births that overlap with Ramadan fasting Most research in the economics of religion
+with those that do not, estimating a reduced- has focused on developed countries. With
+form effect of Ramadan on births. They esti- the availability of new data, economists now
+mate an intent-to-treat effect that does not are examining particular religions in varied
+rely, for identification, on the decision to fast. historical time periods, also drawing lessons
+They also examine Census data on Muslims from this experience for religious networks
+in Uganda in 2002 and in Iraq in 1997 to in contemporary developing societies. This
+show that adults there are 20 percent more literature has focused both on conflict and
+likely to be disabled or to have mental or on cooperation engendered by religion, and
+learning disabilities with even larger effects is an exciting area of research in the econom-
+if the first month of their mothers’ pregnan- ics of religion. In this section I discuss the
+cies coincided with the Ramadan fasting literature on terrorism; trade, politics, and
+month. Some studies of Ramadan fasting conflict; religiously provided social services;
+investigate macroeconomic outcomes. For religion and finance; and I make the case
+example, Campante and Yanagizawa-Drott for the need for a wider scope in our studies
+(2013) study whether Ramadan fasting has a in the economics of religion on developing
+negative effect on output growth in Muslim societies.
+countries, and if it increases subjective At the time of writing Iannaccone’s 1998
+well-being. They argue that rather than the survey and subsequently in other reviews
+
+--- Page 29 ---
+Iyer: The New Economics of Religion 423
+(Iannaccone and Berman 2008; Iyer 2008), model to show how this is related to factors
+the point was made that most religion such as aspirations, education, public-sector
+research is on the United States and other employment, and inequality.
+developed countries in the Western world. Examining conflict and cooperation in
+There is still a great need for studies on developing societies has been aided by the
+Latin America, Africa, the Middle East, and availability of much better data. Sociologists
+Asia. There is notable work on the Middle and political scientists have been very active
+East with a range of work by Kuran (2010), in using data to address important issues that
+Chaney (2013), El-Gamal (2006), and others; concern international religious freedoms
+and a few studies of India and China (Yang and religious restrictions.28 These include
+2012). From the perspective of developing the relationship between religious institu-
+societies, or those in which there is greater tions and the state, whether the state per-
+uncertainty, economics is valuable because mits religious freedom or forms alliances
+it illustrates how religion and religious with certain religions, and movements that
+norms might act as an informal coordinating might restrict those freedoms (Finke 2013).
+mechanism. The kind of spontaneous social This research also examines the conse-
+coordination that religion creates through quences of restrictions for religious conflict.
+increasing trust, morals, informal incentives In early work, Finke (1990) and Finke and
+or through imposing social sanctions are very Stark (1992) argued that religious freedoms
+important in these societies, especially when in the United States led to the “churching
+there is an absence of well-developed legal of America” because religious freedoms
+systems and formal markets. In this context, increased the supply of religion by altering
+the relationship between religion and pub- the incentives for both religious producers
+lic-goods provision is an important focus that and consumers. Finke (2013) takes this argu-
+economics brings to a discussion of religion. ment further by examining the relationship
+Studies in this area include Berman (2009) between religious freedoms and social con-
+and Iyer, Velu, and Mumit (2014), which flict, specifically whether countries have laws
+highlight the important but less-studied area that restrict religious freedoms. Finke (2013)
+of religion and service provision in contem- points out that how the state views religion
+porary developing countries. Other studies or minority groups may affect whether they
+focus more specifically on religious beliefs. promote or hinder religious freedoms, and
+For example, Clingingsmith, Khwaja, and that whether states have the institutional
+Kremer (2009) examine whether participa- capacity to enforce religious freedoms,
+tion in the hajj (the pilgrimage to Mecca) including whether a country has an inde-
+as decided by a lottery among Pakistani pendent judiciary, is important. Religious
+pilgrims has effects on religious practices. restrictions may also alter how organizations
+The hajj participation increases orthodox function, and religious market structure
+Islamic rituals such as prayer and fasting, but more widely, including by affecting religious
+also increases tolerance towards other eth- persecution (Finke 2013; Grim and Finke
+nic groups and others’ religions in general, 2011). Grim and Finke (2011) document
+as well as more benign attitudes towards that many people in the world have been fac-
+women. Studies of religious revival move- ing an increase in persecution. This interest
+ments among the middle classes, for exam-
+ple in Egypt, show how development might
+28 For example, Roger Finke (2013) defines religious
+make societies more prone to religious reviv-
+freedoms as the “unrestricted practice, profession and
+als. Binzel and Carvalho (2013) develop a selection of religion” (p. 299).
+
+--- Page 30 ---
+424 Journal of Economic Literature, Vol. LIV (June 2016)
+in religious freedoms and restrictions is also very few deaths, relative to other kinds of
+echoed in the recent literature from politi- hazards, and there is frequently a cyclical
+cal science. For example, Fox and Tabory pattern to transnational terrorism. The data
+(2008) used the Religion and State dataset show that terrorist incidents come in waves
+between 1990 and 2002 to argue that state and cycles due to demonstration effects; and
+support for religion affected religious plu- because of economies of scale in planning
+ralism and that state regulation of religion is terrorist attacks, this can lead to terrorist
+negatively correlated with religiosity if reli- incidents being clumped together. Although
+giosity is measured by religious attendance, the question of terrorism is separate from,
+although they also find that religious beliefs but related to religion, one of the interesting
+are affected less. findings of the research in terrorism is that
+religion-based terrorist groups have been
+6.1 Terrorism
+seeing a rise in more recent decades. For
+Empirical research has been exploring example, since the early 1980s, the number
+the links between religion, economics, and of terrorist groups that are religion-based
+terrorism, both within and across national have risen from two out of sixty-four groups
+boundaries (Berman and Laitin 2004; in 1980 to twenty-five out of fifty-eight
+Sandler and Enders 2004; Krueger 2007; groups in 1995 (Sandler and Enders 2004,
+Keefer and Loayza 2008; Berman 2009). p. 305 citing Hoffman). Forming global net-
+In particular, Krueger (2007) investigated works is also important here. For example,
+whether income was related to transnational terrorists can limit how effective countries
+terrorism. The general conclusion that are in counteracting terrorists because the
+emerged in this work is that weak property externalities are greatest when countries are
+rights and poor civil liberties might matter more uncoordinated in their decision mak-
+more for the incidence of international ter- ing to counteract terrorism.
+rorism than poverty. Berman (2009) exam-
+6.2 Trade, Politics, and Conflict
+ined terrorism in the Middle East, arguing
+that many religious groups such as, for The concern with conflict all over the
+example, the Hamas, provide spiritual ser- developing world is very much a product of
+vices alongside social and welfare services its historical evolution. For example, very
+in the regions where they operate. Sandler useful insights have been gained by focusing
+and Enders (2004) provide an economic on Islam and on Judaism. Michalopoulos,
+perspective on transnational terrorism.29 Naghavi, and Prarolo (2016) provide a con-
+They argue that transnational terrorist inci- ceptual framework to think about how Islam
+dents are transboundary externalities, to the is related to inequality and preindustrial
+extent that any actions undertaken by coun- comparative development. They show that
+try authorities or terrorists in one country Muslim societies were located along geo-
+can impose costs and benefits on other coun- graphically unequal territories near trade
+tries. Antiterrorist activities might some- routes, and theoretically demonstrate how
+times create unintended consequences. this might have influenced Islamic thought.
+Transnational terrorism actually results in Trade routes created different opportunities
+for areas with dissimilar geographies, such as
+between areas of fertile and arid land. If there
+29 Sandler and Enders (2004) define terrorism as “the was unequal land distribution with trade,
+premeditated use, or threat of use, of extranormal violence
+this encouraged predatory behavior by less
+to obtain a political objective through intimidation or fear
+directed at a large audience” (p. 302). well-endowed regions. This caused patterns
+
+--- Page 31 ---
+Iyer: The New Economics of Religion 425
+of static and dynamic income redistribution Some theoretical work has linked religion
+that emphasized direct transfers of income. and politics—for example, how politicians
+So for Islam to persist, income inequality had have an incentive to take an extreme stand on
+to be restrained and this influenced dynamic issues that might be proscribed by some reli-
+income redistribution through rules and gions, such as abortion or same-sex marriage,
+religious prescriptions on capital accumu- in order to induce their core supporters to
+lation and increased public-goods provision vote and make donations (Glaeser, Ponzetto,
+through endowments from religious insti- and Shapiro 2005). Empirical studies high-
+tutions. Consequently, Islam put forward light the political importance of religious
+various obligations and laws for income redis- leaders. For example, Chaney (2013) pro-
+tribution and poverty alleviation through the vides the first illustration from economic
+zakat, costs on accumulating capital such as history that the political power of religious
+the anti-riba (interest) laws that increased leaders may be important when there are
+transactions costs, and contributions to economic downturns. He argues that during
+waq fs. In turn, Michalopoulos, Naghavi, and floods that are deviant to normal flood lev-
+Prarolo argue that this affected preindustrial els of the Nile river, allocations to religious
+economic development in Islamic countries; structures, compared to secular structures,
+this compares to countries in which although increase. Religious authorities were also less
+Christianity initially enforced laws against likely to be replaced. Judges were less likely
+usury, the relaxation of usury laws in Europe to be dismissed by the sovereign or to resign
+preceded the Reformation by 150–200 years, when the Nile flood was abnormally high or
+indicating that it was not something about low. This is because the Nile floods increased
+the Reformation, but a deeper institutional the propensity for social unrest and the pos-
+difference between the Middle East and sibility that the religious leader could coordi-
+Western Europe that was the cause for the nate a revolt. These findings are consonant
+divergence between them (Rubin 2011). But with a wider literature on conflict that sug-
+more generally, more research is needed on gests that economic crises precipitate the
+the interactions between religion, trust, and collapse of autocratic regimes because they
+cooperation (Gagnon 2014). disrupt the balance of political power. In
+One theme that unites many economic his- this case, Chaney argues that power moved
+tory studies of religion is conflict and cooper- in favor of religious authorities in historical
+ation. Some studies relevant here are those Egypt. This resonates with current debates
+that examine Israeli communes such as the about the rise of the Arab Spring. This work
+kibbutz (Abramitzky 2008 and 2009) because is important in the context of wider research
+these communes are based on an ideology that demonstrates that religious leaders in
+that stresses cooperation and minimizes con- historical populations may have exercised
+flict. Other research examines the histori- considerable political patronage and power.
+cal basis of conflict and the role of religion
+6.3 Religiously Provided Social Services
+and empire in these contexts (Iyigun 2008),
+studying especially the rise of monotheism, While religion may have an influence
+which provided economic and political ben- on conflict, it also affects cooperation by
+efits. Iyigun (2008) shows how Ottoman mil- providing access to services. For example,
+itary activities between the 1520s and 1650s many religious groups have provided social
+reduced intra-European religious conflict by services such as education, as shown in a
+over 50 percent and also reduced conflicts in national study of congregations in the United
+Europe more generally. States (Chaves 2004) and in other research
+
+--- Page 32 ---
+426 Journal of Economic Literature, Vol. LIV (June 2016)
+on secular and religious competition in ser- both forms it served as a safety net, reducing
+vice provision (Hungerman 2005). In the conflict.
+developing world, the Hamas have provided One interesting question Kuran (2004)
+spiritual services alongside social and welfare addresses is why the West did better eco-
+services in the regions where they operate nomically than the Middle East. The devel-
+(Berman 2009). In contemporary India, in opment of financial institutions in the Middle
+the first large-scale study of the econom- East has influenced economic development
+ics of religion there, religious networks are in this region, relative to other parts of the
+important not only for the religious services world. The Middle East developed institu-
+they provide, but equally and especially for tions from about the seventh through the
+their nonreligious services, specifically with ninth centuries; Western Europe did so by
+respect to health and education (Iyer, Velu, about the tenth century. By the eighteenth
+and Weeks 2014; Iyer, Velu, and Mumit century, the Middle East showed many signs
+2014). Moreover, as religious institutions of economic backwardness, mainly due to
+provide this insurance function, these net- its social mechanisms and legal institutions,
+works might then determine the extent to which had stagnated. The main culprits were
+which education or health care is taken the law of inheritance under Islam, which
+up, especially where these services are less hindered capital accumulation; and the waq f
+well-provided for by the state.30 institution, which used up resources in an
+organization to provide social services that
+6.4 Religion and Finance
+were often unproductive. Traditional Islamic
+One aspect of development that seems par- law also had a role to play because it causes
+ticularly salient is the financing of religious low human capital and inhibits the develop-
+activity and how religion might influence ment of the private sector.
+financial institutions in developing societies. The features of these societies in particular
+For Islam, there have been detailed investi- include contract law on the joint ownership
+gations by economic historians into financial of property; finance that was provided with-
+systems in the Middle East including zakat, out banks and in the absence of corporate
+the alms for charity (Kuran 2004; Kuran structures; Islamic law that only recognized
+2010; Kuran 2014). Kuran points out that individuals; and public or semipublic goods
+zakat emerged as a religious tax in seventh not being provided by the state. This was
+century Arabia; it was mandatory and paid coupled with an inheritance system, arbitrary
+to the Islamic state. Within a few decades, taxation that was unsystematic in its discrimi-
+the obligation stopped being enforced by the nation, and weak property rights. In the case
+state and the tax metamorphosed, in essence, of the inheritance system, an egalitarian sys-
+into a voluntary act. There are efforts in the tem limits the concentration of wealth, but
+twentieth and twenty-first centuries to make the net effect of this was the fragmentation of
+it mandatory again. Zakat is relevant to stud- wealth, especially financial wealth. In the case
+ies of conflict and cooperation because in of the waq f, this was a pious foundation or an
+unincorporated Islamic trust. Its role was very
+much to provide social services by turning
+some forms of property into an endowment to
+30 Religion and service provision is an important aspect
+of current research in religion because religions do argue support various kinds of social services such
+that social services are either only a means to attain spiri- as a mosque, a school, and so forth. The pro-
+tual ends, to promote religious conversion, or as a moral
+vision was quite egalitarian in that the services
+imperative and so an end in itself, regardless of whether
+those who are served convert to the religion. were provided to Muslims and non-Muslims.
+
+--- Page 33 ---
+Iyer: The New Economics of Religion 427
+According to Kuran (2004), the waq f is legal infrastructure was self-enforcing in that
+an interesting Islamic institution because there was little incentive to change the infra-
+it arose as a response to poor private prop- structure. So the very legal structures that
+erty rights. As he points out, Islam’s original pushed the Islamic world ahead for centuries
+institutions do not include the waq f, which following the initial spread of Islam were also
+the Qur’an does not mention. However, the precisely the ones that helped keep it behind
+waq f is regarded as sacred because it served as Western Europe moved ahead. But this
+important charitable purposes; the rulers did research does suggest that the whole rela-
+not confiscate the assets of the waq f, as rul- tionship between Islam and economic per-
+ers were keen to appear devout. The other formance needs more careful review—see
+advantage of the waq f was that if a prop- Kuran (2014) for an overview of the histor-
+erty was endowed as a waq f, this provided ical and contemporary links between Islam
+it with some immunity against expropria- and economic performance.
+tion. Moreover, while there was no formal More contemporaneously, Iannaccone
+legal obligation, the rulers did encourage the and Bose (2011) argue that Christian reli-
+waq fs to provide social services. gions can be contrasted with non-Christian
+Kuran (2010) argues that in addition to ones such as Hinduism, Buddhism, and
+the static effects discussed, more impor- Islam, which has implications for how fees
+tantly over the longer run, the static effects for religious membership are calculated.
+jointly produced negative dynamic effects. Here they develop alternative models to the
+The incentives to generate more advanced rational choice approach including “client–
+and flexible organizational forms suitable practitioner” relationships where individual
+to modern development were supressed. religious goals can be attained without nec-
+While this was not a handicap in the Middle essarily requiring collective participation in
+Ages, it became a handicap when the West religious services or other practical forms
+developed and technologies changed. He of religious observance. So they argue that
+also points out that one difference was that religions that obtain donations for certain
+Western establishments were larger than services individually performed are differ-
+those in the Middle East. There were also no ent from those who charge membership
+stock markets or banks in the Middle East. fees or are government funded. Again, while
+The waq f system did not provide as much by we have learned much about religion and
+way of public goods services as in the West, finance historically, it would be useful to
+which saw the development of more organi- have more studies that document these links
+zations that were chartered as corporations. for contemporary populations.
+The waq f system also led to corruption. It
+6.5 The Need for a Wider Scope
+had a positive and a negative side—on the
+one hand creating a nongovernmental orga- In assessing the economic history of reli-
+nization; on the other creating social ineffi- gion research, it is very striking that much
+ciency. The rule of law was limited; although more has been done on the economics of
+the two systems started out with similar Islam than on the economics of Hinduism,
+contract law, due to different inheritance Buddhism, Jainism, or Sikhism. This seems
+regimes, they followed very different evolu- unusual, especially for Hinduism, as this is
+tionary paths. By the nineteenth century, the equally a very ancient religion and there is
+region’s legal infrastructure prevented the much interest in this subject both in South
+organizations’ becoming more sophisticated Asia, and in other countries that have Hindu
+and accumulating capital. Moreover, the populations. For example, while Hindus
+
+--- Page 34 ---
+428 Journal of Economic Literature, Vol. LIV (June 2016)
+make up about 15 percent of the world’s Muslims had when shipping via the Indian
+population, they make up over 80 percent Ocean, due to their coordination with over-
+of the population of India. This compares to seas markets through pilgrimages such as the
+Muslims who are approximately 23 percent hajj. Although medieval trading ports were
+of the world’s population and about 15 per- more heterogeneous ethnically, they were
+cent of India’s population. Nevertheless five times less prone to Hindu–Muslim riots
+the economics of Islam seems to gain a dis- and 25 percent less likely than other towns
+proportionate amount of academic atten- to experience a religious riot between 1850
+tion versus the economics of Hinduism. and 1950. Jha attributes this to the persistent
+One possibility for this dearth of interest in good institutions which arose in earlier peri-
+Hinduism may simply be that India has done ods and supported and encouraged medie-
+well economically, so possibly when a soci- val trade among ethnic groups. This caused
+ety is moving ahead, one is less interested in some cities like Surat to exhibit greater
+deep forces that might have held it back in communal amity many decades later, com-
+past centuries. A few economic history stud- pared to cities like Ahmedabad. The general
+ies that do look at Hindu groups more are theme that trade promotes interethnic and
+those by Jha (2013); and Kuran and Singh interreligious tolerance is of course a more
+(2013). Recent works by Iyer (2002) and general argument that goes back to Albert
+Iyer, Velu, and Weeks (2014) discuss more Hirschman’s The Passions and the Interests
+contemporary Hindu populations. If the (1977), and as we learn from Hirschman, to
+work on Hinduism is limited, the work on the giant thinkers of the Scottish and French
+Buddhism is even more so, although with the Enlightenment. Early economists under-
+notable exception of McCleary and van der stood that trade also reduces conflict, which
+Kuijp (2010) on Tibet. It would also be very then facilitates trade, creating a virtuous
+useful to have more research conducted on cycle. A broader policy implication is that
+religion in China, certainly in the context of places that suffer conflict can be helped in
+an increase in economic growth and dimin- the long run through policies that promote
+ished state repression, which could lead to a trade. Therefore, good economics can foster
+growing market for religion (Yang 2012). good politics.
+One theme that comes up repeatedly in This argument is relevant to public goods
+developing countries is the ability of reli- provision more generally, as well. Iyer,
+gion not only to foster conflict, but equally Velu, and Weeks (2014) provide evidence
+to mitigate it and foster cooperation. This for religious competition and cooperation
+finds echo in economic history too—an in contemporary India by examining reli-
+important study explores how religious and gious and nonreligious service provision.
+occupational activities fostered coopera- Based on primary survey data on Indian
+tion in the context of European medieval religious organizations collected between
+institutions such as craft guilds (Richardson 2006 and 2010 spread across seven major
+and McBride 2009). This theme is echoed states, the study shows that religious orga-
+also in work on medieval India. For exam- nizations are differentiating themselves on
+ple, Jha (2013) presents an overview of how the strength of religious beliefs with respect
+interethnic complementarities in medieval to other organizations, and are also provid-
+trading ports led to better institutions and ing higher education and health services
+cooperation which minimized the chance in response to religious competition and
+of Hindu–Muslim conflict many centuries as economic inequality increases in India.
+later. This arose due to specific advantages Another vehicle for fostering cooperation
+
+--- Page 35 ---
+Iyer: The New Economics of Religion 429
+is education; one study examines the rela- and Wydick (2014), which examines the
+tionship between religion and education, operation of child sponsorship programs
+emphasizing how religious norms can hin- that are a resource transfer from wealthy
+der or encourage some religious groups to countries to children in developing coun-
+bolster their human capital compared with tries, conducted through local churches,
+other groups in the same regions (Botticini and which have strong impacts on adult out-
+and Eckstein 2005). Another example from comes including schooling, employment,
+India, Chaudhary and Rubin (2011), discuss and leadership within the community. This
+the relationship between reading, writing, work compares Bolivia, Kenya, India, and
+and religion in colonial India. They contend Indonesia and examines how these pro-
+that those Indian districts that experienced grams develop aspirations among spon-
+a more recent collapse of Muslim political sored children. This work is exciting not
+authority also had better religious authori- only because it explores a new territory for
+ties who established religious schools. These religion research, but also because it uses
+schools were able to attract more Muslim innovative psychological data in children
+students, but were less able to promote lit- including their drawings and self-portraits
+eracy than state secular schools. This may and spiritual changes including religious
+be one of the reasons for the persistence of instruction that are correlated with better
+institutions that account for lower literacy outcomes in adulthood. Child sponsorship
+rates among Muslim communities. It could is correlated with educational aspirations
+be that some Muslim students choose reli- in Kenya and the authors’ analysis of chil-
+gious schools as an indication of piety, but dren’s drawings shows that this also exerts
+again this explanation is not applicable to an impact on self-esteem, happiness, and
+India, as Muslim children would also have hopefulness in Indonesia. The research is
+had access to all public goods, whether pro- important from a policy perspective, as it
+vided for by the state or by religious author- highlights how aspirations and self-efficacy
+ities. The authors’ explanation is important can be developed in children in developing
+because it does not emphasize an explanation countries, both through secular as well as
+based on the “pure religion effect” of Islam; religious programs.
+rather it is a much more nuanced view that Another paper on Africa that also uses an
+argues that literacy could be determined by innovative design in the form of language
+the interaction of religious authorities, polit- priming from social psychology in an eco-
+ical groups, and educational institutions. In nomics experimental design is Lambarraa
+related work, Chaudhary and Rubin (2013) and Riener (2012). This study examines char-
+also examine the mechanisms through which itable giving in the form of the zakat and the
+a ruler’s identity in the Indian Princely States sadaqah among Muslims in educational insti-
+affected public goods provision in the early tutions in Morocco, showing how language,
+twentieth century. This theme of the links the publicity of donations, and the salience
+between religious authorities and political of Islamic values is important to amounts
+power seems a recurrent theme in the eco- of giving. In their experimental treatments
+nomics of religion literature. where Islamic values were salient, anonym-
+If the research by economists on South ity of donations increased donations as well
+Asian religions is limited, then the work as the average level of donations, suggesting
+on Africa is even more so. One exception that while the norms of charitable giving in
+that compares different developing coun- Islam encourage giving, equally Islam dis-
+tries is a recent paper by Glewwe, Ross, courages public displays of giving.
+
+--- Page 36 ---
+430 Journal of Economic Literature, Vol. LIV (June 2016)
+There is an important caveat here, though. belief formation, even though beliefs are cen-
+Most donations for public goods in Islamic tral to all religions. And Iannaccone argued
+societies were traditionally through waq fs that if progress was to be made on these
+(Kuran 2004). In fact, until modern times, gaps, then economists needed not just better
+most public goods were supplied through models, but greater emphasis on empirical
+waq fs funded by individuals. None did so work that was initiated by the sociologists of
+anonymously. In fact, with very few excep- religion. If we evaluate the progress on the
+tions, donors gave their own names to the lacunae that Iannaccone’s survey identified,
+public good, whether a mosque, school, then it seems that as economists of religion,
+park, water fountain, and so forth. Donations we have made progress in coming up with
+through waq fs were far more important better models and testing them empirically.
+empirically than charity. It is also worth not- But on Iannacone’s three basic gaps, I think
+ing that major donations within Islam today, we may still have some way to go.
+especially religious donations, carry the name In evaluating the lessons from research
+of the founder. So for instance, while mosques conducted since Iannaccone’s paper, this
+always have names, small-scale charity might paper argues that religion continues to persist
+be anonymous. This is perhaps more consis- and that it is necessary to survey the research
+tent with some of the work on the United that has been done on the economics of reli-
+States that suggests that people also give for gion over the last couple of decades. It has
+public recognition (Andreoni 2001). But the attempted a selective review of this litera-
+whole area of interesting differences between ture. Although much research is being con-
+religious giving in a developed-country con- ducted on the economics of religion, there
+text from that in an Islamic country context are a number of unanswered questions for
+is worth exploring further. There is thus future research that remain. First, what does
+research that is being conducted on the eco- it really mean to be religious? Is it intrinsic
+nomics of religion in developing regions that or more socially driven? Second, at a macro
+draws both on their economic history and on level, we have seen a great deal of economic
+their current development concerns. development across a range of countries,
+and yet religion seems both very pervasive
+and persistent. Why is religion still so per-
+7. Unanswered Questions for Future
+vasive and persistent even as countries are
+Research
+becoming richer? If it is the case that richer
+“The learned have their superstitions, countries are becoming more secular, but
+prominent among them a belief that super- the world is becoming more religious, then
+stition is evaporating” (Wills 1990, p. 15 as more work on the secularization hypothesis,
+cited in Warner 1993, p. 1046). and how it interacts with factors like income
+In his 1998 review, Iannaccone pointed out inequality, is needed. Third, especially in
+that several gaps existed in the economics of non-Christian and non-Western societies,
+religion research agenda—the first gap was such as for example in India or China, what
+that economics research had “sidestepped” might make the nature of religion there sim-
+the substance of religion and had not given ilar to or different from the United States or
+enough thought to using broader concep- northwestern Europe? We need to further
+tions of religion into formal models. The sec- our understanding of the economics of Islam,
+ond gap was that religious uncertainty had Hinduism, Buddhism, Jainism, Sikhism,
+not been formally analyzed. The third gap and tribal religions, especially in Africa, the
+was that economists had not said much about Middle East, and South Asia. In this context,
+
+--- Page 37 ---
+Iyer: The New Economics of Religion 431
+there are four areas of research that I argue secular or moderate societies (Norris and
+are still relatively underresearched by econ- Inglehart 2004, p. 232). Of course, it is to
+omists of religion: (1) religion and demog- be acknowledged that there is a very large
+raphy; (2) religion, political processes, and demographic literature on this topic, but it
+their interactions with economic processes; is still striking that economists have focused
+(3) the marketing, management, and com- rather less on this particular issue than might
+munication aspects of religion; and (4) how have been expected. Identification concerns
+the economics of religion can contribute to probably explain much of this, but since
+broader debates about science and religion. over 84 percent of the world’s population
+Religion and demography is an area where currently report a religious affiliation (Pew
+identification issues arise, and which is com- Forum on Religion and Public Life 2012),
+paratively less explored by economists of more research on religion and demography
+religion. Neuman and Ziderman (1986), clearly would be welcome. Specifically, it
+Neuman (2007), Lehrer and Chiswick would be important to evaluate the balance
+(1993), Adsera (2006), Iyer (2002), Lehrer between a “pure religion effect” on fertil-
+(2009), Trinitapoli and Weinreb (2012), and ity, and other factors such as the socioeco-
+Berman, Iannaccone, and Ragusa (2014) nomic characteristics of different religious
+are some studies that have explored the role groups, their minority group status and its
+of religion in demography in a variety of effects on fertility, mortality, and migration.
+regions including Israel, Spain, India, Africa, The demographic composition of popula-
+Europe, and the United States. Iyer (2002) tions, especially in developing countries and
+examines religious differences in the age at with their consequences of population aging,
+marriage, contraceptive choices, and fertility will still need to be understood more fully.
+rates among Hindu and Muslim women in Looking more at the links between religion
+South India, showing that the effect of reli- and demography echoes what was suggested
+gion, though important, is still outweighed first by Thomas Malthus. Malthus’s theory
+by the socioeconomic characteristics of reli- of population was put forward as a theory of
+gious groups. Trinitapoli and Weinreb (2012) mind, and so the theology that underlies it
+examine whether religion provided support contained an optimism that offset the often
+and education, or whether it contributed pessimistic conclusions of the demographic
+to the spread of AIDS, based on fieldwork theory.31 As Pullen (1981) argues, Malthus’s
+in Malawi and drawing on surveys on other
+countries in sub-Saharan Africa. They find
+that individual religiosity is a key predictor 31 Malthusian theory in essence is that while population
+of HIV status, and religion is used to pro- grows at a geometric rate, food supply grows at an arithme-
+tic rate. It leads as Malthus discussed to the “very striking
+vide interpretative depth to the disease, as
+consequence” that per capita incomes fall to subsistence.
+well as how religious organizations influence Hence, the only way to avoid absolute poverty is by indulg-
+prevention, and in the process attract new ing in “moral restraint”—the Malthusian preventative
+checks such as delayed marriage and control of smaller
+members. This work also highlights the role
+family size without which the positive checks of war, star-
+of religious networks in handling the disease. vation, and disease would affect the population adversely.
+Norris and Inglehart (2004) show that if we Malthus’s theory is often thought of as gloomy, and he him-
+self described his theory thus: “The view that he has given
+examine demographic indicators by type of
+of human life has a melancholy hue, but he feels conscious
+society, the most religious societies have the that he has drawn these dark tints from a conviction that
+highest fertility rates, the lowest life expec- they are really in the picture, and not from a jaundiced eye
+or an inherent spleen of disposition. The theory of mind
+tancy, higher infant mortality rates, and lower
+which he has sketched accounts for the existence of most
+rates of male and female survival than more of the evils of life!” (Malthus 1817).
+
+--- Page 38 ---
+432 Journal of Economic Literature, Vol. LIV (June 2016)
+theory shows how population pressure helps processes, and their interaction with eco-
+man develop the productive potential of the nomic processes, including political com-
+land, which in turn stimulates the mind. He petition and, relatedly, conflict. Thoughtful
+points out that in the original first edition of studies from political science reveal how
+Malthus’s Essay there were two chapters on political leaders encourage religious freedom
+theology that were removed from subsequent when such laws affect their ability to stay in
+editions, but the framework underlying the power or increase economic well-being (Gill
+Malthusian theory becomes more compre- 1998; 2007). Using a regression discontinuity
+hensible if viewed in the context of these two design on Turkish municipalities over a six-
+chapters. As Pullen writes, “It would proba- year period, Meyersson (2014) shows that
+bly not be an exaggeration to say that Malthus when conservative Islamic mayors are elected
+intended the Essay to be as much a theologi- in Turkey, women’s secular high school edu-
+cal treatise as a treatise in economics, demog- cational attainment actually goes up, while
+raphy or sociology.” (Pullen 1981, p. 52). the effects for men are much smaller. The
+Apart from demography, the links between mechanism includes Islamist mayors build-
+religion, human capital, and immigration ing more strictly conservative dormitories for
+need to be better explored (Chiswick 2005; conservative women that make it easier for
+Carvalho 2013). These links are crucial both women to attend college because their fami-
+for the historical literature, specifically in lies do not object, although it should also be
+the context of testing the Weber hypoth- noted that the mechanisms are not as well
+esis, and in the context of contemporary understood. This effect for women is also
+countries. For example, exploring the inter- persistent, influencing other decisions such
+actions between labor-market decisions, as adolescent marriage. Economic studies
+education, and religion for men and women show how political competition can lead to
+in the United States and the links between policies that work against some minorities,
+religion, marriage patterns, demography, which can influence hatred against them
+and transmission of ethnic and religious (Glaeser 2005). Some studies like Chaney
+traits, is important (Chiswick 2014; Lehrer (2013) do discuss the relationship between
+2009; Bisin and Verdier 2000). The studies political power and religious authority,
+on religion and human capital also examine but more work is needed here, especially
+historical populations; for example, some for countries in the Middle East and else-
+explore Jewish occupational selection using where, where these issues are most relevant.
+historical data from the eighth and ninth As datasets on conflict are being collected
+centuries (Botticini and Eckstein 2011). with increasing care, this will allow studies
+Botticini and Eckstein (2011) show that of religion, politics, and conflict. One issue
+rabbinical Judaism, which emphasized the for these studies is religion as an explana-
+reading of the Torah and educating children, tory variable in a regression—our work will
+influenced the subsequent economic suc- need to be more nuanced at appreciating the
+cess of the Jews many centuries later. This is identification issues and some reflection on
+because it allowed the selection of Jews into causality will be important, but this is a com-
+professional occupations that were skilled, paratively underexplored area of research.
+with high returns (Chiswick 2006). But more Third, applying theories from manage-
+research on these areas, both for developed ment, marketing, and the media would be
+and developing countries, is needed. a fruitful way to think about religion, as
+The second area that warrants further well. Some work is making a start toward
+work is the whole field of religion, political discussing these issues (Miller 2002; Iyer,
+
+--- Page 39 ---
+Iyer: The New Economics of Religion 433
+Velu, and Mumit 2014; Iannaccone and Bose Arab Spring from 2010 to 2013. Gentzkow
+2011; Gentzkow and Shapiro 2004; Tracey and Shapiro (2004) wrote an early paper on
+2012), but it is nascent days for this field. the importance of favorability ratings and
+As religious organizations are themselves the manner in which perceptions were not
+becoming more professional in the way they in accordance with reality, using survey data
+are presenting and marketing themselves to from Gallup Polls of over 10,000 respon-
+populations globally, there seems to be a very dents in a range of Muslim countries. They
+large gap in studies that blend theories from investigated whether respondents who were
+the marketing and management literature, to better informed by the news media knew
+examine their behavior and operations more about world events more, but overall, they
+closely. This research will have profound did not find any consistent effect of media
+implications for how open or regulated reli- and education on attitudes, although partic-
+gious markets are likely to be in different ular news media and education had different
+parts of the world. bearing on perceptions and attitudes. While
+In the area of religion and management, this study was not conclusive, it does high-
+one important study is that by Miller (2002). light the more general importance of investi-
+Miller explores the insights that strategic gating how the media can influence religion
+management theory brings to understand- through its effects on perceptions and atti-
+ing religious organizations, especially how tudes. This is also related to questions con-
+organizations may achieve competitive cerning religion and identity. More generally
+advantage. The strategic management per- research on religion and identity, especially
+spective is important, as it highlights issues how one conceives of oneself and how one is
+such as reputation, undertaking change in perceived by others, is an important avenue
+very traditional organizations, and the role for future research.
+of networks. As Miller points out, nowadays The final area that the economics of reli-
+the boundaries between religion and other gion still needs to address more fully, which
+industries which scholars are interested in this article has not covered in any depth,
+can often become blurred. This is because but which strikes me as being important, is
+religious organizations can become more to understand how economics can contrib-
+secularized, and secular organizations can ute to wider debates about the gulf between
+in turn become “spiritualized” (Miller 2002, science and religion. The two are popularly
+p. 437). Religious organizations will innovate regarded as not compatible mainly because
+in the face of pressures that they might face, of perceptions that religious beliefs become
+but how they do so determines how success- less important when scientific progress
+ful their strategy is. Miller argues that the happens. Religion is often viewed as unsci-
+marketing of religion often involves aspects entific because it is popularly believed that
+such as credible commitments, social legit- when scientific discoveries happen, they are
+imacy, market segmentation, and price dis- frequently opposed to religious practices
+crimination, but that religious organizations or make them seem less believable. But
+also have the ability to shape the very struc- Albert Einstein’s (1950) words are prescient:
+ture of the industry through political strate- “Science without religion is lame; reli-
+gies and alliances. These aspects of religious gion without science is blind.” 32 Moreover,
+organizations need much further research. empirically Finke and Stark (1992) show that
+A related issue here is the role of the media,
+perception, and the part they play in contem-
+32 Albert Einstein, Out of My Later Years, chapter 8,
+porary religion, witnessed most clearly in the part 1, p. 26 (1950).
+
+--- Page 40 ---
+434 Journal of Economic Literature, Vol. LIV (June 2016)
+church membership rates increased in the them empirically. But as prominent philos-
+United States over the same two centuries ophers have pointed out, where are the axi-
+that witnessed vast developments in science oms themselves coming from? That is more
+and technology, while education and reli- subjective. And the social sciences and the
+gion are also very much correlated with each study of social structures like religion might
+other. In evaluating science and religion, help us understand better the subjectivity
+Stark, Iannaccone, and Finke write, that underlies or drives the creation of the
+axioms and the axiomatic approach (Evans
+“For most of its history, the scientific study of and Evans 2008).33 Moreover, the study of
+religion was nothing of the sort. Despite the
+religion suggests a common desire to help
+immense antagonism expressed towards ‘faith,’
+understand the physical and social world
+the field itself rested almost entirely on faith.
+To be sure, this faith consisted of secular doc- better. Hence, it is likely that the study of
+trines, but it remained faith insofar as scholars religion will influence the scientific method
+clung to the doctrine of secularization, reli- and the scientific method in turn will influ-
+gious irrationality, and the incompatibility of
+ence the study of religion. Although current
+science and religion despite strong evidence to
+research in the economics of religion has
+the contrary.”
+been very scientific in its approach, it has still
+(Stark, Iannaccone, and Finke 1996,
+not dealt with questions of beliefs, as much
+p. 436).
+as the membership of organized religious
+The economic approach to religion is use- institutions. I think this still remains one of
+ful because it brings economic ideas about the important unanswered questions in the
+maximization, preferences, and notions of economics of religion.
+equilibrium firmly into the picture. Stark, The economics of religion as a field
+Iannaccone, and Finke suggest that “the eco- has grown in recent decades by leaps and
+nomic framework provides the best context bounds. This review has attempted to sur-
+in which to incorporate these constraints, vey the state of research in this field. It has
+model religious behavior, and measure reli- highlighted secularization, pluralism, and
+gion’s effects” (Stark, Iannaccone, and Finke economic growth; club goods, differentiated
+1996, p. 437). products, and networks; issues with identifi-
+My view is that the economics of reli- cation, secular competition, and charitable
+gion is helpful to broader debates about giving; conflict and cooperation in develop-
+science and religion (Wilson 2002). This is ing societies; and finally it elucidates unan-
+because economics contributes to the study swered questions for future research in the
+of religion, providing perspectives that are economics of religion. If there is one criti-
+unavailable through other approaches. For cism that can be leveled at the economics of
+example, science has many open questions religion literature more generally it is that
+about how the natural world works. While while much of this literature takes ideas
+the scientific method is leading us to more from other fields within economics and then
+interesting and unanswered questions about applies them to the study of religion, there
+how the world works, it is also increasing are relatively fewer ideas from this literature
+uncertainty and ambiguity about it. So it
+is necessary to have some kind of belief
+33 As Iannaccone argued persuasively, “Although beliefs
+structure to continue to investigate and to lie at the core of every religion, economists have yet to say
+understand the world (Smith 2008). The much about the formation of beliefs, religious or other-
+wise, nor have they given much attention to the process by
+scientific method itself is axiomatic and uses
+which religions seek to shape people’s beliefs and values”
+theory to construct hypotheses and to test (Iannaccone 1998, p. 1491).
+
+--- Page 41 ---
+Iyer: The New Economics of Religion 435
+that cross the gap the other way, i.e., where Acemoglu, Daron, Simon Johnson, and James A. Rob-
+inson. 2001. “The Colonial Origins of Comparative
+an idea specific to the e conomics of reli-
+Development: An Empirical Investigation.” Ameri-
+gion crosses over to contribute to econom- can Economic Review 91 (5): 1369–1401.
+ics more generally. To me, this suggests that Adsera, Alicia. 2006. “Marital Fertility and Religion in
+Spain, 1985 and 1999.” Population Studies 60 (2):
+while much research is being conducted in
+205–21.
+this lively and policy-relevant field, there is Aimone, Jason A., Laurence R. Iannaccone, Michael
+much more work yet to be done. D. Makowsky, and Jared Rubin. 2013. “Endogenous
+Group Formation via Unproductive Costs.” Review
+More importantly, there is much more work
+of Economic Studies 80 (4): 1215–36.
+that must be done, because if we examine the Almond, Douglas, and Bhashkar Mazumder. 2011.
+entire history of mankind, more people have “Health Capital and the Prenatal Environment: The
+Effect of Ramadan Observance during Pregnancy.”
+died on account of religion than on account
+American Economic Journal: Applied Economics 3
+of the stock market.34 This simple fact alone (4): 56–85.
+must warrant economists’ continued interest Anderson, Gary M. 1988. “Mr. Smith and the Preach-
+ers: The Economics of Religion in the Wealth of
+in studying the social and economic conse-
+Nations.” Journal of Political Economy 96 (5):
+quences of religion. And whether we like 1066–88.
+it or not, the fact remains that religion has Anderson, Lisa R., and Jennifer M. Mellor. 2009. “Reli-
+gion and Cooperation in a Public Goods Experi-
+been a tremendous force throughout history,
+ment.” Economics Letters 105 (1): 58–60.
+in all corners of the globe, and continues to Andreoni, James. 1989. “Giving with Impure Altruism:
+exercise influence. Over the centuries, given Applications to Charity and Ricardian Equivalence.”
+Journal of Political Economy 97 (6): 1447–58.
+the resources that religions have controlled
+Andreoni, James. 1990. “Impure Altruism and Dona-
+and their power over individuals and their tions to Public Goods: A Theory of Warm-Glow Giv-
+minds, we must expect that there would be ing.” Economic Journal 100 (401): 464–77.
+Andreoni, James. 2001. “Economics of Philanthropy.”
+major economic consequences. Of course,
+In International Encyclopedia of the Social and
+the methods we use to examine religion will Behavioral Sciences, edited by Neil J. Smelser and
+remain scientific, rigorous, and relevant, yet Paul B. Baltes, 11369–76. Amsterdam: Elsevier.
+Arce, Daniel G., and Todd Sandler. 2003. “An Evolu-
+as economists we must also think more about
+tionary Game Approach to Fundamentalism and
+how such research can be converted into Conflict.” Journal of Institutional and Theoretical
+sound intuition, practical economic ideas, or Economics 159 (1): 132–54.
+Arce, Daniel G., and Todd Sandler. 2009. “Fitting In:
+social policy that has relevance for the cur-
+Group Effects and the Evolution of Fundamental-
+rent state of the world’s religions. Going for- ism.” Journal of Policy Modeling 31 (5): 739–57.
+ward, economics and religion may need to be Azzi, Corry, and Ronald Ehrenberg. 1975. “Household
+Allocation of Time and Church Attendance.” Journal
+much closer than some might believe.
+of Political Economy 83 (1): 27–56.
+Bader, Christopher D., F. Carson Mencken, and James
+References Parker. 2006. “Where Have All the Communes
+Gone? Religion’s Effect on the Survival of Com-
+Abramitzky, Ran. 2008. “The Limits of Equality: munes.” Journal for the Scientific Study of Religion
+Insights from the Israeli Kibbutz.” Quarterly Journal 45 (1): 73–85.
+of Economics 123 (3): 1111–59. Barro, Robert J., and Rachel M. McCleary. 2003.
+Abramitzky, Ran. 2009. “The Effect of Redistribution “Religion and Economic Growth across Countries.”
+on Migration: Evidence from the Israeli Kibbutz.” American Sociological Review 68 (5): 760–81.
+Journal of Public Economics 93 (3–4): 498–511. Barro, Robert J., and Rachel M. McCleary. 2005.
+Abramitzky, Ran. 2011. “On the (Lack of) Stability “Which Countries Have State Religions?” Quarterly
+of Communes: An Economic Perspective.” In The Journal of Economics 120 (4): 1331–70.
+Oxford Handbook of the Economics of Religion, Barros, Pedro Pita, and Nuno Garoupa. 2002. “An Eco-
+edited by Rachel M. McCleary, 169–90. Oxford and nomic Theory of Church Strictness.” Economic Jour-
+New York: Oxford University Press. nal 112 (481): 559–76.
+Basten, Christoph, and Frank Betz. 2013. “Beyond
+Work Ethic: Religion, Individual, and Political Pref-
+34 I am grateful to my Cambridge colleague William erences.” American Economic Journal: Economic
+Brown for pointing this out to me. Policy 5 (3): 67–91.
+
+--- Page 42 ---
+436 Journal of Economic Literature, Vol. LIV (June 2016)
+Bateman, Bradley W., and Ethan B. Kapstein. 1999. Bisin, Alberto, and Thierry Verdier. 2000. “‘Beyond the
+“Retrospectives: Between God and the Market: The Melting Pot’: Cultural Transmission, Marriage, and
+Religious Roots of the American Economic Asso- the Evolution of Ethnic and Religious Traits.” Quar-
+ciation.” Journal of Economic Perspectives 13 (4): terly Journal of Economics 115 (3): 955–88.
+249–58. Borooah, Vani K., and Sriya Iyer. 2005. “Vidya, Veda,
+Becker, Gary S., and Kevin M. Murphy. 2000. Social and Varna: The Influence of Religion and Caste on
+Economics: Market Behavior in a Social Environ- Education in Rural India.” Journal of Development
+ment. Cambridge: Harvard University Press. Studies 41 (8): 1369–1404.
+Becker, Sascha O., Francesco Cinnirella, and Ludger Botticini, Maristella, and Zvi Eckstein. 2001. “Reli-
+Woessmann. 2010. “The Trade-Off between Fertility gious Norms, Human Capital, and Money Lending
+and Education: Evidence from Before the Demo- in Jewish European History.” In Oxford Handbook
+graphic Transition.” Journal of Economic Growth 15 of the Economics of Religion, edited by Rachel M.
+(3): 177–204. McCleary, 57–80. Oxford and New York: Oxford Uni-
+Becker, Sascha O., Markus Nagler, and Ludger Woess- versity Press.
+mann. 2014. “Education Promoted Secularization.” Botticini, Maristella, and Zvi Eckstein. 2005. “Jewish
+University of Warwick Centre for Competitive Occupational Selection: Education, Restrictions, or
+Advantage in the Global Economy Working Paper Minorities?” Journal of Economic History 65 (4):
+186. 922–48.
+Becker, Sascha O., and Ludger Woessmann. 2009. Botticini, Maristella, and Zvi Eckstein. 2011. “Reli-
+“Was Weber Wrong? A Human Capital Theory of gious Norms, Human Capital, and Money Lending
+Protestant Economic History.” Quarterly Journal of in Jewish European History.” In The Oxford Hand-
+Economics 124 (2): 531–96. book of the Economics of Religion, edited by Rachel
+Becker, Sascha O., and Ludger Woessmann. 2013. “Not M. McCleary, 57–80. Oxford and New York: Oxford
+the Opium of the People: Income and Secularization University Press.
+in a Panel of Prussian Countries.” American Eco- Bowles, Samuel. 1998. “Endogenous Preferences: The
+nomic Review 103 (3): 539–44. Cultural Consequences of Markets and Other Eco-
+Beckworth, David. 2009. “Praying for a Recession: nomic Institutions.” Journal of Economic Literature
+The Business Cycle and Protestant Religiosity in the 36 (1): 75–111.
+United States.” http://papers.ssrn.com/sol3/papers. Buser, Thomas. 2014. “The Effect of Income on Reli-
+cfm?abstract_id=1103142. giousness.” CESifo Working Paper 4801.
+Benabou, Roland, and Jean Tirole. 2006. “Belief in a Calvacanti, Tiago V., Stephen L. Parente, and Rui Zhao.
+Just World and Redistributive Politics.” Quarterly 2007. “Religion in Macroeconomics: A Quantitative
+Journal of Economics 121 (2): 699–746. Analysis of Weber’s Thesis.” Economic Theory 32 (1):
+Berger, Peter L. 1963. “A Market Model for the Anal- 105–23.
+ysis of Ecumenicity.” Social Research 30 (1): 77–93. Campante, Filipe, and David Yanagizawa-Drott. 2013.
+Berger, Peter L. 1967. The Sacred Canopy: Elements “Does Religion Affect Economic Growth and Hap-
+of a Sociological Theory of Religion. New York: piness? Evidence from Ramadan.” Harvard Univer-
+Doubleday. sity John F. Kennedy School of Government Faculty
+Berman, Eli. 2000. “Sect, Subsidy, and Sacrifice: An Research Working Paper RWP13-052.
+Economist’s View of Ultra-Orthodox Jews.” Quar- Carvalho, Jean-Paul. 2013. “Veiling.” Quarterly Journal
+terly Journal of Economics 115 (3): 905–53. of Economics 128 (1): 337–70.
+Berman, Eli. 2009. Radical, Religious, and Violent: The Carvalho, Jean-Paul, and Mark Koyama. 2013. “Resist-
+New Economics of Terrorism. Cambridge, MA and ing Education.” George Mason University Depart-
+London: MIT Press. ment of Economics Working Paper 13-18.
+Berman, Eli, Laurence R. Iannaccone, and Giuseppe Cerqueti, Roy, Luca Correani, and Giuseppe Garofalo.
+Ragusa. 2014. “From Empty Pews to Empty Cra- 2013. “Economic Interactions and Social Tolerance:
+dles: Fertility Decline among European Catholics.” A Dynamic Perspective.” Economics Letters 120 (3):
+National Bureau of Economic Research Working 458–63.
+Paper 18350. Cesur, Resul, and Naci Mocan. 2014. “Does Secular
+Berman, Eli, and David D. Laitin. 2004. “Rational Mar- Education Impact Religiosity, Electoral Participation
+tyrs vs. Hard Targets: Evidence on the Tactical Use of and the Propensity to Vote for Islamic Parties? Evi-
+Suicide Attacks.” Paper presented at the Meetings of dence from an Education Reform in a Muslim Coun-
+the Association for the Study of Religion, Economics try.” Koc University-Tusiad Economic Research
+and Culture, October 22. Forum Working Paper 1422.
+Berman, Eli, and David D. Laitin. 2008. “Religion, Ter- Chaney, Eric. 2013. “Revolt on the Nile: Economic
+rorism and Public Goods: Testing the Club Model” Shocks, Religion, and Political Power.” Econometrica
+Journal of Public Economics 92 (10–11): 1942–67. 81 (5): 2033–53.
+Binzel, Christine, and Jean-Paul Carvalho. 2013. “Edu- Chaudhary, Latika, and Jared Rubin. 2011. “Reading,
+cation, Social Mobility and Religious Movements: A Writing, and Religion: Institutions and Human Cap-
+Theory of the Islamic Revival in Egypt.” Institute for ital Formation.” Journal of Comparative Economics
+the Study of Labor Discussion Paper 7259. 39 (1): 17–33.
+
+--- Page 43 ---
+Iyer: The New Economics of Religion 437
+Chaudhary, Latika, and Jared Rubin. 2013. “Religious Epstein, Gil S., and Ira N. Gang. 2007. “Understand-
+Identity and the Provision of Public Goods: Evidence ing the Development of Fundamentalism.” Public
+from the Indian Princely States.” Chapman Univer- Choice 132 (3): 257–71.
+sity Economic Science Institute Working Paper Eswaran, Mukesh. 2011. “Competition and Perfor-
+13-26. mance in the Marketplace for Religion: A Theoret-
+Chaves, Mark. 2004. Congregations in America. Cam- ical Perspective.” BE Journal of Economic Analysis
+bridge, MA: Harvard University Press. and Policy 11 (1).
+Chen, Daniel L. 2010. “Club Goods and Group Iden- Evans, John H., and Michael S. Evans. 2008. “Religion
+tity: Evidence from Islamic Resurgence during the and Science: Beyond the Epistemological Conflict
+Indonesian Financial Crisis.” Journal of Political Narrative.” Annual Review of Sociology 34: 87–105.
+Economy 118 (2): 300–354. Ferrero, Mario. 2005. “Radicalization as a Reaction to
+Chen, Daniel L., and Daniel M. Hungerman. 2014. Failure: An Economic Model of Islamic Extremism.”
+“Economics, Religion, and Culture: A Brief Intro- Public Choice 122 (1): 199–220.
+duction.” Journal of Economic Behavior and Orga- Finke, Roger. 1990. “Religious Deregulation: Origins
+nization 104: 1–3. and Consequences.” Journal of Church and State 32
+Chiswick, Barry R. 2005. The Economics of Immigra- (3): 609–26.
+tion: Selected Papers of Barry R. Chiswick. Chelten- Finke, Roger. 2004. “Innovative Returns to Tradition:
+ham, UK: Edward Elgar Publishing. Using Core Teachings as the Foundation for Inno-
+Chiswick, Carmel U. 2006. “An Economic Perspective vative Accommodation.” Journal for the Scientific
+on Religious Education: Complements and Sub- Study of Religion 43 (1): 19–34.
+stitutes in a Human Capital Portfolio.” Research in Finke, Roger. 2013. “Origins and Consequences of
+Labor Economics 24: 449–67. Religious Freedoms: A Global Overview.” Sociology
+Chiswick, Carmel U. 2014. Judaism in Transition: How of Religion 74 (3): 297–313.
+Economic Choices Shape Religious Tradition. Stan- Finke, Roger, and Rodney Stark. 1988. “Religious
+ford: Stanford University Press. Economies and Sacred Canopies: Religious Mobili-
+Christiano, Kevin J., William H. Swatos, Jr., and Peter zation in American Cities, 1906.” American Sociolog-
+Kivisto. 2008. Sociology of Religion: Contemporary ical Review 53 (1): 41–49.
+Developments, Second edition. Lanham, MD: Row- Finke, Roger, and Rodney Stark. 1992. The Churching
+man and Littlefield Publishers. of America: 1776–2005: Winners and Losers in Our
+Clingingsmith, David, Asim Ijaz Khwaja, and Michael Religious Economy. New Brunswick: Rutgers Uni-
+Kremer. 2009. “Estimating the Impact of the Hajj: versity Press.
+Religion and Tolerance in Islam’s Global Gathering.” Fox, Jonathan, and Ephraim Tabory. 2008.
+Quarterly Journal of Economics 124 (3): 1133–70. “ Contemporary Evidence Regarding the Impact of
+Deaton, Angus. 2011. “Aging, Religion, and Health.” State Regulation of Religion on Religious Participa-
+In Explorations in the Economics of Aging, edited by tion and Belief.” Sociology of Religion 69 (3): 245–71.
+David A. Wise, 237–62. Chicago and London: Uni- Freud, Sigmund. 1927. The Future of an Illusion. Lon-
+versity of Chicago Press. don: Hogarth Press.
+Dehejia, Rajeev, Thomas DeLeire, and Erzo F. P. Lutt- Friedman, Benjamin M. 2005. The Moral Conse-
+mer. 2007. “Insuring Consumption and Happiness quences of Economic Growth. New York: Random
+through Religious Organizations.” Journal of Public House, Alfred A. Knopf.
+Economics 91 (1–2): 259–79. Friedman, Benjamin M. 2011. “Economics: A Moral
+Durkheim, Emile. 1912. Les Forms Elementaires de la Inquiry with Religious Origins. American Economic
+vie Religieuse/The Elementary Forms of the Religious Review 101 (3): 166–70.
+Life. Translated by Joseph Ward Swain. London: Friedman, Daniel. 2008. Morals and Markets: An Evo-
+George Allen and Unwin, 1915. lutionary Account of the Modern World. New York:
+Durlauf, Steven N., Andros Kourtellos, and Chih Ming St. Martin’s Press, Palgrave Macmillan.
+Tan. 2012. “Is God in the Details? A Reexamination Gagnon, Julien. 2014. “With God We Trust: Religion,
+of the Role of Religion in Economic Growth.” Jour- Trust and Cooperation in Large-Scale Societies.”
+nal of Applied Econometrics 27 (7): 1059–75. University of Cambridge Working Paper in Econom-
+Einstein, Albert. 1950. Out of My Later Years. New ics 1406.
+York: Carol Publishing Group, Citadel Press, 1956. Gentzkow, Matthew A., and Jesse M. Shapiro. 2004.
+Ekelund, Robert B., Jr., Robert F. Hebert, and Rob- “Media, Education and Anti-Americanism in the
+ert D. Tollison. 2002. “An Economic Analysis of the Muslim World.” Journal of Economic Perspectives 18
+Protestant Reformation.” Journal of Political Econ- (3): 117–33.
+omy 110 (3): 646–71. Gill, Anthony. 1998. Rendering unto Caesar: The Cath-
+El-Gamal, Mahmoud A. 2006. Islamic Finance: Law, olic Church and the State in Latin America. Chicago
+Economics and Practice. Cambridge and New York: and London: University of Chicago Press.
+Cambridge University Press. Gill, Anthony. 2007. The Political Origins of Religious
+Engelberg, Joseph, Raymond Fisman, Jay C. Hartzell, Liberty. Cambridge and New York: Cambridge Uni-
+and Christopher A. Parsons. 2014. “Human Capital versity Press.
+and the Supply of Religion.” Unpublished. Glaeser, Edward L. 2005. “The Political Economy of
+
+--- Page 44 ---
+438 Journal of Economic Literature, Vol. LIV (June 2016)
+Hatred.” Quarterly Journal of Economics 120 (1): Hirschman, Albert O. 1977. The Passions and the
+45–86. Interests: Political Arguments for Capitalism before
+Glaeser, Edward L., Giacomo A. M. Ponzetto, and Its Triumph. Princeton and Oxford: Princeton Uni-
+Jesse M. Shapiro. 2005. “Strategic Extremism: Why versity Press.
+Republicans and Democrats Divide on Religious Hout, Michael, and Claude S. Fischer. 2002. “Why
+Values.” Quarterly Journal of Economics 120 (4): More Americans Have No Religious Preference:
+1283–1330. Politics and Generations.” American Sociological
+Glewwe, Paul, Phillip H. Ross, and Bruce Wydick. Review 67 (2): 165–90.
+2014. “Developing Aspirations: The Impact of Hout, Michael, Claude S. Fischer, and Mark A. Chaves.
+Church-Affiliated Child Sponsorship on Self-Esteem 2013. “More Americans Have No Religious Prefer-
+and Life Expectations.” Unpublished. ence: Key Findings from the 2012 General Social
+Glock, Charles Y., and Rodney Stark. 1965. Religion Survey.” University of California Berkeley Institute
+and Society in Tension. Chicago: Rand McNally and for the Study of Societal Issues Working Paper.
+Company. Hungerman, Daniel M. 2005. “Are Church and State
+Gorski, Philip S. 2005. “The Little Divergence: The Substitutes? Evidence from the 1996 Welfare
+Protestant Reformation and Economic Hegemony Reform.” Journal of Public Economics 89 (11–12):
+in Early Modern Europe.” In The Protestant Ethic 2245–67.
+Turns 100: Essays on the Centenary of the Weber Hungerman, Daniel M. 2011. “Rethinking the Study
+Thesis, edited by William H. Swatos, Jr., and Lutz of Religious Markets.” In The Oxford Handbook
+Kaelber, 165–90. Boulder and London: Paradigm of the Economics of Religion, edited by Rachel M.
+Publishers. McCleary, 257–74. Oxford and New York: Oxford
+Greeley, Andrew M. 1962. “Areas of Research on Reli- University Press.
+gion and Social Organizations.” American Catholic Hungerman, Daniel M. 2013. “Substitution and
+Sociological Review 23 (2): 99–112. Stigma: Evidence on Religious Markets from the
+Grim, Brian J., and Roger Finke. 2006. “International Catholic Sex Abuse Scandal.” American Economic
+Religion Indexes: Government Regulation, Govern- Journal: Economic Policy 5 (3): 227–53.
+ment Favoritism, and Social Regulation of Religion.” Hungerman, Daniel M. 2014a. “Do Religious
+Interdisciplinary Journal of Research on Religion 2 Proscriptions Matter? Evidence from a T heory-Based
+(1). Test.” Journal of Human Resources 49 (4): 1053–93.
+Grim, Brian J., and Roger Finke. 2011. The Price of Hungerman, Daniel M. 2014b. “The Effect of Edu-
+Freedom Denied: Religious Persecution and Conflict cation on Religion: Evidence from Compulsory
+in the 21st Century. Cambridge and New York: Cam- Schooling Laws.” Journal of Economic Behavior and
+bridge University Press. Organization 104: 52–63.
+Gruber, Jonathan. 2004. “Pay or Pray? The Impact of Iannaccone, Laurence R. 1992. “Sacrifice and Stigma:
+Charitable Subsidies on Religious Attendance.” Jour- Reducing Free-Riding in Cults, Communes, and
+nal of Public Economics 88 (12): 2635–55. other Collectives.” Journal of Political Economy 100
+Gruber, Jonathan. 2005. “Religious Market Structure, (2): 271–91.
+Religious Participation, and Outcomes: Is Religion Iannaccone, Laurence R. 1994. “Why Strict Churches
+Good for You?” BE Journal of Economic Analysis Are Strong.” American Journal of Sociology 99 (5):
+and Policy 5 (1). 1180–1211.
+Gruber, Jonathan, and Daniel M. Hungerman. 2007. Iannaccone, Laurence R. 1997. “Toward an Economic
+“Faith-Based Charity and Crowd-Out during the Theory of ‘Fundamentalism’.” Journal of Institu-
+Great Depression.” Journal of Public Economics 91: tional and Theoretical Economics 153 (1): 100–116.
+1043–69. Iannaccone, Laurence R. 1998. “Introduction to the
+Gruber, Jonathan, and Daniel M. Hungerman. 2008. Economics of Religion.” Journal of Economic Litera-
+“The Church versus the Mall: What Happens When ture 36 (3): 1465–95.
+Religion Faces Increased Secular Competition?” Iannaccone, Laurence R., and Eli Berman. 2006.
+Quarterly Journal of Economics 123 (2): 831–62. “Religious Extremism: The Good, the Bad, and the
+Guiso, Luigi, Paola Sapienza, and Luigi Zingales. 2003. Deadly.” Public Choice 128 (1): 109–29.
+“People’s Opium? Religion and Economic Attitudes.” Iannaccone, Laurence R., and Eli Berman. 2008. “Eco-
+Journal of Monetary Economics 50 (1): 225–82. nomics of Religion.” In The New Palgrave Dictionary
+Gulesci, Selim, and Erik Meyersson. 2013. “For the of Economics, edited by Stephen Durlauf and Law-
+Love of the Republic: Education, Religion, and rence Blume. Basingstoke and New York: Palgrave
+Empowerment.” Unpublished. Macmillan.
+Hanson, Gordon H., and Chong Xiang. 2013. “Export- Iannaccone, Laurence R., and Feler Bose. 2011.
+ing Christianity: Governance and Doctrine in the “Funding the Faiths: Toward a Theory of Religious
+Globalization of US Denominations.” Journal of Finance.” In The Oxford Handbook of the Economics
+International Economics 91 (2): 301–20. of Religion, edited by Rachel M. McCleary, 323–42.
+Henrich, Joseph, et al. 2010. “Markets, Religion, Com- Oxford and New York: Oxford University Press.
+munity Size, and the Evolution of Fairness and Pun- Iannaccone, Laurence R., and Michael D. Makow-
+ishment.” Science 327 (5972): 1480–84. sky. 2007. “Accidental Atheists? Agent-Based
+
+--- Page 45 ---
+Iyer: The New Economics of Religion 439
+Explanations for the Persistence of Religious Region- Differences.” Economic Development and Cultural
+alism.” Journal for the Scientific Study of Religion 46 Change 61 (3): 503–38.
+(1): 1–16. Lambarraa, Fatima, and Gerhard Riener. 2012. “On
+Iannaccone, Laurence R., Derek Neal, Peter Boettke, the Norms of Charitable Giving in Islam: A Field
+and Deirdre McCloskey. 2005. “The Economics of Experiment.” Courant Research Centre Discussion
+Religion: A Symposium.” Faith and Economics 46: Paper 111.
+1–23. Landes, David S. 1998. The Wealth and Poverty of
+Iyer, Sriya. 2002. Demography and Religion in India. Nations: Why Some Are So Rich and Some So Poor.
+New Delhi: Oxford University Press. New York and London: WW Norton and Company.
+Iyer, Sriya. 2008. “Religion and Economic Devel- Lehrer, Evelyn L. 2009. Religion, Economics, and
+opment.” In The New Palgrave Dictionary of Eco- Demography: The Effects of Religion on Education,
+nomics, edited by Steven N. Durlauf and Lawrence Work, and the Family. New York and Abington, UK:
+E. Blume. Basingstoke and New York: Palgrave Routledge.
+Macmillan. Lehrer, Evelyn L., and Carmel U. Chiswick. 1993.
+Iyer, Sriya, Chander Velu, and Abdul Mumit. 2014. “Religion as a Determinant of Marital Stability.”
+“Communication and Marketing of Services By Reli- Demography 30 (3): 385–404.
+gious Organizations in India.” Journal of Business Lenski, Gerhard. 1961. The Religious Factor: A Socio-
+Research 67 (2): 59–67. logical Study of Religion’s Impact on Politics, Eco-
+Iyer, Sriya, Chander Velu, and Melvyn Weeks. 2014. nomics, and Family Life. New York: Doubleday.
+“Divine Competition: Religious Organisations and Levy, Gilat, and Ronny Razin. 2012. “Religious Beliefs,
+Service Provision in India.” University of Cambridge Religious Participation, and Cooperation.” American
+Working Paper in Economics 1409. Economic Journal: Microeconomics 4 (3): 121–51.
+Iyigun, Murat. 2008. “Luther and Suleyman.” Quar- Majid, Muhammad Farhan. 2013. “The Persistent
+terly Journal of Economics 123 (4): 1465–94. Effects of In Utero Nutrition Shocks over the Life
+Iyigun, Murat. 2013. “Lessons from the Ottoman Cycle: Evidence from Ramadan Fasting.” Grand
+Harem on Culture, Religion, and Wars.” Economic Challenges Canada Economic Returns to Mitigating
+Development and Cultural Change 61 (4): 693–730. Early Life Risks Working Paper 13-05.
+Jelen, Ted G., ed. 2002. Sacred Markets, Sacred Cano- Makowsky, Michael D. 2012. “Emergent Extremism in
+pies: Essays on Religious Markets and Religious Plu- a Multi-agent Model of Religious Clubs.” Economic
+ralism. Lanham, MD: Rowman & Littlefield. Inquiry 50 (2): 327–47.
+Jha, Saumitra. 2013. “Trade, Institutions, and Ethnic Malthus, Thomas R. 1817. An Essay on the Principle
+Tolerance: Evidence from South Asia.” American of Population, Fifth edition. London: John Murray.
+Political Science Review 107 (4): 806–32. Marshall, Alfred. 1890. Principles of Economics, Book
+Keefer, Philip, and Norman Loayza, eds. 2008. Terror- I, 32–33. New York: Prometheus Books, 1997.
+ism, Economic Development, and Political Openness. Marty, Martin, and R. Simon Appleby, eds. 1994–2004.
+Cambridge and New York: Cambridge University The Fundamentalism Project. Chicago and London:
+Press. University of Chicago Press.
+Kelley, Dean M. 1972. Why Conservative Churches McBride, Michael. 2007. “Club Mormon: Free-Rid-
+Are Growing. Harper & Row. ers, Monitoring, and Exclusion in the LDS Church.”
+Keuschnigg, Marc, and Jan Schikora. 2014. “The Dark Rationality and Society 19 (4): 395–424.
+Side of Leadership: An Experiment on Religious McBride, Michael. 2008. “Religious Pluralism and
+Heterogeneity and Cooperation in India.” Journal of Religious Participation: A Game Theoretic Analysis.”
+Socio-Economics 48: 19–26. American Journal of Sociology 114 (1): 77–106.
+Krueger, Alan B. 2007. What Makes a Terrorist: Eco- McBride, Michael. 2010. “Religious Market Competi-
+nomics and the Roots of Terrorism. Princeton and tion in a Richer World.” Economica 77 (305): 148–71.
+Oxford: Princeton University Press. McBride, Michael. 2015. “Why Churches Need
+Kuran, Timur. 1995. Private Truths, Public Lies: The Free-Riders: Religious Capital Formation and Reli-
+Social Consequences of Preference Falsification. gious Group Survival.” Journal of Behavioral and
+Cambridge, MA: Harvard University Press. Experimental Economics 58: 77–87.
+Kuran, Timur. 2004. “Why the Middle East Is Eco- McCleary, Rachel M. 2011a. “The Economics of Reli-
+nomically Underdeveloped: Historical Mechanisms gion as a Field of Inquiry.” In The Oxford Handbook
+of Institutional Stagnation.” Journal of Economic of the Economics of Religion, edited by Rachel M.
+Perspectives 18 (3): 71–90. McCleary, 3–38. Oxford and New York: Oxford Uni-
+Kuran, Timur. 2010. The Long Divergence: How versity Press.
+Islamic Law Held Back the Middle East. Princeton McCleary, Rachel M., ed. 2011b. The Oxford Hand-
+and Oxford: Princeton University Press. book of the Economics of Religion. Oxford and New
+Kuran, Timur. 2014. “Islam and Economic Per- York: Oxford University Press.
+formance: Historical and Contemporary Links.” McCleary, Rachel M., and Robert J. Barro. 2006.
+Unpublished. “Religion and Political Economy in an International
+Kuran, Timur, and Anantdeep Singh. 2013. “Economic Panel.” Journal for the Scientific Study of Religion 45
+Modernization in Late British India: Hindu–Muslim (2): 149–75.
+
+--- Page 46 ---
+440 Journal of Economic Literature, Vol. LIV (June 2016)
+McCleary, Rachel M., and Leonard W. J. van der Kuijp. University Press.
+2010. “The Market Approach to the Rise of the Oosterbeek, Hessel, and Bas van der Klaauw. 2013.
+Geluk School, 1419–1642.” Journal of Asian Studies “Ramadan, Fasting and Educational Outcomes.”
+69 (1): 149–80. Economics of Education Review 34: 219–26.
+Mellor, Jennifer M., and Beth A. Freeborn. 2011. Oslington, Paul, ed. 2003. Economics and Religion: Vol-
+“Religious Participation and Risky Health Behav- umes 1 and 2. Cheltenham, UK: Edward Elgar.
+iors among Adolescents.” Health Economics 20 (10): Oslington, Paul, ed. 2014. The Oxford Handbook of
+1226–40. Christianity and Economics. Oxford and New York:
+Meyersson, Erik. 2014. “Islamic Rule and the Empow- Oxford University Press.
+erment of the Poor and Pious.” Econometrica 82 (1): Paciotti, Brian, et al. 2011. “Are Religious Individu-
+229–69. als More Generous, Trusting, and Cooperative? An
+Michalopoulos, Stelios, Alireza Naghavi, and Giovanni Experimental Test of the Effect of Religion on Proso-
+Prarolo. 2016. “Islam, Inequality and Pre-industrial ciality.” In The Economics of Religion: Anthropologi-
+Comparative Development.” Journal of Develop- cal Approaches, edited by Lionel Obadia and Donald
+ment Economics 120: 86–98. C. Wood, 267–305. Bingley, UK: Emerald.
+Miller, Kent D. 2002. “Competitive Strategies of Reli- Patel, David S. 2012. “Concealing to Reveal: The Infor-
+gious Organizations.” Strategic Management Journal mational Role of Islamic Dress.” Rationality and
+23 (5): 435–56. Society 24 (3): 295–323.
+Mochrie, Robbie. 2014. “How We Forgot What Adam Pew Research Center Forum on Religion and Pub-
+Smith Said about Religion.” Paper presented at the lic Life. 2012. “The Global Religious Lands cape.”
+International Economic Association World Con- http://www.pewforum.org/2012/12/18/global-
+gress, Dead Sea, Jordan, June 9. religious-landscape-exec/.
+Montgomery, James D. 1996. “Contemplations on the Prummer, Anja, and Jan-Peter Siedlarek. 2014. “Insti-
+Economic Approach to Religious Behavior.” Ameri- tutions and the Preservation of Cultural Traits.” Uni-
+can Economic Review 86 (2): 443–47. versity of Cambridge Institute for New Economic
+Montgomery, James D. 2003. “A Formalization and Thinking Working Paper 2014/16.
+Test of the Religious Economies Model.” American Pullen, John M. 1981. “Malthus’ Theological Ideas and
+Sociological Review 68 (5): 782–809. Their Influence on His Principle of Population.” His-
+National Council for Voluntary Organisations and tory of Political Economy 13 (1): 39–54.
+Charities Aid Foundation. 2010. “UK Giving Putnam, Robert D., and David E. Campbell. 2010.
+2010: An Overview of Charitable Giving in the American Grace: How Religion Divides and Unites
+UK, 2009/10.” Charities Aid Foundation, National Us. New York: Simon and Schuster.
+Council for Voluntary Organisations, and Office of Radhakrishnan, Sarvepalli. 1928. The Religion We
+National Statistics. Need. London: Ernest Benn.
+Neuman, Shoshana. 2007. “Is Fertility Indeed Related Richardson, Gary, and Michael McBride. 2009. “Reli-
+to Religiosity? A Note on: ‘Marital Fertility and Reli- gion, Longevity, and Cooperation: The Case of the
+gion in Spain, 1985 and 1999’.” Population Studies Craft Guild.” Journal of Economic Behavior and
+61 (2): 219–24. Organization 71 (2): 172–86.
+Neuman, Shoshana, and Adrian Ziderman. 1986. “How Rothschild, Emma. 1994. “Adam Smith and the Invis-
+Does Fertility Relate to Religiosity: Survey Evidence ible Hand.” American Economic Review 84 (2):
+from Israel.” Sociology and Social Research 70 (2): 319–22.
+178–80. Rubin, Jared. 2011. “Institutions, the Rise of Com-
+Noland, Marcus. 2005. “Religion and Economic Per- merce and the Persistence of Laws: Interest Restric-
+formance.” World Development 33 (8): 1215–32. tions in Islam and Christianity.” Economic Journal
+Norenzayan, Ara, and Azim F. Shariff. 2008. “The 121 (557): 1310–39.
+Origin and Evolution of Religious Prosociality.” Sci- Rubin, Jared. 2014. “Printing and Protestants: An
+ence 322 (5898): 58–62. Empirical Test of the Role of Printing in the Refor-
+Norris, Pippa, and Ronald Inglehart. 2004. Sacred and mation.” Review of Economics and Statistics 96 (2):
+Secular: Religion and Politics Worldwide. Cambridge 270–86.
+and New York: Cambridge University Press. Sandler, Todd, and Walter Enders. 2004. “An Economic
+North, Charles M., and Carl R. Gwin. 2004. “Religious Perspective on Transnational Terrorism.” European
+Freedom and the Unintended Consequences of Journal of Political Economy 20 (2): 301–16.
+State Religion.” Southern Economic Journal 71 (1): Schumpeter, Joseph A. 1954. History of Economic
+103–17. Analysis. London: Allen and Unwin.
+North, Charles M., and Carl R. Gwin. 2014. “The Polit- Smith, Adam. 1759. The Theory of Moral Sentiments,
+ical Economy of Church and State.” Unpublished. edited by D. D. Raphael and A. L. Macfie. Oxford:
+Olson, Daniel V. A. 2011.”Toward Better Measures Clarendon, 1976.
+of Supply and Demand for Testing Theories of Smith, Adam. 1979. An Inquiry into the Nature and
+Religious Participation.” In The Oxford Handbook Causes of the Wealth of Nations: Books I–III. New
+of the Economics of Religion, edited by Rachel M. York: Penguin, 1776.
+McCleary, 135–50. Oxford and New York: Oxford Smith, Vernon L. 2008. Rationality in Economics:
+
+--- Page 47 ---
+Iyer: The New Economics of Religion 441
+Constructivist and Ecological Forms. Cambridge and Society: Four Chapters of an Unfinished Work.” His-
+New York: Cambridge University Press. tory of Political Economy 10 (1): 1–189.
+Sosis, Richard, and Eric R. Bressler. 2003. “Coopera- Voas, David. 2007. “The Continuing Secular Transi-
+tion and Commune Longevity: A Test of the Costly tion..” In The Role of Religion in Modern Societies,
+Signaling Theory of Religion.” Cross-Cultural edited by Detlef Pollack and Daniel V. A. Olson,
+Research 37 (2): 211–39. 25–48. New York and London: Taylor and Francis,
+Sosis, Richard, and Bradley J. Ruffle. 2004. “Ideology, Routledge.
+Religion, and the Evolution of Cooperation: Field Voas, David, Alasdair Crockett, and Daniel V. A. Olson.
+Experiments on Israeli Kibbutzim.” In Socioeco- 2002. “Religious Pluralism and Participation: Why
+nomic Aspects of Human Behavioral Ecology, edited Previous Research Is Wrong.” American Sociological
+by Michael Alvard, 89–117. Bingley, UK: Emerald. Review 67 (2): 212–30.
+Stark, Rodney, and William Sims Bainbridge. 1987. A Warner, R. Stephen. 1993. “Work in Progress toward a
+Theory of Religion. New York: Peter Lang. New Paradigm for the Sociological Study of Religion
+Stark, Rodney, and Roger Finke. 2000. Acts of Faith: in the United States.” American Journal of Sociology
+Explaining the Human Side of Religion. Berkeley and 98 (5): 1044–93.
+Los Angeles: University of California Press. Weber, Max. 1904. Die protestantische Ethik und der
+Stark, Rodney, and Roger Finke. 2002. “Beyond Geist des Kapitalismus/The Protestant Ethic and the
+Church and Sect: Dynamics and Stability in Reli- Spirit of Capitalism. London: Routledge.
+gious Economics.” In Sacred Markets, Sacred Can- Wills, Garry. 1990. Under God: Religion and American
+opies: Essays on Religious Markets and Religious Politics. New York: Simon & Schuster.
+Pluralism, edited by Ted G. Jelen, 31–62. Lanham, Wilson, David Sloan. 2002. Darwin’s Cathedral:
+MD: Rowman & Littlefield. Evolution, Religion, and the Nature of Society. Chi-
+Stark, Rodney, Laurence R. Iannaccone, and Roger cago and London: University of Chicago Press.
+Finke. 1996. “Religion, Science, and Rationality.” Woodberry, Robert D. 2011. “Religion and the Spread
+American Economic Review 86 (2): 433–37. of Human Capital and Political Institutions: Chris-
+Tawney, Richard H. 1926. Religion and the Rise of Cap- tian Missions as a Quasi-natural Experiment.” In
+italism. London: Penguin Books. The Oxford Handbook of the Economics of Religion,
+Tracey, Paul. 2012. “Religion and Organization: A edited by Rachel M. McCleary, 111–34. Oxford and
+Critical Review of Current Trends and Future New York: Oxford University Press.
+Directions.” Academy of Management Annals 6 (1): Woodberry, Robert D. 2012. “The Missionary Roots
+87–134. of Liberal Democracy.” American Political Science
+Trinitapoli, Jenny, and Alexander Weinreb. 2012. Reli- Review 106 (2): 244–74.
+gion and AIDS in Africa. Oxford and New York: Yang, Fenggang. 2012. Religion in China: Survival and
+Oxford University Press. Revival under Communist Rule. Oxford and New
+Viner, Jacob. 1978. “Religious Thought and Economic York: Oxford University Press.
+
+--- Page 48 ---
+Reproduced with permission of the copyright owner. Further reproduction prohibited without
+permission.

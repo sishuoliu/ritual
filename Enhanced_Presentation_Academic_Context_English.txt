@@ -1,0 +1,302 @@
+═══════════════════════════════════════════════════════════════════════════════
+                "The Economics of Salvation" Enhanced Presentation
+                   — With Academic Context and Scholarly Dialogue —
+                        
+                   Total Duration: 25 minutes (5 × 5 min)
+                 Each speech: ~700 words, suitable for 5 min
+═══════════════════════════════════════════════════════════════════════════════
+
+【SPECIAL FEATURES OF THIS VERSION】
+• Walsh's paper as the main thread
+• Each section incorporates related scholarly research
+• Demonstrates the academic development of the field
+• Helps audience understand the position of "Economics of Salvation" 
+  in scholarly history
+
+【FIVE SPEAKER ASSIGNMENTS】
+Speaker 1: Academic Background & Theoretical Origins (Gernet, Mauss, Marx, Bourdieu)
+Speaker 2: The Nature of Merit — From Tambiah to Walsh
+Speaker 3: Land and Institution — Gernet and Schopen in Dialogue
+Speaker 4: Gift or Exchange — Mauss, Derrida, and Buddhist Dana
+Speaker 5: Synthesis and Frontiers — The Future of Religious Economics
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                【SPEAKER 1】Academic Background & Theoretical Origins
+                              (Duration: 5 minutes)
+═══════════════════════════════════════════════════════════════════════════════
+
+▌SLIDE 1: Title Page
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        The Economics of Salvation
+        
+        — Toward a Theory of Exchange in Chinese Buddhism —
+        and Its Academic Context
+        
+        Core Text: Michael J. Walsh (2007)
+        Presentation Group: [Names]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 2: Research Genealogy — Who Studies Religious Economics?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        ┌─────────────────────────────────────────────────┐
+        │         Genealogy of Religious Economics         │
+        ├─────────────────────────────────────────────────┤
+        │  1867  Marx "Capital" — Commodity theory         │
+        │  1925  Mauss "The Gift" — Exchange anthropology  │
+        │  1956  Gernet "Buddhism in Chinese Society"      │
+        │        — Foundational work                       │
+        │  1970  Tambiah "Buddhism and Spirit Cults"       │
+        │        — "Field of Merit" ethnography            │
+        │  1977  Bourdieu "Logic of Practice"              │
+        │        — Cultural capital                        │
+        │  1992  Derrida "Given Time" — Gift philosophy    │
+        │  1997  Schopen "Bones, Stones, Buddhist Monks"   │
+        │        — Indian Buddhist economy                 │
+        │  2007  Walsh "Economics of Salvation"            │
+        │        ← OUR CORE TEXT                           │
+        └─────────────────────────────────────────────────┘
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 3: Jacques Gernet — The Founder
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Jacques Gernet (1921-2018)】
+• Renowned French sinologist, Collège de France Professor
+• Major Work: "Buddhism in Chinese Society: An Economic History 
+  from the Fifth to the Tenth Centuries" (1956/1995)
+
+【Core Contributions】
+• First systematic study of Chinese Buddhist monastery economics
+• Discovered monasteries were major economic forces in medieval China
+• Documented land accumulation, commercial operations, financial services
+
+【Key Quote】
+"Buddhist monasteries found their ecological niche in the highlands—
+ rich in water, fruit trees, and timber."
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 4: The Theoretical Toolkit
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Walsh's Four Theoretical Resources】
+
+  ┌────────────────┐     ┌────────────────┐
+  │   Marx         │     │   Mauss        │
+  │   Commodity    │     │   Gift Theory  │
+  │   Theory       │     │   Reciprocal   │
+  │   Use-value    │     │   Obligations  │
+  │   Exchange-val │     │   Three duties │
+  └────────────────┘     └────────────────┘
+           │                      │
+           └──────────┬───────────┘
+                      ↓
+              【Walsh's Synthesis】
+              Merit = Commodified Gift
+                      ↑
+           ┌──────────┴───────────┐
+           │                      │
+  ┌────────────────┐     ┌────────────────┐
+  │   Bourdieu     │     │   Derrida      │
+  │   Capital      │     │   Impossibility│
+  │   Conversion   │     │   of the Gift  │
+  │   Econ→Culture │     │   Deconstruct  │
+  └────────────────┘     └────────────────┘
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▌SLIDE 5: Core Case & Paper Structure
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【Ayuwang Monastery Stele Case】
+• Time: ~1190s (Southern Song)
+• Figures: Lu You (author), Deguang (abbot)
+• Event: Six transactions—imperial calligraphy, land purchase, merit
+
+【Paper's Five Sections】
+1. Merit and the Institution
+2. The Experience of Merit
+3. Salvation in the Fields
+4. The Problem with Giving
+5. Commodity, Capital, and Exchange
+
+【Our Presentation Structure】
+Speaker 1: Background → Speaker 2: Merit → Speaker 3: Land 
+→ Speaker 4: Gift → Speaker 5: Synthesis
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+【SPEAKER 1 SCRIPT】(~700 words, 5 minutes)
+───────────────────────────────────────────────────────────────────────────
+
+Good morning/afternoon everyone. Today our group will present Michael Walsh's article "The Economics of Salvation: Toward a Theory of Exchange in Chinese Buddhism." But unlike a typical paper presentation, we aim not only to explain this paper itself, but also to situate it within a broader academic lineage, helping you understand how this research field developed.
+
+First, let me introduce the question: "Who studies religious economics?"
+
+The relationship between religion and economics was long considered belonging to two separate spheres. But academic exploration of this question goes back over a century. In 1867, Marx published Capital, proposing commodity theory and distinguishing use-value from exchange-value—these became important tools for analyzing religious exchange. In 1925, French anthropologist Marcel Mauss published The Gift, arguing that so-called "selfless giving" actually creates social obligations—directly challenging naive understandings of religious donations.
+
+For Buddhist economic history specifically, the most important founder is French sinologist Jacques Gernet. His Buddhism in Chinese Society: An Economic History from the Fifth to the Tenth Centuries, published in French in 1956 and English in 1995, is the foundational work in this field. Through extensive historical sources, Gernet demonstrated that Chinese Buddhist monasteries were not otherworldly retreats, but major economic forces in medieval China. Monasteries owned vast lands, engaged in commercial operations, and even conducted financial activities—lending money and running pawnshops. This discovery fundamentally transformed our understanding of Chinese Buddhism.
+
+Walsh's research stands on these giants' shoulders. His unique contribution lies in synthesizing four major theoretical resources: Marx's commodity theory, Mauss's gift theory, Bourdieu's capital theory, and Derrida's gift philosophy.
+
+Let me briefly explain how these four theories integrate into Walsh's analysis. Marx tells us commodities have use-value and exchange-value—Walsh argues merit has both. Mauss tells us gifts create reciprocal obligations—Walsh argues merit exchange is precisely such a reciprocal relationship. Bourdieu tells us economic capital converts to cultural capital—Walsh uses the "stele inscription" example to demonstrate this conversion. Derrida tells us pure gifts are logically impossible—Walsh argues merit is never given unconditionally.
+
+Walsh's paper uses a specific case as its entry point: a stele inscription written by the famous Southern Song poet Lu You for Ayuwang Monastery in the late twelfth century. This inscription records six transactions: emperors bestowing calligraphy, imperial-monastic relations being established, monks praying for the emperor, monks repaying imperial benevolence, Master Deguang establishing merit, and the monastery purchasing land. Walsh keenly observes that these seemingly religious acts actually constitute a complete economic exchange system.
+
+The paper has five sections: "Merit and the Institution" discusses the reciprocal relationship between imperial house and monastery; "The Experience of Merit" analyzes how merit was understood and accumulated; "Salvation in the Fields" explores the logic of land donations; "The Problem with Giving" uses Mauss and Derrida to analyze the gift-exchange distinction; "Commodity, Capital, and Exchange" uses Marx and Bourdieu to summarize merit's economic properties.
+
+Today our presentation follows this logic, but each section incorporates related scholars' research, allowing you to understand the academic dialogue in this field.
+
+My colleagues will explore from the following angles: Speaker 2 will combine Tambiah's "field of merit" research to explain merit's nature; Speaker 3 will combine Gernet and Schopen's research to explain land and institution; Speaker 4 will delve into Mauss and Derrida's theories on the gift problem; Speaker 5 will synthesize everything and look toward future directions in religious economics.
+
+Now let me hand over to the second speaker.
+
+【SPEAKER 1 DISCUSSION QUESTION】
+───────────────────────────────────────────────────────────────────────────
+💬 Open Discussion Question:
+
+"Walsh synthesizes theories from Marx, Mauss, Bourdieu, and Derrida—four thinkers from different disciplines, different eras, and different problematics. Is there inherent tension in combining their theories? For instance, Marx focused on capitalist production relations, while Mauss focused on pre-capitalist society exchange—can these two analytical frameworks seamlessly connect?"
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                【SPEAKER 2】The Nature of Merit — From Tambiah to Walsh
+                              (Duration: 5 minutes)
+═══════════════════════════════════════════════════════════════════════════════
+
+[SLIDES 6-10: Content mirrors Chinese version with Tambiah's field of merit theory,
+Gombrich's merit transfer research, and Walsh's advancement to merit-as-commodity]
+
+【SPEAKER 2 SCRIPT】(~700 words, 5 minutes)
+───────────────────────────────────────────────────────────────────────────
+
+Thank you to the first speaker for outlining the academic context. Now I'll explain the nature of merit, focusing particularly on the scholarly development from Stanley Tambiah to Michael Walsh.
+
+Before understanding Walsh's paper, we must understand the anthropological tradition he inherited and developed—especially Tambiah's research.
+
+Stanley Tambiah was a Sri Lankan-American anthropologist and Harvard professor. His 1970 book Buddhism and the Spirit Cults in North-east Thailand is a classic study of South Asian Buddhist merit practice. Tambiah proposed a core concept: the sangha as "field of merit."
+
+This concept is ingenious. Tambiah writes: "The monk has an obligation to be a 'field of merit'—donors plant seeds in this field, the seeds grow, providing donors with returns exceeding their original investment." This is an agricultural society metaphor: you donate to the monastery like sowing in fertile soil, and you receive harvest returns.
+
+But Tambiah's important insight goes further. He points out that monastic-lay relations are not one-way charity but bidirectional reciprocity. Young men become monks and serve elders facing death; elders support monasteries to accumulate merit. This is actually intergenerational exchange—young people trade religious service for social recognition, elders trade material support for afterlife blessings.
+
+Another important academic issue is "merit transfer." According to orthodox Buddhist doctrine, each person is responsible for their own karma, emphasizing self-liberation. But in actual folk practice, merit can be transferred to others—especially to deceased relatives, called "dedication." This seems doctrinally contradictory.
+
+British scholar Richard Gombrich published an important 1971 paper studying merit transfer in Sinhalese Buddhism. He discovered an interesting paradox: when you transfer merit to others, your own merit doesn't decrease but actually increases. Like one candle lighting another without diminishing its own flame.
+
+Now let's see how Walsh advances beyond these predecessors. Tambiah analyzed merit from an anthropological perspective, emphasizing it as "social exchange"; Walsh analyzes merit from a religious economics perspective, arguing it is "commodity exchange." This is an important conceptual shift.
+
+Walsh's key innovation is applying Marx's commodity theory to merit. He argues merit is not just a "seed in the field" but a commodity. Commodities have use-value (merit brings blessings), exchange-value (merit can be traded for land, rituals, status), and are products of labor (monks' practice and prayer).
+
+As the paper states: "The experience of merit and merit-making was a material exchange process, and at the heart of this exchange process was the practice of seeking, attaining, and accumulating this-worldly benefits."
+
+This is the scholarly development from Tambiah to Walsh: from "field metaphor" to "commodity analysis," from anthropological description to economic explanation.
+
+【SPEAKER 2 DISCUSSION QUESTION】
+───────────────────────────────────────────────────────────────────────────
+💬 Open Discussion Question:
+
+"Tambiah uses the agricultural metaphor 'field of merit' to explain merit; Walsh uses Marx's concept of 'commodity.' What's the essential difference between these two frameworks? 'Field' emphasizes growth and multiplication; 'commodity' emphasizes exchange and value. If merit really is a 'commodity,' how is its 'price' determined? Does a 'merit market' exist?"
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                【SPEAKER 3】Land and Institution — Gernet and Schopen
+                              (Duration: 5 minutes)
+═══════════════════════════════════════════════════════════════════════════════
+
+[SLIDES 11-15: Gernet's Chinese findings, Schopen's Indian discoveries,
+the "wonderful irony of Buddhism," Zongmi and Ma Tingluan's local justifications]
+
+【SPEAKER 3 SCRIPT】(~700 words, 5 minutes)
+───────────────────────────────────────────────────────────────────────────
+
+Thank you to the second speaker. Now I'll explain the land and institution question, focusing on two scholars: Jacques Gernet studying China, and Gregory Schopen studying India, and how together they reveal the true face of Buddhist monastic economy.
+
+Gernet's core findings can be summarized as three types of economic activity: land management, commercial operations, and financial services. In land management, monasteries owned vast properties, implemented tenant-farming systems, collected rent. In commerce, monasteries ran grain mills, oil presses, even breweries. In finance, monasteries conducted lending, pawnbroking, and established something like modern "permanent endowments."
+
+Gernet's argumentative logic is subtle. He first acknowledges Buddhist doctrine emphasizes otherworldliness and non-attachment. But then he points out monasteries actually accumulated vast wealth. Crucially, this shouldn't be simply understood as "religious corruption" but as the inevitable result of institutionalized survival.
+
+Now let's look at India. Gregory Schopen is a UCLA professor and authority on Indian Buddhism. His research fundamentally overturned traditional assumptions about early Buddhism. Schopen discovered that the famous Nalanda monastery owned over 200 villages. More surprisingly, the Vinaya—Buddhist disciplinary texts—explicitly authorized monks to participate in various commercial activities: selling rice below market price, cloth trading, providing hospice care.
+
+Schopen's research challenges three traditional assumptions. First, we assumed monks stayed away from money; Schopen proves monks deeply engaged in economics. Second, we assumed monasteries lived frugally; Schopen proves monasteries were wealthy landlords. Third, we assumed monastic-lay boundaries were clear; Schopen proves monastic-lay economies were deeply intertwined.
+
+Walsh summarizes this phenomenon with an elegant phrase: "the wonderful irony of Buddhism"—"In renouncing wealth through a series of metaphysical positions, one result was the accumulation of material wealth in abundance."
+
+Importantly, Gernet (China) + Schopen (India) + Walsh (theory) reach a common conclusion: Buddhist monastic economic participation is not exception but norm; not corruption but survival strategy.
+
+【SPEAKER 3 DISCUSSION QUESTION】
+───────────────────────────────────────────────────────────────────────────
+💬 Open Discussion Question:
+
+"Both Gernet and Schopen prove Buddhist monasteries actively participated in economic activities. But does this mean Buddhism's otherworldly ideals were merely 'false ideology'? Or should we distinguish 'doctrinal level' from 'practical level,' acknowledging both can coexist harmoniously? When a religious organization's 'what it says' and 'what it does' don't match, does that mean it's insincere?"
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                【SPEAKER 4】Gift or Exchange — Mauss, Derrida, Buddhist Dana
+                              (Duration: 5 minutes)
+═══════════════════════════════════════════════════════════════════════════════
+
+[SLIDES 16-20: Mauss's three obligations, Derrida's impossibility argument,
+Ohnuma's body-gift research, Walsh's position]
+
+【SPEAKER 4 SCRIPT】(~700 words, 5 minutes)
+───────────────────────────────────────────────────────────────────────────
+
+Thank you to the third speaker. Now I'll explain the paper's theoretical core—gift or exchange? I'll explore Mauss's and Derrida's theories and how they've been applied to Buddhist dana research.
+
+Let's start with Marcel Mauss. His 1925 The Gift is one of the most important texts in social science history. Mauss studied gift exchange worldwide—from North American potlatch to Pacific kula rings—and reached a subversive conclusion: all gifts are not "selfless."
+
+He proposed the famous "three obligations" theory: obligation to give, obligation to receive, obligation to reciprocate. When I give you a gift, you must accept—refusal is social offense. Once you accept, you owe me a debt. Mauss famously said: "To make a gift of something to someone is to make a present of some part of oneself."
+
+In 1992, Jacques Derrida pushed Mauss's analysis to more radical conclusions in Given Time. Derrida posed a sharp logical argument: if a gift expects reciprocation, it's no longer a gift. But once a gift is given, accepted, and recognized as gift, it automatically activates the obligation to reciprocate. Therefore, true gifts must "not appear"—but this is logically impossible. Pure gifts do not exist.
+
+Recent scholars have applied Mauss and Derrida to Buddhist dana. Japanese-American scholar Reiko Ohnuma's book Head, Eyes, Flesh, and Blood studies the most extreme form of dana in Indian Buddhist literature—body-gift, giving one's own body parts or even life.
+
+So what position does Walsh take? His core argument is clear: "Land was never 'given' to Ayuwang Monastery—land was 'exchanged' at Ayuwang Monastery for merit." Note the wording: "give" implies selflessness, "exchange" implies reciprocity.
+
+Walsh adopts Mauss's view that merit exchange is reciprocal. He adopts Derrida's view that "pure donation" doesn't exist in practice. But he goes beyond both: merit is not just a gift but a commodity—with use-value and exchange-value.
+
+【SPEAKER 4 DISCUSSION QUESTION】
+───────────────────────────────────────────────────────────────────────────
+💬 Open Discussion Question:
+
+"Derrida argues 'a pure gift is impossible.' But Buddhism has the concept of 'non-abiding giving' (wu-zhu bu-shi)—giving without attachment to giver, receiver, or gift. Is this a response to Derrida? If someone truly achieves 'non-abiding giving,' neither thinking they're giving nor expecting any return, have they realized Derrida's 'impossible gift'?"
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                【SPEAKER 5】Synthesis and Frontiers
+                              (Duration: 5 minutes)
+═══════════════════════════════════════════════════════════════════════════════
+
+[SLIDES 21-26: Walsh's contributions, religious economics schools,
+cross-cultural comparisons, contemporary implications]
+
+【SPEAKER 5 SCRIPT】(~700 words, 5 minutes)
+───────────────────────────────────────────────────────────────────────────
+
+Thank you to the previous speakers. As the final speaker, I'll synthesize our discussion and situate Walsh's research within the broader field of religious economics.
+
+First, let me summarize Walsh's core contributions. The paper has three main arguments: First, merit is commodity, not gift—it has use-value and exchange-value, is a product of labor. Second, Buddhist monasteries are sites of exchange, not just practice sites—monks and nuns as institutionalized bodies engage in various exchange activities to ensure institutional survival. Third, religious institutions' long-term survival depends on economic exchange—without material foundation, no spiritual enterprise can endure.
+
+Now let me place Walsh's research within the broader vista of religious economics. The field can be roughly divided into two schools.
+
+First is the "Rational Choice School," represented by Laurence Iannaccone, Rodney Stark, and Roger Finke. They apply microeconomic models to analyze religious behavior, assuming religious participants are rational maximizers. This school is very influential in American sociology of religion.
+
+Second is the "Anthropological/Sociological School," represented by Mauss, Bourdieu, Tambiah, and Walsh. They use fieldwork and historical text analysis, emphasizing exchange is embedded in sociocultural structures—religious behavior cannot simply be reduced to individual rational calculation.
+
+Walsh's research clearly belongs to the second school, but dialogues with the first. Both schools share common ground—focusing on religion's economic dimension—but differ on whether exchange can be explained by individual rationality models.
+
+Can Walsh's framework extend to other religious traditions? This is an exciting question. Buddhism has merit exchange; Christianity has indulgences and tithing; Islam has zakat and Islamic finance—can all these be analyzed through "economics of salvation"?
+
+Scholar Ilana Silber's 1995 Virtuosity, Charisma, and Social Order compared Theravada Buddhism and medieval Catholic monasticism. She found that despite doctrinal differences, both developed similar institutionalized survival strategies. This suggests "economics of salvation" may have some cross-cultural universality.
+
+Finally, let me discuss contemporary implications. Today we observe many religious economic phenomena: temple admission fees, ceremonial charges, online "lamp offerings," mobile payment "merit donations." Can Walsh's framework help us analyze these?
+
+I believe it can. When a temple charges admission, is this "commercial corruption" or a contemporary form of "economics of salvation"? When believers scan QR codes for "merit donations," what's essentially different from Song dynasty donors exchanging land for merit?
+
+These remain open questions for future research: How does merit exchange change in the digital age? Is religious "commercialization" corruption or adaptation? What are the similarities and differences in "economics of salvation" across religious traditions?
+
+【SPEAKER 5 DISCUSSION QUESTION】
+───────────────────────────────────────────────────────────────────────────
+💬 Open Discussion Question:
+
+"Walsh's research uses Song dynasty Chinese Buddhism as its case. If we apply the 'economics of salvation' perspective to the contemporary world, what do we see? Temple admission fees, ceremonial charges, online 'lamp offerings,' mobile payment 'merit'—are these the 'corruption' of religious commercialization, or the continuation of 'economics of salvation' in the digital age? How should we evaluate contemporary religious organizations' economic behavior?"
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                              END OF MATERIALS
+═══════════════════════════════════════════════════════════════════════════════

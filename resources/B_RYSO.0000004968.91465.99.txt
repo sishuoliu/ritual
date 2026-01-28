@@ -1,0 +1,885 @@
+--- Page 1 ---
+Pierre Bourdieu and the sociologyof religion:
+A central and peripheral concern1
+ERWANDIANTEILL
+EŁcoledesHautesEŁtudesenSciencesSociales
+(AndrewWallis,translator,WhittierCollege)
+Abstract. Although some of Bourdieu’s most basic concepts have their roots in the
+sociologyofreligion,religionitselfhas,inappearance,onlyamarginalizedstatuswithin
+hiswork.Thisarticlefocusesonthegenesisofreligious¢eldandhowthetheoriesof
+Durkheim, Mauss, and Weber fold into the notion of ¢eld de¢ned by Bourdieu.
+Religious¢eldmustbeunderstoodwithinthesymbolic economyaswell;divisionsof
+symbolic labor are therefore discussed in relation to segmented and non-segmented
+societies.Finally,Bourdieu’sanalysisofinstitutions,inparticulartheCatholicChurch,
+furtherhelpusunderstandtheuseandevolutionofreligious¢eldinhisworkandshed
+lightonthesociologist’sunderstandingofthemovementfromreligiousbeliefstoward
+aestheticones.
+Religion hasthe statusofa‘‘paradoxicalobject’’intheworkofPierre
+Bourdieu. The articles that address the topic directly are very few in
+number, and none of his major works tackles this subject. Compared
+to the sociology of art, culture, or education, the study of power or
+socialdeprivation,thesociologyofreligionoccupiesamarginalspace
+withintheBourdieucorpus.Yetcertainofhismostimportantconcepts
+come out of the social sciences of religion. Inherited from Mauss or
+Durkheim, the concept of belief, which is a condition of existence of
+any ¢eld, is a manifest example. Even the elaboration of this latter
+concept, according to Bourdieu, springs from intermeshing research
+on the sociology of art begun around1960 and the ‘‘beginning of the
+chapterdevotedtoreligioussociologyinWirtschaftundGesellschaft’’2
+by Weber. He writes: ‘‘I constructed the notion of ¢eld both against
+Weber and withWeber, by thinking about the analysis he proposes of
+therelationsbetweenpriest,prophetandsorcerer.’’3Anotherexample
+can be found in the reading of Erwin Panofsky’s Gothic Architecture
+and Scholasticism in which Bourdieu forged the de¢nition of habitus.
+Indeed, in1967, Bourdieu translates this text, one chapter of which is
+dedicatedto‘‘thehabit-formingforce’’inthecaseofeducationandthe
+TheoryandSociety32:529^549,2003.
+(cid:1)2003KluwerAcademicPublishers.PrintedintheNetherlands.
+
+--- Page 2 ---
+530
+commoncultureofCatholicclericsandthearchitectsofthecathedrals
+aroundParis.Thehomologyofstructurebetweenmedievalphilosophy
+and gothic architecture originates according to Panofsky within a
+common habitus. In the epilogue written by Bourdieu, one ¢nds for
+oneofthe¢rsttimesinhisworkanexplicitde¢nitionofhabitus:4
+A system of schema [that] constantly orient choices, which, though not
+deliberate, are nonetheless systematic; which, without being arranged and
+organized expressly according to an ultimate end, are nonetheless imbued
+withasortof¢nalitythatrevealsitselfonlypostfestum.5
+Habitusisthusde¢nedasa‘‘systemofthoughtschemes,ofperception
+and of action,’’ a ‘‘modus operandi.’’6 This last expression, coming
+directlyfromscholasticphilosophy,istakenupagaininalittle-known
+text7inwhichBourdieu makesa completediagram oftheoppositions
+amongobjectivism,subjectivism,andhisown‘‘theoryofpractice.’’He
+de¢nes the‘‘modusoperandi’’ (habitus) as theveryobjectofsociology
+itself and it is as such that he intends to undertake its study. It is
+therefore inside the history of medieval art and philosophy impreg-
+natedwithCatholicismthattheFrenchsociologist¢ndsthemodelfor
+one of his principal concepts. In Bourdieu’s work, the notions of
+‘‘belief,’’ ‘‘¢eld,’’or ‘‘habitus’’always result from the social sciences of
+religion (sociology, anthropology, and history). From this point of
+view, Bourdieu’s work is almost a‘‘generalized’’ sociology of religion
+(with religion presenting in paradigmatic fashion properties common
+to all spheres of symbolic activity). In this perspective, David Swartz
+clearly shows to what extent Bourdieu’s sociology of culture is a
+tributaryofthesociologyofreligion.8
+The goal of this article is to present Bourdieu’s contribution to the
+socialsciencesofreligionwhileconcurrentlyreadinghisanthropologi-
+calandsociologicalcorpus.Canonespeakof ‘‘religion’’insocietiesin
+which institutional religions do not exist or are exceptionally weak-
+ened? Does the notion of religious ¢eld remain pertinent in non-
+segmented or increasinglysecular societies? Or, in other words, is the
+‘‘religious’’limitedtothereligious¢eld?
+The study of Bourdieu’s works suggests negative responses to these
+questions.The sociological validity of the concept of religious ¢eld is
+limited by the absence of a monopoly of symbolic production in
+certain agrarian societies on the one hand, and the growing uncer-
+taintyaboutthelimitsof¢eldontheother.Thislatterisnotablydueto
+theappearanceofnewprofessionsspecializinginthe‘‘symbolicwork’’
+
+--- Page 3 ---
+531
+and to the ‘‘de-coupling’’ of belief and institutional allegiance. In
+Bourdieu’s ethnographic enterprise, it appears that the symbolic in-
+formstheentiretyofsociallifewithouttheexistenceofanautonomous
+institution that would allow for a‘‘religious ¢eld.’’9 What then forms
+the institutional space of religion from a social space that possesses
+little di¡erentiation?10 In fact, religious ¢eld seems to correspond
+precisely to the historic occidental religions, notably the Judaism and
+Catholicism analyzed in the dialectic between internal and external
+relations, and a certain ‘‘dissolution of the religious’’ that can be
+observed in occidental societies today.11 I return in the conclusion to
+the paradox cited earlier whose elucidation exposes the limits of
+Bourdieu’s sociologyofreligion: why, when the studyofreligious acts
+is at the heart of his principal concepts, does religion occupy such a
+marginalspacewithinhiswork?
+Thesocialgenesisofthereligious¢eld
+According to Bourdieu, three major sociological theories of religion
+exist,symbolizedbythreenames:Marx,Weber,andDurkheim.These
+theories seem mutually exclusive. It therefore becomes a question of
+‘‘situatingoneselfinthegeometricspaceofdi¡erentperspectives,that
+istosay,inthepointthatallowsforperceptionofwhatcanandcannot
+be perceived from each point of view.’’12 What thought processes
+remain from these three perspectives? Durkheim’s contribution is
+explicitly expressed by Bourdieu while Marx’s and Weber’s seem less
+clearlydistinguishable.
+From Durkheim’s Elementary Forms of The Religious Life, Bourdieu
+retains the ideathatthe sociologyofreligion mustbe considered as a
+dimension of the sociology of knowledge. Religion is an instrument
+bothofcommunicationandknowledge;itallowsforharmonybetween
+themeaningofsignsandthemeaningoftheworld.Ithasforfunction
+thelogicalandsocialintegrationof ‘‘collectiverepresentations’’and,in
+particular,thatofreligious‘‘formsofclassi¢cation.’’13
+Weber’s contribution to the sociology of religious ¢eld is decisive,
+becauseitlaysthegroundworkforescapingfromthesterilealternative
+arising between religious subjectivism and unmediated Marxist re-
+ductionism.14 Also from Weber comes the idea that the sociology of
+religion is a dimension of the sociology of power; mythic discourse
+must be attached to the religious interest of those who produce,
+
+--- Page 4 ---
+532
+disseminate, and receive it. A historical genesis exists for the special-
+ized religious bodies, the clerics, constituting the foundation of the
+religious ¢eld’s relative autonomy. These religious professionals have
+strategies for obtaining a monopoly of hierocratic constraint, of the
+goods of salvation. The religious ¢eld therefore appears as the com-
+plete system of positions between religious agents, their objective
+competitiverelationsortheirtransactions.15
+Finally, it seems that Bourdieu keeps Marx’s notion of ideology as a
+‘‘trans¢guration of social rapports into supernatural rapports, thus
+inscribed in the nature of things and justi¢ed by them.’’16 Religion
+assumes, in this perspective, a political function of conserving social
+order. It is di⁄cult to di¡erentiate between Marx’s and Weber’s
+in£uence to the extentthatboth place the sociologyofreligionwithin
+thecon¢nesofpoliticalandeconomicsociology.
+InTheLogicofPractice,argumentsaboutmagicareespeciallycloseto
+the Durkheimian problematic and are even more precisely Maussian.
+In ‘‘Genesis and structure of the religious ¢eld,’’ Marx and Weber
+dominate.
+Theomnipresentsymbolicinagrariansocieties:TheLogicofPractice
+In The Logic of Practice, a synthesis of Bourdieu’s anthropological
+works, ‘‘religion’’ is less an issue than rituals, magic, institutions of
+magic,andillocutionaryforce,andparticularcasesofsymbolicpower
+(theword‘‘religion’’isnotablyabsentfromthethematicindexasisthe
+word ‘‘symbol’’). Kabyle society, organized around agricultural jobs
+andalimitednumberofcraftactivities(suchasweaving,aspeci¢cally
+female occupation), is not familiar with autonomous clerics, but it is
+integrally structured by the‘‘demon of analogy,’’a system of schemas
+constitutedbybinaryoppositionswhoseinitialpartition‘‘counterposes
+maleandfemale,dryandwet,hotorcold....’’17Closetothestructur-
+alism of Le¤vi-Strauss in the analysis of logical principles organizing
+‘‘savage thought,’’18 Bourdieu distances himself from it through his
+enhanced attention to the incorporated dispositions, which generate
+symbolicpracticesthatareimperfectlysystematic.
+According to him, one can completely understand ‘‘all the practices
+and ritual symbols on the basis of two operational schemes which,
+being natural processes culturally constituted in and through ritual
+
+--- Page 5 ---
+533
+practice, are indissolubly logical and biological, like the natural pro-
+cessestheyaim toreproduce (inboth senses)whentheyare conceived
+in terms of magical logic. On the one hand, there is the reuniting of
+separated contraries, of which marriage, plowing and quenching are
+exemplary cases, and which engenders life, as the realized reunion of
+contraries; and, on the other hand, there is the separation of reunited
+contraries, with, for example, the sacri¢ce of the ox and harvesting,
+enactedasdeniedmurders.’’19Yetifthelogicofritualcallsforjoining
+or separating contraries, it also requires that the transgressions they
+objectivelysignifybemadesociallyacceptable.
+Magic thus functions as a collective denial of necessary acts of trans-
+gression(joiningthedisjointedorsplittingtheuni¢ed).Withoutthese,
+theseparatedcontrarieswouldremainsterile.Transgressionallowsfor
+the reproductionofthevitalorder, the reproduction ofthegroup, but
+itisexcessivelydangerousandrequiresthereforeacollectiveconstruc-
+tion, public andpractical, denying the objective meaningofrite. How
+canthecontraryexigenciesberituallyreconciled?Thepracticalmean-
+ingatworkinthelegitimatemagicofrites,whichmakessymbolicacts
+oftransgressionacceptable,isinfactadoublemeaning:a⁄rmationof
+unity in the separation of contraries; a⁄rmation of the separation in
+their uni¢cation. The joining of contradictory principles can only be
+realized in authorization accorded circularly to the group and by the
+groupatthemomentoftheritual:
+Thewholetruthofcollectivemagicandbeliefiscontainedinthisgameof
+two-foldobjectivetruth,adoublegameplayedwithtruth,throughwhichthe
+group,thesourceofallobjectivity,inasenseliestoitselfbyproducingatruth
+whosesolefunctionandmeaningaretodenyatruthknownandrecognized
+byall,aliethatwoulddeceivenoone,werenoteveryonedeterminedtobe
+mistaken.... In the case of the harvest, the social truth to be collectively
+deniedisunambiguous:harvesting(thamegra)isamurder(thamgert,desig-
+nates the throat, violent death, revenge; and amgar, the sickle), through
+which the earth, fertilized by ploughing, is stripped of the fruits it has
+broughttomaturity.20
+InKabylesociallife,ritesoflicitationthatimplya(denied)solutionof
+continuity are balanced by propitiatory rites. Their logic is one of
+‘‘management’’oftheantagonismthatthreatensthenaturalandsocial
+order. They permit the transition between opposing principles, in
+particular the trouble-free passage from one period of the year to
+another:thefeminizationofthemasculineinautumn,themasculiniza-
+tion of the feminine in spring, summer and winter being symbolically
+purelymasculineandfeminine.
+
+--- Page 6 ---
+534
+In The Logic of Practice, the heuristic value of the distinction made
+between magic and religion is denied, for this opposition must be
+understoodasthestakesofasymbolicstrugglethathasnothingtodo
+with Kabyle society. Use of the term ‘‘magic’’ aims to disqualify, in
+segmented societies, the symbolic practices of the dominated, the
+dominatorsreservingforthemselvestheterm‘‘religion.’’Thesecatego-
+ries are inseparable from the creation of a religious ¢eld, with its
+competing stakes among priests, sorcerers, and prophets in Europe
+and the Near East. They are not relevant in societies with little
+segmentation. Bourdieu writes: ‘‘The institution of licit (lah’lal) peri-
+ods or moments, the mandatingofpersonswho serve as‘screens’ (the
+family charged with opening the plowing, inaugural parallel-cousin
+marriages,etc.)andtheorganizationofmajorcollectiveceremoniesin
+which the group authorizes itself, are three aspects of the same
+operation, which is essential to all legitimate ritual (one confuses
+everythingbyidentifyingthedistinctionbetweenlegitimateandillegit-
+imate magic with the ^ socially contested ^ distinction between
+religion and magic).The authority the group grants itself, either as a
+wholeorinthepersonofoneofitsmandatedmembers,isthebasisof
+theillocutionaryforceatworkinallsocialrituals.’’21
+The preceding analysis exhibits accents that are clearly Maussian.
+Magic has a social foundation ^ belief ^ and a social e⁄ciency that
+areassociatedwithit:‘‘Inde¢nitive,’’writesMauss,‘‘itisalwayssociety
+that pays itself in the forged moneyof its dream.The synthesis of the
+cause and e¡ect onlyoccurs in public opinion....We should consider
+magic as a system of a priori inductions, used under the pressure of
+need by groups of individuals.’’22 Likewise, magic, for Mauss and
+Hubert, is ‘‘at once an opus operatum in terms of the magic and an
+opus inoperans in terms of technique.’’23 This same idea is taken up
+andgeneralizedbyBourdieu:‘‘Thespeci¢callymagic characterofthis
+completelysocialforceisinvisiblesolongasitisexercisedonlyonthe
+socialworld,separatingorunitingindividualsorgroupswithfrontiers
+orbonds(marriage)nolessmagicthanthoseinstitutedbytheknifeor
+the knot in magic, transmuting the social value of things (like the
+fashiondesigner’slabel)orpersons(liketheeducationalquali¢cation).
+On the other hand, it appears quite openly when, in a kind of
+innocence,con¢dence,abandonmentimposedbyextremedistressand
+disarray,groupsattempttousethepowerthattheygivethemselves,in
+one of the circular operations which are the basis of the entirely
+e⁄cacious magic ofthe collective, beyond itslimits ofvalidity, thatis,
+on the natural world thatdoes not depend on the group butonwhich
+thegroupdepends.’’24
+
+--- Page 7 ---
+535
+In summary, Bourdieu’s anthropological works stress the social con-
+ditionsofritee⁄ciencyoutsidethereligious¢eld,whichisabsentfrom
+Kabyle society.There are noinstitutionalized intermediaries (itwould
+seem) between the group and itself: there of course exist families
+responsible for cutting the ¢rst wheat sheaves of the harvest, for
+example, but this function is not constant. The religious institutions
+whosegenesisandstructureBourdieustudiesplayanentirelydi¡erent
+socialrole.
+Theconstitutionofreligiousinstitutions:‘‘Genesisandstructureof
+thereligious¢eld’’
+Bourdieu’s sociology of religion is, ¢rst and foremost, a sociology of
+Catholicism.Theaccentthusfallsontheprocessofmonopolizationof
+powerbyasingleinstitution:TheCatholicChurch.Fromthispointof
+view, the highest concentration of hierocratic power is reached in
+Western Europe before the Reformation. It is the genesis of this
+monopolizationthatmostinterestsBourdieu.Thequestionof compe-
+titionbetweenclerics,newandold,comesinsecondtoinquiriesabout
+the emergence of a central religious power within Christianity. This
+modern competition is,onthe contrary, ofgreatimportancetoNorth
+American sociology, which often focuses on religious pluralism, pro-
+cessesoffusionanddivisionofdenominations,andreligiousindividu-
+alism, the federal government guaranteeing religious freedom and
+refusing all support to a single religion ever since the eighteenth
+century. From this point of view, Bourdieu’s sociology of religion
+clearly depends on a particular social situation, namely the existence
+inFranceofaquasi-monopolisticreligionthathasmaintainedorganic
+linkswiththestateforseveralcenturies.
+Toexplainthisprocessofconcentration,theFrenchsociologistgetshis
+inspiration largely from MaxWeber’s works on ancient Judaism and
+the emergence of Christianity. For Bourdieu, the ‘‘separation of in-
+tellectual labor and material labor’’ is at the origin of two intimately
+linked processes that can be quali¢ed as subjective and objective: the
+creationofreligious¢eldononehand,and,ontheother,theprocessof
+rationalization of beliefs and rites. In the footsteps of Max Weber,
+Bourdieu recalls how closely tied religious conduct is to the natural
+vicissitudes of rural life for the peasantry, whereas urbanization
+encourages a ‘‘rationalization’’ and ‘‘moralization of religious needs
+relativelyindependentfromnaturalconditions.25Whatismore,urbani-
+
+--- Page 8 ---
+536
+zation promotes the development of a corps of professionals dealing
+with salvation goods. City clergy contribute to the internalization of
+faith,totheintroductionofethicalcriteria ^ of ‘‘good’’and‘‘evil,’’the
+notion of ‘‘sin’’ ^ at least in the Judeo-Christian context. To the
+conjunction of priests’ interests with those of certain categories of
+urban laity can also be attributed the domination of monotheism in
+Palestine,andinJerusaleminparticular.
+Thetwoprecedingprocesseshaveseveralcorrelations:theconstitution
+of a religious ¢eld that is relatively autonomous and characterized by
+the production, reproduction, and di¡usion of religious goods and
+services, and also by a growing institutional complexity; the ‘‘morali-
+zation’’ of religious practices and representations likewise character-
+izes religious ¢eld. One thus goes from myth to religious ideology
+(monopolizationofthehierocraticconstraintbyacorpsofprofession-
+als); from taboo to sin (transfer of the notion of impurity from the
+magical order to the moral order); from avengeful God to a just and
+goodGod(attributionofincreasingly‘‘social’’qualitiestodivinity).26
+The constitution of a religious ¢eld is accompanied by the disposses-
+sionofreligiouscapitaloflaymentowardsagroupofreligiousspecial-
+istswhoproduce and reproduce abodydeliberatelyorganized around
+secret knowledge. It can thus be said that di¡erent social formations
+fall between two poles: popular religious self-consumption and spe-
+cialists who monopolize religious production completely. These two
+extreme positions are de¢ned by the opposition between a practical
+masteryof thought schemata acquired through simple familiarization
+on the one hand, and, on the other hand, conscious savant mastery,
+acquiredthrough intentionalandinstitutionalizedpedagogicalaction.
+Theyalso acquire structurethrough ritual-myth systems and religious
+ideologies ^ that is, literate reinterpretations ofthese systemsaccord-
+ing tointernal orexternal interestslinked tothe constitution ofstates
+andtoclassantagonisms.27
+It should be noted that even in the case of societies with little di¡er-
+entiation, Bourdieu suggests importing methods of sociology into
+ethnology: the latter must go beyond culturalism and conceive of
+religionasasocialfacttiedtoothersocialphenomena,notablytothe
+division of labor. Ethnology must be able to incorporate mythic or
+religious discourse into its social conditions of production while con-
+centrating in particular on the formation and characteristics of priv-
+ileged agents of magico-religious activity. Of course, this does not
+
+--- Page 9 ---
+537
+meanthat collective religious representations mustbe evacuated from
+the ¢eld of research; it is simply a matter of understanding their
+relativeautonomywithinthegeneralsocialstructure.
+Finally, the oppositions separating profane from sacred and magic
+from religion are the symbolic translations of the monopolization by
+the clergy at the expense of the laity of relations to the supernatural.
+Calling a practice ‘‘profane’’ or ‘‘magic’’ is a way for the clergy to
+disqualify it, and above all to disqualify the group practicing it. The
+notion of magic is therefore an accusatory category used to devalue
+religiouspracticesconsideredillegitimate,particularlythepracticesof
+conquered peoples or social outcasts. During the Christianization of
+Europe,forexample,paganreligionswereattackedthisway.Tospeak
+of ‘‘magic’’alsogivesonethemeanstolabelactsofprotestdeemedas
+willfully profaning dominant religion (e.g., inverting the cruci¢x,
+unbridled sexuality of midnight revels, unorthodox reading of the
+Bible) bycertain dominated groupswho see in such inverted religious
+formsameansofoverthrowingthesocialhierarchy.ForBourdieu,the
+‘‘religion/magic’’distinction is ofapolitical nature; itillustrates those
+‘‘classi¢cation struggles’’ that always accompany class struggle. In
+other words, one can deduce, from the progress of the division of
+religious labor and the history of the religious ¢eld, the distinctions
+betweenfundamentalcategoriesofreligiousthoughtandpractice.
+Structuringandde-structuringofreligious¢eld
+The process of autonomy for religious ¢eld does not imply absolute
+independence vis-a'-vis temporal authorities, in particular political
+ones. In Bourdieu’s sociology, here very in£uenced by Marxism,
+perhaps even by Althusser’s version of it, religious practices and
+representations contribute primarily to an essentially conservative
+‘‘visionoftheworld.’’Theyrendertherelativeabsolutewhilelegitimat-
+ingthearbitrary nature ofdomination.Also,from thesocialoriginof
+religious personnel and their trajectory within the institution ^ one
+example of which can be found in the structure and history of the
+‘‘corps’’ of bishops in the French Catholic church28 ^ Bourdieu
+attemptstoexplainatoncethehomogeneityoftheepiscopateandthe
+division of religious labor at its heart, this division allowing the
+institutiontorespondtoreligiousdemand.
+
+--- Page 10 ---
+538
+Religiousinterestsandsocialfunctionofthereligious(internal
+relations,externalrelations)
+A properly religious interest exists. It can be de¢ned in a ‘‘strictly
+sociological manner, i.e., as the legitimizing expression of a social
+position.’’29 During the 1990s, Bourdieu gave a feminist twist to this
+Marxist inspiration: religion plays a role in legitimizing male domi-
+nance over women.. ‘‘The Church,’’ he writes without nuance, is
+‘‘inhabitedbythe profound antifeminism ofthe clergy’’and it‘‘explic-
+itlyinculcates(orinculcated)afamilialmoralityentirelydominatedby
+patriarchalvalues.’’30Itshouldbeaddedthat,incertaincases,religion
+(or, more exactly, magic) can allow for an (illusory) solution to social
+su¡ering:‘‘Magicalhopeistheaimforthefuturethatbelongstothose
+who have no future.... Revolutionary millennialism and magical
+utopia are the sole aim for the future available to a class lacking an
+objective future.’’31 Religious interest, as de¢ned by Bourdieu, is the
+operator of homology between the religious ¢eld and the general
+structureofsocialrapports.
+Relativelyautonomouscomparedtosocialstructure,thereligious¢eld
+is ordered by both internal and external stakes. The positions of
+powers inthe¢eld result from the confrontation of ‘‘religiousdemand
+(i.e.,thereligiousinterestsofdi¡erentgroupsorclassesoflaymen)and
+religious o¡er (i.e., the more or less orthodox or heretical religious
+services).’’32Thepositionofpowerthatareligiousformationoccupies
+withinthe¢elddependsonthepowerofthesocialgroupfromwhichit
+draws its support.This support, in a dialectical relationship, depends
+in turn on the position of the group of producers in the ¢eld. This
+relationship explains the observed homologyofstructure between the
+social and religious ¢elds: the dominants of the religious ¢eld base
+their domination on that of the dominant classes of the social order,
+whileprophetscountondominatedgroupsinordertomodifythestate
+ofpowerrelationswithinthe¢eld.Likewise,theactionoftheprophet
+isstimulationforreformingreligious¢eldaswellassocialstructure.It
+appears therefore that the ‘‘functioning’’ of the religious ¢eld is the
+productofaninternalrivalrybetweendi¡erentparties(themainones
+being the Church, prophets, sects, and magicians) and their relation-
+shipwiththelinesofforceinthegeneralarchitectureofsocialrelation-
+ships.
+One speci¢c case studiedbyBourdieu seemsparticularly relevant: the
+groupofFrenchbishopsattheendofthe1970s.
+
+--- Page 11 ---
+539
+Thesocialoriginsofbishopsande¡ectsontheorganizationofthe
+CatholicChurch
+The partnership between Bourdieu and Monique de Saint-Martin
+explores a limited number of dimensions opened by the1971articles.
+It is principally a question of understanding the processes that lead
+bishopsasagrouptodenyallinternaldi¡erentiationcorrespondingto
+their socialorigin.Goingbeyondthe image ofhomogeneity produced
+bythebodyofprofessionals,onecanassociatesocialclassoriginwith
+thepositionoccupiedinsideoftheecclesiasticalinstitution,aslongas
+one alsotakes into accountstructural deformations:‘‘the same dispo-
+sitions possibly leading to positions and di¡erent or even opposing
+stances in di¡ering states of ¢eld, which instigates weakening, if not
+the cancellation of the statistical relationship with the original class.’’
+Inotherwords,nomechanicalrelationshipexistsbetweensocialorigin
+andpositionwithintheChurch.
+In these conditions, analysis reveals two groups in the Episcopal
+corpus:‘‘on the one hand, the‘oblates,’ who, dedicated to the Church
+sinceearlychildhood,investtotallyintheinstitutiontowhichtheyowe
+everything, who are prepared to give all to the institutions that gave
+them everything and without which they would be nothing. On the
+otherhand,thebishopswho,ordainedlater,owned,beforetheirentry
+into the Church, not only inherited social capital but also signi¢cant
+educational capital, and who held because of this a more distant
+relationship(arelationshiplessdirectedtowardthetemporal)towards
+theinstitution,itshierarchyanditsstakes.’’33The stancesheldbythis
+lattergroupcanonlybeunderstoodbytakinghistoricalevolutioninto
+account.Thesame‘‘aristocratic’’habitusthatcharacterizedthe‘‘inher-
+itors,’’who in the past would have de¢ned the role ofthe hieratic and
+solemnbishop,cannowleadtotheavoidanceofappointmentsthatare
+too common, to the acceptance of ‘‘missionary’’ dioceses, or to the
+search for theologian status.The opposition between the two catego-
+ries is formal and non-substantial: ‘‘the antagonists ... can exchange
+their position in completely good faith: if one of them, usually the
+dominant one, who has the privilege of audacity, decides to change,
+thentheothercanonlymaintaintheoppositionbychangingtoo.’’34
+How does the body of bishops position itself ‘‘in the ¢eld of religious
+power, and more generally in the ¢eld of symbolic power’’35? The
+bishops are in some ways ‘‘caught in the cross¢re’’: they oppose, on
+one hand, the central political power of ecclesiastical organisms,
+
+--- Page 12 ---
+540
+showing little interest in local realities; and, on the other hand, they
+oppose theologians and monks, who are oriented towards ‘‘central
+symbolic power ... less occupied by temporal things that preoccupy
+those‘responsible.’’’36 Assuming this median position in the Catholic
+church, bishops can fullyaccomplishtheworkofuni¢cationthatthey
+arechargedwith.Theircohesionisreinforcedbycommondispositions
+(theyareallmen,oftenfromlargefamilies,andborninsmallvillages)
+and a homogenizing education.Thus, the episcopate forms a ¢eld of
+moderatecompetition.37
+The adjustment between religious supply and demand is not the
+product of a transaction, as Max Weber envisioned, but rather the
+e¡ectof an involuntaryhomologyofstructure,‘‘each cleric producing
+according to his trajectory and his position a product more or less
+adjusted to the demand of a particular category of laymen.’’38 The
+Church,asa¢eld,isde¢nedbyitsunityanditsdiversity.Thisapparent
+contradiction results in fact from a large capacity of adaptation: it
+enablestheChurch‘‘totreatassimilarlyaspossibleaclientele[thatis]
+distributed(varyingaccordingtotime)betweensocialclasses,sexand
+age groups, or to treat as di¡erently as possible the clients who,
+however di¡erent they are, share their Catholicism.’’39 This capacity
+totreat di¡erentdemandsunder the appearance ofunity is reinforced
+by the intrinsically polysemic religious discourse that hides behind a
+single discourse a plurality of meanings related to di¡erent social
+positions, thus reinforcing the subjective confusion ofobjective social
+limits. Religious discourse tends to deny social con£icts or at least to
+euphemize them. Bourdieu even a⁄rms that discursive procedures of
+double meaning and euphemism are ‘‘profoundly characteristic of
+religiousdiscourseinitsuniversality.’’40
+This trans¢guration of power relationships, in particular economic
+ones, by the dominating religious agents is illustrated by the manage-
+ment by the episcopate of the professional demands of laymen who
+workfortheChurchandwhoareontheborderlinebetweenvolunteers
+andwage-earners.ThehierarchydeniestheeconomyoftheChurchas
+one governed by economic laws, that is to say, one based on salary,
+price,andthelawofsupplyanddemand.‘‘Thelaughofbishops,’’when
+exposedtoadiscoursethattreatstheChurchasabusiness,revealsthe
+‘‘truth of the religious enterprise, which is to have two truths: an
+economic one and a religious one, which denies the ¢rst.’’41 The
+episcopate’s laughter is a reaction to an incongruity, one that is
+unveiledtothem, andonethatis not without foundation, becausethe
+
+--- Page 13 ---
+541
+lay church sta¡ members theydependon are in realitya cheap source
+oflabor.
+All in all, Bourdieu conceives of the Church as an ensemble of
+mechanisms and processes legitimizing a social position and present-
+ing itself under an objecti¢ed form, be it material (buildings, clothes,
+liturgical instruments, etc.), or be it in the form of social technology
+(canon law, liturgy, theology, etc.). At the incorporated stage, the
+Church is consubstantial to the Catholic habitus generated by the
+Christian familyand consecratedbyrites of institutionthat aggregate
+while separating. ‘‘In the end, the Church only exists as a living
+institution, that is to say one that can act and assume its own
+reproduction within the relation between its two modes of incarna-
+tion....’’42
+Towardsadissolutionofthereligious¢eld?
+Without speaking of evolutionism in its classical sense, Bourdieu’s
+religioussociologyisnonethelesscharacterizedbythespecialattention
+paid to historical processes concerning the constitution of religious
+institutions.Thoseprocessesarenotrealizedindependentlyofgeneral
+changesa¡ectingsocialstructure(forexample,progressinthedivision
+of labor and urbanization). Bourdieu does not use the concept of
+‘‘religious ¢eld’’ with regard to agrarian societies such as the Kabyles
+because they lack, according to him, institutions and specialized
+professionals. Thus, can we talk about ‘‘religion’’ if there is no ‘‘reli-
+gious ¢eld’’? It might be preferable to select terms like ‘‘symbol’’ or
+‘‘ritual,’’ because those two concepts do not imply the existence of
+religiousinstitutions.Concerningthesymbolicactivity,onecannotuse
+thesametermsforagrariansocieties(thatarelessdi¡erentiatedandin
+whichthe‘‘demonofanalogy’’informsanduni¢esallthedimensionsof
+thesocialstructure)andforsocietiesthatarestronglysegmented(where
+symbolic production is concentrated around speci¢c and relatively
+autonomous institutional spaces, of which religious ¢eld constitutes
+oneofthemainones).
+Paradoxically, modern societies characterized by a high degree of
+social division of labor are also the ones in which historic religions,
+and in particular Catholicism, are in decline. A ‘‘dissolution of the
+religious’’ appears: ‘‘One can see a rede¢nition of the limits of the
+religious ¢eld, the dissolution of the religious in a larger ¢eld is
+
+--- Page 14 ---
+542
+accompanied by a loss of the monopoly of the cure of souls in its
+former sense, at least at the level of the bourgeois clientele.’’43 The
+limitsofthereligiousarenotclearlyde¢nedanymore:certainprofane
+professions, psychologists, analysts, or marital counselors replace
+clergyintheirtherapeuticfunction.InadialoguewithJacquesMaitre,
+author of numerous books of social psychopathology applied to indi-
+viduals deeply involved in Catholicism, Bourdieu declares that ‘‘it is
+very possible that psychoanalysis today, in the general consciousness,
+takes on a function quite analogous to what religion was’’44 for these
+persons. Thus,‘‘...religious ¢eld has been dissolved into a ¢eld of a
+largersymbolicmanipulation....’’45
+Ontheonehand,therefusalofblindobediencetotheprescriptionsof
+clerics comes from an increase in instructional level, which leads less
+toarejectionofareligious‘‘posture’’thantoarejectionofthespiritual
+delegation. This (relative) denial of the legitimacy granted to the
+Catholic institution thus contributes to the development of autono-
+mous sects,tothe‘‘gatheringofcharismaticlittle prophets,’’and more
+generally, to a disjunction between cultural orthodoxy and actual
+practices and beliefs. As a consequence, the legitimacy of the institu-
+tional religious word competes with new forms oflegitimacyand new
+professions thatoften rest upon a pseudo-scienti¢c discourse, such as
+astrologists, numerologists, or graphologists, for example. The for-
+merly dominant clergy becomes dominated by clergy who claim
+scienti¢cauthority(toimposevaluesandtruthsthatinfactareneither
+moreorlessscienti¢cthanthoseofthepastauthorities).46
+The emergence of an aesthetic feeling towards representations whose
+original goal is to arouse faith is also a clue to the regression of
+‘‘religiousbelief’’vis-a'-vis‘‘aestheticbelief.’’Inasameplace(theSanta
+Maria Novella church observed by the sociologist in 1982), practices
+simultaneously dealing with museography and devotion are juxta-
+posed, which shows the heterogeneity of the public’s aims in the
+‘‘admiration’’of a ‘‘Virgin with a Rosary’’or of the ‘‘Presentation to
+the Temple.’’ The devotional use of statues and icons has not yet
+completely disappeared but it is more concerned with works whose
+characteristicsarelessformal,thosethat‘‘haveanexpressivefunction
+oftherepresentationoftheirreferents.’’47
+Itshould¢nallybenotedthatthe‘‘dissolutionofthereligious’’doesnot
+mean, for the sociologist, a regression towards an undi¡erentiated
+state of symbolic activity. The ‘‘new symbolic agents,’’ which are
+
+--- Page 15 ---
+543
+located outside of the religious institution, coexist with a Catholic
+institution tending to become a‘‘church without any faithful,’’48 who
+oftenopposeit,butwhoalsocontributetoimprovethepositionofthe
+Church,ascanbeseen,forexample,bythein£uenceofpsychoanalysis
+on modern religious thought.The symbolic activity at the margins of
+the religious ¢eld, which fosters a certain confusion concerning its
+limits,doesnot,however,signifyitsdisappearance.
+Conclusion:Dignityandindignityofreligionasanobjectofsocial
+science
+Symbolic power ^ certainly not limited to the religious domain ^ is
+practicedinitmore clearlythaninother¢eldsofsocialactivities,and
+that is probably why a main part of the architecture of Bourdieu’s
+sociologyhasbeen constructedaroundthestudyofreligion.Symbolic
+power is indeed what enables the constitution of givens through its
+enunciation,‘‘tomakevisibleandtomakebelievable,tocon¢rmorto
+transform the vision of the world, and, in this way, the action on the
+world, therefore in the world.’’ It is ‘‘a quasi-magical power that
+enables acquiring the equivalent of what is obtained by (physical or
+economical)force.Thispowerisonlypossibleifitisrecognized,thatis
+to say, unrecognized as arbitrary.’’49 In this perspective, religion
+appears as an essentiallysymbolic activity, as a symbolic form, thatis
+to say, like a body of practices and representations (rites and beliefs)
+whose e⁄cacy is not of a material order (like a physical force, for
+instance).The symbolic encompasseslanguagebutitincludesalarger
+set of human actions. The symbolic de¢nes also the connotative
+function of signs, linguistic or otherwise. The power of symbol rests
+upon what it does not explicitly say, upon what it supposes without
+openly explaining it. It leads to a relation of meaning that is socially
+founded, signifying that symbolic power is not created outside of the
+opposing stances that are characteristic of the social structure in its
+entirety. If symbol has its own e⁄ciency, this e⁄ciency is nonetheless
+linked to the genesis of the structure of social space. More precisely,
+concerning the symbolic power of language, symbolic power necessi-
+tates‘‘thebelief inthelegitimacyofwords and inthe onewho repeats
+them,abeliefthatisnottheresponsibilityofthewordstoproduce.’’50
+Inotherterms,symbolicpowerisnotselfsu⁄cient,itsfoundationlies
+in the general rapports of domination of which it can appear as a
+‘‘sublimation.’’
+
+--- Page 16 ---
+544
+Between e⁄ciency itself and ideological dependency, between sui
+generis order and superstructure, the religious act is neither idealized
+norasimplere£ection(moreorlessdeformed)ofsocialstructure.The
+secretofthisdependence/independenceofreligioussymbolicpoweris
+tobefoundintheintermediarystructurethatconstitutesthecenterof
+Bourdieu’s sociology of religion: religious ¢eld.The notion of habitus
+completes the preceding in the sense that it associates with a speci¢c
+¢eld a type of speci¢c interest that is irreducible to the interests of
+other ¢elds ^ in particular, economic ones. ‘‘In order for a ¢eld to
+function, there must be stakes and people ready to play the game
+[people who are] endowed with the habitus implying knowledge and
+recognition ofthe immanentlawsofthegame, ofthe stakes,etc.’’51A
+speci¢callyreligiousinterestisthusassociatedwithreligious¢eld.
+Religious ¢eld provides a very singular example of the ‘‘governed
+liberty’’characteristicofsecondarystructuresinmechanismsofdomi-
+nation(inwhichtheeconomicalandpoliticalseemtooccupyacentral
+position, at least in industrialized societies). For Bourdieu, religious
+¢eld must not be conceived of as an immutable reality: a structural
+genesis exists for it in relation to transformations of social structure,
+and, according to him, the dissolution of what is religious becomes
+visible in societies moving towards secularization.While any religious
+institution tends to be presented as an ahistorical reality, identical to
+itself in any given time or place, necessary historical analysis reveals
+theprocessesbehindtheconstitutionofbeliefs,rites,andinstitutions.
+It can then be asked why the sociology of religion is of such limited
+quantitativescopeinBourdieu’scorpus,sinceitgaveBourdieualarge
+part of his conceptual architecture and since he, more than anyone,
+was aware of its origins taken from theheartof Durkheim’s,Weber’s,
+and,notnegligibly,Marx’ssociologicalthought.
+Thisgap stemsfromafundamentaluncertaintyaboutthepossibilities
+of sociological study of religion. For Bourdieu, religion is in fact an
+object that is, sociologically speaking, nearly impossible. During the
+1982annualcolloquiumoftheAssociationFranc(cid:2)aisedeSociologiede
+Religions, he questions the scienti¢c validity of the sociology of
+religionwhen itis practiced by‘‘producers who participate tovarying
+degrees in the religious ¢eld.’’52 All sociologists of religion are con-
+frontedbythefollowingquasi-unsolvablecontradiction:‘‘Whenoneis
+one of them,’’ he states,‘‘one participates in the inherent belief in the
+belonging to a ¢eld whatever that ¢eld may be (religious, academic,
+
+--- Page 17 ---
+545
+etc.), and, when one is not one of them, one risks ¢rst forgetting to
+inscribebeliefintothemodel...,and,second,beingdeprivedofuseful
+information.’’53The¢rstbarrier(i.e.,belonginginonewayoranother
+toareligiousinstitution),canleadtoadoptingareligiouspointofview
+on religion, topracticing areligious sociology ratherthan a sociology
+of religion. To avoid this (which is ‘‘di⁄cult’’ but not ‘‘impossible’’
+according to Bourdieu), it is necessary to practice ‘‘an objecti¢cation
+without complaisance ... of all links, of all forms of participation, of
+subjective or objective belonging, even the most tenuous.’’54 The
+second barrier (not being one of them) is not scienti¢cally any less
+dangerous.Thevictimherefallsintothepositivisttrapbyapproaching
+religion from an exclusively external point of view, ‘‘like a thing,’’
+withoutseeing the subjectiveforces ofreligious activity, and inpartic-
+ulartheunconditionaladhesiontorevealedtruths.
+A certain a⁄nity exists therefore between this second posture and
+‘‘Republican’’ social sciences. It has already been underlined that
+Catholicism was for many centuries a state religion in France, with a
+strongpresenceintheschoolsystem,particularlyin highereducation.
+One of the most important projects of the republican regime of the
+1880swaspreciselytodisengageFrenchsocietyoftheCatholicinstitu-
+tion’s hold.55 In the educational domain, theThird Republic inaugu-
+rated obligatory primary education, free and secular, completely in-
+dependent of any religious institution.56 The end of the nineteenth
+century was thus a violent period of anti-clericalism, one that led to
+the1905lawseparatingchurchandstate.TheCatholicChurchlostits
+statusofo⁄cialreligionatthattime.
+It is in this anti-clerical context that French sociology is born. It
+constituted itself largely in opposition to the intellectual hold of
+religion, and singularly against Catholic in£uence in the university at
+the turn of the twentieth century. In one sense, being a sociologist
+necessarily meant notbeing Catholic, notbeing ‘‘oneofthem’’ (which
+mightseem surprisinginNorthAmericawherethestatusofinsider is
+frequently valued for guaranteeing access to trustworthy information
+ratherthanasahindranceforscience).Bourdieuwasnotexemptfrom
+this form of anti-clericalism. In the conclusion to the conference on
+‘‘the new clergy,’’ this unambiguous declaration appears: ‘‘The ques-
+tion ofthe‘‘newclergy’’wouldperhapsnothavemissed itstargethad
+it been able to lead to the founding of a new anti-clericalism.’’57 This
+conclusive sentence was dropped from the second version of Choses
+dites. This penance assuredly speaks to a certain malaise, one that
+BourdieutriestoexplaininaninterviewwithJacquesMa|“tre:
+
+--- Page 18 ---
+546
+IhadtorediscoverinmyownmindallthemutilationsthatIhadinherited
+fromtheseculartraditionandreinforcedbytheimplicitpresuppositionsof
+my science.There are subjects that one does not tackle, or only with the
+greatestprudence.Therearewaysofapproachingcertainsubjectsthatarea
+littledangerousand,¢nally,oneacceptsthemutilationsthatsciencehadto
+accept in order to constitute itself. One feels obliged ^ by an implicit
+adhesion that is linked to entry into the profession ^ to put between
+parentheses all thatcomes from the orderoftraditionalobjects ofreligion
+andmetaphysics.Thereisakindofrepressionthatistacitlyrequiredofthe
+professional.58
+Nonetheless,thispittanceofsympathydoesnotcompletelyexplainthe
+gapbetweentherecognizedtheoreticalimportanceofreligionandthe
+small amount of research and publications in the area. After all,
+Bourdieu dedicated aworkto criticizing male domination, another to
+denouncing the power of television.To religion’s case must be added
+Bourdieu’s conviction that religion is a declining institution in di¡er-
+entiated societies. In other words, Bourdieu manifested noinclination
+forreligiousactivity(whilehistasteforartandliterature,andofcourse
+pedagogy, is well known), but this distance was doubled by the idea
+that religion no longer has the social hold that it had at the time of
+Weber or Durkheim, who had made it a central object of their
+sociology.Bourdieuthereforehadnonegativeinterestinreligion(while
+he takes on the media or the‘‘Nobilityof State,’’whose power is seen
+ascontemporary).
+Thus, this double orientation probably led Bourdieu to reduce the
+socialroleofinstitutedreligionswhilesingularlyfocusinghisattention
+on the Catholic Church. In the studies on the Kabyles, Islam is
+completely absent, as if a strict division exists between agrarian
+societies without a religious institution and di¡erentiated societies in
+which religion would be entirely monopolized by the Church before
+disappearing at the same time as it. But, if the Catholic Church no
+longerhastheeconomicorpoliticalpowerithad,doesthatmeanthat
+religiousbeliefsandpracticeshavedisappearedfrommodernsocieties?
+Littleislessclear.First,whilefocusingonCatholicism,andinparticu-
+lar on French Catholicism, which was the state religion until the
+twentieth century, Bourdieu assuredly minimized the importance of
+the question of religious pluralism that cannot be ignored in North
+America.What is more, a de¢nition of ‘‘religion’’ centered on ‘‘reli-
+gious¢eld’’(thatis,onthebattlesbetweenspecialistsintheirrelation-
+shipswithglobalsocialstructure) onlysomewhat allows for the study
+of religious phenomena that take place beyond the power of clerics,
+evenwhen these are the‘‘new clerics.’’ This errorofperspective might
+
+--- Page 19 ---
+547
+havebeenavoidedbyleavingmoreroomforthereligiousactoutsideof
+the institution, including in di¡erentiated societies. By turning our
+attention to the individual ‘‘bricolage’’ of beliefs, to the network
+organization of amateurs of esotericism, to the non-bureaucratic
+organization of certain Pentecostalisms, to the original power struc-
+turefoundinSanteria,forinstance,oneavoidstheimpassecreatedby
+simplyreportingtheCatholicChurch’slossofsocialpower.
+Notes
+1. Translated from‘‘Pierre Bourdieu et la religion: synthe'se critique d’une synthe'se
+critique,’’which¢rstappearedinArchivesdeSciencesSocialesdesReligions2002,
+118(April-June):5^19.Theworkhasbeenrevisedandmodi¢edbytheauthorfor
+the American edition. [Translator’s note: I have tried, when possible, to use
+previoustranslationsofBourdieu’sworksbyRichardNiceandothers.Theseworks
+arelistedassuchhere.Allothertranslationsaremyown.]
+2. Pierre Bourdieu, In Other Words, translated by Matthew Adamson (Stanford:
+StanfordUniversityPress),22.
+3. Ibid.,49.
+4. In 1962, Bourdieu already used the concept of habitus in the study of peasant
+celibacy in Bearn, but this concept, at this stage of his career, was de¢ned,
+following Marcel Mauss, as a setofbody techniques. (Ithank Gise'le Sapiro for
+thisusefulremark.)Seetherecentre-editionofthestudy:PierreBourdieu,Lebal
+desce¤libataires^Crisedelasocie¤te¤ paysanneenBe¤arn(Paris:Seuil,2002).
+5. Pierre Bourdieu,‘‘Postface’’ to Erwin Panofsky, Architecture gothique et pense¤e
+scolastique(Paris:EditionsdeMinuit,1967),161.
+6. Bourdieu,‘‘Postface’’toArchitecturegothiqueetpense¤escholastique,162.
+7. PierreBourdieu,‘‘Pratiquerituelleetdiscours,’’BulletinduCentreThomasMore21
+(1978):3^10.
+8. David Swartz,‘‘Bridging the Study of Culture and Religion: Pierre Bourdieu’s
+PoliticalEconomyofSymbolicPower,’’SociologyofReligion57(1996):71^85.In
+a forthcoming article (‘‘Spiritual Capital: Theorizing Religion with Bourdieu
+againstBourdieu’’),BradfordVerteradoptsaratherdi¡erentpointofviewonthe
+sociology of religion in Bourdieu from the view of Swartz and from my own.
+According to Verter, Bourdieu’s sociology of religion is somewhat cursory and
+‘‘Voltairian’’; itis within his culturalsociology, morehighlydeveloped and com-
+plex, that one can ¢nd the necessary tools for forging new concepts useful in
+studyingreligions ^ forexample,theideaof‘‘spiritualcapital’’thatVerterde¢nes
+veryprecisely.Suchanapproachseemsparticularlyinnovative.
+9. Pierre Bourdieu, The Logic of Practice, translated by Richard Nice (Stanford:
+StanfordUniversityPress,1990).
+10. Pierre Bourdieu,‘‘Gene'se et structure du champ religieux,’’ Revue Franc(cid:1)aise de
+sociologieXII/2(1971),295^334.
+11. SeePierreBourdieuandMoniquedeSaint-Martin,‘‘LaSainteFamille:l’e¤piscopat
+franc(cid:2)aisdanslechampdupouvoir,’’ActesdelaRechercheenSciencesSociales44^
+45(1982):1^53.Concerningthe‘‘dissolution’’ofthereligious,referto‘‘Lechamp
+religieuxdanslechampdemanipulationsymbolique,’’inCollectif,Lesnouveaux
+
+--- Page 20 ---
+548
+clercs ^ Pre“tres, pasteurs et spe¤cialistes des relations humaines et de la sante¤
+(Gene've:LaboretFides,1985), 255^261 ^ thiswas reprintedpartiallyunder the
+title‘‘Ladissolutiondureligieux’’inChosesdites(Paris:EditionsdeMinuit,1987),
+117^123.
+12. Bourdieu,‘‘Gene'seetstructureduchampreligieux,’’295.
+13. Ibid.,297.
+14. PierreBourdieu,‘‘Uneinterpre¤tationdelathe¤oriedelareligionselonMaxWeber,’’
+Archiveseurope¤ennesdesociologie12(1971):1.
+15. Ibid.,6.
+16. Bourdieu,‘‘Gene'seetstructureduchampreligieux,’’300.
+17. PierreBourdieu,TheLogicofPractice,223.
+18. ClaudeLe¤vi-Strauss,LaPense¤esauvage(Paris:PressesUniversitaires deFrance,
+1962).
+19. Bourdieu,TheLogicofPractice,223.
+20. Ibid.,234.
+21. Ibid.,240.
+22. MarcelMaussandHenriHubert,‘‘Esquissed’unethe¤oriege¤ne¤raledelamagie,’’in
+Sociologieetanthropologie(Paris:PressesUniversitairesdeFrance,1985),119.
+23. Ibid.,‘‘Esquissed’unethe¤oriege¤ne¤raledelamagie,’’135.
+24. Bourdieu,TheLogicofPractice,240.
+25. Seenote7,‘‘Orders,ClassesandReligions,’’inMaxWeber,‘‘Lestypesdecommu-
+nalisationreligieuse(sociologiedelareligion),’’inEconomieetsocie¤te¤ (Paris:Plon,
+1971).
+26. Bourdieu,‘‘Gene'seetstructureduchampreligieux,’’303.
+27. Ibid.,304^306.
+28. Pierre Bourdieu and Monique de Saint Martin,‘‘La Sainte Famille : l’e¤piscopat
+franc(cid:2)aisdanslechampdupouvoir.’’
+29. Bourdieu,‘‘Gene'seetstructureduchampreligieux,’’311^312.
+30. PierreBourdieu,Ladominationmasculine(Paris:Seuil,1998),92^93.
+31. PierreBourdieu,Alge¤rie60(Paris:EditionsdeMinuit,1977),90^91.
+32. Bourdieu,‘‘Gene'seetstructureduchampreligieux,’’319.
+33. BourdieuandSaintMartin,‘‘LaSainteFamille:l’e¤piscopatfranc(cid:2)aisdanslechamp
+dupouvoir,’’4^5.
+34. Ibid.,16.
+35. Ibid.,222.
+36. Ibid.,28.
+37. Ibid.,31.
+38. Ibid.,34.
+39. Ibid.,35.
+40. Ibid.,46.
+41. Pierre Bourdieu,‘‘Le rire des e¤ve“ques,’’ in Raisons Pratiques ^ Surlathe¤oriede
+l’action(Paris:Seuil,1994),204.
+42. Ibid.,51.
+43. PierreBourdieu,Chosesdites(Paris:EditionsdeMinuit,1987),120.[Translator’s
+note:Thechaptercalled‘‘Ladissolutiondureligieux’’isnotincludedintheEnglish
+translation of Choses dites (In OtherWords) quoted earlier on.This is thus my
+translation,asareallreferencescitedasChosesdites.]
+44. PierreBourdieuandJacquesMa|“tre,‘‘Avant-proposdialogue¤,’’inJacquesMa|“tre,
+L’autobiographied’unparano|«aque^L’abbe¤ Berry(1878^1947)etleromandeBilly,
+Intro|«bo(Paris:Anthropos,1994),XVI.
+
+--- Page 21 ---
+549
+45. PierreBourdieu,Chosesdites,121.
+46. Ibid.,123.
+47. PierreBourdieu,‘‘Pie¤te¤ religieuseetde¤votionartistique,’’ActesdelaRechercheen
+SciencesSociales,105(December1994):73.
+48. PierreBourdieu,‘‘Propossurl’e¤conomiedel’e¤glise,’’inRaisonsPratiques^Surla
+the¤oriedel’action(Paris,Seuil,1994),216.
+49. PierreBourdieu,‘‘Surlepouvoirsymbolique,’’AnnalesESC,XXXII/3(1977):410.
+50. Ibid.,411.
+51. Pierre Bourdieu, ‘‘Haute culture et haute couture,’’ in Questions de sociologie
+(Paris:EditiondeMinuit,1984),114.
+52. PierreBourdieu,‘‘Sociologuesdelacroyanceetcroyancesdesociologies,’’Archives
+deSciencesSocialesdesReligions63/1(1987):156.
+53. Ibid.,156.
+54. Ibid.,160.
+55. Rene¤ Re¤mond, L’Anticle¤ricalisme en France de 1815 a' nos jours (Paris: Fayard,
+1976),75.
+56. Republican power did not, however, suppress Catholic primary, secondary, and
+higher education when it was private, and it continued to exist in parallel with
+publiceducation.Inotherwords,theobligatorynatureofprimaryeducationdid
+notnecessarilyimplysecularschooling since children could beplaced in private
+institutions. The coexistence of the two concurrent educational systems set the
+stage for numerous political confrontations all during the twentieth century as
+measures favoring either private or public education came before the National
+Assembly. Massive protestswere organized in all the major cities forone or the
+other ‘‘camps.’’ This structural confrontation has been called the ‘‘War of Two
+Frances,’’ Catholic and secular France, an opposition that only partially corre-
+spondstothepoliticaldichotomyof‘‘right/left.’’
+57. PierreBourdieu,‘‘Lechampreligieuxdanslechampdemanipulationsymbolique,’’
+in Collectif, Les nouveaux clercs ^ Pre“tres, pasteurs et spe¤cialistes des relations
+humainesetdelasante¤ (Gene've:LaboretFides,1985),261.
+58. PierreBourdieuandJacquesMa|“tre,‘‘Avant-proposdialogue¤,’’XV.

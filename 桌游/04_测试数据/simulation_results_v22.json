@@ -1,0 +1,874 @@
+{
+  "version": "v2.2",
+  "total_games": 10,
+  "role_win_rates": {
+    "富商": 20.0,
+    "地主": 20.0,
+    "官员": 0.0,
+    "农民": 0.0,
+    "寡妇": 60.0,
+    "僧侣": 0.0
+  },
+  "role_avg_scores": {
+    "富商": 89.4,
+    "地主": 85.7,
+    "官员": 68.0,
+    "农民": 58.6,
+    "寡妇": 104.5,
+    "僧侣": 80.8
+  },
+  "liberation_win_rate": 70.0,
+  "standard_win_rate": 30.0,
+  "detailed_results": [
+    {
+      "players": [
+        {
+          "role": "僧侣",
+          "merit": 2,
+          "reputation": 0,
+          "grant_points": 23,
+          "dharma_power": 0,
+          "final_score": 76,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 0
+        },
+        {
+          "role": "农民",
+          "merit": 27,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 60,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 1
+        },
+        {
+          "role": "富商",
+          "merit": 34,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 71,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 7
+        },
+        {
+          "role": "地主",
+          "merit": 48,
+          "reputation": 6,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 114,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 0,
+          "win_type": "标准胜利"
+        },
+        {
+          "role": "寡妇",
+          "merit": 36,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 103,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 2
+        },
+        {
+          "role": "官员",
+          "merit": 34,
+          "reputation": 5,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 86,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 6
+        }
+      ],
+      "winner": "地主",
+      "win_type": "标准胜利",
+      "events": [
+        "R1: Imperial Blessing",
+        "R2: Impermanence",
+        "R3: Imperial Blessing",
+        "R4: Impermanence",
+        "R5: Imperial Blessing",
+        "R6: Drought",
+        "R7: Prosperity",
+        "R8: Impermanence",
+        "R9: Imperial Blessing",
+        "R10: Drought"
+      ]
+    },
+    {
+      "players": [
+        {
+          "role": "寡妇",
+          "merit": 43,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 117,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 3,
+          "win_type": "解脱加分胜利"
+        },
+        {
+          "role": "富商",
+          "merit": 40,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 86,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 1
+        },
+        {
+          "role": "僧侣",
+          "merit": 4,
+          "reputation": 0,
+          "grant_points": 24,
+          "dharma_power": 1,
+          "final_score": 78,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 0
+        },
+        {
+          "role": "官员",
+          "merit": 38,
+          "reputation": 4,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 91,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 6
+        },
+        {
+          "role": "农民",
+          "merit": 19,
+          "reputation": 1,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 42,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 2
+        },
+        {
+          "role": "地主",
+          "merit": 24,
+          "reputation": 4,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 60,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 0
+        }
+      ],
+      "winner": "寡妇",
+      "win_type": "解脱加分胜利",
+      "events": [
+        "R1: Drought",
+        "R2: Drought",
+        "R3: Drought",
+        "R4: Impermanence",
+        "R5: Prosperity",
+        "R6: Imperial Blessing",
+        "R7: Imperial Blessing",
+        "R8: Imperial Blessing",
+        "R9: Impermanence",
+        "R10: Dharma Assembly"
+      ]
+    },
+    {
+      "players": [
+        {
+          "role": "农民",
+          "merit": 19,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 39,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 3
+        },
+        {
+          "role": "寡妇",
+          "merit": 36,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 102,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 1,
+          "win_type": "解脱加分胜利"
+        },
+        {
+          "role": "地主",
+          "merit": 43,
+          "reputation": 4,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 98,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 0
+        },
+        {
+          "role": "官员",
+          "merit": 35,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 79,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 7
+        },
+        {
+          "role": "僧侣",
+          "merit": 2,
+          "reputation": 0,
+          "grant_points": 25,
+          "dharma_power": 0,
+          "final_score": 80,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 0
+        },
+        {
+          "role": "富商",
+          "merit": 24,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 79,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 2
+        }
+      ],
+      "winner": "寡妇",
+      "win_type": "解脱加分胜利",
+      "events": [
+        "R1: Dharma Assembly",
+        "R2: Drought",
+        "R3: Dharma Assembly",
+        "R4: Drought",
+        "R5: Prosperity",
+        "R6: Drought",
+        "R7: Imperial Blessing",
+        "R8: Imperial Blessing",
+        "R9: Impermanence",
+        "R10: Drought"
+      ]
+    },
+    {
+      "players": [
+        {
+          "role": "地主",
+          "merit": 44,
+          "reputation": 4,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 100,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 1
+        },
+        {
+          "role": "富商",
+          "merit": 34,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 74,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 1
+        },
+        {
+          "role": "农民",
+          "merit": 21,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 73,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 2
+        },
+        {
+          "role": "寡妇",
+          "merit": 42,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 114,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 0,
+          "win_type": "解脱加分胜利"
+        },
+        {
+          "role": "僧侣",
+          "merit": 2,
+          "reputation": 0,
+          "grant_points": 27,
+          "dharma_power": 1,
+          "final_score": 84,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 0
+        },
+        {
+          "role": "官员",
+          "merit": 18,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 45,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 6
+        }
+      ],
+      "winner": "寡妇",
+      "win_type": "解脱加分胜利",
+      "events": [
+        "R1: Prosperity",
+        "R2: Imperial Blessing",
+        "R3: Impermanence",
+        "R4: Prosperity",
+        "R5: Impermanence",
+        "R6: Prosperity",
+        "R7: Impermanence",
+        "R8: Drought",
+        "R9: Dharma Assembly",
+        "R10: Dharma Assembly"
+      ]
+    },
+    {
+      "players": [
+        {
+          "role": "富商",
+          "merit": 25,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 57,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 3
+        },
+        {
+          "role": "寡妇",
+          "merit": 30,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 90,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 1
+        },
+        {
+          "role": "农民",
+          "merit": 24,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 78,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 1
+        },
+        {
+          "role": "官员",
+          "merit": 27,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 63,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 6
+        },
+        {
+          "role": "僧侣",
+          "merit": 2,
+          "reputation": 0,
+          "grant_points": 27,
+          "dharma_power": 0,
+          "final_score": 84,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 0
+        },
+        {
+          "role": "地主",
+          "merit": 50,
+          "reputation": 6,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 118,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 0,
+          "win_type": "标准胜利"
+        }
+      ],
+      "winner": "地主",
+      "win_type": "标准胜利",
+      "events": [
+        "R1: Drought",
+        "R2: Dharma Assembly",
+        "R3: Impermanence",
+        "R4: Imperial Blessing",
+        "R5: Prosperity",
+        "R6: Dharma Assembly",
+        "R7: Drought",
+        "R8: Impermanence",
+        "R9: Impermanence",
+        "R10: Prosperity"
+      ]
+    },
+    {
+      "players": [
+        {
+          "role": "农民",
+          "merit": 12,
+          "reputation": 3,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 33,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 1
+        },
+        {
+          "role": "寡妇",
+          "merit": 60,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 151,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 3,
+          "win_type": "解脱加分胜利"
+        },
+        {
+          "role": "富商",
+          "merit": 38,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 106,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 1
+        },
+        {
+          "role": "僧侣",
+          "merit": 2,
+          "reputation": 0,
+          "grant_points": 25,
+          "dharma_power": 1,
+          "final_score": 80,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 0
+        },
+        {
+          "role": "官员",
+          "merit": 22,
+          "reputation": 4,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 59,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 6
+        },
+        {
+          "role": "地主",
+          "merit": 33,
+          "reputation": 4,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 79,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 2
+        }
+      ],
+      "winner": "寡妇",
+      "win_type": "解脱加分胜利",
+      "events": [
+        "R1: Drought",
+        "R2: Imperial Blessing",
+        "R3: Prosperity",
+        "R4: Impermanence",
+        "R5: Prosperity",
+        "R6: Impermanence",
+        "R7: Imperial Blessing",
+        "R8: Imperial Blessing",
+        "R9: Prosperity",
+        "R10: Dharma Assembly"
+      ]
+    },
+    {
+      "players": [
+        {
+          "role": "农民",
+          "merit": 26,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 83,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 3
+        },
+        {
+          "role": "官员",
+          "merit": 27,
+          "reputation": 5,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 72,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 7
+        },
+        {
+          "role": "寡妇",
+          "merit": 36,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 102,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 1
+        },
+        {
+          "role": "富商",
+          "merit": 44,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 119,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 2,
+          "win_type": "解脱加分胜利"
+        },
+        {
+          "role": "地主",
+          "merit": 35,
+          "reputation": 5,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 85,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 1
+        },
+        {
+          "role": "僧侣",
+          "merit": 2,
+          "reputation": 0,
+          "grant_points": 24,
+          "dharma_power": 1,
+          "final_score": 78,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 0
+        }
+      ],
+      "winner": "富商",
+      "win_type": "解脱加分胜利",
+      "events": [
+        "R1: Drought",
+        "R2: Imperial Blessing",
+        "R3: Dharma Assembly",
+        "R4: Drought",
+        "R5: Prosperity",
+        "R6: Imperial Blessing",
+        "R7: Dharma Assembly",
+        "R8: Imperial Blessing",
+        "R9: Imperial Blessing",
+        "R10: Prosperity"
+      ]
+    },
+    {
+      "players": [
+        {
+          "role": "农民",
+          "merit": 19,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 45,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 2
+        },
+        {
+          "role": "富商",
+          "merit": 48,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 102,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 1,
+          "win_type": "标准胜利"
+        },
+        {
+          "role": "官员",
+          "merit": 29,
+          "reputation": 1,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 64,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 7
+        },
+        {
+          "role": "僧侣",
+          "merit": 0,
+          "reputation": 0,
+          "grant_points": 28,
+          "dharma_power": 1,
+          "final_score": 86,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 0
+        },
+        {
+          "role": "地主",
+          "merit": 24,
+          "reputation": 6,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 66,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 0
+        },
+        {
+          "role": "寡妇",
+          "merit": 26,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 52,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 0
+        }
+      ],
+      "winner": "富商",
+      "win_type": "标准胜利",
+      "events": [
+        "R1: Prosperity",
+        "R2: Impermanence",
+        "R3: Prosperity",
+        "R4: Prosperity",
+        "R5: Prosperity",
+        "R6: Impermanence",
+        "R7: Drought",
+        "R8: Dharma Assembly",
+        "R9: Drought",
+        "R10: Dharma Assembly"
+      ]
+    },
+    {
+      "players": [
+        {
+          "role": "农民",
+          "merit": 28,
+          "reputation": 3,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 65,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 1
+        },
+        {
+          "role": "地主",
+          "merit": 35,
+          "reputation": 4,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 83,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 3
+        },
+        {
+          "role": "寡妇",
+          "merit": 43,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 116,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 1,
+          "win_type": "解脱加分胜利"
+        },
+        {
+          "role": "僧侣",
+          "merit": 2,
+          "reputation": 0,
+          "grant_points": 24,
+          "dharma_power": 1,
+          "final_score": 78,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 0
+        },
+        {
+          "role": "富商",
+          "merit": 42,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 115,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 2
+        },
+        {
+          "role": "官员",
+          "merit": 21,
+          "reputation": 4,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 57,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 6
+        }
+      ],
+      "winner": "寡妇",
+      "win_type": "解脱加分胜利",
+      "events": [
+        "R1: Impermanence",
+        "R2: Dharma Assembly",
+        "R3: Impermanence",
+        "R4: Imperial Blessing",
+        "R5: Drought",
+        "R6: Impermanence",
+        "R7: Imperial Blessing",
+        "R8: Impermanence",
+        "R9: Imperial Blessing",
+        "R10: Prosperity"
+      ]
+    },
+    {
+      "players": [
+        {
+          "role": "农民",
+          "merit": 33,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 68,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 4
+        },
+        {
+          "role": "僧侣",
+          "merit": 0,
+          "reputation": 0,
+          "grant_points": 27,
+          "dharma_power": 1,
+          "final_score": 84,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 0
+        },
+        {
+          "role": "官员",
+          "merit": 29,
+          "reputation": 1,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 64,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 6
+        },
+        {
+          "role": "富商",
+          "merit": 27,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 85,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 2
+        },
+        {
+          "role": "地主",
+          "merit": 21,
+          "reputation": 4,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 54,
+          "liberation": false,
+          "liberation_bonus": 0,
+          "total_resources": 0
+        },
+        {
+          "role": "寡妇",
+          "merit": 34,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 98,
+          "liberation": true,
+          "liberation_bonus": 30,
+          "total_resources": 0,
+          "win_type": "解脱加分胜利"
+        }
+      ],
+      "winner": "寡妇",
+      "win_type": "解脱加分胜利",
+      "events": [
+        "R1: Drought",
+        "R2: Dharma Assembly",
+        "R3: Drought",
+        "R4: Prosperity",
+        "R5: Impermanence",
+        "R6: Impermanence",
+        "R7: Dharma Assembly",
+        "R8: Dharma Assembly",
+        "R9: Prosperity",
+        "R10: Impermanence"
+      ]
+    }
+  ]
+}

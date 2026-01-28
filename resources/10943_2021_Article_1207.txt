@@ -1,0 +1,712 @@
+--- Page 1 ---
+Journal of Religion and Health (2022) 61:4466–4480
+https://doi.org/10.1007/s10943-021-01207-8
+PHILOSOPHICAL EXPLORATION
+A Protective Canopy: Religious and Social Capital
+as Elements of a Theory of Religion and Health
+Ephraim Shapiro1
+Accepted: 5 February 2021 / Published online: 1 March 2021
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC part of Springer Nature 2021
+Abstract
+In order to help fill the gap in midrange theory for the religion-health connection,
+this paper reviews relevant literature on religious capital as well as social capital, a
+concept with which religious capital is sometimes incorrectly conflated. It identifies
+elements and mechanisms for each type of capital, including both quality and quan-
+tity, and describes evidence for their relationship with health. Expanding, unifying,
+and integrating these theoretical elements can help better understand the underlying
+mechanisms of the relationship between religion and health, with concomitant pol-
+icy implications such as faith-based interventions as well as spur additional research
+on the topic.
+Keywords Religion · Health · Theory · Religious capital · Social capital
+Introduction
+Religion and Health
+There is a substantial and growing body of evidence that there is a connection
+between religion and health, one that is largely positive and beneficial although it
+can be negative as well (Ellison and Levin 1998; Levin 2001; Koenig et al. 2012;
+Idler 2014; Oman 2018). Numerous studies have found that religion can potentially
+affect mortality and morbidity through decreasing the incidence and severity of
+different types of illnesses, both physical and mental (Chatters 2000; Koenig et al.
+2012; Pargament 2013; Oman 2018). Religion has also has been linked to improved
+health behaviors (Hill et al 2007; Krause et al. 2017; Shapiro 2018).
+The connection between religion and health has multiple theoretical elements.
+A theoretical framework can play an important role in resolving disputes about the
+*
+Ephraim Shapiro
+eas97@caa.columbia.edu
+1 Department of Health Systems Management, Ariel University, 4 Kiryat Hamada, 40700 Ariel,
+Israel
+1V o3l:.(1234567890)
+
+--- Page 2 ---
+Journal of Religion and Health (2022) 61:4466–4480 4467
+extent and nature of the relationship between religion and health; it can provide
+guidance as to which alternative interpretation of findings is the most logical (Hum-
+mer 2005). Further, it is not always clear in cross-sectional studies whether religion
+is influencing people’s health or if people’s health issues draw them to religion
+(Sloan 2006; Koenig, King, and Carson 2012; Hvidt et al. 2017). While not negat-
+ing the importance of appropriate research methodology when studying religion and
+health (Rier et al. 2008; Koenig 2011), theory can be vital in helping to guide devel-
+opment of new measures, designing research, and interpreting complex results.
+Even those who do think that religion can positively influence health point out
+that there is an inadequate understanding of the mechanisms by which religious
+involvement can impact health. In recent years, leading scholars in the field of reli-
+gion and health research have stressed the lack of sufficient midrange theory in this
+area what Krause (2011) described as the need to make sense of a “disheveled litera-
+ture”. The literature about religion and health has grown substantially since then, yet
+the need for such theory still exists (Levin 2017).
+In an effort to strengthen the theoretical foundations underlying the relation-
+ship between religion and health, this paper describes how not only the quantity
+and quality of social capital can influence health but also elements of religion itself
+such as rituals, knowledge and beliefs, or what some have called “religious capital”.
+These constructs can potentially play an important role in explaining the relation-
+ship between religious involvement and health yet the theory needs to be fleshed
+out; the concept of religious capital in particular has rarely been used in the context
+of its relationship with health.
+A better understanding of the social and religious reasons for this relationship
+can have important policy implications and present opportunities to reduce health
+inequalities. In order to help fill this gap and advance the midrange theory for the
+religion-health connection, this paper will review key literature on religious capi-
+tal as well as of social capital, a concept with which religious capital is sometimes
+inappropriately conflated. The paper will identify elements and mechanisms for both
+types of capital, describe their relationship with each other and with health out-
+comes and summarize key supporting evidence.
+Social Capital, Religion and Health
+The importance of social resources was observed long ago. Durkheim ([1897] 1951)
+found that social groups, especially religious ones, can possess characteristics based
+on factors such as social integration and social cohesion which can affect health-
+related outcomes, most famously for suicide. Later sociologists showed that belong-
+ing to a community of people that share trust and support has multiple benefits,
+including improved health (Putnam 2000; Krause 2011). Religious involvement
+increases social network size and density and provides social support from people
+on whom one can count (Ellison and Sherkat 1995).
+Building upon these ideas is the concept of social capital. Although there are a
+number of definitions of social capital, it typically involves accumulation of social
+resources that inhere in social relationships through being a part of a social network
+1 3
+
+--- Page 3 ---
+4468 Journal of Religion and Health (2022) 61:4466–4480
+or other social structures (Bourdieu 1986; Coleman 1988; Portes 1998). For Put-
+nam (2000), who has helped popularize the idea of social capital in recent years, it
+denotes features of social organization, such as trust, norms, and networks that can
+facilitate coordinated actions.
+The most well established consequence of social capital seems to be in the area
+of health (Putnam 2000; Berkman et al. 2014; Idler 2014). Social capital is associ-
+ated with a variety of health outcomes and in general there is a positive relationship
+(Ferlander 2007; Berkman et al. 2014). A growing number of studies provide both
+extensive theoretical background and evidentiary support for a generally positive
+relationship between social capital and health status, although more research is still
+needed (Szreter and Woolcock 2004; Gilbert et al. 2013; Folland and Rocco 2014).
+Social capital is a prominent feature of religious involvement in particular (Smidt
+2003; Idler 2014). Religious communities are thought to be important sources of
+social capital, perhaps even the largest source of social capital in the U.S. (Putnam
+2000; Putnam and Campbell 2010). There is substantial evidence of a largely posi-
+tive relationship between social capital and health among the religious involved; the
+relationship is a complex one, however, with variations by a number of dimensions
+(Yeary 2012; Plunkett 2016; Shapiro and Sharony 2018).
+There are a number of hypothesized reasons for the relationship between social
+capital, religion, and health and social capital has been found to be a mediator for
+the relationship between religion and health (Yeary 2012). Social support of the reli-
+gious institution and its members can also result in direct instrumental assistance
+to congregants (Levin 1996; Chatters 2000). Religious institutions and leaders can
+also serve as facilitators and gatekeepers for health-seeking behaviors (Garcia et al.
+2013), especially for poor and vulnerable populations (Chatters 2000; Trinitapoli
+et al. 2009). Community health workers in religious institutions partnering with
+the health care system can provide direct care or help enable medical visits (Islam
+et al. 2013; Galiatsatos et al. 2016). Social capital can also enable groups to affect
+health outcomes through influencing political processes by joining forces with oth-
+ers (Szreter and Woolcock 2004; Foley and Hoge 2007).
+It is important to note that the impact of social capital can be negative as well
+(Portes 1998). Whereas social networks normally have positive effects, they can also
+be destructive. When group beliefs discourage healthful behaviors or encourage del-
+eterious behaviors, they can have a negative impact as the social resources can be
+harmful. For example, stigma related to mental health disease in the most traditional
+parts of the Jewish community may depress appropriate utilization of behavioral
+health services (Greenberg and Witzum 2013).
+Social Capital Magnified, Religion, and Health
+Not only the quantity but the quality of social capital may be greater among reli-
+gious communities. The mechanisms by which social capital can have an impact in
+general and for health in particular, function especially well in the context of a reli-
+gious community, as described below. I use the term “social capital magnified” to
+1 3
+
+--- Page 4 ---
+Journal of Religion and Health (2022) 61:4466–4480 4469
+refer to this intensified overall effect of social capital that can potentially accompany
+religious involvement, such as church-going.
+Religious communities and institutionalized religion in general can magnify the
+impact of social capital through normative socialization and social control. Reli-
+gion’s moral authority can regulate individuals’ behaviors. Beliefs and practices can
+unite adherents into a single moral community such as a church, mosque, or syna-
+gogue. The power and significance of believing in the same god(s) and in a shared
+set of religious values also helps unify members into a strongly cohesive group;
+many denominations have a level of authority not found in secular organizations,
+thus magnifying their impact.
+The environment for religious involvement typically involves rules and norms
+governing activities in that community. These norms may help to form especially
+strong bonds among congregants through strengthening group coherence and rela-
+tionships, and through the actual content of the norms, such as a sense of respon-
+sibility toward others. Constructs such as social networks, cohesion, and support
+seem to play an especially large role in religious communities (Chatters 2000; Smidt
+2003; Foley and Hoge 2007; Putnam and Campbell 2010).
+Religious communities and institutions are concerned with ensuring that peo-
+ple have shared expectations and that they abide by norms and keep obligations.
+They promote and share values, traditions, and texts. Religion can influence peo-
+ple’s health through mediating religious individuals’ lifestyle based on these shared
+norms and obligations. Religions describe rewards for adherence to prescribed
+behaviors as well as sanctions against individual disregard of them. For example, the
+disproportionate influence of others in a religious community may increase adher-
+ence to communal teachings and laws, such as avoiding harmful activities, which
+can potentially affect health (Idler 2014; Krause et al 2017).
+Religious communities can foster an especially high level among their members
+of trust, a very important element of social capital. Religious participants feel more
+confident that others in the group can be counted on and that credits accrued through
+their actions will be reciprocated in future. Whereas studies document the benefits of
+having friends in general (Berkman et al. 2014), the network of friends from church
+seem to be especially helpful and their impact magnified; a friendship network of
+the religiously involved, such as churchgoers, can have a more powerful impact; as
+a result, friends in a religious community have been labeled “supercharged” friends
+(Putnam and Campbell 2010).
+In ways that often differ from leaders of secular organizations, religious lead-
+ers can also have increased influence over the behaviors of congregants in ways
+related to social capital. Research has found that religious leaders serve as espe-
+cially effective role models (Levin 1996), and their congregations can constitute a
+reference group for proper behavioral norms (Ellison and Sherkat 1995; Chatters
+2000). Health initiatives can leverage the influence of religious leaders to success-
+fully change the behavior of their congregants through interventions (Padela et al.
+2011). Leaders can play critical roles in building community and meeting the needs
+of church goers (Foley and Hoge 2007).
+There can also be a negative health impact of social capital in religious com-
+munities as conflicts with group norms become intensified. For example, religious
+1 3
+
+--- Page 5 ---
+4470 Journal of Religion and Health (2022) 61:4466–4480
+struggles can be harmful to health if someone feels abandoned by his or her religion,
+leading to negative coping with illness (Ellison and Lee 2010; Pargament 2013).
+Intensity of commitment to a religious community may also have negative impli-
+cations when organizational conflicts lead to disputes between members and inter-
+personal struggles can be more stressful in a religious context and harm well-being
+(Krause 2005; Ellison and Lee 2010).
+Religious Capital and Health
+While social capital is an important determinant of health, it is critical to go beyond
+merely looking at the role of religion in a social context and to examine how the spe-
+cific content of religion itself can potentially influence health. There are distinctive
+aspects of religion such as beliefs, behaviors, rituals, and perspectives that can serve
+as a resource (Iannacone 1990, 1994; Stark and Finke 2000; Finke and Daugherty
+2002). The term “religious capital” can be used to denote these aspects of religion.
+Religious capital involves the degree of mastery of a religious culture (Stark and
+Finke 2000). It includes learning the teachings, skills, and rituals of a specific reli-
+gion such as stories from sacred literature, specific rituals, and liturgies (lannaccone
+1990; Finke and Daugherty 2002). In addition to a learned mastery of a religion,
+however; religious capital also includes an attachment to a particular religious cul-
+ture, based on emotion as well as intellect. Religious activities such as prayer, ritu-
+als, and mystical experiences build up over a lifetime, not only increasing knowl-
+edge, but strengthening emotional ties to a religion (Stark and Finke 2000, Finke
+and Daugherty 2002).
+The term “Religious Capital” was developed by an economist, and it has most
+often been used mainly in economic contexts ((Iannacone 1990; Barker 2008). How-
+ever, this role of religion in our lives can affect attitudes and behaviors which can
+impact health, potentially in a positive way. Whereas Marx ([1843] 1978) famously
+disparaged religion as an “opium of the people”, Stark and Finke (2000) wrote that
+religion is the “amphetamine of the people”, providing drive to their behavior and
+motivating social change; they thought that religion is not just a set of social activi-
+ties but is based on critical underlying ideas from oral and written traditions that
+affects attitudes and influence behaviors.
+Religious capital can be expected to be associated with health. Factors related to
+the nature of religion, such as theology, play an important if often neglected role in
+studies of the impact of religious involvement on health (Levin 1996, 2009; Krause
+et al. 2017). Not just the social context but the specific content of a religion’s beliefs
+matters. Religious doctrines can lead to a perspective on human nature and society
+that leads to attitudes associated with better physical and mental health outcomes
+(Chatters 2000; Levin 2001; Krause et al. 2017).
+An important aspect of religious participation is that it is not merely a discrete
+activity like bowling or volunteering but part of a distinct perspective and world-
+view that often permeates thoughts and behaviors even when not performing reli-
+gious acts, thus reinforcing their impact. The idea of the sacred and of transcend-
+ence, parts of the basic definition of religion, underlies the wider perspective that
+1 3
+
+--- Page 6 ---
+Journal of Religion and Health (2022) 61:4466–4480 4471
+religion provides (Durkheim [1912] 1965); Berger 1967; Stark and Finke 2000; Hill
+and Pargament 2003. A belief in transcendental rewards and punishment is likely to
+increase adherence to religious doctrines which could affect health for very differ-
+ent reasons than social capital and influences of other social factors which are not
+considered obligatory or connected to the transcendental. For example, belief in the
+New Testament idea that “my body is a temple” can have a positive impact on health
+(Krause et al. 2017).
+As a result, health interventions such as improved health behaviors may be more
+effective when placed in the context of elements of a religion such as its values
+(Berkman et al. 2014; Idler 2014). Specific religious doctrines and beliefs can also
+have generally protective benefits which can serve as part of religion’s protective
+role. Religious proscriptions and prescriptions can affect behaviors associated with
+health status such as smoking, substance abuse, risky sex, nutrition, and exercise
+(Ellison 1995; Levin 1996; Levin 2001; Hill et al 2007; Idler 2014;).
+Prosocial behaviors can also be related to religious beliefs and at the same time
+can also affect health. For example, volunteering can increase religious capital (Park
+and Smith 2000) and also improve the health of the volunteers themselves as well as
+those for whom services are being performed (Kim and Konrath 2016).
+It is important to stress that, as with social capital, religious capital does not
+always have a positive impact on health. Some theological beliefs can harm health.
+For example, adherence to religious explanations for illness, such as sin, and reli-
+ance on divine intervention for a cure may interfere with medically appropriate care
+seeking and affect mortality as well as disease. A perception of sacred loss normally
+has a negative effect on health, although a stronger sense of meaning in life can miti-
+gate the negative effect (Krause et al 2018). Further, resistance to vaccination among
+religious communities continues to be a contentious and complex issue (Bock 2020),
+although it is possible that could change after the coronavirus pandemic.
+Case Studies
+Although elements of religious capital can potentially impact health, they have been
+given less attention than social capital or the impact of religion on health outcomes
+has been inappropriately attributed to social capital. To the extent that the elements
+of religious capital have previously been used in research, there is at least some sup-
+port for the theoretical constructs presented above, even if earlier studies do not fully
+operationalize the concept and/or do not always test them directly. Two case studies
+are presented below to illustrate how the idea that religious capital, as distinct from
+social capital, can potentially be an important theoretical concept yet there is a need
+to operationalize the theory.
+Abraido-Lanza et al. (2004) attempted to better understand the mechanisms that
+mediate the relationship between coping and health. In order to do so, they tested a
+theoretical model concerning religion, coping; pain and psychological adjustment
+by surveying a sample of 200 Latinos in New York City with arthritis using path
+analysis methodology. The items used in the study involved specific forms of reli-
+gious coping (such as the use of prayer; the request for help from God; and religious
+1 3
+
+--- Page 7 ---
+4472 Journal of Religion and Health (2022) 61:4466–4480
+faith, trust, and comfort) derived from previously validated scales among people
+with arthritis.
+The authors found that religious coping was associated with greater mental well-
+being, and found high levels of religious coping in the sample, which was associated
+with active, action-oriented responses to pain. Participants described how their faith
+in God helped them overcome severe pain and take command of their disease.
+The authors concluded that religion is an important form of coping for Lati-
+nos with arthritis and that researchers studying coping and psychosocial processes
+among Latino populations should use scales measuring religious coping. The study
+points to the importance of including an adequate number of religious items in stud-
+ies which may be potential elements of religious capital, when assessing coping with
+illness in addition to social and psychological factors. The study’s findings also sug-
+gest the intertwining of religious capital with other identities such as ethnicity in
+potentially impacting health.
+More recently, Holt et al (2012) examined determinants of health among African-
+American communities. The authors made a pioneering effort to try to distinguish
+between social capital and religious capital and to operationalize the latter concept
+to at least a limited extent. They surveyed 803 African-Americans, developing sepa-
+rate measures for social capital and religious capital as well as measuring spiritual
+capital and religiosity.
+The social capital instrument used to develop capital instruments was a nine-item
+measure comprised of three factors: social support, interconnectedness, and com-
+munity participation. The religious capital scale was a nine-item scale based on the
+social capital instrument. For example, the instrument included questions such as:
+“If a medical emergency arose in my home, I would be likely to call on someone in
+my religious/spiritual community for help" and "Most people in my religious/spir-
+itual community can be trusted.”
+The authors analyzed the associations between these scales and physical and
+mental health outcomes including self-rated health status and depressive symptoms.
+They found that the religious/ spiritual capital instruments appeared to have good
+initial reliability and validity, although were associated with only a few health out-
+comes. They concluded that the population of African-Americans sampled receives
+a substantial amount of capital from their faith-based community, especially from
+their relationship with a higher power (eg. God), supporting the importance of
+attempting to better understand and measure elements of religious capital.
+Discussion
+Religion can affect many aspects of a person’s life, including health-related ones.
+To adapt Berger’s (1967) phrase, there is abundant research that religion is not
+only a “sacred canopy” but can serve as a “protective canopy” in terms of health
+(Koenig et al. 2012; Idler 2014; Oman 2018). A theoretical framework for a con-
+nection between religious capital and health above and beyond social capital can
+help fill some of the gap in midrange theory about religion and health. This paper
+aimed to advance the theoretical framework for the relationship between religion
+1 3
+
+--- Page 8 ---
+Journal of Religion and Health (2022) 61:4466–4480 4473
+and health through elaboration of a theory of religion and health and a review of
+key relevant literature. It described how the concept of “social capital” is critical
+in understanding this relationship, an observation found elsewhere (Smidt 2003;
+Idler 2014; Shapiro and Sharony 2018). Evidence was presented that not only the
+quantity but also the quality of social capital, or what may be termed “social capi-
+tal magnified” is an important mechanism by which religion can influence health
+through intensified impact of social capital, something that has less commonly
+been noted.
+Above and beyond social factors, there are elements of religion itself such as ritu-
+als, knowledge and beliefs, prescriptions and proscriptions, and the emotional con-
+nection to them or what may be called “religious capital.” This is a concept has been
+used in the literature before but relatively infrequently, and rarely in the context of
+religion and health. This form of capital can play an important role in explaining the
+relationship between religious involvement and health.
+Religion is an important part of the causal pathway in which other factors work to
+affect health (Levin 1996, 2009; Chatters 2000; Ellison and Hummer 2010; Krause
+2011; Krause et al. 2017; Oman 2018). While some of the distinctive elements of
+religious capital and their relationship to forms of social capital have been noted
+before, (Shapiro 2011; Koenig et al. 2012; Oman 2018), unifying and integrating
+them in a coherent manner that can make them more useful in understanding the
+reasons for the relationship between religion and health. A better theoretical under-
+standing of the religion-health connection can deepen and improve analyses of what
+affects health, with resultant implications. This paper could potentially make an
+important contribution to midrange theory and its development. To our knowledge,
+there is no literature describing a detailed theory of religious capital and health as
+this paper attempts to do.
+This paper argues that there is a need to focus on the quality of social capital not
+only the quantity of it, especially in a religious context, and there is indeed a large
+and growing body of literature about the connection of social capital, religion, and
+health. Despite the potential importance of religion to health in addition to social
+factors, however, there has been surprisingly little attention paid to the idea of reli-
+gious capital, especially in comparison to social factors such as social capital. Too
+often religious capital has been considered an aspect of social capital.
+It appears that in contrast to social capital there is very little literature about reli-
+gious capital which can also potentially play an important role in understanding the
+relationship between religion and health as described in this paper. For example, a
+search of the Pubmed database using the key words “social capital” and “health”
+found well over 3000 results. However, a search for “religious capital” and “health”
+found virtually no articles.
+It should be noted, that while there is a paucity of literature about religious capi-
+tal and health, theories are not created out of whole cloth, and this paper builds upon
+the work of earlier authors including the case studies mentioned earlier (Abraido-
+Lanza et al. 2004; Holt et al. 2012). The earlier research suggests pathways by which
+the concept can be used. Both earlier studies present important if limited elements
+of religious capital, with one article focusing on coping and one on some communal
+aspects of religion.
+1 3
+
+--- Page 9 ---
+4474 Journal of Religion and Health (2022) 61:4466–4480
+However, in the Abraido-Lanza paper, religion is treated a form of psychosocial
+resource, not put in a separate theoretical framework related to religion. The Holt
+paper does mention religious capital but presents it as a limited model using a tool
+based on one developed for social capital. Like social capital which built upon ear-
+lier elements such as social cohesion and trust, some elements of religious capital
+such as coping or beliefs certainly existed before. However, as with social capital,
+building upon and unifying earlier elements unto one theory is pivotal in making the
+concept useful for future health-related research. It is hoped that the current paper
+will encourage such research by unifying the elements and facilitating better opera-
+tionalizing the concept. While it may be overly ambitious for religious capital to
+play as important a role in understanding determinants of health as social capital
+currently does, there is at least potential for it to make an important contribution in
+health-related research.
+For example, recent studies used church attendance as a proxy for religious capi-
+tal among minorities in the United States (Shapiro 2018; Scott et al. 2018). They
+found that greater church attendance was generally associated with some but not all
+health behaviors and hypothesized that religious capital played a role in the results.
+However, the studies were not able to measure religious capital directly. Operation-
+alization of religious capital would have been useful in such research. Further, the
+study by Holt et al. (2012) suggested that religious capital is not associated with all
+health outcome and/or all populations. More research in this area is needed.
+There is also potential for expansion and sharpening of the model presented by
+others. There may be different types of religious capital just as there are different
+types of social capital. For example, there may be one type for knowledge-based
+religious capital and one for emotions-based religious capital, two important aspects
+of religious capital described above.
+It should be emphasized that the social and religious aspects of religion are not
+completely discrete factors and can be interrelated. Although a distinct mechanism,
+religious capital is theorized to work with social capital and other social resources
+to influence health as religious orientations and practices are reinforced and sup-
+ported in a religious communal context (George et al. 2002). For example, increased
+social capital can lead to increased performance of religious activities and/or greater
+sharing of religious knowledge when one participates in a religious community. The
+relationship can work in the other direction as well. For example, increased religious
+capital can increase participation in religious services (Corcoran 2012), thereby
+increasing social capital through an expanded network (Putnam 2000).
+However, one should be careful not to conflate social and religious capital too
+much because there are important differences. For example, whereas social capital
+typically involves expectations of reciprocity of rewards from other people, this is
+less so with religious capital which emphasizes altruism. For the religiously com-
+mitted, the most valuable of all rewards is often otherworldly and can even include
+actions against one’s self-interest. As a result, unlike conventional social capital, it is
+more likely that someone will provide resources to others in a religious context even
+in situations where reciprocity from other group members is not assured. Similarly,
+some have described religion as a “support convoy” because people expect help but
+1 3
+
+--- Page 10 ---
+Journal of Religion and Health (2022) 61:4466–4480 4475
+know it may not be from the person they helped or may not even be from someone
+in their network (Kahn and Antonucci 1980).
+There can also be interactions between demographic factors, religious capital,
+and social capital. The relationship between religious and social variables can be
+intertwined with several demographic factors. The potential impact of religion on
+health should not be examined in isolation from sociocultural environments, which
+can affect both the needs of different demographic groups and how they interact
+with the health care system (Stark and Finke 2000; Foley and Hoge 2007; Nichol-
+son et al. 2009). The relationship of religion and health can vary across a number
+of dimensions such as gender, age, ethnicity, and migration status (Viladrich and
+Abraído-Lanza 2009; Nicholson et al. 2009; Koenig et al. 2012; Holt et al., 2012;
+Shapiro 2018). Values and cultural characteristics shared with other members of a
+congregation can facilitate social capital and sharing of support and resources, with
+positive effects on health. The extent to which a given religious community is com-
+posed of individuals from the same ethnicity or country could impact attitudes and
+behaviors that affect health directly or indirectly (Foley and Hoge 2007; Viladrich
+and Abraído-Lanza 2009).
+Varying religious traditions also shape variations among denominations in
+ways that can affect their congregants’ health through differing amounts and types
+of social and religious capital. For example, whereas some denominations focus
+on building close ties and fellowship, others focus more on building communities
+through activities and relation with external groups. The former tend to be con-
+servative Protestant congregations whereas the latter tend to be Catholics (Foley and
+Hoge 2007). Churches with more prohibitions and penalties can exert more con-
+trol over members in limiting harmful health behaviors (Iannacone 1994) and can
+possess more religious capital, with its attendant benefits. Certain Jewish religious
+streams may be especially cohesive and insular (Rier et al. 2008).
+It should be noted that there also has been some research about the relationship
+of a seemingly related concept, spiritual capital, with health. There is evidence of
+a positive relationship between spiritual capital and health and well-being (Friedli
+2001; Holt et al 2012; Park et al. 2020). However, in addition to a paucity of studies
+about spiritual capital and health, there has been a lack of agreement about how to
+define the concept of spiritual capital, as is the case with defining spirituality itself
+(Koenig 2011). Therefore, results of these studies should be interpreted with cau-
+tion in understanding the relationship of religious capital and health but, although
+beyond the scope of this paper, the relationship between spiritual capital and health
+warrants a separate examination.
+Policy Implications
+The theoretical elements described above can help policymakers, researchers, and
+others to better understand the underpinnings of the important role that faith com-
+munities can play in people’s lives, especially those of vulnerable populations.
+Although some speak of individual responsibility needed to live a healthy life-
+style, the context in which people live can make choosing healthy behaviors much
+1 3
+
+--- Page 11 ---
+4476 Journal of Religion and Health (2022) 61:4466–4480
+easier. Social and religious capital can be leveraged to provide such a helpful con-
+text. Policies and programs can be developed and implemented to take advantage
+of these opportunities in potentially addressing improving population health and
+reducing health inequalities (Campbell et al. 2007; Idler 2014; Oman 2018).
+Some would claim that any relationships between religious involvement and
+health are spurious or merely because of social resources rather than any distinc-
+tive elements (Sloan 2006); yet others could argue that there is little need to tar-
+get the religiously involved in health promotion initiatives because they already
+are in better health. However, not all who attend services are in very good health
+and while some congregations sponsor health-related programs, many do not.
+There is a potential opportunity to promote the health of those who are religious
+by taking advantage of religious as well as social capital, especially for vulner-
+able populations.
+A focus on religious traditions has the potential to improve prevention, not just
+care (Idler 2014; Rozier 2017; Oman 2018). Congregations and their leaders can
+undertake a variety of initiatives to promote health (Campbell et al. 2007; Pad-
+ela 2011; Galiatsatos et al. 2016). For example, lay health ministries, faith-based
+community health workers, and healthy cooking classes adhering to the dietary
+restrictions are all examples of faith-based interventions that have a religious
+component, not merely a social one with potential positive impacts on health.
+Although religious and social capital are concepts distinct from financial capi-
+tal, they may also have implications for costs. Religion is associated with gener-
+ally improved health and can serve as a cost-effective way to improve health, thus
+reduce health care spending. For example, volunteering is more prevalent among
+those who are religious and who may have differing motivations than those in the
+general population (Putnam and Campbell 2010).
+Additional Research
+The mechanisms by which religious capital and, to a lesser extent, social capital
+function are not fully understood. Additional research is needed to better understand
+the mechanisms by which religious capital and social capital, often magnified in a
+religious context, can affect health. Fleshing out the theories based on the litera-
+ture cited in this paper and connecting them more explicitly can enable better oper-
+ationalization and testing of the theories, especially in relation to the understand-
+ing the underlying mechanisms of the relationship between religion and health. In
+particular, understanding the independent and joint contributions of social capital
+and religious capital could have implications as to optimal design of interventions
+to improve the health of the religiously involved among vulnerable populations. It
+would be useful to better understand both the negative as well as positive aspects of
+the relationship between religion and health. In addition, religious and social capital
+can potentially affect even those who participate within a faith community but are
+not religious themselves, although the extent to which they apply for these people
+is unclear. It would therefore be helpful to perform additional research as to how
+1 3
+
+--- Page 12 ---
+Journal of Religion and Health (2022) 61:4466–4480 4477
+the motivation for and content of religious service attendance affect associations
+between religious capital, social capital, and health.
+Conclusions
+In an effort to strengthen the understanding of the relationship between religious
+involvement and health, this article presents literature to support a theoretical
+framework that includes not just the quantity of social capital but the quality of
+it. It shines a light on the concept of religious capital, an important idea which
+has rarely been used in a public health context. The article presents evidence of a
+connection between religion and health that is consistent with this framework and
+that has potentially important public policy implications.
+The theoretical elements described and evidence from the literature pre-
+sented to support it can potentially spur additional research to better understand
+the nature of the religion-health connection and its underlying mechanisms; in
+particular, it would be helpful to develop quantifiable measures such as specific
+forms of religious knowledge, beliefs and faith-based bonds among people, that
+are connected to both religion and health. While much remains to be investigated,
+it is hoped that the theoretical framework presented can provide ideas and impe-
+tus toward achieving this goal.
+Acknowledgements The author would like to acknowledge the assistance of the following during the
+course of the preparation of this paper: Ana Abraído-Lanza, Ph.D., Angela Aidala, Ph.D., Joyce Moon-
+Howard, Dr. PH, Nancy Foner, Ph.D., Courtney Bender, Ph.D., Karolynn Siegel, Ph.D.
+Compliance with Ethical Standards
+Conflict of interest I have no relevant conflicts of interest.
+Ethical Approval This paper was written in compliance with my institution’s ethical standards and without
+a source of funding.
+References
+Abraído-Lanza, A. F., Vasquez, E., & Echeverría, S. E. (2004). En las manos de Dios [in God’s
+hands]: Religious and other forms of coping among Latinos with arthritis. Journal of consulting
+and clinical psychology, 72(1), 91–102.
+Barker, M. (2008). The role of religious capital in relating religion and economic development. Third
+Sector Review, 14(1), 23–34.
+Berger, P. (1967). The sacred canopy: Elements of a sociological theory of religion. Garden City,
+N.Y: Doubleday.
+Berkman, L. F., Kawachi, I., & Glymour, M. (Eds.). (2014). Social epidemiology. New York, NY:
+Oxford University Press.
+Bock, G. L. (2020). The end of religious exemptions from immunisation requirements? Journal of
+Medical Ethics, 46(2), 114.
+1 3
+
+--- Page 13 ---
+4478 Journal of Religion and Health (2022) 61:4466–4480
+Bourdieu, P. (1986). The forms of capital. In J. Richardson (Ed.), Handbook of theory and research
+for the sociology of education. Greenwood: New York, NY.
+Campbell, M. K., Hudson, M. A., Resnicow, K., Blakeney, N., Paxton, A., & Baskin, M. (2007).
+Church-based health promotion interventions: Evidence and lessons learned. Annual Review of
+Public Health, 28, 213–234.
+Chatters, L. M. (2000). Religion and health: Public health research and practice. Annual Review of
+Public Health, 21, 335–367.
+Coleman, J. S. (1988). Social capital in the creation of human capital. American Journal of Sociology, 94,
+S95–S120.
+Corcoran, K. E. (2012). Religious human capital revisited: Testing the effect of religious human capital
+on religious participation. Rationality and Society, 24(3), 343.
+Durkheim, E. (1951). Suicide. New York: The Free Press.
+Durkheim, E. (1965). The elementary forms of the religious life. New York: The Free Press.
+Ellison, C. G., & Hummer, R. (2010). Religion, families, and health: Population-based research in the
+United States. New Brunswick, NJ: Rutgers University Press.
+Ellison, C. G., & Lee, J. (2010). Spiritual struggles and psychological distress: Is there a dark side of reli-
+gion. Social Indicators Research, 98(3), 501–517.
+Ellison, C. G., & Levin, J. S. (1998). The religion-health connection: Evidence, theory, and future direc-
+tions. Health Education and Behavior, 25(6), 700–720.
+Ellison, C. G., & Sherkat, D. E. (1995). Is sociology the core discipline for the scientific study of reli-
+gion? Social Forces, 73(4), 1255.
+Ferlander, S. (2007). The importance of different forms of social capital for health. Acta Sociologica,
+50(2), 115–128.
+Finke, R., & Dougherty, K. D. (2002). The effects of professional training: The social and religious capi-
+tal acquired in seminaries. Journal for the Scientific Study of Religion, 41(1), 103–120.
+Foley, M. W., & Hoge, D. (2007). Religion and the new immigrants: How faith communities form our
+newest citizens. New York: Oxford University Press.
+Folland, S., & Rocco, L. (2014). The Economics of social capital and health: A conceptual and empirical
+roadmap. New Jersey: World Scientific Publishing Company.
+Friedli, L. (2001). Social and spiritual capital: Building emotional resilience in communities and indi-
+viduals. Political Theology, 2(2), 55–64.
+Galiatsatos, P., Sundar, S., Qureshi, A., Ooi, G., Teague, P., & Daniel Hale, W. (2016). Health promotion
+in the community: Impact of faith-based lay health educators in urban neighborhoods. Journal of
+Religion and Health, 55(3), 1089–1096.
+Garcia, G., Ellison, C. G., Sunil, T. S., & Hill, T. D. (2013). Religion and selected health behaviors
+among latinos in texas. Journal of Religion and Health, 52(1), 18–31.
+George, L., Ellison, G., & Larson, D. B. (2002). Explaining the relationships between religious involve-
+ment and health. Psychological Inquiry., 13(3), 190–200.
+Gilbert, K. L., Quinn, S. C., Goodman, R. M., Butler, J., & Wallace, J. (2013). A meta-analysis of social
+capital and health: A case for needed research. Journal of Health Psychology, 18(11), 1385–1399.
+Greenberg, D., & Witztum, E. (2013). Challenges and conflicts in the delivery of mental health services
+to ultra-orthodox Jews. Asian Journal of Psychiatry, 6(1), 71–73.
+Hill, P. C., & Pargament, K. I. (2003). Advances in the conceptualization and measurement of religion
+and spirituality: Implications for physical and mental health research. The American Psychologist,
+58(1), 64–74.
+HillEllisonBurdetteMusick, T. D. C. G. A. M. M. A. (2007). Religious involvement and healthy lifestyles:
+Evidence from the survey of texas adults. Annals of Behavioral Medicine, 34(2), 217–222.
+Holt, C. L., Schulz, E., Williams, B., Clark, E. M., Wang, M. Q., & Southward, P. L. (2012). Assessment
+of religious and spiritual capital in African American communities. Journal of Religion and Health,
+51(4), 1061–1074.
+Hummer, R. A. (2005). Commentary: Understanding religious involvement and mortality risk in the
+United States: Comment on Bagiella, Hong, and Sloan. International Journal of Epidemiology,
+34(2), 452–453.
+Hvidt, N. C., Hvidtjørn, D., Christensen, K., Nielsen, J. B., & Søndergaard, J. (2017). Faith moves moun-
+tains–mountains move faith: Two opposite epidemiological forces in research on religion and health.
+Journal of Religion and Health, 56(1), 294–304.
+Iannaccone, L. R. (1990). Religious practice: A human capital approach. Journal for the Scientific Study
+of Religion, 29(3), 297–314.
+1 3
+
+--- Page 14 ---
+Journal of Religion and Health (2022) 61:4466–4480 4479
+Iannaccone, L. R. (1994). Why strict churches are strong. American Journal of Sociology, 99(5),
+1180–1211.
+Idler, E. L. (2014). Religion as a social determinant of public health. New York, NY: Oxford University
+Press.
+IslamWyattPatelShapiroTandonMukherjiTannerReyTrinh-Shevrin, Nl. S. E. D. B. M. M. C. (2013). Eval-
+uation of a community health worker pilot intervention to improve diabetes management in Bangla-
+deshi immigrants with type 2 diabetes in New York City. The Diabetes Educator., 39(4), 478–493.
+Kahn, R., & Antonucci, T. (1980). Convoys over the life course: Attachments, roles and social support. In
+P. Baltes & O. Brim (Eds.), Life span development and behavior. New York, NY: Academic Press.
+Kim, E. S., & Konrath, S. H. (2016). Volunteering is prospectively associated with health care use among
+older adults. Social Science & Medicine, 149, 122.
+Koenig, H. (2011). Spirituality and health research: Methods, measurements, statistics, and resources.
+West Conshohocken, PA: Templeton Press.
+Koenig, H. G., King, D., & Carson, V. (2012). Handbook of religion and health. New York, NY: Oxford
+University Press.
+Krause, N. (2005). Negative interaction and heart disease in late life: Exploring variations by socioeco-
+nomic status. Journal of Aging and Health, 17(1), 28–55.
+Krause, N. (2011). Religion and health: Making sense of a disheveled literature. Journal of Religion and
+Health, 50(1), 20–35.
+Krause, N., Hill, P. C., Emmons, R., Pargament, K. I., & Ironson, G. (2017). Assessing the relationship
+between religious involvement and health behaviors. Health Education & Behavior : The Official
+Publication of the Society for Public Health Education, 44(2), 278–284.
+Krause, N., Pargament, K. I., & Ironson, G. (2018). Meaning in life moderates the relationship between
+sacred Loss/Desecration and health. Journal for the Scientific Study of Religion, 57(2), 365–376.
+Levin, J. (1996). How religion influences morbidity and health: reflections on natural history, salutogen-
+esis and host resistance. Social Science and Medicine, 43(5), 849–864.
+Levin, J. S. (2001). God, faith and health: Exploring the spirituality–healing connection. New York, NY:
+Wiley.
+Levin, J. (2009). And let us make us a name: Reflections on the future of the religion and health field.
+Journal of Religion and Health, 48(2), 125–145.
+Levin, J. (2017). “For they knew not what it was”: Rethinking the tacit narrative history of religion and
+health research. Journal of Religion and Health, 56(1), 28–46.
+Marx, Kl. (1978). The Marx-Engels Reader. In: Tucker, Robert and McClellan, David, (ed.) New York,
+NY: WW Norton
+Nicholson, A., Rose, R., & Bobak, M. (2009). Association between attendance at religious services and
+self-reported health in 22 european countries. Social Science and Medicine, 69(4), 519–528.
+Oman, D. (Ed.). (2018). Why religion and spirituality matter for public health: Evidence, implications,
+and resources. New York, NY: Springer.
+Padela, A. I., Killawi, A., Heisler, M., Demonner, S., & Fetters, M. D. (2011). The role of imams in
+american muslim health: Perspectives of Muslim community leaders in southeast Michigan. Journal
+of Religion and Health, 50(2), 359–373.
+Pargament, K. (2013). APA handbook of psychology, religion, and spirituality. Washington, DC: Ameri-
+can Psychological Association.
+Park, J. J., Dizon Jude, P. M., & Moya, M. (2020). Spiritual capital in communities of color: Religion and
+spirituality as sources of community cultural wealth. The Urban Review, 52(1), 127–150.
+Park, J. Z., & Smith, C. (2000). “To whom much has been given”: Religious capital and community
+voluntarism among churchgoing protestants. Journal for the Scientific Study of Religion, 39(3),
+272–28.
+Plunkett, R., Leipert, B., & Olson, J. (2016). Exploring the influence of social determinants, social capi-
+tal, and health expertise on health and the rural church. Journal of Holistic Nursing : Official Jour-
+nal of the American Holistic Nurses’ Association, 34(3), 236–243.
+Portes, A. (1998). Social capital: Its origins and applications in modern sociology. Annual Review of
+Sociology, 24(1), 1–24.
+Putnam, R. (2000). Bowling alone. New York, NY: Simon and Schuster.
+Putnam, R., & Campbell, D. (2010). American grace: How religion divides and unites us. New York, NY:
+Simon & Schuster.
+1 3
+
+--- Page 15 ---
+4480 Journal of Religion and Health (2022) 61:4466–4480
+Rier, D. A., Schwartzbaum, A., & Heller, C. (2008). Methodological issues in studying an insular, tradi-
+tional population: A women’s health survey among Israeli haredi (ultra-orthodox) Jews. Women &
+Health, 48(4), 363–381.
+Rozier, M. (2017). Religion and public health: Moral tradition as both problem and solution. Journal of
+religion and health., 56(3), 1052–1063.
+Scott, Lionel D., Jr., Hodge, D. R., White, T., & Munson, M. R. (2018). Substance use among older youth
+transitioning from foster care: Examining the protective effects of religious and spiritual capital.
+Child & Family Social Work. https ://doi.org/10.1111/cfs.12429 .
+Shapiro, E. (2011). Religious Involvement and Latino Immigrant Health in Blasi, Anthony, (ed.), Toward
+a sociological theory of religion and health. pp.175–206. Leiden: Brill Publishers.
+Shapiro, E. (2018). Places of habits and hearts: Church attendance and Latino immigrant health behaviors
+in The United States. Journal of Racial and Ethnic Health Disparities, 5(6), 1328–1336.
+Shapiro, E., & Sharony, C. (2018). Religious and social capital and health. In S. Folland & E. Nauenberg
+(Eds.), The Elgar companion to social capital and health. Northampton, MA: Edward Elgar Aca-
+demic Publishers.
+Sloan, R. (2006). Blind Faith. New York, NY: St. Martin’s Press.
+Smidt, C. (2003). Religion as social capital: Producing the common good. Waco, TX: Baylor University
+Press.
+Stark, R., & Finke, R. (2000). Acts of Faith: Explaining the human side of religion. Berkeley, CA: Uni-
+versity of California Press.
+Szreter, S., & Woolcock, M. (2004). Health by association? social capital, social theory, and the political
+economy of public health. International Journal of Epidemiology, 33(4), 650–667.
+Trinitapoli, J., Ellison, C. G., & Boardman, J. D. (2009). US religious congregations and the sponsorship
+of health-related programs. Social Science & Medicine, 68(12), 2231–2239.
+Viladrich, A., & Abraído-Lanza, A. (2009). Religion and mental health among minorities and immi-
+grants. In S. Loue & M. Sajatovic (Eds.), Determinants of minority mental health and wellness. New
+York, NY: Springer.
+Yeary, K., Ounpraseuth, S., Moore, P., Bursac, Z., & Greene, P. (2012). Religion, social capital, and
+health. Review of Religious Research, 54(3), 331–347.
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published
+maps and institutional affiliations.
+1 3
