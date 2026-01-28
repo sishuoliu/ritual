@@ -1,7 +1,13 @@
 """
-《功德轮回：众生百态》v3.2 最终版模拟器
+《功德轮回：众生百态》v3.5 最终版模拟器
 
 版本说明：
+v3.5.0 - 综合平衡版（50+迭代测试）
+- 6个测试配置全面覆盖
+- 综合排名分评估系统
+- 学者僧侣达成平衡
+- 全皈依+平衡配置★★★★★
+
 v3.2.0 - 批判性修订版
 - 修复：持续帮助奖励机制
 - 修复：布施递减时机（扣钱前计算）
@@ -75,30 +81,32 @@ INVEST_INTERVAL = 2  # 收益间隔回合
 # 发愿系统（全整数）
 VOWS = {
     RoleType.FARMER: [
-        # v3.2最终：平衡调整
+        # v3.5最终版
         {"name": "勤劳致福", "difficulty": "easy", "condition": "fu>=16", 
-         "per_round": {"fu": 1}, "reward": 15, "penalty": -4},
+         "per_round": {"fu": 1}, "reward": 14, "penalty": -4},
         {"name": "贫女一灯", "difficulty": "hard", "condition": "fu>=23 and wealth<=5", 
-         "per_round": {"fu": 2}, "reward": 22, "penalty": -8},
+         "per_round": {"fu": 2}, "reward": 20, "penalty": -8},
     ],
     RoleType.MERCHANT: [
+        # v3.5最终版
         {"name": "财施功德", "difficulty": "easy", "condition": "donate_count>=4", 
-         "per_round": {"wealth": 1, "hui": 1}, "reward": 14, "penalty": -4},
+         "per_round": {"wealth": 1, "hui": 1}, "reward": 13, "penalty": -4},
         {"name": "布施长者", "difficulty": "medium", "condition": "fu>=20 and save_count>=2", 
-         "per_round": {"fu": 1, "hui": 1}, "reward": 20, "penalty": -8},
+         "per_round": {"fu": 1}, "reward": 16, "penalty": -8},
     ],
     RoleType.SCHOLAR: [
-        # v3.2微调：平衡调整
+        # v3.4.9迭代：回调学者
         {"name": "传道授业", "difficulty": "medium", "condition": "teach_count>=3", 
-         "per_round": {"hui": 1}, "reward": 15, "penalty": -4},
-        {"name": "万世师表", "difficulty": "hard", "condition": "hui>=25 and fu>=15", 
-         "per_round": {"hui": 1}, "reward": 17, "penalty": -5},
+         "per_round": {"hui": 1}, "reward": 13, "penalty": -4},
+        {"name": "万世师表", "difficulty": "hard", "condition": "hui>=26 and fu>=16", 
+         "per_round": {"hui": 1}, "reward": 15, "penalty": -5},
     ],
     RoleType.MONK: [
-        {"name": "阿罗汉果", "difficulty": "medium", "condition": "hui>=26", 
-         "per_round": {"hui": 1}, "reward": 14, "penalty": -5},
-        {"name": "菩萨道", "difficulty": "hard", "condition": "fu>=20 and save_count>=3", 
-         "per_round": {"fu": 1}, "reward": 18, "penalty": -8},
+        # v3.4.8迭代：微调僧侣
+        {"name": "阿罗汉果", "difficulty": "medium", "condition": "hui>=27", 
+         "per_round": {"hui": 1}, "reward": 11, "penalty": -5},
+        {"name": "菩萨道", "difficulty": "hard", "condition": "fu>=21 and save_count>=2", 
+         "per_round": {"fu": 1}, "reward": 13, "penalty": -8},
     ],
 }
 
@@ -860,17 +868,25 @@ class BalanceTester:
         print("• 持续帮助：连续3回合帮助+1福")
         print("• 团队合作：AI考虑团队危机状态")
         
-        # 测试组合
+        # v3.3扩展测试组合（覆盖更多场景）
         configs = [
+            # 基础配置
             ("全皈依+平衡", [Strategy.BALANCED]*4, [RefugeChoice.REFUGE]*4),
-            ("混合皈依", [Strategy.BALANCED]*4, 
+            ("全不皈依+平衡", [Strategy.BALANCED]*4, 
              [RefugeChoice.NON_REFUGE, RefugeChoice.NON_REFUGE, 
-              RefugeChoice.REFUGE, RefugeChoice.REFUGE]),
-            ("财富策略", 
+              RefugeChoice.NON_REFUGE, RefugeChoice.REFUGE]),  # 僧侣必须皈依
+            # 策略差异
+            ("商人财富策略", 
              [Strategy.BALANCED, Strategy.WEALTH_FOCUS, Strategy.BALANCED, Strategy.BALANCED],
              [RefugeChoice.REFUGE]*4),
-            ("福德策略", 
+            ("农夫福德策略", 
              [Strategy.MERIT_FOCUS, Strategy.BALANCED, Strategy.BALANCED, Strategy.BALANCED],
+             [RefugeChoice.REFUGE]*4),
+            ("学者智慧策略", 
+             [Strategy.BALANCED, Strategy.BALANCED, Strategy.WISDOM_FOCUS, Strategy.BALANCED],
+             [RefugeChoice.REFUGE]*4),
+            ("僧侣福德策略", 
+             [Strategy.BALANCED, Strategy.BALANCED, Strategy.BALANCED, Strategy.MERIT_FOCUS],
              [RefugeChoice.REFUGE]*4),
         ]
         
@@ -969,6 +985,9 @@ class BalanceTester:
         print(f"{'组合':<20} {'团队胜率':<12} {'最强':<10} {'最弱':<10} {'差距'}")
         print("-" * 60)
         
+        # v3.3新增：综合排名分统计
+        role_rank_scores = {role: 0 for role in RoleType}
+        
         for name, result in all_results:
             team_wins = result["team_wins"]
             team_rate = team_wins / self.num_simulations * 100
@@ -977,6 +996,12 @@ class BalanceTester:
                 win_rates = [(role, stats["wins"] / team_wins * 100) 
                             for role, stats in result["role_stats"].items() if stats["wins"] >= 0]
                 if win_rates:
+                    # 按胜率排序
+                    sorted_rates = sorted(win_rates, key=lambda x: x[1], reverse=True)
+                    rank_points = [+2, +1, -1, -2]  # 1名到4名的分数
+                    for i, (role, rate) in enumerate(sorted_rates):
+                        role_rank_scores[role] += rank_points[i]
+                    
                     best = max(win_rates, key=lambda x: x[1])
                     worst = min(win_rates, key=lambda x: x[1])
                     gap = best[1] - worst[1]
@@ -986,6 +1011,16 @@ class BalanceTester:
                     print(f"{name:<20} {team_rate:<12.1f}% N/A")
             else:
                 print(f"{name:<20} {team_rate:<12.1f}% N/A")
+        
+        # 输出综合排名分
+        print(f"\n{'='*80}")
+        print("【综合排名分（各配置加总）】")
+        print("=" * 80)
+        print("目标：每个角色总分接近0表示平衡")
+        for role in RoleType:
+            score = role_rank_scores[role]
+            balance = "平衡" if abs(score) <= 2 else "偏强" if score > 2 else "偏弱"
+            print(f"  {role.value}: {score:+d} ({balance})")
         
         # v3.2新增：失败原因分析
         print(f"\n{'='*80}")
