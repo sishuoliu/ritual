@@ -1,7 +1,16 @@
 """
-《功德轮回：众生百态》v3.1 最终版模拟器
+《功德轮回：众生百态》v3.2 最终版模拟器
 
 版本说明：
+v3.2.0 - 批判性修订版
+- 修复：持续帮助奖励机制
+- 修复：布施递减时机（扣钱前计算）
+- 修复：讲学收益记录
+- 增强：投资AI权重提升
+- 增强：众生数量调整（8张）
+- 增强：AI考虑团队合作
+- 回测增强：失败局分析、标准差、中位数、失败原因
+
 v3.1.0 - 整合投资系统（整数收益）
 - 渡化差异化：不同职业付出不同资源
 - 发愿系统：持续奖励+失败惩罚
@@ -66,10 +75,11 @@ INVEST_INTERVAL = 2  # 收益间隔回合
 # 发愿系统（全整数）
 VOWS = {
     RoleType.FARMER: [
-        {"name": "勤劳致福", "difficulty": "easy", "condition": "fu>=18", 
-         "per_round": {"fu": 1}, "reward": 12, "penalty": -4},
-        {"name": "贫女一灯", "difficulty": "hard", "condition": "fu>=25 and wealth<=3", 
-         "per_round": {"fu": 2}, "reward": 24, "penalty": -8},
+        # v3.2最终：平衡调整
+        {"name": "勤劳致福", "difficulty": "easy", "condition": "fu>=16", 
+         "per_round": {"fu": 1}, "reward": 15, "penalty": -4},
+        {"name": "贫女一灯", "difficulty": "hard", "condition": "fu>=23 and wealth<=5", 
+         "per_round": {"fu": 2}, "reward": 22, "penalty": -8},
     ],
     RoleType.MERCHANT: [
         {"name": "财施功德", "difficulty": "easy", "condition": "donate_count>=4", 
@@ -78,10 +88,11 @@ VOWS = {
          "per_round": {"fu": 1, "hui": 1}, "reward": 20, "penalty": -8},
     ],
     RoleType.SCHOLAR: [
+        # v3.2微调：平衡调整
         {"name": "传道授业", "difficulty": "medium", "condition": "teach_count>=3", 
-         "per_round": {"hui": 1}, "reward": 16, "penalty": -4},
+         "per_round": {"hui": 1}, "reward": 15, "penalty": -4},
         {"name": "万世师表", "difficulty": "hard", "condition": "hui>=25 and fu>=15", 
-         "per_round": {"hui": 1}, "reward": 18, "penalty": -5},
+         "per_round": {"hui": 1}, "reward": 17, "penalty": -5},
     ],
     RoleType.MONK: [
         {"name": "阿罗汉果", "difficulty": "medium", "condition": "hui>=26", 
@@ -150,14 +161,18 @@ class Player:
     fu_from_save: int = 0
     fu_from_donate: int = 0
     fu_from_protect: int = 0
+    fu_from_teach: int = 0  # v3.2新增：讲学收益单独记录
     fu_from_event: int = 0
     fu_from_vow: int = 0
+    fu_from_help_streak: int = 0  # v3.2新增：持续帮助奖励
     hui_from_practice: int = 0
     hui_from_save: int = 0
+    hui_from_teach: int = 0  # v3.2新增：讲学收益单独记录
     hui_from_event: int = 0
     hui_from_vow: int = 0
     wealth_from_labor: int = 0
     wealth_from_invest: int = 0
+    helped_this_turn: bool = False  # v3.2新增：本回合是否帮助过他人
 
 # ===== 游戏状态 =====
 @dataclass
@@ -237,12 +252,17 @@ class GameSimulator:
         return player.hui >= 5
     
     def _evaluate_action(self, player: Player, action: str, player_idx: int) -> float:
-        """评估行动价值"""
+        """评估行动价值 v3.2：增加团队合作考虑"""
         strategy = self.strategies[player_idx]
         role = player.role
         fu, hui, wealth = player.fu, player.hui, player.wealth
         calamity = self.state.calamity
         rounds_left = self.state.max_rounds - self.state.current_round
+        
+        # v3.2新增：团队状态分析
+        saves_needed = max(0, self.state.save_required - self.state.saved_count)
+        beings_available = len(self.state.sentient_area)
+        team_crisis = calamity >= 10 or (saves_needed > beings_available + rounds_left)
         
         # 策略权重
         w_fu = 1.0
@@ -257,8 +277,10 @@ class GameSimulator:
         elif strategy == Strategy.WISDOM_FOCUS:
             w_hui = 1.5
         
-        # 紧急度
+        # 紧急度 v3.2：团队危机时提升合作行动权重
         urgency = 1.0 + max(0, (calamity - 8) / 10)
+        if team_crisis:
+            urgency += 0.5
         
         score = 0.0
         
@@ -297,10 +319,14 @@ class GameSimulator:
         elif action == "INVEST":
             if wealth < INVEST_COST:
                 return -5.0
-            # 投资只在前期有价值
-            if rounds_left >= 2:
+            # v3.2修复：投资在前期更有价值，提升权重
+            if rounds_left >= 3 and not team_crisis:
+                # 前3回合投资价值高：本金5 + 收益(2*回合数/2) + 返还5
                 potential_returns = (rounds_left // INVEST_INTERVAL) * INVEST_RETURN
-                score = potential_returns * w_wealth * 0.8
+                score = (potential_returns + INVEST_COST * 0.2) * w_wealth * 1.5
+                # 商人投资更有吸引力
+                if role == RoleType.MERCHANT:
+                    score += 2.0
             else:
                 score = -5.0
         
@@ -396,12 +422,13 @@ class GameSimulator:
         
         elif action == "DONATE":
             if player.wealth >= 3:
-                player.wealth -= 3
+                # v3.2修复：递减在扣钱前计算
                 fu_gain = 2
                 hui_gain = 1
                 if role == RoleType.MERCHANT:
-                    fu_gain = self._diminishing_return(player.wealth, 3)
+                    fu_gain = self._diminishing_return(player.wealth, 3)  # 扣钱前计算
                     hui_gain = 2
+                player.wealth -= 3
                 if self.state.calamity >= 10:
                     fu_gain += 1
                 player.fu += fu_gain
@@ -409,6 +436,7 @@ class GameSimulator:
                 player.fu_from_donate += fu_gain
                 self.state.calamity = max(0, self.state.calamity - 1)
                 player.donate_count += 1
+                player.helped_this_turn = True  # v3.2：标记帮助
         
         elif action == "INVEST":
             if player.wealth >= INVEST_COST:
@@ -439,6 +467,7 @@ class GameSimulator:
                 player.save_count += 1
                 self.state.saved_count += 1
                 self.state.sentient_area.remove(being)
+                player.helped_this_turn = True  # v3.2：渡化算帮助
         
         elif action == "PROTECT":
             if player.wealth >= 2:
@@ -451,20 +480,23 @@ class GameSimulator:
                 player.fu_from_protect += fu_gain
                 self.state.calamity = max(0, self.state.calamity - 2)
                 player.protect_count += 1
+                player.helped_this_turn = True  # v3.2：护法算帮助
         
         elif action == "TEACH":
             fu_gain = self._diminishing_return(player.fu, 2)
             hui_gain = self._diminishing_return(player.hui, 1)
             player.fu += fu_gain
             player.hui += hui_gain
-            player.fu_from_event += fu_gain
-            player.hui_from_practice += hui_gain
+            # v3.2修复：讲学收益单独记录
+            player.fu_from_teach += fu_gain
+            player.hui_from_teach += hui_gain
             others = [p for i, p in enumerate(self.state.players) if i != player_idx]
             if others:
                 target = min(others, key=lambda p: p.fu)
                 target.fu += 1
                 target.hui += 1
             player.teach_count += 1
+            player.helped_this_turn = True  # v3.2：讲学算帮助
         
         elif action == "ALMS":
             roll = roll_2d6()
@@ -585,6 +617,20 @@ class GameSimulator:
             player.wealth += player.investment
             player.investment = 0
     
+    def _update_help_streak(self, player: Player):
+        """v3.2新增：更新持续帮助连击并给予奖励"""
+        if player.helped_this_turn:
+            player.help_streak += 1
+            # 连续3回合帮助，获得额外福+1
+            if player.help_streak >= 3:
+                bonus = 1
+                player.fu += bonus
+                player.fu_from_help_streak += bonus
+        else:
+            player.help_streak = 0
+        # 重置本回合帮助标记
+        player.helped_this_turn = False
+    
     def calculate_score(self, player: Player) -> int:
         """计算得分（金钱不计入，返回整数）"""
         fu, hui = player.fu, player.hui
@@ -623,6 +669,10 @@ class GameSimulator:
                     action = self._choose_action(player, i)
                     self._execute_action(player, action, i)
             
+            # v3.2新增：回合结束时更新持续帮助
+            for player in self.state.players:
+                self._update_help_streak(player)
+            
             self._apply_survival_and_investment()
             
             if self.state.calamity >= 20:
@@ -657,14 +707,18 @@ class GameSimulator:
                 "labor_count": player.labor_count,
                 "practice_count": player.practice_count,
                 "starve_count": player.starve_count,
+                "help_streak": player.help_streak,  # v3.2新增
                 # 收益来源
                 "fu_from_save": player.fu_from_save,
                 "fu_from_donate": player.fu_from_donate,
                 "fu_from_protect": player.fu_from_protect,
+                "fu_from_teach": player.fu_from_teach,  # v3.2新增
                 "fu_from_event": player.fu_from_event,
                 "fu_from_vow": player.fu_from_vow,
+                "fu_from_help_streak": player.fu_from_help_streak,  # v3.2新增
                 "hui_from_practice": player.hui_from_practice,
                 "hui_from_save": player.hui_from_save,
+                "hui_from_teach": player.hui_from_teach,  # v3.2新增
                 "hui_from_event": player.hui_from_event,
                 "hui_from_vow": player.hui_from_vow,
                 "wealth_from_labor": player.wealth_from_labor,
@@ -673,10 +727,32 @@ class GameSimulator:
         
         return team_win, results
 
-# ===== 测试器 =====
+# ===== 测试器 v3.2增强版 =====
 class BalanceTester:
+    """v3.2增强：失败局分析、标准差、中位数、失败原因"""
+    
     def __init__(self, num_simulations: int = 500):
         self.num_simulations = num_simulations
+    
+    @staticmethod
+    def _median(lst):
+        """计算中位数"""
+        if not lst:
+            return 0
+        sorted_lst = sorted(lst)
+        n = len(sorted_lst)
+        if n % 2 == 0:
+            return (sorted_lst[n//2 - 1] + sorted_lst[n//2]) / 2
+        return sorted_lst[n//2]
+    
+    @staticmethod
+    def _std(lst):
+        """计算标准差"""
+        if len(lst) < 2:
+            return 0
+        mean = sum(lst) / len(lst)
+        variance = sum((x - mean) ** 2 for x in lst) / len(lst)
+        return math.sqrt(variance)
     
     def test_configuration(self, strategies: List[Strategy], 
                            refuges: List[RefugeChoice]) -> Dict:
@@ -684,21 +760,31 @@ class BalanceTester:
             "wins": 0, "scores": [], "fu": [], "hui": [], "wealth": [],
             "vow_success": 0, "vow_bonus": [],
             "save": [], "donate": [], "teach": [], "protect": [], "labor": [], "practice": [],
-            "invest": [], "starve": [],
-            "fu_save": [], "fu_donate": [], "fu_protect": [], "fu_event": [], "fu_vow": [],
-            "hui_practice": [], "hui_save": [], "hui_event": [], "hui_vow": [],
+            "invest": [], "starve": [], "help_streak_bonus": [],
+            "fu_save": [], "fu_donate": [], "fu_protect": [], "fu_teach": [], "fu_event": [], "fu_vow": [],
+            "hui_practice": [], "hui_save": [], "hui_teach": [], "hui_event": [], "hui_vow": [],
             "wealth_labor": [], "wealth_invest": [],
         } for role in RoleType}
         
         team_wins = 0
+        # v3.2新增：失败原因统计
+        fail_reasons = {"calamity": 0, "save_count": 0, "both": 0}
+        final_calamity = []
+        final_saved = []
         
         for _ in range(self.num_simulations):
             sim = GameSimulator(strategies, refuges)
             team_win, results = sim.run_game()
             
+            # v3.2新增：记录最终状态
+            final_calamity.append(sim.state.calamity)
+            final_saved.append(sim.state.saved_count)
+            
             if team_win:
                 team_wins += 1
-                winner_idx = max(range(len(results)), key=lambda i: results[i]["score"])
+                # v3.2修复：处理平局（分数相同取多个胜者平分）
+                max_score = max(r["score"] for r in results)
+                winners = [i for i, r in enumerate(results) if r["score"] == max_score]
                 
                 for i, r in enumerate(results):
                     role = r["role"]
@@ -712,8 +798,8 @@ class BalanceTester:
                     
                     if r["vow_success"]:
                         stats["vow_success"] += 1
-                    if i == winner_idx:
-                        stats["wins"] += 1
+                    if i in winners:
+                        stats["wins"] += 1 / len(winners)  # 平局平分
                     
                     # 行动统计
                     stats["save"].append(r["save_count"])
@@ -729,31 +815,50 @@ class BalanceTester:
                     stats["fu_save"].append(r["fu_from_save"])
                     stats["fu_donate"].append(r["fu_from_donate"])
                     stats["fu_protect"].append(r["fu_from_protect"])
+                    stats["fu_teach"].append(r.get("fu_from_teach", 0))
                     stats["fu_event"].append(r["fu_from_event"])
                     stats["fu_vow"].append(r["fu_from_vow"])
                     stats["hui_practice"].append(r["hui_from_practice"])
                     stats["hui_save"].append(r["hui_from_save"])
+                    stats["hui_teach"].append(r.get("hui_from_teach", 0))
                     stats["hui_event"].append(r["hui_from_event"])
                     stats["hui_vow"].append(r["hui_from_vow"])
                     stats["wealth_labor"].append(r["wealth_from_labor"])
                     stats["wealth_invest"].append(r["wealth_from_invest"])
+            else:
+                # v3.2新增：分析失败原因
+                calamity_fail = sim.state.calamity > 12
+                save_fail = sim.state.saved_count < sim.state.save_required
+                if calamity_fail and save_fail:
+                    fail_reasons["both"] += 1
+                elif calamity_fail:
+                    fail_reasons["calamity"] += 1
+                elif save_fail:
+                    fail_reasons["save_count"] += 1
         
-        return {"team_wins": team_wins, "role_stats": role_stats}
+        return {
+            "team_wins": team_wins, 
+            "role_stats": role_stats,
+            "fail_reasons": fail_reasons,
+            "final_calamity": final_calamity,
+            "final_saved": final_saved,
+        }
     
     def run_full_test(self):
         print("=" * 80)
-        print("《功德轮回》v3.1 最终版平衡性测试")
+        print("《功德轮回》v3.2 批判修订版平衡性测试")
         print(f"模拟次数: {self.num_simulations}局/组")
         print("=" * 80)
         
-        print("\n【v3.1 核心机制】")
+        print("\n【v3.2 核心机制】")
         print("• 渡化差异：商人+1财/学者-1财+1慧/僧侣-1财+1福")
         print("• 发愿系统：每回合整数奖励+成功/失败结算")
         print("• 资源递减：资源多者收益递减")
         print("• 皈依选择：皈依+1福慧/不皈依+3财富")
         print("• 渡化门槛：慧≥5")
-        print(f"• 投资系统：投资{INVEST_COST}财→每{INVEST_INTERVAL}回合+{INVEST_RETURN}财（整数）")
-        print("• 所有资源：全部整数")
+        print(f"• 投资系统：投资{INVEST_COST}财→每{INVEST_INTERVAL}回合+{INVEST_RETURN}财")
+        print("• 持续帮助：连续3回合帮助+1福")
+        print("• 团队合作：AI考虑团队危机状态")
         
         # 测试组合
         configs = [
@@ -881,6 +986,38 @@ class BalanceTester:
                     print(f"{name:<20} {team_rate:<12.1f}% N/A")
             else:
                 print(f"{name:<20} {team_rate:<12.1f}% N/A")
+        
+        # v3.2新增：失败原因分析
+        print(f"\n{'='*80}")
+        print("【失败原因分析（全皈依+平衡）】")
+        print("=" * 80)
+        result = all_results[0][1]
+        fail = result["fail_reasons"]
+        total_fail = self.num_simulations - result["team_wins"]
+        if total_fail > 0:
+            print(f"  劫难过高: {fail['calamity']}局 ({fail['calamity']/total_fail*100:.1f}%)")
+            print(f"  渡化不足: {fail['save_count']}局 ({fail['save_count']/total_fail*100:.1f}%)")
+            print(f"  两者皆有: {fail['both']}局 ({fail['both']/total_fail*100:.1f}%)")
+        else:
+            print("  无失败局")
+        
+        # v3.2新增：统计稳定性分析
+        print(f"\n【统计稳定性分析（标准差/中位数）】")
+        print("-" * 60)
+        print(f"  最终劫难: 均值={sum(result['final_calamity'])/len(result['final_calamity']):.1f}, "
+              f"标准差={self._std(result['final_calamity']):.1f}, "
+              f"中位数={self._median(result['final_calamity']):.1f}")
+        print(f"  最终渡化: 均值={sum(result['final_saved'])/len(result['final_saved']):.1f}, "
+              f"标准差={self._std(result['final_saved']):.1f}, "
+              f"中位数={self._median(result['final_saved']):.1f}")
+        
+        if result["team_wins"] > 0:
+            for role in RoleType:
+                stats = result["role_stats"][role]
+                if stats["scores"]:
+                    print(f"  {role.value}分数: 均值={sum(stats['scores'])/len(stats['scores']):.1f}, "
+                          f"标准差={self._std(stats['scores']):.1f}, "
+                          f"中位数={self._median(stats['scores']):.1f}")
 
 if __name__ == "__main__":
     tester = BalanceTester(num_simulations=1000)
