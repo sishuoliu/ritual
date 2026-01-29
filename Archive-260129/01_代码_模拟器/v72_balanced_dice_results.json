@@ -1,0 +1,98 @@
+{
+  "4p": {
+    "num_players": 4,
+    "balance_score": 6.59,
+    "path_stats": {
+      "福田道": {
+        "win_rate": 36.06,
+        "deviation": 11.06,
+        "avg_dice_merit": 2.13
+      },
+      "布施道": {
+        "win_rate": 19.03,
+        "deviation": -5.97,
+        "avg_dice_merit": 0.27
+      },
+      "土地道": {
+        "win_rate": 17.78,
+        "deviation": -7.22,
+        "avg_dice_merit": 0.25
+      },
+      "文化道": {
+        "win_rate": 27.13,
+        "deviation": 2.13,
+        "avg_dice_merit": 1.33
+      }
+    },
+    "is_balanced": false
+  },
+  "5p": {
+    "num_players": 5,
+    "balance_score": 5.18,
+    "path_stats": {
+      "福田道": {
+        "win_rate": 28.0,
+        "deviation": 8.0,
+        "avg_dice_merit": 2.17
+      },
+      "布施道": {
+        "win_rate": 13.58,
+        "deviation": -6.42,
+        "avg_dice_merit": 0.28
+      },
+      "土地道": {
+        "win_rate": 13.46,
+        "deviation": -6.54,
+        "avg_dice_merit": 0.26
+      },
+      "文化道": {
+        "win_rate": 22.37,
+        "deviation": 2.37,
+        "avg_dice_merit": 1.42
+      },
+      "勤劳道": {
+        "win_rate": 22.59,
+        "deviation": 2.59,
+        "avg_dice_merit": 0.79
+      }
+    },
+    "is_balanced": false
+  },
+  "6p": {
+    "num_players": 6,
+    "balance_score": 5.17,
+    "path_stats": {
+      "福田道": {
+        "win_rate": 23.88,
+        "deviation": 7.21,
+        "avg_dice_merit": 2.15
+      },
+      "布施道": {
+        "win_rate": 12.37,
+        "deviation": -4.3,
+        "avg_dice_merit": 0.28
+      },
+      "土地道": {
+        "win_rate": 12.87,
+        "deviation": -3.8,
+        "avg_dice_merit": 0.27
+      },
+      "文化道": {
+        "win_rate": 20.41,
+        "deviation": 3.74,
+        "avg_dice_merit": 1.48
+      },
+      "勤劳道": {
+        "win_rate": 21.23,
+        "deviation": 4.56,
+        "avg_dice_merit": 0.77
+      },
+      "渡化道": {
+        "win_rate": 9.24,
+        "deviation": -7.43,
+        "avg_dice_merit": 0.28
+      }
+    },
+    "is_balanced": false
+  }
+}

@@ -1,0 +1,814 @@
+{
+  "version": "v2.1",
+  "total_games": 10,
+  "role_win_rates": {
+    "富商": 0.0,
+    "地主": 0.0,
+    "官员": 0.0,
+    "农民": 0.0,
+    "寡妇": 80.0,
+    "僧侣": 20.0
+  },
+  "role_avg_scores": {
+    "富商": 77.6,
+    "地主": 87.7,
+    "官员": 64.7,
+    "农民": 49.6,
+    "寡妇": 69.1,
+    "僧侣": 51.4
+  },
+  "liberation_rate": 100.0,
+  "standard_rate": 0.0,
+  "detailed_results": [
+    {
+      "players": [
+        {
+          "role": "僧侣",
+          "merit": 2,
+          "reputation": 0,
+          "grant_points": 25,
+          "dharma_power": 1,
+          "final_score": 50,
+          "liberation": true,
+          "total_resources": 0
+        },
+        {
+          "role": "官员",
+          "merit": 38,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 83,
+          "liberation": false,
+          "total_resources": 7
+        },
+        {
+          "role": "寡妇",
+          "merit": 39,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 78,
+          "liberation": true,
+          "total_resources": 0,
+          "win_type": "解脱/涅槃"
+        },
+        {
+          "role": "富商",
+          "merit": 26,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 55,
+          "liberation": false,
+          "total_resources": 7
+        },
+        {
+          "role": "地主",
+          "merit": 30,
+          "reputation": 4,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 68,
+          "liberation": false,
+          "total_resources": 0
+        },
+        {
+          "role": "农民",
+          "merit": 32,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 69,
+          "liberation": false,
+          "total_resources": 2
+        }
+      ],
+      "winner": "寡妇",
+      "win_type": "解脱/涅槃",
+      "events": [
+        "第1轮：商机来临",
+        "第2轮：无常来袭",
+        "第3轮：无常来袭",
+        "第4轮：盂兰盆法会",
+        "第5轮：无常来袭",
+        "第6轮：盂兰盆法会",
+        "第7轮：无常来袭",
+        "第8轮：皇帝御笔",
+        "第9轮：商机来临",
+        "第10轮：江南大旱"
+      ]
+    },
+    {
+      "players": [
+        {
+          "role": "官员",
+          "merit": 25,
+          "reputation": 3,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 59,
+          "liberation": false,
+          "total_resources": 7
+        },
+        {
+          "role": "富商",
+          "merit": 33,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 70,
+          "liberation": false,
+          "total_resources": 8
+        },
+        {
+          "role": "农民",
+          "merit": 19,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 43,
+          "liberation": false,
+          "total_resources": 3
+        },
+        {
+          "role": "地主",
+          "merit": 37,
+          "reputation": 4,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 82,
+          "liberation": false,
+          "total_resources": 0
+        },
+        {
+          "role": "僧侣",
+          "merit": 2,
+          "reputation": 0,
+          "grant_points": 25,
+          "dharma_power": 0,
+          "final_score": 50,
+          "liberation": true,
+          "total_resources": 0
+        },
+        {
+          "role": "寡妇",
+          "merit": 35,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 70,
+          "liberation": true,
+          "total_resources": 0,
+          "win_type": "解脱/涅槃"
+        }
+      ],
+      "winner": "寡妇",
+      "win_type": "解脱/涅槃",
+      "events": [
+        "第1轮：江南大旱",
+        "第2轮：商机来临",
+        "第3轮：盂兰盆法会",
+        "第4轮：无常来袭",
+        "第5轮：盂兰盆法会",
+        "第6轮：江南大旱",
+        "第7轮：皇帝御笔",
+        "第8轮：商机来临",
+        "第9轮：盂兰盆法会",
+        "第10轮：皇帝御笔"
+      ]
+    },
+    {
+      "players": [
+        {
+          "role": "地主",
+          "merit": 28,
+          "reputation": 5,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 67,
+          "liberation": false,
+          "total_resources": 2
+        },
+        {
+          "role": "寡妇",
+          "merit": 38,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 76,
+          "liberation": true,
+          "total_resources": 1,
+          "win_type": "解脱/涅槃"
+        },
+        {
+          "role": "富商",
+          "merit": 44,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 93,
+          "liberation": false,
+          "total_resources": 2
+        },
+        {
+          "role": "官员",
+          "merit": 20,
+          "reputation": 1,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 44,
+          "liberation": false,
+          "total_resources": 5
+        },
+        {
+          "role": "农民",
+          "merit": 18,
+          "reputation": 1,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 39,
+          "liberation": false,
+          "total_resources": 3
+        },
+        {
+          "role": "僧侣",
+          "merit": 1,
+          "reputation": 0,
+          "grant_points": 22,
+          "dharma_power": 0,
+          "final_score": 44,
+          "liberation": true,
+          "total_resources": 0
+        }
+      ],
+      "winner": "寡妇",
+      "win_type": "解脱/涅槃",
+      "events": [
+        "第1轮：皇帝御笔",
+        "第2轮：江南大旱",
+        "第3轮：无常来袭",
+        "第4轮：江南大旱",
+        "第5轮：江南大旱",
+        "第6轮：江南大旱",
+        "第7轮：无常来袭",
+        "第8轮：盂兰盆法会",
+        "第9轮：商机来临",
+        "第10轮：江南大旱"
+      ]
+    },
+    {
+      "players": [
+        {
+          "role": "地主",
+          "merit": 35,
+          "reputation": 4,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 79,
+          "liberation": false,
+          "total_resources": 3
+        },
+        {
+          "role": "寡妇",
+          "merit": 35,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 70,
+          "liberation": true,
+          "total_resources": 1,
+          "win_type": "解脱/涅槃"
+        },
+        {
+          "role": "农民",
+          "merit": 21,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 47,
+          "liberation": false,
+          "total_resources": 3
+        },
+        {
+          "role": "富商",
+          "merit": 32,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 70,
+          "liberation": false,
+          "total_resources": 5
+        },
+        {
+          "role": "官员",
+          "merit": 31,
+          "reputation": 3,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 71,
+          "liberation": false,
+          "total_resources": 6
+        },
+        {
+          "role": "僧侣",
+          "merit": 2,
+          "reputation": 0,
+          "grant_points": 24,
+          "dharma_power": 0,
+          "final_score": 48,
+          "liberation": true,
+          "total_resources": 0
+        }
+      ],
+      "winner": "寡妇",
+      "win_type": "解脱/涅槃",
+      "events": [
+        "第1轮：商机来临",
+        "第2轮：盂兰盆法会",
+        "第3轮：商机来临",
+        "第4轮：无常来袭",
+        "第5轮：江南大旱",
+        "第6轮：商机来临",
+        "第7轮：江南大旱",
+        "第8轮：皇帝御笔",
+        "第9轮：无常来袭",
+        "第10轮：皇帝御笔"
+      ]
+    },
+    {
+      "players": [
+        {
+          "role": "富商",
+          "merit": 43,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 90,
+          "liberation": false,
+          "total_resources": 1
+        },
+        {
+          "role": "官员",
+          "merit": 26,
+          "reputation": 5,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 65,
+          "liberation": false,
+          "total_resources": 6
+        },
+        {
+          "role": "寡妇",
+          "merit": 26,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 52,
+          "liberation": true,
+          "total_resources": 0
+        },
+        {
+          "role": "僧侣",
+          "merit": 2,
+          "reputation": 0,
+          "grant_points": 30,
+          "dharma_power": 0,
+          "final_score": 60,
+          "liberation": true,
+          "total_resources": 0,
+          "win_type": "解脱/涅槃"
+        },
+        {
+          "role": "地主",
+          "merit": 57,
+          "reputation": 4,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 122,
+          "liberation": false,
+          "total_resources": 1
+        },
+        {
+          "role": "农民",
+          "merit": 30,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 65,
+          "liberation": false,
+          "total_resources": 3
+        }
+      ],
+      "winner": "僧侣",
+      "win_type": "解脱/涅槃",
+      "events": [
+        "第1轮：盂兰盆法会",
+        "第2轮：商机来临",
+        "第3轮：江南大旱",
+        "第4轮：皇帝御笔",
+        "第5轮：皇帝御笔",
+        "第6轮：盂兰盆法会",
+        "第7轮：皇帝御笔",
+        "第8轮：盂兰盆法会",
+        "第9轮：皇帝御笔",
+        "第10轮：皇帝御笔"
+      ]
+    },
+    {
+      "players": [
+        {
+          "role": "官员",
+          "merit": 29,
+          "reputation": 1,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 63,
+          "liberation": false,
+          "total_resources": 6
+        },
+        {
+          "role": "地主",
+          "merit": 46,
+          "reputation": 5,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 103,
+          "liberation": false,
+          "total_resources": 2
+        },
+        {
+          "role": "寡妇",
+          "merit": 26,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 52,
+          "liberation": true,
+          "total_resources": 0
+        },
+        {
+          "role": "富商",
+          "merit": 46,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 97,
+          "liberation": false,
+          "total_resources": 2
+        },
+        {
+          "role": "僧侣",
+          "merit": 2,
+          "reputation": 0,
+          "grant_points": 29,
+          "dharma_power": 0,
+          "final_score": 58,
+          "liberation": true,
+          "total_resources": 0,
+          "win_type": "解脱/涅槃"
+        },
+        {
+          "role": "农民",
+          "merit": 18,
+          "reputation": 1,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 39,
+          "liberation": false,
+          "total_resources": 3
+        }
+      ],
+      "winner": "僧侣",
+      "win_type": "解脱/涅槃",
+      "events": [
+        "第1轮：盂兰盆法会",
+        "第2轮：商机来临",
+        "第3轮：江南大旱",
+        "第4轮：无常来袭",
+        "第5轮：盂兰盆法会",
+        "第6轮：商机来临",
+        "第7轮：无常来袭",
+        "第8轮：商机来临",
+        "第9轮：皇帝御笔",
+        "第10轮：商机来临"
+      ]
+    },
+    {
+      "players": [
+        {
+          "role": "地主",
+          "merit": 26,
+          "reputation": 6,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 64,
+          "liberation": false,
+          "total_resources": 1
+        },
+        {
+          "role": "农民",
+          "merit": 23,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 51,
+          "liberation": false,
+          "total_resources": 3
+        },
+        {
+          "role": "富商",
+          "merit": 26,
+          "reputation": 3,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 59,
+          "liberation": false,
+          "total_resources": 2
+        },
+        {
+          "role": "寡妇",
+          "merit": 45,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 90,
+          "liberation": true,
+          "total_resources": 0,
+          "win_type": "解脱/涅槃"
+        },
+        {
+          "role": "官员",
+          "merit": 29,
+          "reputation": 1,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 62,
+          "liberation": false,
+          "total_resources": 5
+        },
+        {
+          "role": "僧侣",
+          "merit": 1,
+          "reputation": 0,
+          "grant_points": 32,
+          "dharma_power": 0,
+          "final_score": 64,
+          "liberation": true,
+          "total_resources": 0
+        }
+      ],
+      "winner": "寡妇",
+      "win_type": "解脱/涅槃",
+      "events": [
+        "第1轮：盂兰盆法会",
+        "第2轮：商机来临",
+        "第3轮：皇帝御笔",
+        "第4轮：盂兰盆法会",
+        "第5轮：商机来临",
+        "第6轮：商机来临",
+        "第7轮：商机来临",
+        "第8轮：江南大旱",
+        "第9轮：商机来临",
+        "第10轮：盂兰盆法会"
+      ]
+    },
+    {
+      "players": [
+        {
+          "role": "农民",
+          "merit": 15,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 34,
+          "liberation": false,
+          "total_resources": 1
+        },
+        {
+          "role": "地主",
+          "merit": 30,
+          "reputation": 5,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 71,
+          "liberation": false,
+          "total_resources": 2
+        },
+        {
+          "role": "官员",
+          "merit": 36,
+          "reputation": 3,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 81,
+          "liberation": false,
+          "total_resources": 6
+        },
+        {
+          "role": "富商",
+          "merit": 47,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 98,
+          "liberation": false,
+          "total_resources": 0
+        },
+        {
+          "role": "僧侣",
+          "merit": 2,
+          "reputation": 0,
+          "grant_points": 23,
+          "dharma_power": 2,
+          "final_score": 46,
+          "liberation": true,
+          "total_resources": 0
+        },
+        {
+          "role": "寡妇",
+          "merit": 36,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 72,
+          "liberation": true,
+          "total_resources": 0,
+          "win_type": "解脱/涅槃"
+        }
+      ],
+      "winner": "寡妇",
+      "win_type": "解脱/涅槃",
+      "events": [
+        "第1轮：皇帝御笔",
+        "第2轮：江南大旱",
+        "第3轮：江南大旱",
+        "第4轮：无常来袭",
+        "第5轮：皇帝御笔",
+        "第6轮：盂兰盆法会",
+        "第7轮：商机来临",
+        "第8轮：无常来袭",
+        "第9轮：商机来临",
+        "第10轮：江南大旱"
+      ]
+    },
+    {
+      "players": [
+        {
+          "role": "地主",
+          "merit": 53,
+          "reputation": 4,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 114,
+          "liberation": false,
+          "total_resources": 1
+        },
+        {
+          "role": "寡妇",
+          "merit": 36,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 73,
+          "liberation": true,
+          "total_resources": 3,
+          "win_type": "解脱/涅槃"
+        },
+        {
+          "role": "农民",
+          "merit": 23,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 51,
+          "liberation": false,
+          "total_resources": 2
+        },
+        {
+          "role": "富商",
+          "merit": 29,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 65,
+          "liberation": false,
+          "total_resources": 7
+        },
+        {
+          "role": "官员",
+          "merit": 17,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 41,
+          "liberation": false,
+          "total_resources": 6
+        },
+        {
+          "role": "僧侣",
+          "merit": 2,
+          "reputation": 0,
+          "grant_points": 22,
+          "dharma_power": 1,
+          "final_score": 44,
+          "liberation": true,
+          "total_resources": 0
+        }
+      ],
+      "winner": "寡妇",
+      "win_type": "解脱/涅槃",
+      "events": [
+        "第1轮：商机来临",
+        "第2轮：无常来袭",
+        "第3轮：江南大旱",
+        "第4轮：江南大旱",
+        "第5轮：商机来临",
+        "第6轮：商机来临",
+        "第7轮：皇帝御笔",
+        "第8轮：商机来临",
+        "第9轮：江南大旱",
+        "第10轮：江南大旱"
+      ]
+    },
+    {
+      "players": [
+        {
+          "role": "官员",
+          "merit": 33,
+          "reputation": 4,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 78,
+          "liberation": false,
+          "total_resources": 8
+        },
+        {
+          "role": "富商",
+          "merit": 37,
+          "reputation": 2,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 79,
+          "liberation": false,
+          "total_resources": 3
+        },
+        {
+          "role": "地主",
+          "merit": 49,
+          "reputation": 4,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 107,
+          "liberation": false,
+          "total_resources": 2
+        },
+        {
+          "role": "农民",
+          "merit": 26,
+          "reputation": 3,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 58,
+          "liberation": false,
+          "total_resources": 1
+        },
+        {
+          "role": "僧侣",
+          "merit": 2,
+          "reputation": 0,
+          "grant_points": 25,
+          "dharma_power": 1,
+          "final_score": 50,
+          "liberation": true,
+          "total_resources": 0
+        },
+        {
+          "role": "寡妇",
+          "merit": 29,
+          "reputation": 0,
+          "grant_points": 0,
+          "dharma_power": 0,
+          "final_score": 58,
+          "liberation": true,
+          "total_resources": 0,
+          "win_type": "解脱/涅槃"
+        }
+      ],
+      "winner": "寡妇",
+      "win_type": "解脱/涅槃",
+      "events": [
+        "第1轮：盂兰盆法会",
+        "第2轮：江南大旱",
+        "第3轮：无常来袭",
+        "第4轮：皇帝御笔",
+        "第5轮：皇帝御笔",
+        "第6轮：商机来临",
+        "第7轮：皇帝御笔",
+        "第8轮：无常来袭",
+        "第9轮：商机来临",
+        "第10轮：皇帝御笔"
+      ]
+    }
+  ]
+}
