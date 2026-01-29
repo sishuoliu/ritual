@@ -1,0 +1,31 @@
+{
+  "vow_diligent_fu": 20,
+  "vow_poor_girl_fu": 28,
+  "vow_teacher_fu": 12,
+  "vow_teacher_hui": 18,
+  "vow_arhat_hui": 18,
+  "vow_bodhisattva_fu": 15,
+  "labor_farmer_bonus": 0,
+  "practice_scholar_bonus": 2,
+  "donate_merchant_bonus": 2,
+  "init_farmer": [
+    4,
+    2,
+    2
+  ],
+  "init_merchant": [
+    8,
+    1,
+    1
+  ],
+  "init_scholar": [
+    3,
+    2,
+    5
+  ],
+  "init_monk": [
+    1,
+    4,
+    3
+  ]
+}
