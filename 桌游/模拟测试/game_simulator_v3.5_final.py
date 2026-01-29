@@ -130,15 +130,15 @@ SENTIENT_BEINGS = [
     SentientBeing("垂死老者", 5, 3, 3),
 ]
 
-# ===== 事件卡 =====
+# ===== 事件卡（v3.6 平衡微调：减轻负面、略增强国泰民安，使失败原因多样化） =====
 SHARED_EVENTS = [
-    {"name": "旱灾", "effect": {"calamity": 2}},
-    {"name": "洪水", "effect": {"calamity": 2}},
-    {"name": "瘟疫", "effect": {"calamity": 3, "wealth_all": -1}},
+    {"name": "旱灾", "effect": {"calamity": 1}},
+    {"name": "洪水", "effect": {"calamity": 1}},
+    {"name": "瘟疫", "effect": {"calamity": 2, "wealth_all": -1}},
     {"name": "丰收", "effect": {"wealth_all": 2}},
     {"name": "法会", "effect": {"fu_all": 1, "hui_all": 1}},
     {"name": "高僧开示", "effect": {"hui_all": 2}},
-    {"name": "国泰民安", "effect": {"calamity": -2}},
+    {"name": "国泰民安", "effect": {"calamity": -3}},
     {"name": "浴佛节", "effect": {"fu_all": 2}},
 ]
 
@@ -204,9 +204,19 @@ class Strategy(Enum):
 
 # ===== 游戏模拟器 =====
 class GameSimulator:
-    def __init__(self, strategies: List[Strategy] = None, refuges: List[RefugeChoice] = None):
+    def __init__(self, strategies: List[Strategy] = None, refuges: List[RefugeChoice] = None,
+                 event_effects: List[Dict] = None, beings_template: List = None,
+                 save_required: int = None, max_rounds: int = None, calamity_limit: int = None,
+                 calamity_per_round: int = 0, rng: random.Random = None):
         self.strategies = strategies or [Strategy.BALANCED] * 4
         self.refuges = refuges or [RefugeChoice.REFUGE] * 4
+        self.event_effects = event_effects  # optional: list of {"name", "effect"} for backtest tuning
+        self.beings_template = beings_template  # optional: list of SentientBeing or dicts
+        self.save_required_override = save_required
+        self.max_rounds_override = max_rounds
+        self.calamity_limit_override = calamity_limit
+        self.calamity_per_round = calamity_per_round  # optional: add this to calamity each round
+        self.rng = rng or random
         self.state = None
     
     def initialize_game(self):
@@ -226,17 +236,36 @@ class GameSimulator:
             
             # 分配发愿
             vows = VOWS[role]
-            player.vow = random.choice(vows)
+            player.vow = self.rng.choice(vows)
             player.vow_active = True
             
             players.append(player)
         
         self.state = GameState(players=players)
-        self.state.event_deck = [e.copy() for e in SHARED_EVENTS]
-        random.shuffle(self.state.event_deck)
-        self.state.being_deck = [SentientBeing(b.name, b.base_cost, b.fu_reward, b.hui_reward) 
-                                  for b in SENTIENT_BEINGS]
-        random.shuffle(self.state.being_deck)
+        # 事件牌：支持回测注入
+        if self.event_effects is not None:
+            self.state.event_deck = [e.copy() for e in self.event_effects]
+        else:
+            self.state.event_deck = [e.copy() for e in SHARED_EVENTS]
+        self.rng.shuffle(self.state.event_deck)
+        # 众生牌：支持回测注入
+        if self.beings_template is not None:
+            deck = []
+            for b in self.beings_template:
+                if isinstance(b, SentientBeing):
+                    deck.append(SentientBeing(b.name, b.base_cost, b.fu_reward, b.hui_reward))
+                else:
+                    deck.append(SentientBeing(b["name"], b["base_cost"], b["fu_reward"], b["hui_reward"]))
+            self.state.being_deck = deck
+        else:
+            self.state.being_deck = [SentientBeing(b.name, b.base_cost, b.fu_reward, b.hui_reward) 
+                                      for b in SENTIENT_BEINGS]
+        self.rng.shuffle(self.state.being_deck)
+        
+        if self.save_required_override is not None:
+            self.state.save_required = self.save_required_override
+        if self.max_rounds_override is not None:
+            self.state.max_rounds = self.max_rounds_override
     
     def _diminishing_return(self, resource_amount: int, base_gain: int) -> int:
         """资源递减收益：资源越多，收益越少（返回整数）"""
@@ -390,6 +419,10 @@ class GameSimulator:
                 player.fu >= cost["fu"] and 
                 player.hui >= cost["hui"])
     
+    def _roll_2d6(self) -> int:
+        """Use instance RNG for reproducibility."""
+        return self.rng.randint(1, 6) + self.rng.randint(1, 6)
+    
     def _choose_action(self, player: Player, player_idx: int) -> str:
         role = player.role
         
@@ -400,7 +433,7 @@ class GameSimulator:
         else:
             actions = ["LABOR", "PRACTICE", "DONATE", "SAVE", "PROTECT", "INVEST"]
         
-        scores = [(a, self._evaluate_action(player, a, player_idx) + random.gauss(0, 1)) 
+        scores = [(a, self._evaluate_action(player, a, player_idx) + self.rng.gauss(0, 1)) 
                   for a in actions]
         return max(scores, key=lambda x: x[1])[0]
     
@@ -418,7 +451,7 @@ class GameSimulator:
             base = 2
             if role == RoleType.SCHOLAR:
                 base = 3
-            roll = roll_2d6()
+            roll = self._roll_2d6()
             result = dice_result(roll)
             bonus = 1 if result == "CRIT_SUCCESS" else (-1 if result == "CRIT_FAIL" else 0)
             gain = self._diminishing_return(player.hui, max(1, base + bonus))
@@ -507,7 +540,7 @@ class GameSimulator:
             player.helped_this_turn = True  # v3.2：讲学算帮助
         
         elif action == "ALMS":
-            roll = roll_2d6()
+            roll = self._roll_2d6()
             result = dice_result(roll)
             if result in ["SUCCESS", "CRIT_SUCCESS"]:
                 player.wealth += 3
@@ -682,8 +715,13 @@ class GameSimulator:
                 self._update_help_streak(player)
             
             self._apply_survival_and_investment()
-            
-            if self.state.calamity >= 20:
+
+            # 每轮基础劫难（可选，用于回测使劫难失败能出现）
+            if self.calamity_per_round:
+                self.state.calamity = min(50, self.state.calamity + self.calamity_per_round)
+
+            calamity_limit = self.calamity_limit_override if self.calamity_limit_override is not None else 20
+            if self.state.calamity >= calamity_limit:
                 break
         
         # 结算投资

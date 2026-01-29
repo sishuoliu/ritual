@@ -22,5 +22,14 @@ desktop.ini
 *.temp
 *.log
 
+# Generated / local (optional: do not commit run outputs)
+tuning_results*.json
+*.log
+
+# Virtual env (uncomment if using)
+# .venv/
+# venv/
+# env/
+
 # Large binary files (keep PDFs for reference)
 # *.pdf
