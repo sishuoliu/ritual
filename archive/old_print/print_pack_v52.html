@@ -1,0 +1,2301 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>功德轮回 v5.2 打印制作包（资粮/功德/慧）</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 10mm;
+        }
+        
+        * {
+            box-sizing: border-box;
+            font-family: "Microsoft YaHei", "SimHei", sans-serif;
+        }
+        
+        body {
+            margin: 0;
+            padding: 10mm;
+            background: white;
+            font-size: 10pt;
+            line-height: 1.4;
+        }
+        
+        .page {
+            page-break-after: always;
+            min-height: 277mm;
+            position: relative;
+        }
+        
+        .page:last-child {
+            page-break-after: avoid;
+        }
+        
+        .page-title {
+            text-align: center;
+            font-size: 14pt;
+            font-weight: bold;
+            margin-bottom: 10mm;
+            border-bottom: 1px solid #333;
+            padding-bottom: 3mm;
+        }
+        
+        /* 卡牌样式 */
+        .card-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 63mm);
+            gap: 3mm;
+            justify-content: center;
+        }
+        
+        /* 剪裁线：沿此线剪裁，A4单面打印后手动剪 */
+        .card {
+            width: 63mm;
+            height: 88mm;
+            border: 2px dashed #000;
+            border-radius: 3mm;
+            padding: 3mm;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .card-title {
+            text-align: center;
+            font-size: 11pt;
+            font-weight: bold;
+            margin-bottom: 2mm;
+        }
+        
+        .card-subtitle {
+            text-align: center;
+            font-size: 8pt;
+            color: #666;
+            margin-bottom: 3mm;
+        }
+        
+        .card-content {
+            font-size: 8pt;
+            line-height: 1.3;
+        }
+        
+        .card-footer {
+            position: absolute;
+            bottom: 3mm;
+            left: 3mm;
+            right: 3mm;
+            font-size: 8pt;
+        }
+        
+        /* 角色板样式（剪裁线） */
+        .role-board {
+            width: 85mm;
+            height: 120mm;
+            border: 3px dashed #000;
+            border-radius: 5mm;
+            padding: 5mm;
+            margin: 5mm;
+            display: inline-block;
+            vertical-align: top;
+            position: relative;
+        }
+        
+        .role-name {
+            text-align: center;
+            font-size: 18pt;
+            font-weight: bold;
+            margin-bottom: 2mm;
+        }
+        
+        .role-quote {
+            text-align: center;
+            font-size: 9pt;
+            font-style: italic;
+            margin-bottom: 3mm;
+            color: #555;
+        }
+        
+        .role-stats {
+            text-align: center;
+            font-size: 11pt;
+            font-weight: bold;
+            margin: 5mm 0;
+            padding: 3mm;
+            background: #f5f5f5;
+            border-radius: 3mm;
+        }
+        
+        .role-skill {
+            font-size: 9pt;
+            margin: 3mm 0;
+            padding: 2mm;
+            background: #fafafa;
+            border-left: 3px solid #666;
+        }
+        
+        .resource-area {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 10mm;
+        }
+        
+        .resource-box {
+            width: 22mm;
+            height: 22mm;
+            border: 1px dashed #999;
+            text-align: center;
+            font-size: 8pt;
+        }
+        
+        /* 颜色 */
+        .bg-farmer { background: #e8f5e0; }
+        .bg-merchant { background: #fff8e0; }
+        .bg-scholar { background: #e0f0ff; }
+        .bg-monk { background: #ffe8e0; }
+        .bg-disaster { background: #ffe0e0; }
+        .bg-misfortune { background: #fff0e0; }
+        .bg-blessing { background: #e0ffe0; }
+        .bg-story { background: #e8e8ff; }
+        .bg-exclusive { background: #fffff0; }
+        .bg-choice { background: #ffe8e8; }
+        .bg-chance { background: #e8fff0; }
+        .bg-interact { background: #f8e8ff; }
+        .bg-being { background: #e8e8e8; }
+        .bg-bodhisattva { background: #f8e0ff; }
+        .bg-simple { background: #e8ffe8; }
+        .bg-hard { background: #ffe8d8; }
+        
+        /* 轨道样式（剪裁线） */
+        .track {
+            margin: 10mm 0;
+            padding: 5mm;
+            border: 2px dashed #000;
+        }
+        
+        .track-title {
+            font-size: 14pt;
+            font-weight: bold;
+            margin-bottom: 5mm;
+        }
+        
+        .track-cells {
+            display: flex;
+            gap: 1mm;
+        }
+        
+        .track-cell {
+            width: 8mm;
+            height: 15mm;
+            border: 1px solid #333;
+            text-align: center;
+            line-height: 15mm;
+            font-size: 9pt;
+        }
+        
+        .track-cell.danger { background: #ffcccc; }
+        .track-cell.safe { background: #ccffcc; }
+        
+        /* 标记样式 */
+        .token-grid {
+            display: grid;
+            grid-template-columns: repeat(10, 15mm);
+            gap: 2mm;
+        }
+        
+        .token {
+            width: 15mm;
+            height: 15mm;
+            border-radius: 50%;
+            border: 1px solid #333;
+            text-align: center;
+            line-height: 15mm;
+            font-size: 10pt;
+        }
+        
+        .token-wealth { background: #ffd700; }
+        .token-fu { background: #ff9999; }
+        .token-hui { background: #99ccff; }
+        
+        .token-square {
+            border-radius: 0;
+        }
+        
+        /* AB卡（剪裁线） */
+        .ab-card {
+            width: 45mm;
+            height: 60mm;
+            border: 3px dashed #000;
+            border-radius: 3mm;
+            display: inline-block;
+            margin: 3mm;
+            text-align: center;
+            padding-top: 15mm;
+        }
+        
+        .ab-letter {
+            font-size: 36pt;
+            font-weight: bold;
+        }
+        
+        .ab-meaning {
+            font-size: 10pt;
+            margin-top: 5mm;
+        }
+        
+        .card-a { background: #cce0ff; }
+        .card-b { background: #ffcccc; }
+        
+        /* 封面 */
+        .cover {
+            text-align: center;
+            padding-top: 50mm;
+        }
+        
+        .cover h1 {
+            font-size: 36pt;
+            margin: 0;
+        }
+        
+        .cover h2 {
+            font-size: 24pt;
+            margin: 5mm 0;
+        }
+        
+        .cover .version {
+            font-size: 14pt;
+            margin: 20mm 0;
+        }
+        
+        .cover .info {
+            font-size: 10pt;
+            text-align: left;
+            margin: 20mm auto;
+            width: 100mm;
+        }
+        
+        /* 行动卡（剪裁线） */
+        .action-card {
+            width: 80mm;
+            height: 100mm;
+            border: 2px dashed #000;
+            border-radius: 3mm;
+            padding: 5mm;
+            margin: 5mm;
+            display: inline-block;
+            vertical-align: top;
+        }
+        
+        .action-item {
+            margin: 3mm 0;
+            padding: 2mm;
+            background: #f5f5f5;
+            border-radius: 2mm;
+        }
+        
+        .action-name {
+            font-weight: bold;
+            font-size: 10pt;
+        }
+        
+        .action-effect {
+            font-size: 8pt;
+            color: #333;
+        }
+        
+        @media print {
+            .page {
+                page-break-after: always;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<!-- 封面 -->
+<div class="page cover">
+    <h1>功德轮回</h1>
+    <h2>众生百态</h2>
+    <div class="version">v5.2</div>
+    <div class="version">完整打印制作包</div>
+    
+    <div style="font-style: italic; font-size: 10pt; margin: 10px 0; text-align: center;">
+        「不为自己求安乐，但愿众生得离苦」——《华严经》
+    </div>
+    
+    <div class="info">
+        <p><strong>游戏人数：</strong>2-4人 | <strong>游戏时长：</strong>30-45分钟 | <strong>游戏类型：</strong>半合作策略</p>
+        <br>
+        <p><strong>完整配件清单：</strong></p>
+        <table style="width:100%; font-size:9pt; border-collapse:collapse;">
+            <tr><td>✓ 游戏设置指南 1页</td><td>✓ 详细规则说明 2页</td></tr>
+            <tr><td>✓ 角色板 4张</td><td>✓ 发愿卡 8张</td></tr>
+            <tr><td>✓ 菩萨行愿卡 4张</td><td>✓ 集体事件卡 12张</td></tr>
+            <tr><td>✓ 个人事件卡 32张</td><td>✓ 补充事件卡 12张（可选）</td></tr>
+            <tr><td>✓ 众生卡 10张</td><td>✓ 行动提示卡 4张</td></tr>
+            <tr><td>✓ A/B选择卡 8张</td><td>✓ 众生区域板 1张</td></tr>
+            <tr><td>✓ 轨道板（劫难/渡化/回合）</td><td>✓ 计分表 1页</td></tr>
+            <tr><td>✓ 资源标记（资/功德/慧各30个）</td><td>✓ 功能标记若干</td></tr>
+        </table>
+        <br>
+        <p><strong>经典佛教典故：</strong>贫女一灯、割肉喂鹰、舍身饲虎、目连救母<br>
+        九色鹿、玄奘西行、六祖得法、达摩渡江、鉴真东渡...</p>
+        <br>
+        <p><strong>打印说明：</strong></p>
+        <p><strong>A4 单面打印</strong> | 卡牌页建议 200g 厚纸 | <strong>沿虚线剪裁线剪裁</strong> | 自备 2 颗六面骰子、剪刀</p>
+        <p style="font-size:8pt; color:#666;">本包所有卡牌/板件均带虚线剪裁轮廓，按页单面打印后沿虚线手动剪裁即可。</p>
+    </div>
+</div>
+
+<!-- 目录页 -->
+<div class="page">
+    <div class="page-title">打印制作包目录</div>
+    
+    <h3>本包包含以下内容（按打印顺序）</h3>
+    <table border="1" cellpadding="6" style="border-collapse: collapse; width: 100%; font-size: 9pt;">
+        <tr style="background: #e8e8e8;"><th width="6%">#</th><th width="38%">内容</th><th width="10%">页</th><th width="46%">说明</th></tr>
+        <tr><td>1</td><td>封面</td><td>1</td><td>游戏信息总览</td></tr>
+        <tr><td>2</td><td>目录（本页）</td><td>1</td><td>内容索引</td></tr>
+        <tr style="background: #e8ffe8;"><td>3</td><td><strong>快速上手</strong></td><td>1</td><td>5分钟学会玩，首局必读</td></tr>
+        <tr><td>4</td><td>规则摘要</td><td>1</td><td>快速参考卡，可沿虚线剪裁</td></tr>
+        <tr style="background: #fff8e8;"><td>5</td><td><strong>角色板</strong></td><td>2</td><td>4张（农夫/商人/学者/僧侣）沿虚线剪裁</td></tr>
+        <tr style="background: #fff8e8;"><td>6</td><td><strong>发愿卡+菩萨行愿卡</strong></td><td>2</td><td>8+4=12张</td></tr>
+        <tr style="background: #ffe8e8;"><td>7</td><td><strong>集体事件卡</strong></td><td>2</td><td>12张（含英雄时刻·链式·条件触发）</td></tr>
+        <tr style="background: #e8f0ff;"><td>8</td><td><strong>个人事件卡</strong></td><td>6</td><td>32张（故事/专属/抉择/机遇）</td></tr>
+        <tr style="background: #e8f0ff;"><td>9</td><td><strong>补充事件卡（可选）</strong></td><td>2</td><td>12张额外经典故事</td></tr>
+        <tr style="background: #e8ffe8;"><td>10</td><td><strong>众生卡</strong></td><td>2</td><td>10张待渡化众生</td></tr>
+        <tr><td>11</td><td>行动提示卡</td><td>1</td><td>4张，每人1张，沿虚线剪裁</td></tr>
+        <tr><td>12</td><td>A/B选择卡</td><td>1</td><td>8张（每人1套A+B）沿虚线剪裁</td></tr>
+        <tr><td>13</td><td>轨道板</td><td>1</td><td>劫难/渡化/回合轨道，沿虚线剪裁</td></tr>
+        <tr style="background: #f8e8ff;"><td>14</td><td>游戏设置指南</td><td>1</td><td>开局步骤参考</td></tr>
+        <tr style="background: #f8e8ff;"><td>15</td><td>详细规则说明</td><td>3</td><td>完整规则（含皈依·渡化·英雄时刻）</td></tr>
+        <tr style="background: #f8e8ff;"><td>16</td><td>众生区域板+功能标记</td><td>1</td><td>众生区、技能标记、起始玩家，沿虚线剪裁</td></tr>
+        <tr style="background: #f8e8ff;"><td>17</td><td>计分表</td><td>1</td><td>可复印多份使用</td></tr>
+        <tr><td>18</td><td>资源标记</td><td>1</td><td>资/功德/慧各30+皈依/大乘标记，沿虚线剪裁</td></tr>
+        <tr style="background: #e8f8e8;"><td>19</td><td>FAQ·可选规则·致谢</td><td>1</td><td>常见问题、可选规则速查、致谢</td></tr>
+        <tr style="background: #f0f0f0;"><td colspan="2"><strong>总计</strong></td><td><strong>30</strong></td><td>A4单面打印约30页，沿虚线剪裁</td></tr>
+    </table>
+    
+    <h3>打印建议</h3>
+    <div style="border: 1px solid #333; padding: 5mm; background: #fffef0;">
+        <p><strong>必须打印（游戏核心）：</strong></p>
+        <ul>
+            <li>角色板 4张 — 建议厚纸或过塑</li>
+            <li>发愿卡 8张 + 菩萨行愿卡 4张</li>
+            <li>集体事件卡 12张 + 个人事件卡 32张</li>
+            <li>众生卡 10张</li>
+            <li>A/B选择卡 8张（每人1套）</li>
+            <li>轨道板 1张</li>
+            <li>资源标记（或用硬币/珠子替代）</li>
+        </ul>
+        <p><strong>建议打印（提升体验）：</strong></p>
+        <ul>
+            <li>行动提示卡 4张 — 新手必备</li>
+            <li>众生区域板 — 方便放置</li>
+            <li>游戏设置指南 — 首次游戏参考</li>
+            <li>计分表 — 可复印多份</li>
+        </ul>
+        <p><strong>可选打印：</strong></p>
+        <ul>
+            <li>补充事件卡 12张 — 增加游戏变化</li>
+            <li>详细规则说明 — 有疑问时查阅</li>
+        </ul>
+    </div>
+    
+    <h3>自备物品</h3>
+    <p>• 六面骰子 2颗 • 剪刀 • 建议：厚纸/过塑机</p>
+</div>
+
+<!-- 快速上手（玩家首局用） -->
+<div class="page" style="border: 2px dashed #999; padding: 5mm;">
+    <div class="page-title">快速上手 — 5 分钟学会玩</div>
+    <p style="font-size:9pt; color:#555;">第一次玩？按下面步骤即可开局；详细规则见后文「完整规则说明」。</p>
+    
+    <h3>① 游戏目标（记住这三条）</h3>
+    <ul style="font-size:9pt;">
+        <li><strong>团队胜利</strong>：6 回合结束时 劫难≤12 且 渡化≥5</li>
+        <li><strong>个人胜利</strong>：团队胜利后，功德+慧 总和最高者获胜</li>
+        <li><strong>立即失败</strong>：任意时刻劫难≥20 → 全体 0 分</li>
+    </ul>
+    
+    <h3>② 每回合做什么（6 个阶段）</h3>
+    <ol style="font-size:9pt;">
+        <li><strong>发愿奖励</strong> — 发愿卡上写的「每回合」效果（如功德+1）</li>
+        <li><strong>集体事件</strong> — 翻 1 张红底集体事件卡，按卡面执行（天灾用 A/B 卡同时亮牌）</li>
+        <li><strong>个人事件</strong> — <em>仅第 1、3、5 回合</em>每人抽 1 张蓝底个人事件并执行</li>
+        <li><strong>众生阶段</strong> — 众生卡满 2 回合未渡化则消失、劫难+5；再补 1 张众生</li>
+        <li><strong>行动阶段</strong> — 从起始玩家起，每人执行 <strong>2 个行动</strong>（可重复）</li>
+        <li><strong>结算阶段</strong> — <em>仅第 2、4、6 回合</em>每人资粮-1（不足则功德-1）；劫难≥20 即失败</li>
+    </ol>
+    
+    <h3>③ 五种行动（每回合选 2 次）</h3>
+    <table border="1" cellpadding="4" style="border-collapse:collapse; font-size:9pt; width:100%;">
+        <tr style="background:#f0f0f0;"><th>行动</th><th>效果</th></tr>
+        <tr><td>劳作</td><td>+3 资（农夫+4，不皈依再+1）</td></tr>
+        <tr><td>修行</td><td>+2 慧（学者+3）</td></tr>
+        <tr><td>布施</td><td>-2 资，+1 功德，劫难-1（商人功德+3）</td></tr>
+        <tr><td>渡化</td><td>需慧≥5，支付众生卡成本，得功德+慧（僧侣成本-1，可功德代资）</td></tr>
+        <tr><td>护法</td><td>-2 资，+2 功德，劫难-3</td></tr>
+    </table>
+    
+    <h3>④ 开局 4 步</h3>
+    <ol style="font-size:9pt;">
+        <li>劫难=0、渡化=0、回合=1；众生区翻 2 张众生卡</li>
+        <li>每人选角色，拿角色板与初始资源（见角色板）</li>
+        <li>选皈依/不皈依（可中途再选）：不皈依=劳作+1 资、渡化成本-1；皈依=功德+1 慧+1</li>
+        <li>每人从本职业 2 张发愿卡中选 1 张；大乘发心者再选 1 张菩萨行愿卡（开局可付资-2，或中途付资-3）</li>
+    </ol>
+    
+    <p style="font-size:8pt; color:#666; margin-top:5mm;">计分：功德+慧 查表得基础分；功德&lt;5 或 慧&lt;5 基础分减半；发愿达成/失败加减分。详见「完整规则说明」与「计分表」。</p>
+</div>
+
+<!-- 规则摘要 -->
+<div class="page">
+    <div class="page-title">规则摘要（快速参考卡）— 沿虚线剪裁可作桌边参考</div>
+    
+    <h3>游戏目标</h3>
+    <p><strong>团队胜利：</strong>6回合结束时 劫难≤12 且 渡化众生≥5</p>
+    <p><strong>个人胜利：</strong>团队胜利后，<strong>功德+慧</strong>总和最高者获胜</p>
+    <p><strong>立即失败：</strong>任意时刻劫难≥20</p>
+    
+    <h3>回合流程（共6回合）</h3>
+    <ol>
+        <li><strong>发愿奖励</strong> — 获得发愿卡的每回合效果</li>
+        <li><strong>集体事件</strong> — 翻1张集体事件卡，全体执行</li>
+        <li><strong>个人事件</strong> — <em>仅奇数回合</em>每人抽1张</li>
+        <li><strong>众生阶段</strong> — 检查超时（消失+劫难+5），补充至2张</li>
+        <li><strong>行动阶段</strong> — 每人执行<strong>2个行动</strong></li>
+        <li><strong>结算阶段</strong> — <em>仅偶数回合</em>每人资粮-1（不足则功德-1）</li>
+    </ol>
+    
+    <h3>五种基础行动</h3>
+    <table border="1" cellpadding="5" style="border-collapse: collapse; width: 100%;">
+        <tr style="background:#f0f0f0;"><th>行动</th><th>基础效果</th><th>职业加成</th></tr>
+        <tr><td><strong>劳作</strong></td><td>资粮+3</td><td>农夫+4；不皈依再+1</td></tr>
+        <tr><td><strong>修行</strong></td><td>慧+2</td><td>学者+3</td></tr>
+        <tr><td><strong>布施</strong></td><td>资-2，功德+1，劫难-1</td><td>商人功德+3</td></tr>
+        <tr><td><strong>渡化</strong></td><td>需慧≥5，支付成本</td><td>僧侣成本-1，可用功德代资</td></tr>
+        <tr><td><strong>护法</strong></td><td>资-2，功德+2，劫难-3</td><td>危急时使用</td></tr>
+    </table>
+    
+    <h3>v5.2 角色配置</h3>
+    <table border="1" cellpadding="5" style="border-collapse: collapse; width: 100%;">
+        <tr style="background:#e8f8e8;"><th>职业</th><th>初始资源</th><th>特色</th></tr>
+        <tr><td><strong>农夫</strong></td><td>资4 功德2 慧2</td><td>劳作+4资粮</td></tr>
+        <tr><td><strong>商人</strong></td><td>资8 功德2 慧1</td><td>布施+3功德，首次渡化+2资</td></tr>
+        <tr><td><strong>学者</strong></td><td>资4 功德2 慧5</td><td>修行+3慧，可重抽事件</td></tr>
+        <tr><td><strong>僧侣</strong></td><td>资1 功德6 慧5</td><td>渡化-1成本，可用功德代资</td></tr>
+    </table>
+    
+    <h3>发愿条件速查</h3>
+    <table border="1" cellpadding="4" style="border-collapse: collapse; width: 100%; font-size:9pt;">
+        <tr style="background:#fff8e0;"><th>发愿</th><th>条件</th><th>分数</th><th>发愿</th><th>条件</th><th>分数</th></tr>
+        <tr><td>勤劳致功德</td><td>功德≥18</td><td>+12/-4</td><td>大商人之心</td><td>功德≥18+渡化≥2</td><td>+16/-6</td></tr>
+        <tr><td>贫女一灯</td><td>功德≥22+资≤5</td><td>+18/-6</td><td>万世师表</td><td>功德≥12+慧≥18</td><td>+16/-6</td></tr>
+        <tr><td>资施功德</td><td>布施≥3</td><td>+12/-4</td><td>阿罗汉果</td><td>慧≥16</td><td>+12/-4</td></tr>
+        <tr><td>传道授业</td><td>慧≥18</td><td>+12/-4</td><td>菩萨道</td><td>功德≥8+渡化≥1</td><td>+18/-8</td></tr>
+    </table>
+</div>
+
+<!-- 角色板 1-2 -->
+<div class="page">
+    <div class="page-title">角色板 (1-2/4) - 沿虚线剪裁</div>
+    
+    <div class="role-board bg-farmer">
+        <div class="role-name">农夫</div>
+        <div class="role-quote">「耕读传家，勤劳致功德」</div>
+        <div style="font-size:7pt; font-style:italic; text-align:center; margin:-3mm 0 2mm 0;">一日不作，一日不食。——百丈怀海禅师</div>
+        <div class="role-stats">资粮 4 | 功德 2 | 慧 2</div>
+        <div class="role-skill">
+            <strong>【被动·勤劳致富】</strong><br>
+            劳作时+1资粮（共+4）
+        </div>
+        <div class="role-skill">
+            <strong>【主动·分享收成】</strong>每局2次<br>
+            -2资→给1人+2资，双方各+1功德
+        </div>
+        <div class="resource-area">
+            <div class="resource-box">资粮</div>
+            <div class="resource-box">功德</div>
+            <div class="resource-box">慧</div>
+        </div>
+    </div>
+    
+    <div class="role-board bg-merchant">
+        <div class="role-name">商人</div>
+        <div class="role-quote">「千金散尽还复来」</div>
+        <div style="font-size:7pt; font-style:italic; text-align:center; margin:-3mm 0 2mm 0;">须达多长者以金砖铺地购祇园供佛。——《杂阿含经》</div>
+        <div class="role-stats">资粮 8 | 功德 2 | 慧 1</div>
+        <div class="role-skill">
+            <strong>【被动·广结善缘】</strong><br>
+            布施时+2功德（共+3）<br>
+            首次渡化后+2资粮
+        </div>
+        <div class="role-skill">
+            <strong>【主动·慷慨宴请】</strong>每局2次<br>
+            -3资粮，全体+1功德，劫难-1
+        </div>
+        <div class="resource-area">
+            <div class="resource-box">资粮</div>
+            <div class="resource-box">功德</div>
+            <div class="resource-box">慧</div>
+        </div>
+    </div>
+</div>
+
+<!-- 角色板 3-4 -->
+<div class="page">
+    <div class="page-title">角色板 (3-4/4) - 沿虚线剪裁</div>
+    
+    <div class="role-board bg-scholar">
+        <div class="role-name">学者</div>
+        <div class="role-quote">「学而不厌，诲人不倦」</div>
+        <div style="font-size:7pt; font-style:italic; text-align:center; margin:-3mm 0 2mm 0;">玄奘法师于那烂陀寺论法，名震五印。——《大唐西域记》</div>
+        <div class="role-stats">资粮 4 | 功德 2 | 慧 5</div>
+        <div class="role-skill">
+            <strong>【被动·博学多闻】</strong><br>
+            修行时+1慧（共+3）<br>
+            个人事件可弃掉重抽1次/局
+        </div>
+        <div class="role-skill">
+            <strong>【主动·讲学传道】</strong>每局2次<br>
+            选1-2人各+1慧，自己+1功德
+        </div>
+        <div class="resource-area">
+            <div class="resource-box">资粮</div>
+            <div class="resource-box">功德</div>
+            <div class="resource-box">慧</div>
+        </div>
+    </div>
+    
+    <div class="role-board bg-monk">
+        <div class="role-name">僧侣</div>
+        <div class="role-quote">「万法皆空，慈悲度世」</div>
+        <div style="font-size:7pt; font-style:italic; text-align:center; margin:-3mm 0 2mm 0;">不为自己求安乐，但愿众生得离苦。——《华严经》</div>
+        <div class="role-stats">资粮 1 | 功德 6 | 慧 5</div>
+        <div class="role-skill">
+            <strong>【被动·化缘度日】</strong><br>
+            渡化时可用功德代资（每次≤2）<br>
+            渡化成本-1；资=0时每回合初+1资
+        </div>
+        <div class="role-skill">
+            <strong>【主动·加持祈功德】</strong>每局2次<br>
+            -1功德，选1人下次行动收益+2
+        </div>
+        <div class="resource-area">
+            <div class="resource-box">资粮</div>
+            <div class="resource-box">功德</div>
+            <div class="resource-box">慧</div>
+        </div>
+    </div>
+</div>
+
+<!-- 发愿卡 1-6 -->
+<div class="page">
+    <div class="page-title">发愿卡 (1-6/8) - 沿虚线剪裁</div>
+    <div class="card-grid">
+        <div class="card bg-simple">
+            <div class="card-title">勤劳致功德</div>
+            <div class="card-subtitle">【农夫·简单】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">「力田不如逢年，善仕不如遇合。」——《史记》勤劳是功德之源。</em><br><br>
+                <strong>每回合：功德+1</strong><br><br>
+                达成：功德≥18<br>
+                +12分 | 失败-4分
+            </div>
+        </div>
+        
+        <div class="card bg-hard">
+            <div class="card-title">贫女一灯</div>
+            <div class="card-subtitle">【农夫·困难·贤愚经】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">难陀女虽贫，倾其所有供一盏油灯。王公贵族千灯皆灭，唯此一灯长明不熄。</em><br><br>
+                <strong>每回合：功德+1</strong><br><br>
+                达成：功德≥22且资≤5<br>
+                +18分 | 失败-6分
+            </div>
+        </div>
+        
+        <div class="card bg-simple">
+            <div class="card-title">资施功德</div>
+            <div class="card-subtitle">【商人·简单·大智度论】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">「布施有三：资施、法施、无畏施。资施虽小，积少成多亦大。」</em><br><br>
+                <strong>每回合：资+1</strong><br><br>
+                达成：布施≥3次<br>
+                +12分 | 失败-4分
+            </div>
+        </div>
+        
+        <div class="card bg-hard">
+            <div class="card-title">大商人之心</div>
+            <div class="card-subtitle">【商人·困难·给孤独长者】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">须达多长者以金砖铺地购祇园供佛。因常布施孤苦者，人称"给孤独"。</em><br><br>
+                <strong>每回合：慧+1</strong><br><br>
+                达成：功德≥18且渡化≥2<br>
+                +16分 | 失败-6分
+            </div>
+        </div>
+        
+        <div class="card bg-simple">
+            <div class="card-title">传道授业</div>
+            <div class="card-subtitle">【学者·简单·论语】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">「学而不厌，诲人不倦。」——孔子。法布施功德最大，能令众生开智慧。</em><br><br>
+                <strong>每回合：慧+1</strong><br><br>
+                达成：慧≥18<br>
+                +12分 | 失败-4分
+            </div>
+        </div>
+        
+        <div class="card bg-hard">
+            <div class="card-title">万世师表</div>
+            <div class="card-subtitle">【学者·困难·历史】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">孔子杏坛讲学，弟子三千，贤者七十二。玄奘译经，惠能传法，皆师中之师。</em><br><br>
+                <strong>每回合：慧+1</strong><br><br>
+                达成：功德≥12且慧≥18<br>
+                +16分 | 失败-6分
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 发愿卡 7-8 + 菩萨行愿卡 -->
+<div class="page">
+    <div class="page-title">发愿卡 (7-8/8) + 菩萨行愿卡 (4张) - 沿虚线剪裁</div>
+    <div class="card-grid">
+        <div class="card bg-simple">
+            <div class="card-title">阿罗汉果</div>
+            <div class="card-subtitle">【僧侣·简单·阿含经】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">「断尽烦恼，证得涅槃。」阿罗汉为小乘极果，杀贼、应供、无生。</em><br><br>
+                <strong>每回合：慧+1</strong><br><br>
+                达成：慧≥16<br>
+                +12分 | 失败-4分
+            </div>
+        </div>
+        
+        <div class="card bg-hard">
+            <div class="card-title">菩萨道</div>
+            <div class="card-subtitle">【僧侣·困难·华严经】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">「不为自己求安乐，但愿众生得离苦。」菩萨六度万行，自利利他。</em><br><br>
+                <strong>每回合：功德+1</strong><br><br>
+                达成：功德≥8且渡化≥1<br>
+                +18分 | 失败-8分
+            </div>
+        </div>
+        
+        <div class="card bg-bodhisattva">
+            <div class="card-title">地藏愿</div>
+            <div class="card-subtitle">【菩萨行愿·地藏经】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">「地狱不空，誓不成佛；众生度尽，方证菩提。」——地藏菩萨本愿经</em><br><br>
+                <strong>效果：</strong>基础分-10<br>
+                <strong>达成：</strong>团队胜利+15分
+            </div>
+        </div>
+        
+        <div class="card bg-bodhisattva">
+            <div class="card-title">观音愿</div>
+            <div class="card-subtitle">【菩萨行愿·普门品】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">「千处祈求千处应，苦海常作渡人舟。」观世音菩萨寻声救苦，三十二应身。</em><br><br>
+                <strong>效果：</strong>布施改为给他人2资自己+2功德<br>
+                <strong>达成：</strong>帮助≥3人
+            </div>
+        </div>
+        
+        <div class="card bg-bodhisattva">
+            <div class="card-title">普贤愿</div>
+            <div class="card-subtitle">【菩萨行愿·华严经】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">「礼敬诸佛，称赞如来，广修供养，忏悔业障...」——普贤菩萨十大愿王</em><br><br>
+                <strong>效果：</strong>每回合末1资入众生区<br>
+                <strong>达成：</strong>累计供养≥5资
+            </div>
+        </div>
+        
+        <div class="card bg-bodhisattva">
+            <div class="card-title">文殊愿</div>
+            <div class="card-subtitle">【菩萨行愿·文殊经】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">「文殊师利，妙吉祥也。以智慧剑斩烦恼丝，以金刚杵碎无明壳。」</em><br><br>
+                <strong>效果：</strong>修行时-1慧<br>
+                <strong>达成：</strong>2人以上慧≥15
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 集体事件卡 1-6 -->
+<div class="page">
+    <div class="page-title">集体事件卡 (1-6/12) - 沿虚线剪裁</div>
+    <div class="card-grid">
+        <div class="card bg-disaster">
+            <div class="card-title">旱魃肆虐</div>
+            <div class="card-subtitle">【天灾共业·山海经】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">旱魃为虐，赤地千里。唯有共济，方能渡劫。</em><br>
+                <strong>劫难+6</strong> | A/B同时揭示<br>
+                🅰 资-2 功德+1 每多1人选A劫-1<br>
+                🅱 资-1 全B则劫难额外+2<br>
+                <hr style="margin:2px 0;">
+                <strong>【英雄时刻】</strong>农夫可宣布「开仓放粮」：<br>
+                资-4，功德+3，劫难-3；他人本次无需选 A/B。<br>
+                <em style="font-size:6pt;">英雄在 A/B 揭示前宣布</em>
+            </div>
+            <div class="card-footer">天灾共业 · 沿虚线剪裁</div>
+        </div>
+        
+        <div class="card bg-disaster">
+            <div class="card-title">洪水滔天</div>
+            <div class="card-subtitle">【天灾共业·尚书】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">汤汤洪水方割。大禹治水，三过家门不入。</em><br>
+                <strong>劫难+6</strong> | A/B同时揭示<br>
+                🅰 资-2 功德+1 每多1人选A劫-1<br>
+                🅱 功德-1（逃难代价）<br>
+                <hr style="margin:2px 0;">
+                <strong>【英雄时刻】</strong>商人可宣布「捐资筑堤」：<br>
+                资-5，功德+2，劫难-4；他人无需选。<br>
+                <em style="font-size:6pt;">若商人资粮≥10 可免费发动</em>
+            </div>
+            <div class="card-footer">天灾共业 · 沿虚线剪裁</div>
+        </div>
+        
+        <div class="card bg-disaster">
+            <div class="card-title">瘟疫流行</div>
+            <div class="card-subtitle">【天灾共业·伤寒论】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">建安大疫，张仲景著伤寒论悬壶济世。</em><br>
+                <strong>劫难+7</strong>（更危险）| A/B揭示<br>
+                🅰 资-1慧-1 功德+2 每多1人A劫-1<br>
+                🅱 慧-1<br>
+                <hr style="margin:2px 0;">
+                <strong>【英雄时刻】</strong>学者「著书传方」：慧-3，功德+3，劫-4，选 A 者额外功德+1。<br>
+                僧侣「诵经祈福」：功德-3，劫-3，全体慧+1。<br>
+                <em style="font-size:6pt;">可多人同时宣布英雄</em>
+            </div>
+            <div class="card-footer">天灾共业 · 沿虚线剪裁</div>
+        </div>
+        
+        <div class="card bg-disaster">
+            <div class="card-title">蝗灾蔽日</div>
+            <div class="card-subtitle">【天灾共业·贞观政要】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">太宗吞蝗："民以谷为命，尔食之。"</em><br>
+                <strong>劫难+6</strong> | 链式决策（按顺位）<br>
+                首人选择后，后续可选"跟随"或"旁观"<br>
+                🅰跟随 资-2 功德+1 劫-2<br>
+                🅱旁观 资-1<br>
+                若全旁观：劫难额外+3<br>
+                <hr style="margin:2px 0;">
+                <strong>【英雄时刻】</strong>若你资粮≤3，选 A（跟随）时功德+2（而非+1）。
+            </div>
+            <div class="card-footer">链式决策 · 沿虚线剪裁</div>
+        </div>
+        
+        <div class="card bg-misfortune">
+            <div class="card-title">苛政如虎</div>
+            <div class="card-subtitle">【人祸共业·礼记】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">孔子曰："苛政猛于虎也。"</em><br>
+                <strong>劫难+5 所有人资粮-1</strong><br><br>
+                <strong>条件触发：</strong><br>
+                若劫难≥10：改为劫+4 资-2<br>
+                若任何人资粮=0：改为功德-1<br>
+                <hr style="margin:2px 0;">
+                <strong>【抵抗】</strong>慧≥8 者可支付慧-2：取消全体资粮损失，自己功德+2。
+            </div>
+            <div class="card-footer">条件触发 · 沿虚线剪裁</div>
+        </div>
+        
+        <div class="card bg-misfortune">
+            <div class="card-title">兵戈四起</div>
+            <div class="card-subtitle">【人祸共业·蒿里行】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">白骨露于野，千里无鸡鸣。</em><br>
+                <strong>劫难+5</strong> | 依次选择（不同时）<br>
+                ① 缴纳军粮：资-2<br>
+                ② 藏粮于民：掷骰1-3被发现资-3<br>
+                　　　　　4-6成功无损失<br>
+                ③ 挺身护民：资-1 功德+2 劫-1<br>
+                <hr style="margin:2px 0;">
+                <strong>【英雄时刻】</strong>僧侣可宣布「调停止战」：功德-4，劫难-5；他人无需选。
+            </div>
+            <div class="card-footer">人祸共业 · 沿虚线剪裁</div>
+        </div>
+    </div>
+</div>
+
+<!-- 集体事件卡 7-12 -->
+<div class="page">
+    <div class="page-title">集体事件卡 (7-12/12) - 沿虚线剪裁</div>
+    <div class="card-grid">
+        <div class="card bg-blessing">
+            <div class="card-title">风调雨顺</div>
+            <div class="card-subtitle">【共同功德·礼记】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">天降甘霖，五谷丰登。</em><br>
+                <strong>所有人资粮+1</strong><br><br>
+                <strong>【丰年分享】</strong>（可选）：<br>
+                资粮最高者可选择：<br>
+                分2资给资粮最低者<br>
+                双方各+1功德
+            </div>
+            <div class="card-footer">分享者得功德</div>
+        </div>
+        
+        <div class="card bg-blessing">
+            <div class="card-title">国泰民安</div>
+            <div class="card-subtitle">【共同功德·大学】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">政通人和，海晏河清。</em><br>
+                <strong>劫难-2</strong><br><br>
+                <strong>【盛世庆典】</strong>：<br>
+                若当前劫难≤6：<br>
+                额外效果——所有人功德+1<br><br>
+                <em style="font-size:6pt;">劫难越低，功德越多</em>
+            </div>
+            <div class="card-footer">早控劫难有奖励</div>
+        </div>
+        
+        <div class="card bg-blessing">
+            <div class="card-title">浴佛盛会</div>
+            <div class="card-subtitle">【共同功德·四月初八】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">九龙吐水，香汤灌沐。</em><br>
+                <strong>所有人功德+1</strong><br>
+                皈依者：额外功德+1<br>
+                大乘发心者：额外慧+1<br>
+                <hr style="margin:2px 0;">
+                <strong>【虔诚供养】</strong>（任选）：<br>
+                资-2 功德+2 劫-1
+            </div>
+            <div class="card-footer">信仰越深功德越多</div>
+        </div>
+        
+        <div class="card bg-blessing">
+            <div class="card-title">盂兰盆节</div>
+            <div class="card-subtitle">【共同功德·七月十五】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">目连救母，普度亡灵。</em><br>
+                <strong>所有人功德+1</strong><br><br>
+                <strong>【超度功德】</strong>：<br>
+                若本局已渡化≥1众生：<br>
+                全体额外功德+1<br>
+                若未渡化任何众生：<br>
+                效果改为功德+0
+            </div>
+            <div class="card-footer">渡化越多功德越多</div>
+        </div>
+        
+        <div class="card bg-blessing">
+            <div class="card-title">高僧讲经</div>
+            <div class="card-subtitle">【共同功德·译经】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">鸠摩罗什译经，天花乱坠。</em><br>
+                <strong>所有人慧+1</strong><br>
+                皈依者：额外慧+1<br>
+                <hr style="margin:2px 0;">
+                <strong>【学者辅讲】</strong>：<br>
+                学者可选：自己慧-1<br>
+                其他所有人慧+1，自己功德+2
+            </div>
+            <div class="card-footer">学者可以牺牲换更多</div>
+        </div>
+        
+        <div class="card bg-blessing">
+            <div class="card-title">舍利现世</div>
+            <div class="card-subtitle">【共同功德·法门寺】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">法门寺佛指舍利，瑞相纷呈。</em><br>
+                <strong>劫难-1 所有人功德+1</strong><br><br>
+                <strong>【朝圣功德】</strong>（任选）：<br>
+                资-3朝圣：功德+3 慧+1<br><br>
+                <strong>【条件加成】</strong>：<br>
+                若全员皈依：劫难额外-1
+            </div>
+            <div class="card-footer">信仰团结力量大</div>
+        </div>
+    </div>
+</div>
+
+<!-- 个人事件卡 1-6 -->
+<div class="page">
+    <div class="page-title">个人事件卡 (1-6/32) 经典故事 - 沿虚线剪裁</div>
+    <div class="card-grid">
+        <div class="card bg-story">
+            <div class="card-title">贫女一灯</div>
+            <div class="card-subtitle">【经典故事·贤愚经】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">难陀女虽贫，倾其所有供一灯。千灯皆灭，唯此一灯长明。</em><br>
+                <strong>条件效果：</strong><br>
+                若资≥2：资-2 功德+3<br>
+                若资≤1：功德+2（心诚则灵）<br>
+                <em style="font-size:6pt;">穷人的真诚胜过富人的傲慢</em>
+            </div>
+            <div class="card-footer">心诚功德自来</div>
+        </div>
+        
+        <div class="card bg-story">
+            <div class="card-title">割肉喂鹰</div>
+            <div class="card-subtitle">【经典故事·本生经】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">尸毗王以己身肉代鸽命，帝释天试炼。</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 割肉：资-2 功德+3 劫-1<br>
+                🅱 旁观：无效果<br>
+                <em style="font-size:6pt;">牺牲能减少共业</em>
+            </div>
+            <div class="card-footer">大慈悲心</div>
+        </div>
+        
+        <div class="card bg-story">
+            <div class="card-title">舍身饲虎</div>
+            <div class="card-subtitle">【经典故事·金光明经】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">摩诃萨埵太子投身崖下以身饲虎。</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 舍身：资-2（或功德-2）<br>
+                　　功德+4 劫-2<br>
+                🅱 不行动：功德+1<br>
+                <em style="font-size:6pt;">最大的布施是身命布施</em>
+            </div>
+            <div class="card-footer">菩萨行</div>
+        </div>
+        
+        <div class="card bg-story">
+            <div class="card-title">目连救母</div>
+            <div class="card-subtitle">【经典故事·盂兰盆经】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">目犍连供养僧众，母得超升。</em><br>
+                <strong>抉择：</strong><br>
+                🅰 设盂兰盆供：资-2 功德+3<br>
+                　若有渡化众生：额外劫-1<br>
+                🅱 独自回向：功德+1
+            </div>
+            <div class="card-footer">孝亲报恩</div>
+        </div>
+        
+        <div class="card bg-story">
+            <div class="card-title">须达拏太子</div>
+            <div class="card-subtitle">【经典故事·太子须大拏经】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">太子行大布施，凡有所求皆予。</em><br>
+                <strong>骰子决定请求者：</strong><br>
+                掷骰选择给予对象<br>
+                1-2：左边 3-4：对面 5-6：右边<br>
+                你资-2 对方资+2<br>
+                你功德+2 对方功德+1
+            </div>
+            <div class="card-footer">布施无畏</div>
+        </div>
+        
+        <div class="card bg-story">
+            <div class="card-title">鹿王本生</div>
+            <div class="card-subtitle">【经典故事·六度集经】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">鹿王代孕鹿赴死，感动国王。</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 代他人受难：<br>
+                　选1玩家，你资-1功德+2<br>
+                　对方资+1功德+1<br>
+                🅱 独善其身：功德+1慧+1
+            </div>
+            <div class="card-footer">舍己为人</div>
+        </div>
+    </div>
+</div>
+
+<!-- 个人事件卡 7-12 -->
+<div class="page">
+    <div class="page-title">个人事件卡 (7-12/32) - 沿虚线剪裁</div>
+    <div class="card-grid">
+        <div class="card bg-story">
+            <div class="card-title">九色鹿</div>
+            <div class="card-subtitle">【经典故事·敦煌壁画】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">九色鹿救溺水人，其人却告密求赏。</em><br>
+                <strong>你救过人吗？（骰子决定）</strong><br>
+                掷骰：<br>
+                4-6：遇恩人 功德+2 选1人慧+1<br>
+                1-3：遇忘恩者 掷骰<br>
+                　4+化解 功德+1<br>
+                　1-3 资-1（被诬陷）
+            </div>
+            <div class="card-footer">因果不虚</div>
+        </div>
+        
+        <div class="card bg-story">
+            <div class="card-title">悉达多苦行</div>
+            <div class="card-subtitle">【经典故事·佛传】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">雪山苦行六年，终悟中道。</em><br>
+                <strong>选择修行程度：</strong><br>
+                🅰 极端苦行：资-2慧+3<br>
+                🅱 中道修行：资-1慧+2功德+1<br>
+                🅲 浅尝辄止：慧+1<br>
+                <em style="font-size:6pt;">中道才是正道</em>
+            </div>
+            <div class="card-footer">B选项最平衡</div>
+        </div>
+        
+        <div class="card bg-exclusive">
+            <div class="card-title">开仓济民</div>
+            <div class="card-subtitle">【农夫·大抉择】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">仓中有余粮，门外有饥民。</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 开仓：资-4 功德+4 劫难-2<br>
+                🅱 闭门：资+2 劫难+1<br>
+                <hr style="margin:2px 0;">
+                <em style="font-size:6pt;">农夫抉择影响最大</em>
+            </div>
+            <div class="card-footer">牺牲vs自利</div>
+        </div>
+        
+        <div class="card bg-exclusive">
+            <div class="card-title">歉收囤粮</div>
+            <div class="card-subtitle">【农夫·大抉择】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">天灾歉收，粮价飞涨。</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 平价卖：资+1 功德+2 劫-1<br>
+                🅱 囤居奇：资+4 劫+2<br>
+                <hr style="margin:2px 0;">
+                <em style="font-size:6pt;">其他职业抽到：资-1</em>
+            </div>
+            <div class="card-footer">良心vs利润</div>
+        </div>
+        
+        <div class="card bg-exclusive">
+            <div class="card-title">囤积居奇</div>
+            <div class="card-subtitle">【商人·大抉择】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">灾年粮价暴涨，你有存粮。</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 平价售：资+1 功德+3 劫-2<br>
+                🅱 高价卖：资+5 劫+2 功德-1<br>
+                <hr style="margin:2px 0;">
+                <em style="font-size:6pt;">商人的良知考验</em>
+            </div>
+            <div class="card-footer">商道vs仁道</div>
+        </div>
+        
+        <div class="card bg-exclusive">
+            <div class="card-title">海上贸易</div>
+            <div class="card-subtitle">【商人·骰子】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">扬帆出海，风险与收益并存。</em><br>
+                <strong>掷骰：</strong><br>
+                6：资+6 慧+1（见多识广）<br>
+                4-5：资+3<br>
+                2-3：资+1<br>
+                1：船难！资-3 可向他人求助<br>
+                　若对方给2资，对方功德+2
+            </div>
+            <div class="card-footer">商人专属骰子事件</div>
+        </div>
+    </div>
+</div>
+
+<!-- 个人事件卡 13-18 -->
+<div class="page">
+    <div class="page-title">个人事件卡 (13-18/32) - 沿虚线剪裁</div>
+    <div class="card-grid">
+        <div class="card bg-exclusive">
+            <div class="card-title">著书立说</div>
+            <div class="card-subtitle">【学者·大抉择】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">你有惊世著作，可以传世。</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 广传天下：慧-2 功德+3<br>
+                　所有玩家慧+1 劫-1<br>
+                🅱 秘而不宣：慧+3
+            </div>
+            <div class="card-footer">分享vs独占</div>
+        </div>
+        
+        <div class="card bg-exclusive">
+            <div class="card-title">学术论辩</div>
+            <div class="card-subtitle">【学者·互动骰子】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">学界论战，真理越辩越明。</em><br>
+                <strong>选1名玩家论辩：</strong><br>
+                双方各掷骰<br>
+                点数高者：慧+2<br>
+                点数低者：慧+1<br>
+                平局：双方各慧+1功德+1
+            </div>
+            <div class="card-footer">切磋增益双方</div>
+        </div>
+        
+        <div class="card bg-exclusive">
+            <div class="card-title">破戒边缘</div>
+            <div class="card-subtitle">【僧侣·大抉择】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">饥民抢夺寺粮，你发现时已晚。</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 默许：资-3 功德+4 劫-2<br>
+                🅱 阻止：资+1 功德-2<br>
+                <em style="font-size:6pt;">其他职业抽到：资-1</em>
+            </div>
+            <div class="card-footer">慈悲vs戒律</div>
+        </div>
+        
+        <div class="card bg-exclusive">
+            <div class="card-title">托钵化缘</div>
+            <div class="card-subtitle">【僧侣·玩家互动】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">次第乞食，不分贫富。</em><br>
+                <strong>向每位玩家依次请求1资：</strong><br>
+                每位施舍者：功德+1<br>
+                你每收1资：功德+1<br>
+                若无人施舍：功德+2（安贫乐道）
+            </div>
+            <div class="card-footer">施受皆有功德</div>
+        </div>
+        
+        <div class="card bg-choice">
+            <div class="card-title">田间施舍</div>
+            <div class="card-subtitle">【农夫·小抉择】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">路遇乞者，你有一袋粮。</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 施舍：资-1 功德+2 劫-1<br>
+                🅱 留用：资+1<br>
+                <em style="font-size:6pt;">其他职业抽到：效果减半</em>
+            </div>
+            <div class="card-footer">小善亦有功德</div>
+        </div>
+        
+        <div class="card bg-choice">
+            <div class="card-title">济困施粥</div>
+            <div class="card-subtitle">【商人·小抉择】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">城门口有饥民，你路过。</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 施粥：资-2 功德+2 劫-1<br>
+                🅱 路过：无效果<br>
+                <em style="font-size:6pt;">商人选A额外功德+1</em>
+            </div>
+            <div class="card-footer">举手之劳</div>
+        </div>
+    </div>
+</div>
+
+<!-- 个人事件卡 19-24 -->
+<div class="page">
+    <div class="page-title">个人事件卡 (19-24/32) - 沿虚线剪裁</div>
+    <div class="card-grid">
+        <div class="card bg-choice">
+            <div class="card-title">拾金不昧</div>
+            <div class="card-subtitle">【通用·抉择+劫难】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">路遇遗金，四顾无人。</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 归还：功德+2 劫-1<br>
+                🅱 私吞：资+3 功德-1 劫+1<br>
+                <em style="font-size:6pt;">因果不虚，选择影响劫难</em>
+            </div>
+            <div class="card-footer">小事见品格</div>
+        </div>
+        
+        <div class="card bg-choice">
+            <div class="card-title">合伙经商</div>
+            <div class="card-subtitle">【商人·玩家互动】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">有桩大买卖，需要合伙人。</em><br>
+                <strong>邀请1名玩家合伙：</strong><br>
+                双方各出资2<br>
+                掷骰4+：双方各资+4<br>
+                1-3：双方各资-1<br>
+                无论成败：双方各功德+1
+            </div>
+            <div class="card-footer">合作情谊无价</div>
+        </div>
+        
+        <div class="card bg-choice">
+            <div class="card-title">科举考试</div>
+            <div class="card-subtitle">【学者·骰子互动】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">十年寒窗，一朝成名。</em><br>
+                <strong>掷骰：</strong><br>
+                6：状元！慧+2资+3功德+1<br>
+                4-5：进士 慧+1资+2<br>
+                2-3：落榜 慧+1<br>
+                1：可向他人"借钱回乡"<br>
+                　对方若给1资，对方功德+1
+            </div>
+            <div class="card-footer">命运有时需要运气</div>
+        </div>
+        
+        <div class="card bg-choice">
+            <div class="card-title">诵经祈功德</div>
+            <div class="card-subtitle">【僧侣·骰子】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">为众生诵经，消灾解厄。</em><br>
+                <strong>掷骰：</strong><br>
+                6：大加持 劫-2 全体功德+1<br>
+                4-5：小加持 劫-1<br>
+                2-3：功德回向 功德+1<br>
+                1：心有杂念 可向1人请教<br>
+                　对方慧-1你慧+1对方功德+1
+            </div>
+            <div class="card-footer">诵经亦有缘分</div>
+        </div>
+        
+        <div class="card bg-choice">
+            <div class="card-title">丰收祭天</div>
+            <div class="card-subtitle">【农夫·骰子互动】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">秋收祭祀，祈求来年丰登。</em><br>
+                <strong>掷骰：</strong><br>
+                5-6：资+3功德+1劫-1<br>
+                3-4：资+2<br>
+                1-2：资+1 但需给左手边<br>
+                　　玩家1资
+            </div>
+            <div class="card-footer">有得有失</div>
+        </div>
+        
+        <div class="card bg-choice">
+            <div class="card-title">邻里互助</div>
+            <div class="card-subtitle">【农夫·玩家互动】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">邻居家牛病了，你的牛健壮。</em><br>
+                <strong>选择：</strong><br>
+                借牛帮忙：选1名玩家<br>
+                该玩家资+2 你功德+1<br>
+                或：不借 资+1
+            </div>
+            <div class="card-footer">远亲不如近邻</div>
+        </div>
+    </div>
+</div>
+
+<!-- 个人事件卡 25-30 -->
+<div class="page">
+    <div class="page-title">个人事件卡 (25-30/32) - 沿虚线剪裁</div>
+    <div class="card-grid">
+        <div class="card bg-chance">
+            <div class="card-title">赌博收成</div>
+            <div class="card-subtitle">【农夫·风险骰子】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">村里赌坊开张，你手头有余钱。</em><br>
+                <strong>需资≥2方可参与：</strong><br>
+                支付资2掷骰<br>
+                6：资+5（赢大了）<br>
+                4-5：资+2（小赢）<br>
+                2-3：无收获<br>
+                1：资-1且给右边玩家1资
+            </div>
+            <div class="card-footer">赌博有风险</div>
+        </div>
+        
+        <div class="card bg-chance">
+            <div class="card-title">破产危机</div>
+            <div class="card-subtitle">【商人·骰子求助】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">生意失败，债主上门。</em><br>
+                <strong>掷骰：</strong><br>
+                5-6：东山再起 资+2<br>
+                3-4：勉强维持 无变化<br>
+                1-2：求助他人 选1玩家<br>
+                若对方给2资对方功德+2<br>
+                否则你资-2
+            </div>
+            <div class="card-footer">患难见真情</div>
+        </div>
+        
+        <div class="card bg-chance">
+            <div class="card-title">焚书坑儒</div>
+            <div class="card-subtitle">【学者·风险抉择】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">暴君下令焚书，你有珍贵典籍。</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 藏书：慧+2 掷骰<br>
+                　1-2被发现 资-3劫+1<br>
+                🅱 献书：慧-2 功德+2（保命）
+            </div>
+            <div class="card-footer">学者的风险抉择</div>
+        </div>
+        
+        <div class="card bg-chance">
+            <div class="card-title">禅定修行</div>
+            <div class="card-subtitle">【僧侣·骰子传法】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">入定七日，心如止水。</em><br>
+                <strong>掷骰：</strong><br>
+                5-6：开悟 慧+3 可传法<br>
+                　给1玩家 对方慧+1<br>
+                3-4：进境 慧+2<br>
+                1-2：走火 慧+1资-1
+            </div>
+            <div class="card-footer">修行亦需机缘</div>
+        </div>
+        
+        <div class="card bg-interact">
+            <div class="card-title">传道授业</div>
+            <div class="card-subtitle">【学者·小抉择】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">有贫寒学子求教，你时间有限。</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 收徒：慧-1 功德+2<br>
+                　选1玩家慧+1<br>
+                🅱 婉拒：慧+1
+            </div>
+            <div class="card-footer">教学相长</div>
+        </div>
+        
+        <div class="card bg-interact">
+            <div class="card-title">化缘抉择</div>
+            <div class="card-subtitle">【僧侣·小抉择】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">富户施舍金银，贫户施舍粗粮。</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 只受贫户：资+1 功德+2<br>
+                🅱 都受：资+3 功德+1<br>
+                <em style="font-size:6pt;">心净则功德净</em>
+            </div>
+            <div class="card-footer">贫富皆有诚心</div>
+        </div>
+    </div>
+</div>
+
+<!-- 个人事件卡 31-32 + 众生卡 1-4 -->
+<div class="page">
+    <div class="page-title">个人事件卡 (31-32/32) + 众生卡 (1-4/10) - 沿虚线剪裁</div>
+    <div class="card-grid">
+        <div class="card bg-interact">
+            <div class="card-title">地主逼租</div>
+            <div class="card-subtitle">【农夫·抉择】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">佃户无力缴租，你是地主。</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 免租：资-1 功德+1<br>
+                🅱 逼租：资+2 功德-1 劫+1<br>
+                <em style="font-size:6pt;">你的选择影响劫难</em>
+            </div>
+            <div class="card-footer">权力的考验</div>
+        </div>
+        
+        <div class="card bg-interact">
+            <div class="card-title">官商勾结</div>
+            <div class="card-subtitle">【商人·大抉择】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">官员索贿，承诺给你垄断权。</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 拒绝：功德+2 慧+1<br>
+                🅱 行贿：资-2 劫+2<br>
+                　下2回合每回合资+2
+            </div>
+            <div class="card-footer">短期利益vs长期因果</div>
+        </div>
+        
+        <div class="card bg-being">
+            <div class="card-title">饥民</div>
+            <div class="card-subtitle">饥寒交迫的流民</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">「一切众生皆有饥渴之苦，当以法食、资食济之。」——《增一阿含经》</em><br><br>
+                <strong>成本：3资 | 功德+2 慧+1</strong>
+            </div>
+            <div class="card-footer">2回合消失，劫难+5</div>
+        </div>
+        
+        <div class="card bg-being">
+            <div class="card-title">病者</div>
+            <div class="card-subtitle">身染重疾的病人</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">「八功德田中，看病功德田第一。」——《梵网经》供养病人，功德最大。</em><br><br>
+                <strong>成本：3资 | 功德+2 慧+1</strong>
+            </div>
+            <div class="card-footer">2回合消失，劫难+5</div>
+        </div>
+        
+        <div class="card bg-being">
+            <div class="card-title">孤儿</div>
+            <div class="card-subtitle">无依无靠的孤儿</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">「老吾老以及人之老，幼吾幼以及人之幼。」——《孟子》【福田】</em><br><br>
+                <strong>成本：4资 | 功德+3 慧+1</strong><br>
+                <em style="font-size:6pt;">特殊：渡化后本回合下次行动功德+1</em>
+            </div>
+            <div class="card-footer">2回合消失，劫难+5</div>
+        </div>
+        
+        <div class="card bg-being">
+            <div class="card-title">寡妇</div>
+            <div class="card-subtitle">失去丈夫的妇人</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">「鳏寡孤独废疾者皆有所养。」——《礼记·礼运》大同世界的理想。</em><br><br>
+                <strong>成本：4资 | 功德+2 慧+2</strong>
+            </div>
+            <div class="card-footer">2回合消失，劫难+5</div>
+        </div>
+    </div>
+</div>
+
+<!-- 众生卡 5-10 -->
+<div class="page">
+    <div class="page-title">众生卡 (5-10/10) - 沿虚线剪裁</div>
+    <div class="card-grid">
+        <div class="card bg-being">
+            <div class="card-title">落魄书生</div>
+            <div class="card-subtitle">穷困潦倒的读书人</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">「穷则独善其身，达则兼济天下。」——《孟子》落第秀才。【福田】</em><br><br>
+                <strong>成本：4资 | 功德+1 慧+3</strong><br>
+                <em style="font-size:6pt;">特殊：渡化后本回合下次修行慧+1</em>
+            </div>
+            <div class="card-footer">2回合消失，劫难+5</div>
+        </div>
+        
+        <div class="card bg-being">
+            <div class="card-title">迷途商贾</div>
+            <div class="card-subtitle">破产失落的商人</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">「资聚人散，资散人聚。」——《大学》得失之间，悟透无常。</em><br><br>
+                <strong>成本：5资 | 功德+2 慧+2</strong><br>
+                <em style="font-size:6pt;">特殊：渡化后获得1资粮（感恩回报）</em>
+            </div>
+            <div class="card-footer">2回合消失，劫难+5</div>
+        </div>
+        
+        <div class="card bg-being">
+            <div class="card-title">悔过恶人</div>
+            <div class="card-subtitle">幡然悔悟的恶人</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">「放下屠刀，立地成佛。」——禅宗语录。央掘魔罗杀人九百九十九，终成阿罗汉。</em><br><br>
+                <strong>成本：5资 | 功德+4 慧+1</strong><br>
+                <em style="font-size:6pt;">特殊：渡化时劫难-1（减少世间戾气）</em>
+            </div>
+            <div class="card-footer">2回合消失，劫难+5</div>
+        </div>
+        
+        <div class="card bg-being">
+            <div class="card-title">垂死老者</div>
+            <div class="card-subtitle">行将就木的老人</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">「人命在呼吸间。」——《四十二章经》临终助念。【福田】</em><br><br>
+                <strong>成本：6资 | 功德+3 慧+3</strong><br>
+                <em style="font-size:6pt;">特殊：若支付后资粮=0，额外+2功德</em>
+            </div>
+            <div class="card-footer">2回合消失，劫难+5</div>
+        </div>
+        
+        <div class="card bg-being">
+            <div class="card-title">被弃婴儿</div>
+            <div class="card-subtitle">被遗弃的婴儿</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">「无缘大慈，同体大悲。」——《华严经》不因因缘，普度众生。</em><br><br>
+                <strong>成本：3资 | 功德+3 慧+0</strong><br>
+                <em style="font-size:6pt;">特殊：下回合劳作资粮+1（善有善报）</em>
+            </div>
+            <div class="card-footer">2回合消失，劫难+5</div>
+        </div>
+        
+        <div class="card bg-being">
+            <div class="card-title">屠户放刀</div>
+            <div class="card-subtitle">杀生为业的猎户</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">「一切众生皆有佛性。」——《涅槃经》猎户悔悟，誓不杀生。</em><br><br>
+                <strong>成本：5资 | 功德+2 慧+2</strong><br>
+                <em style="font-size:6pt;">可选：额外付1资教种田→功德+2</em>
+            </div>
+            <div class="card-footer">2回合消失，劫难+5</div>
+        </div>
+    </div>
+</div>
+
+<!-- 行动提示卡 -->
+<div class="page">
+    <div class="page-title">行动提示卡 (4张，每人1张) — 沿虚线剪裁</div>
+    
+    <div class="action-card">
+        <div style="text-align: center; font-weight: bold; font-size: 12pt; margin-bottom: 3mm;">行动提示卡</div>
+        <div style="font-size: 7pt; text-align: center; margin-bottom: 3mm; font-style: italic;">「一日不作，一日不食」——百丈怀海禅师</div>
+        <div class="action-item"><span class="action-name">【劳作】正命</span><span class="action-effect">+3资（农夫+4，不皈依+1）</span></div>
+        <div class="action-item"><span class="action-name">【修行】正定</span><span class="action-effect">+2慧（学者+3）</span></div>
+        <div class="action-item"><span class="action-name">【布施】六度</span><span class="action-effect">-2资+1功德（商人+3）劫难-1</span></div>
+        <div class="action-item"><span class="action-name">【渡化】度众</span><span class="action-effect">需慧≥5，付成本得功德慧</span></div>
+        <div class="action-item"><span class="action-name">【护法】护持</span><span class="action-effect">-2资+2功德，劫难-3</span></div>
+        <div style="margin-top: 3mm; font-size: 8pt;">每回合执行2个行动，同一行动可重复</div>
+    </div>
+    
+    <div class="action-card">
+        <div style="text-align: center; font-weight: bold; font-size: 12pt; margin-bottom: 3mm;">行动提示卡</div>
+        <div style="font-size: 7pt; text-align: center; margin-bottom: 3mm; font-style: italic;">「布施者，得大富贵」——《大智度论》</div>
+        <div class="action-item"><span class="action-name">【劳作】正命</span><span class="action-effect">+3资（农夫+4，不皈依+1）</span></div>
+        <div class="action-item"><span class="action-name">【修行】正定</span><span class="action-effect">+2慧（学者+3）</span></div>
+        <div class="action-item"><span class="action-name">【布施】六度</span><span class="action-effect">-2资+1功德（商人+3）劫难-1</span></div>
+        <div class="action-item"><span class="action-name">【渡化】度众</span><span class="action-effect">需慧≥5，付成本得功德慧</span></div>
+        <div class="action-item"><span class="action-name">【护法】护持</span><span class="action-effect">-2资+2功德，劫难-3</span></div>
+        <div style="margin-top: 3mm; font-size: 8pt;">每回合执行2个行动，同一行动可重复</div>
+    </div>
+    
+    <div class="action-card">
+        <div style="text-align: center; font-weight: bold; font-size: 12pt; margin-bottom: 3mm;">行动提示卡</div>
+        <div style="font-size: 7pt; text-align: center; margin-bottom: 3mm; font-style: italic;">「自觉觉他，觉行圆满」——《华严经》</div>
+        <div class="action-item"><span class="action-name">【劳作】正命</span><span class="action-effect">+3资（农夫+4，不皈依+1）</span></div>
+        <div class="action-item"><span class="action-name">【修行】正定</span><span class="action-effect">+2慧（学者+3）</span></div>
+        <div class="action-item"><span class="action-name">【布施】六度</span><span class="action-effect">-2资+1功德（商人+3）劫难-1</span></div>
+        <div class="action-item"><span class="action-name">【渡化】度众</span><span class="action-effect">需慧≥5，付成本得功德慧</span></div>
+        <div class="action-item"><span class="action-name">【护法】护持</span><span class="action-effect">-2资+2功德，劫难-3</span></div>
+        <div style="margin-top: 3mm; font-size: 8pt;">每回合执行2个行动，同一行动可重复</div>
+    </div>
+    
+    <div class="action-card">
+        <div style="text-align: center; font-weight: bold; font-size: 12pt; margin-bottom: 3mm;">行动提示卡</div>
+        <div style="font-size: 7pt; text-align: center; margin-bottom: 3mm; font-style: italic;">「定能生慧，静能生智」——《楞严经》</div>
+        <div class="action-item"><span class="action-name">【劳作】正命</span><span class="action-effect">+3资（农夫+4，不皈依+1）</span></div>
+        <div class="action-item"><span class="action-name">【修行】正定</span><span class="action-effect">+2慧（学者+3）</span></div>
+        <div class="action-item"><span class="action-name">【布施】六度</span><span class="action-effect">-2资+1功德（商人+3）劫难-1</span></div>
+        <div class="action-item"><span class="action-name">【渡化】度众</span><span class="action-effect">需慧≥5，付成本得功德慧</span></div>
+        <div class="action-item"><span class="action-name">【护法】护持</span><span class="action-effect">-2资+2功德，劫难-3</span></div>
+        <div style="margin-top: 3mm; font-size: 8pt;">每回合执行2个行动，同一行动可重复</div>
+    </div>
+</div>
+
+<!-- A/B选择卡 -->
+<div class="page">
+    <div class="page-title">A/B选择卡 (4套×2张=8张) — 沿虚线剪裁，天灾时同时揭示</div>
+    <div style="text-align:center; font-size:9pt; margin-bottom:5mm; font-style:italic;">「舍己为人，功德无量」——选择如何应对天灾考验？</div>
+    
+    <div class="ab-card card-a">
+        <div class="ab-letter">A</div>
+        <div class="ab-meaning">菩萨道<br><span style="font-size:8pt;">牺牲利他</span></div>
+    </div>
+    <div class="ab-card card-b">
+        <div class="ab-letter">B</div>
+        <div class="ab-meaning">自保<br><span style="font-size:8pt;">独善其身</span></div>
+    </div>
+    <div class="ab-card card-a">
+        <div class="ab-letter">A</div>
+        <div class="ab-meaning">菩萨道<br><span style="font-size:8pt;">牺牲利他</span></div>
+    </div>
+    <div class="ab-card card-b">
+        <div class="ab-letter">B</div>
+        <div class="ab-meaning">自保<br><span style="font-size:8pt;">独善其身</span></div>
+    </div>
+    
+    <br><br>
+    
+    <div class="ab-card card-a">
+        <div class="ab-letter">A</div>
+        <div class="ab-meaning">菩萨道<br><span style="font-size:8pt;">牺牲利他</span></div>
+    </div>
+    <div class="ab-card card-b">
+        <div class="ab-letter">B</div>
+        <div class="ab-meaning">自保<br><span style="font-size:8pt;">独善其身</span></div>
+    </div>
+    <div class="ab-card card-a">
+        <div class="ab-letter">A</div>
+        <div class="ab-meaning">菩萨道<br><span style="font-size:8pt;">牺牲利他</span></div>
+    </div>
+    <div class="ab-card card-b">
+        <div class="ab-letter">B</div>
+        <div class="ab-meaning">自保<br><span style="font-size:8pt;">独善其身</span></div>
+    </div>
+</div>
+
+<!-- 轨道板 -->
+<div class="page">
+    <div class="page-title">轨道板 — 沿虚线剪裁（劫难/渡化/回合）</div>
+    
+    <div class="track">
+        <div class="track-title">劫难轨道</div>
+        <div class="track-cells">
+            <div class="track-cell safe">0</div>
+            <div class="track-cell safe">1</div>
+            <div class="track-cell safe">2</div>
+            <div class="track-cell safe">3</div>
+            <div class="track-cell safe">4</div>
+            <div class="track-cell safe">5</div>
+            <div class="track-cell safe">6</div>
+            <div class="track-cell safe">7</div>
+            <div class="track-cell safe">8</div>
+            <div class="track-cell safe">9</div>
+            <div class="track-cell safe">10</div>
+            <div class="track-cell safe">11</div>
+            <div class="track-cell safe">12</div>
+            <div class="track-cell danger">13</div>
+            <div class="track-cell danger">14</div>
+            <div class="track-cell danger">15</div>
+            <div class="track-cell danger">16</div>
+            <div class="track-cell danger">17</div>
+            <div class="track-cell danger">18</div>
+            <div class="track-cell danger">19</div>
+            <div class="track-cell danger">20</div>
+        </div>
+        <p style="font-size: 9pt;">≤12 胜利 | ≥20 立即失败</p>
+    </div>
+    
+    <div class="track">
+        <div class="track-title">渡化计数</div>
+        <div class="track-cells">
+            <div class="track-cell">0</div>
+            <div class="track-cell">1</div>
+            <div class="track-cell">2</div>
+            <div class="track-cell">3</div>
+            <div class="track-cell">4</div>
+            <div class="track-cell safe">5</div>
+            <div class="track-cell safe">6</div>
+            <div class="track-cell safe">7</div>
+            <div class="track-cell safe">8</div>
+            <div class="track-cell safe">9</div>
+            <div class="track-cell safe">10</div>
+        </div>
+        <p style="font-size: 9pt;">≥5 才能胜利</p>
+    </div>
+    
+    <div class="track" style="width: 50%;">
+        <div class="track-title">回合</div>
+        <div class="track-cells">
+            <div class="track-cell">1</div>
+            <div class="track-cell">2</div>
+            <div class="track-cell">3</div>
+            <div class="track-cell">4</div>
+            <div class="track-cell">5</div>
+            <div class="track-cell">6</div>
+        </div>
+        <p style="font-size: 9pt;">共6回合，奇数回合抽个人事件</p>
+    </div>
+</div>
+
+<!-- 补充个人事件卡 - 经典佛教故事 -->
+<div class="page">
+    <div class="page-title">补充个人事件卡 (可选使用) - 更多经典故事</div>
+    <div class="card-grid">
+        <div class="card bg-story">
+            <div class="card-title">六祖得法</div>
+            <div class="card-subtitle">【经典故事·坛经】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">惠能不识字，舂米八月。五祖夜半传衣钵曰：「应无所住而生其心。」惠能言下大悟。</em><br><br>
+                慧+2
+            </div>
+        </div>
+        
+        <div class="card bg-story">
+            <div class="card-title">善资童子</div>
+            <div class="card-subtitle">【经典故事·华严经】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">善资童子参访五十三位善知识，历尽艰辛，终入普贤菩萨毛孔刹土。</em><br><br>
+                功德+1，慧+1
+            </div>
+        </div>
+        
+        <div class="card bg-story">
+            <div class="card-title">玄奘西行</div>
+            <div class="card-subtitle">【经典故事·大唐西域记】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">玄奘法师偷渡玉门关，穿越八百里流沙，历十七年取经归来，译经千卷。</em><br><br>
+                慧+3，资粮-1
+            </div>
+        </div>
+        
+        <div class="card bg-story">
+            <div class="card-title">法显求法</div>
+            <div class="card-subtitle">【经典故事·佛国记】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">六十五岁高龄出发西行，历十五年，归途海上遇风暴，船漂七十日方归。</em><br><br>
+                功德+2
+            </div>
+        </div>
+        
+        <div class="card bg-story">
+            <div class="card-title">鸠摩罗什译经</div>
+            <div class="card-subtitle">【经典故事·高僧传】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">被掳十七年，终入长安。临终誓言：所译经论若无误，舌当不烂。火化后，舌果不烂。</em><br><br>
+                慧+2，功德+1
+            </div>
+        </div>
+        
+        <div class="card bg-story">
+            <div class="card-title">寒山拾得</div>
+            <div class="card-subtitle">【经典故事·寒山诗】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">人问：世间谤我、欺我、辱我，如何处治？拾得曰：只是忍他、让他、由他，再过几年你且看他。</em><br><br>
+                功德+1，慧+1
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 补充个人事件卡 - 历史典故（增强版） -->
+<div class="page">
+    <div class="page-title">补充个人事件卡 (可选使用) - 历史典故·增强版</div>
+    <div class="card-grid">
+        <div class="card bg-choice">
+            <div class="card-title">阿育王的抉择</div>
+            <div class="card-subtitle">【历史典故·道德困境】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">阿育王征伐羯陵伽，尸横遍野。你目睹战后惨状...</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 效法建塔：资-2 功德+3<br>
+                　　本回合布施额外+1功德<br>
+                🅱 沉默反思：功德+1 慧+2<br>
+                🅲 趁乱谋利：资+2 功德-1
+            </div>
+            <div class="card-footer">善恶一念间</div>
+        </div>
+        
+        <div class="card bg-interact">
+            <div class="card-title">白马驮经</div>
+            <div class="card-subtitle">【历史典故·合作互动】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">汉明帝遣使西行取经，白马驮经万里归来。你是否加入护送？</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 护送取经：资-1，<strong>选1人</strong><br>
+                　　双方各+1功德+1慧<br>
+                🅱 在寺研读：慧+2<br>
+                🅲 抄录传播：慧-1 功德+2<br>
+                　　（法布施）
+            </div>
+            <div class="card-footer">独行快，众行远</div>
+        </div>
+        
+        <div class="card bg-choice">
+            <div class="card-title">龙门造佛</div>
+            <div class="card-subtitle">【历史典故·政治博弈】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">武则天欲建卢舍那大佛，朝野议论纷纷。你如何表态？</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 公开支持：资-2 功德+2<br>
+                　　若本局劫难≥10则额外+1功德<br>
+                🅱 暗中捐资：资-1 功德+1<br>
+                🅲 上书劝谏：慧+1 掷骰<br>
+                　　4-6成功功德+2 | 1-3得罪资-1
+            </div>
+            <div class="card-footer">政治与信仰的交织</div>
+        </div>
+        
+        <div class="card bg-chance">
+            <div class="card-title">鉴真东渡</div>
+            <div class="card-subtitle">【历史典故·史诗挑战】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">鉴真大师六次东渡，五次失败，双目失明仍不退转。你是否同行？</em><br>
+                <strong>掷骰决定命运：</strong><br>
+                ⚀⚁ 沉船！资-2（若资不足则功德-1）<br>
+                ⚂⚃ 艰险抵达：功德+2<br>
+                ⚄⚅ 大成功：功德+3 慧+1<br>
+                <hr style="margin:2px 0;">
+                <em style="font-size:6pt;">僧侣：失败时功德-1代替资-2</em>
+            </div>
+            <div class="card-footer">弘法利生，虽死不悔</div>
+        </div>
+        
+        <div class="card bg-exclusive">
+            <div class="card-title">敦煌画师</div>
+            <div class="card-subtitle">【历史典故·创作抉择】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">千佛洞前，你可参与壁画创作，留名千古...</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 捐资请匠：资-3<br>
+                　　本局每次修行额外慧+1<br>
+                🅱 亲手描绘：慧-1 功德+2<br>
+                　　下次帮助行动功德+1<br>
+                🅲 默默观赏：慧+1 功德+1
+            </div>
+            <div class="card-footer">学者选A时慧-1即可</div>
+        </div>
+        
+        <div class="card bg-interact">
+            <div class="card-title">云冈论法</div>
+            <div class="card-subtitle">【历史典故·辩论互动】</div>
+            <div class="card-content">
+                <em style="font-size:7pt;">昙曜五窟前，各方高僧论辩空有之争。你可加入...</em><br>
+                <strong>选择一项：</strong><br>
+                🅰 挑战辩论：选1人，双方掷骰<br>
+                　　高者慧+2功德+1 | 低者慧+1<br>
+                　　平局双方各慧+1功德+1<br>
+                🅱 旁听记录：慧+2<br>
+                🅲 供养斋僧：资-1 功德+2 劫难-1
+            </div>
+            <div class="card-footer">真理越辩越明</div>
+        </div>
+    </div>
+</div>
+
+<!-- 游戏设置指南 -->
+<div class="page">
+    <div class="page-title">游戏设置指南 - 每局开始时参考</div>
+    
+    <h3>第一步：放置公共区域</h3>
+    <table border="1" cellpadding="8" style="border-collapse: collapse; width: 100%; margin-bottom: 5mm;">
+        <tr style="background: #f0f0f0;"><th>组件</th><th>初始位置</th><th>说明</th></tr>
+        <tr><td>劫难轨道</td><td><strong>0</strong></td><td>≤12胜利，≥20立即失败</td></tr>
+        <tr><td>渡化计数</td><td><strong>0</strong></td><td>≥5才能胜利</td></tr>
+        <tr><td>回合标记</td><td><strong>1</strong></td><td>共6回合</td></tr>
+        <tr><td>众生区域</td><td>翻<strong>2张</strong>众生卡</td><td>放入众生区域</td></tr>
+    </table>
+    
+    <h3>第二步：准备牌堆</h3>
+    <ul>
+        <li><strong>集体事件卡</strong>（12张）洗匀，背面朝上放置</li>
+        <li><strong>个人事件卡</strong>（32张）洗匀，背面朝上放置</li>
+        <li><strong>众生卡</strong>（10张）洗匀，背面朝上放置</li>
+    </ul>
+    
+    <h3>第三步：选择角色与发放资源</h3>
+    <table border="1" cellpadding="5" style="border-collapse: collapse; width: 100%; margin-bottom: 5mm;">
+        <tr style="background: #e8f4e8;"><th>角色</th><th>资粮</th><th>功德</th><th>慧</th><th>特点</th></tr>
+        <tr><td><strong>农夫</strong></td><td>4</td><td>2</td><td>2</td><td>劳作+4资粮，渡化为主</td></tr>
+        <tr><td><strong>商人</strong></td><td>8</td><td>2</td><td>1</td><td>布施+3功德，资粮起点高</td></tr>
+        <tr><td><strong>学者</strong></td><td>4</td><td>2</td><td>5</td><td>修行+3慧，慧起点高</td></tr>
+        <tr><td><strong>僧侣</strong></td><td>1</td><td>6</td><td>5</td><td>渡化成本-1，可用功德代资</td></tr>
+    </table>
+    
+    <h3>第四步：选择皈依与发愿</h3>
+    <table border="1" cellpadding="5" style="border-collapse: collapse; width: 100%; margin-bottom: 5mm;">
+        <tr style="background: #fff8e8;"><th>选择</th><th>效果</th><th>说明</th></tr>
+        <tr><td>不皈依</td><td>劳作+1资粮；渡化成本-1</td><td>世俗路线</td></tr>
+        <tr><td>皈依（小乘）</td><td>功德+1，慧+1</td><td>可在游戏中途选择</td></tr>
+        <tr><td>皈依+大乘</td><td>功德+1，慧+1；选菩萨行愿</td><td>中途发心需付资-3</td></tr>
+    </table>
+    <p>每人从本角色的2张发愿卡中选1张，正面朝上放在面前。</p>
+    
+    <h3>第五步：发放配件</h3>
+    <ul>
+        <li>每人1张<strong>行动提示卡</strong></li>
+        <li>每人1套<strong>A/B选择卡</strong>（各1张）</li>
+        <li>每人2个<strong>技能使用标记</strong>（记录主动技能使用次数）</li>
+        <li>若皈依，放置<strong>皈依标记</strong>；若大乘，放置<strong>大乘标记</strong></li>
+    </ul>
+    
+    <h3>确认完成</h3>
+    <div style="border: 2px solid #333; padding: 5mm; background: #f8f8f8;">
+        <p>✓ 公共轨道归零，众生区有2张卡</p>
+        <p>✓ 三堆牌洗好（集体/个人/众生）</p>
+        <p>✓ 每人有角色板、资源、发愿卡、行动提示卡、A/B卡、技能标记</p>
+        <p>✓ 决定起始玩家（年龄最小/随机）</p>
+        <p><strong>游戏开始！</strong></p>
+    </div>
+</div>
+
+<!-- 详细规则说明 第一页 -->
+<div class="page">
+    <div class="page-title">详细规则说明 (1/2)</div>
+    
+    <h3>回合流程（共6回合）</h3>
+    <table border="1" cellpadding="5" style="border-collapse: collapse; width: 100%; font-size: 9pt;">
+        <tr style="background: #ffe0e0;"><th width="15%">阶段</th><th>内容</th></tr>
+        <tr><td><strong>1. 发愿奖励</strong></td><td>每人获得发愿卡的"每回合效果"奖励（如功德+1或慧+1）</td></tr>
+        <tr><td><strong>2. 集体事件</strong></td><td>翻1张集体事件卡，全体执行。天灾用A/B卡同时揭示选择</td></tr>
+        <tr><td><strong>3. 个人事件</strong></td><td><strong>仅奇数回合</strong>（1,3,5回合）每人抽1张个人事件</td></tr>
+        <tr><td><strong>4. 众生阶段</strong></td><td>检查众生卡计时（满2回合未渡化则消失，劫难+5），从牌堆翻出补充至2张</td></tr>
+        <tr><td><strong>5. 行动阶段</strong></td><td>从起始玩家开始，依次各执行<strong>2个行动</strong>（可重复同一行动）</td></tr>
+        <tr><td><strong>6. 结算阶段</strong></td><td><strong>仅偶数回合</strong>（2,4,6回合）每人资粮-1（不足则功德-1）；回合标记+1</td></tr>
+    </table>
+    
+    <h3>五种基础行动</h3>
+    <table border="1" cellpadding="5" style="border-collapse: collapse; width: 100%; font-size: 9pt;">
+        <tr style="background: #e0f0e0;"><th>行动</th><th>基础效果</th><th>职业加成</th></tr>
+        <tr><td><strong>劳作</strong></td><td>资粮+3</td><td>农夫+4；不皈依者再+1</td></tr>
+        <tr><td><strong>修行</strong></td><td>慧+2</td><td>学者+3</td></tr>
+        <tr><td><strong>布施</strong></td><td>资粮-2，功德+1，劫难-1</td><td>商人功德+3</td></tr>
+        <tr><td><strong>渡化</strong></td><td>支付众生成本，获得功德+慧奖励</td><td>需慧≥5；僧侣成本-1，可用功德代资</td></tr>
+        <tr><td><strong>护法</strong></td><td>资粮-2，功德+2，劫难-3</td><td>危急时刻使用</td></tr>
+    </table>
+    
+    <h3>天灾抉择机制（囚徒困境）</h3>
+    <div style="border: 1px solid #333; padding: 3mm; margin: 3mm 0; font-size: 9pt;">
+        <p>当翻出天灾卡时，每人暗中选择A或B卡，同时揭示：</p>
+        <table border="1" cellpadding="3" style="border-collapse: collapse; width: 100%;">
+            <tr><th>选择</th><th>个人效果</th><th>集体效果</th></tr>
+            <tr><td><strong>A 合作</strong></td><td>资粮-2，功德+1</td><td>每多1人选A：劫难额外-1</td></tr>
+            <tr><td><strong>B 自保</strong></td><td>资粮-1</td><td>全选B：劫难+3</td></tr>
+        </table>
+        <p><em>核心博弈：牺牲自己帮助团队，还是保存实力独善其身？</em></p>
+    </div>
+    
+    <h3>众生渡化规则</h3>
+    <ul style="font-size: 9pt;">
+        <li>执行"渡化"行动时，选择众生区1张卡</li>
+        <li>支付卡上标注的<strong>资粮成本</strong>，获得对应<strong>功德+慧奖励</strong></li>
+        <li><strong>前提条件</strong>：慧≥5才能执行渡化</li>
+        <li><strong>僧侣特权</strong>：渡化成本-1；可用功德代资（每次≤2）</li>
+        <li><strong>不皈依特权</strong>：渡化成本-1</li>
+        <li>渡化成功后，众生卡移出游戏，渡化计数+1</li>
+        <li><strong>超时惩罚</strong>：众生卡场上满2回合未渡化→消失，劫难+5</li>
+    </ul>
+</div>
+
+<!-- 详细规则说明 第二页 -->
+<div class="page">
+    <div class="page-title">详细规则说明 (2/2)</div>
+    
+    <h3>皈依与大乘系统</h3>
+    <table border="1" cellpadding="5" style="border-collapse: collapse; width: 100%; font-size: 9pt;">
+        <tr style="background: #fff0d0;"><th>状态</th><th>获得</th><th>限制</th></tr>
+        <tr><td><strong>不皈依</strong></td><td>劳作+1资粮；渡化成本-1</td><td>无法获得某些佛教事件加成</td></tr>
+        <tr><td><strong>皈依</strong></td><td>功德+1，慧+1</td><td>可在任意时刻宣布（不可撤销）</td></tr>
+        <tr><td><strong>大乘发心</strong></td><td>额外选1张菩萨行愿卡</td><td>需先皈依；中途发心需付资-3</td></tr>
+    </table>
+    
+    <h3>主动技能使用</h3>
+    <p>每个角色有1个主动技能，每局限用<strong>2次</strong>。使用时翻转1个技能标记。</p>
+    <table border="1" cellpadding="5" style="border-collapse: collapse; width: 100%; font-size: 9pt;">
+        <tr style="background: #e8e8f8;"><th>角色</th><th>技能名</th><th>效果</th></tr>
+        <tr><td>农夫</td><td>分享收成</td><td>-2资→给1人+2资，双方各+1功德</td></tr>
+        <tr><td>商人</td><td>慷慨宴请</td><td>-3资粮，全体+1功德，劫难-1</td></tr>
+        <tr><td>学者</td><td>讲学传道</td><td>选1-2人各+1慧，自己+1功德</td></tr>
+        <tr><td>僧侣</td><td>加持祈功德</td><td>-1功德，选1人下次行动收益+2</td></tr>
+    </table>
+    
+    <h3>胜利条件</h3>
+    <div style="border: 2px solid #333; padding: 5mm; background: #f0fff0; margin: 3mm 0;">
+        <p><strong>团队胜利（必须同时满足）：</strong></p>
+        <ul>
+            <li>6回合结束时，劫难 ≤ 12</li>
+            <li>6回合结束时，渡化计数 ≥ 5</li>
+        </ul>
+        <p><strong>团队失败：</strong></p>
+        <ul>
+            <li>任意时刻劫难 ≥ 20 → 立即失败</li>
+            <li>6回合结束时未满足胜利条件</li>
+        </ul>
+        <p><strong>个人胜利：</strong>团队胜利后，<strong>功德+慧总和</strong>最高者获胜</p>
+    </div>
+    
+    <h3>计分规则</h3>
+    <table border="1" cellpadding="5" style="border-collapse: collapse; width: 100%; font-size: 9pt;">
+        <tr style="background: #ffe0f0;"><th>项目</th><th>分数</th></tr>
+        <tr><td>基础分</td><td>功德+慧查表：10-14=15分, 15-19=25分, 20-24=35分, 25-29=45分, 30-34=55分, 35+=65分</td></tr>
+        <tr><td>平衡惩罚</td><td>若功德&lt;5或慧&lt;5，基础分减半</td></tr>
+        <tr><td>发愿成功</td><td>+12~+18分（视发愿难度）</td></tr>
+        <tr><td>发愿失败</td><td>-4~-8分（视发愿难度）</td></tr>
+        <tr><td>菩萨行愿达成</td><td>按行愿卡上说明</td></tr>
+        <tr><td>帮助奖励</td><td>累计布施/渡化/护法≥4次：+2功德</td></tr>
+        <tr><td>团队失败</td><td>全体0分</td></tr>
+    </table>
+    
+    <h3>游戏提示</h3>
+    <div style="font-size: 9pt; border: 1px dashed #666; padding: 3mm;">
+        <p>💡 <strong>早期</strong>：积累资源，慧值尽快≥5以便渡化</p>
+        <p>💡 <strong>中期</strong>：关注劫难轨道，必要时多人选A或使用护法</p>
+        <p>💡 <strong>后期</strong>：确保渡化≥5，冲刺个人功德慧总和</p>
+        <p>💡 <strong>核心</strong>：团队胜利优先，在此基础上争取个人第一</p>
+    </div>
+</div>
+
+<!-- 完整规则说明 第三页：皈依·渡化·英雄时刻 -->
+<div class="page">
+    <div class="page-title">完整规则说明 (3/3) — 皈依·渡化·集体事件</div>
+    
+    <h3>皈依与发心（可随时选择，不可撤销）</h3>
+    <table border="1" cellpadding="4" style="border-collapse: collapse; width: 100%; font-size: 9pt;">
+        <tr style="background: #fff0d0;"><th>时机</th><th>不皈依</th><th>皈依（小乘）</th><th>大乘发心</th></tr>
+        <tr><td><strong>开局</strong></td><td>资粮+4；劳作+1资；渡化成本-1</td><td>功德+1，慧+1；布施/渡化+1功德</td><td>额外资-2，慧+1；选1张菩萨行愿卡</td></tr>
+        <tr><td><strong>中途</strong></td><td>—</td><td>功德+1（当场）；布施/渡化+1功德</td><td>额外资-3（当场）；选1张菩萨行愿卡（须先皈依）</td></tr>
+    </table>
+    <p style="font-size:8pt;">僧侣固定皈依；大乘发心者共持2张发愿卡（职业愿+菩萨愿）。</p>
+    
+    <h3>渡化成本调整（按角色）</h3>
+    <table border="1" cellpadding="4" style="border-collapse: collapse; width: 100%; font-size: 9pt;">
+        <tr style="background: #e8f4e8;"><th>角色</th><th>成本</th><th>备注</th></tr>
+        <tr><td>农夫</td><td>众生基础成本</td><td>—</td></tr>
+        <tr><td>商人</td><td>基础成本+1</td><td>首次渡化后+2资粮</td></tr>
+        <tr><td>学者</td><td>基础成本-1，额外消耗1慧</td><td>—</td></tr>
+        <tr><td>僧侣</td><td>基础成本-1</td><td>可用功德代资（每次≤2）</td></tr>
+    </table>
+    <p style="font-size:8pt;">不皈依者渡化成本再-1。</p>
+    
+    <h3>集体事件：英雄时刻·链式·条件触发</h3>
+    <ul style="font-size: 9pt;">
+        <li><strong>英雄时刻</strong>：部分天灾/人祸卡上，特定职业可在 A/B 揭示<strong>前</strong>宣布「挺身而出」，消耗己方资源大幅减灾，他人该次无需选 A/B。（例：旱魃—农夫开仓放粮；洪水—商人捐资筑堤；瘟疫—学者著书传方/僧侣诵经祈福；兵戈—僧侣调停止战。）</li>
+        <li><strong>链式决策</strong>：如「蝗灾蔽日」按顺位依次选「跟随」或「旁观」，首人选择后后续再选；全旁观则劫难额外+3。</li>
+        <li><strong>条件触发</strong>：如「苛政如虎」劫难≥10 时改为劫+4、资-2；「盂兰盆节」本局已渡化≥1 则全体额外功德+1。</li>
+    </ul>
+    
+    <h3>众生阶段详解</h3>
+    <ol style="font-size: 9pt;">
+        <li><strong>滞留+1</strong>：众生区内每张众生卡滞留标记 +1。</li>
+        <li><strong>超时</strong>：滞留=2 且本回合仍未渡化 → 劫难+5，该众生移出（不计入渡化）。</li>
+        <li><strong>补充</strong>：从众生牌堆顶翻 1 张加入众生区（滞留=0），保持场上 2 张。</li>
+    </ol>
+    
+    <h3>结算阶段详解</h3>
+    <ul style="font-size: 9pt;">
+        <li><strong>生存消耗</strong>（仅第 2、4、6 回合）：每人资粮-1；不足则资粮扣至 0，功德-1。</li>
+        <li><strong>帮助奖励</strong>：本局累计布施/渡化/护法 ≥4 次者，+2 功德（仅触发一次）。</li>
+        <li><strong>劫难检查</strong>：劫难≥20 → 游戏立即结束，团队失败。</li>
+        <li><strong>回合+1</strong>：若已完成第 6 回合则进入终局计分。</li>
+    </ul>
+</div>
+
+<!-- 众生区域板 + 技能/起始标记 -->
+<div class="page">
+    <div class="page-title">众生区域板 + 功能标记 — 沿虚线剪裁后使用</div>
+    
+    <h3>众生区域板（放置待渡化的众生卡）</h3>
+    <div style="border: 3px dashed #000; padding: 10mm; margin: 5mm 0; background: #FFF8DC; min-height: 100mm;">
+        <div style="text-align: center; font-size: 14pt; font-weight: bold; margin-bottom: 5mm;">众 生 区 域</div>
+        <div style="text-align: center; font-style: italic; font-size: 9pt; margin-bottom: 10mm;">「无缘大慈，同体大悲」——《华严经》</div>
+        <div style="display: flex; gap: 10mm; justify-content: center;">
+            <div style="width: 65mm; height: 90mm; border: 2px dashed #8B4513; display: flex; align-items: center; justify-content: center; background: #FFFEF0;">
+                <span style="color: #8B4513;">众生卡位1<br><small>（满2回合未渡化消失）</small></span>
+            </div>
+            <div style="width: 65mm; height: 90mm; border: 2px dashed #8B4513; display: flex; align-items: center; justify-content: center; background: #FFFEF0;">
+                <span style="color: #8B4513;">众生卡位2<br><small>（满2回合未渡化消失）</small></span>
+            </div>
+        </div>
+        <div style="text-align: center; margin-top: 5mm; font-size: 9pt;">
+            每回合众生阶段：检查计时 → 超时消失（劫难+5）→ 补充至2张
+        </div>
+    </div>
+    
+    <h3>技能使用标记（每人2个，用完翻面）</h3>
+    <div style="display: flex; gap: 3mm; flex-wrap: wrap; margin-bottom: 5mm;">
+        <div style="width: 25mm; height: 25mm; border: 2px solid #333; border-radius: 50%; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, #90EE90, #228B22); font-size: 8pt; text-align: center;">技能<br>可用</div>
+        <div style="width: 25mm; height: 25mm; border: 2px solid #333; border-radius: 50%; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, #90EE90, #228B22); font-size: 8pt; text-align: center;">技能<br>可用</div>
+        <div style="width: 25mm; height: 25mm; border: 2px solid #333; border-radius: 50%; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, #90EE90, #228B22); font-size: 8pt; text-align: center;">技能<br>可用</div>
+        <div style="width: 25mm; height: 25mm; border: 2px solid #333; border-radius: 50%; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, #90EE90, #228B22); font-size: 8pt; text-align: center;">技能<br>可用</div>
+        <div style="width: 25mm; height: 25mm; border: 2px solid #333; border-radius: 50%; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, #90EE90, #228B22); font-size: 8pt; text-align: center;">技能<br>可用</div>
+        <div style="width: 25mm; height: 25mm; border: 2px solid #333; border-radius: 50%; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, #90EE90, #228B22); font-size: 8pt; text-align: center;">技能<br>可用</div>
+        <div style="width: 25mm; height: 25mm; border: 2px solid #333; border-radius: 50%; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, #90EE90, #228B22); font-size: 8pt; text-align: center;">技能<br>可用</div>
+        <div style="width: 25mm; height: 25mm; border: 2px solid #333; border-radius: 50%; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, #90EE90, #228B22); font-size: 8pt; text-align: center;">技能<br>可用</div>
+    </div>
+    <p style="font-size: 8pt; color: #666;">每人2个。使用主动技能时翻转1个。每局最多使用2次主动技能。</p>
+    
+    <h3>起始玩家标记（1个）</h3>
+    <div style="display: flex; gap: 5mm; margin-bottom: 5mm;">
+        <div style="width: 40mm; height: 40mm; border: 3px solid #FFD700; border-radius: 50%; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, #FFD700, #FFA500); font-size: 11pt; font-weight: bold; text-align: center;">起始<br>玩家</div>
+    </div>
+    <p style="font-size: 8pt; color: #666;">标记当前起始玩家。每回合行动阶段从起始玩家开始依次执行。</p>
+    
+    <h3>众生计时标记（可选，放在众生卡上记录回合）</h3>
+    <div style="display: flex; gap: 3mm; flex-wrap: wrap;">
+        <div style="width: 20mm; height: 20mm; border: 2px solid #333; display: flex; align-items: center; justify-content: center; background: #FFDAB9; font-size: 14pt; font-weight: bold;">1</div>
+        <div style="width: 20mm; height: 20mm; border: 2px solid #333; display: flex; align-items: center; justify-content: center; background: #FFDAB9; font-size: 14pt; font-weight: bold;">1</div>
+        <div style="width: 20mm; height: 20mm; border: 2px solid #333; display: flex; align-items: center; justify-content: center; background: #FFDAB9; font-size: 14pt; font-weight: bold;">1</div>
+        <div style="width: 20mm; height: 20mm; border: 2px solid #333; display: flex; align-items: center; justify-content: center; background: #FFDAB9; font-size: 14pt; font-weight: bold;">1</div>
+        <div style="width: 20mm; height: 20mm; border: 2px solid #FF6347; display: flex; align-items: center; justify-content: center; background: #FFB6C1; font-size: 14pt; font-weight: bold;">2</div>
+        <div style="width: 20mm; height: 20mm; border: 2px solid #FF6347; display: flex; align-items: center; justify-content: center; background: #FFB6C1; font-size: 14pt; font-weight: bold;">2</div>
+        <div style="width: 20mm; height: 20mm; border: 2px solid #FF6347; display: flex; align-items: center; justify-content: center; background: #FFB6C1; font-size: 14pt; font-weight: bold;">2</div>
+        <div style="width: 20mm; height: 20mm; border: 2px solid #FF6347; display: flex; align-items: center; justify-content: center; background: #FFB6C1; font-size: 14pt; font-weight: bold;">2</div>
+    </div>
+    <p style="font-size: 8pt; color: #666;">放在众生卡上。1=本回合进场；2=下回合结束时若仍未渡化则消失。</p>
+</div>
+
+<!-- 计分表 -->
+<div class="page">
+    <div class="page-title">游戏记录与计分表 - 可复印多份使用</div>
+    
+    <h3>游戏基本信息</h3>
+    <table border="1" cellpadding="8" style="border-collapse: collapse; width: 100%; margin-bottom: 5mm;">
+        <tr>
+            <td width="25%">日期：_______________</td>
+            <td width="25%">玩家人数：_______人</td>
+            <td width="25%">游戏时长：_______分钟</td>
+            <td width="25%">结果：□胜利 □失败</td>
+        </tr>
+    </table>
+    
+    <h3>公共轨道记录</h3>
+    <table border="1" cellpadding="5" style="border-collapse: collapse; width: 100%; margin-bottom: 5mm;">
+        <tr style="background: #f0f0f0;"><th>回合</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>最终</th></tr>
+        <tr><td>劫难值</td><td></td><td></td><td></td><td></td><td></td><td></td><td style="background:#ffe0e0;"></td></tr>
+        <tr><td>渡化数</td><td></td><td></td><td></td><td></td><td></td><td></td><td style="background:#e0ffe0;"></td></tr>
+    </table>
+    
+    <h3>玩家计分表</h3>
+    <table border="1" cellpadding="5" style="border-collapse: collapse; width: 100%; font-size: 9pt;">
+        <tr style="background: #e8e8e8;">
+            <th width="18%">项目</th>
+            <th width="20%">玩家1</th>
+            <th width="20%">玩家2</th>
+            <th width="20%">玩家3</th>
+            <th width="20%">玩家4</th>
+        </tr>
+        <tr><td>角色</td><td></td><td></td><td></td><td></td></tr>
+        <tr><td>皈依状态</td><td>□否 □是 □大乘</td><td>□否 □是 □大乘</td><td>□否 □是 □大乘</td><td>□否 □是 □大乘</td></tr>
+        <tr><td>发愿卡</td><td></td><td></td><td></td><td></td></tr>
+        <tr style="background: #fff8e0;"><td><strong>最终资粮</strong></td><td></td><td></td><td></td><td></td></tr>
+        <tr style="background: #ffe8e8;"><td><strong>最终功德</strong></td><td></td><td></td><td></td><td></td></tr>
+        <tr style="background: #e8e8ff;"><td><strong>最终慧</strong></td><td></td><td></td><td></td><td></td></tr>
+        <tr><td>功德+慧→基础分</td><td></td><td></td><td></td><td></td></tr>
+        <tr><td>发愿奖惩</td><td>□成功 □失败</td><td>□成功 □失败</td><td>□成功 □失败</td><td>□成功 □失败</td></tr>
+        <tr><td>发愿分数</td><td></td><td></td><td></td><td></td></tr>
+        <tr><td>菩萨行愿分</td><td></td><td></td><td></td><td></td></tr>
+        <tr style="background: #d0ffd0;"><td><strong>总分</strong></td><td></td><td></td><td></td><td></td></tr>
+        <tr style="background: #ffffd0;"><td><strong>名次</strong></td><td></td><td></td><td></td><td></td></tr>
+    </table>
+    
+    <h3>本局心得/策略笔记</h3>
+    <div style="border: 1px solid #333; min-height: 50mm; padding: 3mm;">
+        <p style="color: #999; font-size: 9pt;">记录本局的关键决策、有趣事件、策略心得...</p>
+    </div>
+    
+    <h3>平局判定</h3>
+    <p style="font-size: 9pt;">总分相同时：<strong>功德更高者</strong>优先 → 仍平则<strong>慧更高者</strong>优先 → 仍平则共享名次。</p>
+    
+    <h3>发愿分数参考</h3>
+    <table border="1" cellpadding="3" style="border-collapse: collapse; width: 100%; font-size: 8pt; margin-top: 3mm;">
+        <tr style="background: #f0f0f0;"><th>发愿</th><th>条件</th><th>成功</th><th>失败</th></tr>
+        <tr><td>勤劳致功德（农）</td><td>功德≥18</td><td>+12</td><td>-4</td></tr>
+        <tr><td>贫女一灯（农）</td><td>功德≥22且资≤5</td><td>+18</td><td>-6</td></tr>
+        <tr><td>资施功德（商）</td><td>布施≥3次</td><td>+12</td><td>-4</td></tr>
+        <tr><td>大商人之心（商）</td><td>功德≥18且渡化≥2</td><td>+16</td><td>-6</td></tr>
+        <tr><td>传道授业（学）</td><td>慧≥18</td><td>+12</td><td>-4</td></tr>
+        <tr><td>万世师表（学）</td><td>功德≥12且慧≥18</td><td>+16</td><td>-6</td></tr>
+        <tr><td>阿罗汉果（僧）</td><td>慧≥16</td><td>+12</td><td>-4</td></tr>
+        <tr><td>菩萨道（僧）</td><td>功德≥8且渡化≥1</td><td>+18</td><td>-8</td></tr>
+    </table>
+</div>
+
+<!-- 资源标记 -->
+<div class="page">
+    <div class="page-title">资源标记 - 剪裁后使用</div>
+    
+    <h3>资粮标记（建议30个）</h3>
+    <div class="token-grid">
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+        <div class="token token-wealth">资</div>
+    </div>
+    
+    <h3>功德标记（建议30个）</h3>
+    <div class="token-grid">
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+        <div class="token token-fu">功德</div>
+    </div>
+    
+    <h3>慧标记（建议30个）</h3>
+    <div class="token-grid">
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+        <div class="token token-hui">慧</div>
+    </div>
+    
+    <h3>其他标记</h3>
+    <div style="display: flex; gap: 5mm; flex-wrap: wrap;">
+        <div class="token token-square" style="background: #ffffcc; border-radius: 3mm;">皈依</div>
+        <div class="token token-square" style="background: #ffffcc; border-radius: 3mm;">皈依</div>
+        <div class="token token-square" style="background: #ffffcc; border-radius: 3mm;">皈依</div>
+        <div class="token token-square" style="background: #ffffcc; border-radius: 3mm;">皈依</div>
+        <div class="token token-square" style="background: #ffccff; border-radius: 3mm;">大乘</div>
+        <div class="token token-square" style="background: #ffccff; border-radius: 3mm;">大乘</div>
+        <div class="token token-square" style="background: #ffccff; border-radius: 3mm;">大乘</div>
+        <div class="token token-square" style="background: #ffccff; border-radius: 3mm;">大乘</div>
+    </div>
+    
+    <p style="margin-top: 10mm; font-size: 9pt;">
+        <strong>提示：</strong>资源标记也可以用其他物品替代，如硬币（资粮）、红豆（功德）、蓝珠（慧）。
+    </p>
+</div>
+
+<!-- FAQ + 可选规则速查 + 致谢 -->
+<div class="page" style="border: 2px dashed #999; padding: 5mm;">
+    <div class="page-title">FAQ · 可选规则速查 · 致谢</div>
+    
+    <h3>常见问题（FAQ）</h3>
+    <ul style="font-size: 9pt;">
+        <li><strong>渡化成本：僧侣-1 与不皈依-1 能叠加吗？</strong> 能。僧侣不皈依时渡化成本为「众生基础成本 -2」；僧侣皈依时为「基础成本 -1」。</li>
+        <li><strong>中途发心后还能再拿一张菩萨行愿卡吗？</strong> 不能。大乘发心者整局共持 2 张发愿卡（1 张职业愿 + 1 张菩萨愿），中途发心只是补选菩萨愿的那一张。</li>
+        <li><strong>英雄时刻在 A/B 亮牌前还是后宣布？</strong> 在 A/B 同时揭示<strong>之前</strong>宣布。宣布英雄者执行英雄效果后，他人该次无需选 A/B。</li>
+        <li><strong>众生「满 2 回合」怎么算？</strong> 众生阶段先给每张众生卡滞留+1；滞留=2 且本回合仍未渡化则消失、劫难+5，再补充 1 张。</li>
+        <li><strong>团队失败时还有个人名次吗？</strong> 没有。团队失败则全体 0 分，不排名。</li>
+    </ul>
+    
+    <h3>可选规则速查（详见规则书第十二章）</h3>
+    <table border="1" cellpadding="4" style="border-collapse: collapse; width: 100%; font-size: 9pt;">
+        <tr style="background: #f0f0f0;"><th>模式</th><th>改动</th></tr>
+        <tr><td><strong>简单模式</strong></td><td>团队胜利：劫难≤15 且 渡化≥4；生存消耗仅第 4、6 回合</td></tr>
+        <tr><td><strong>困难模式</strong></td><td>团队胜利：劫难≤10 且 渡化≥6；每回合事件后劫难+1</td></tr>
+        <tr><td><strong>沉默模式</strong></td><td>行动阶段禁止讨论；每回合开始时可讨论 1 分钟</td></tr>
+    </table>
+    
+    <h3>致谢</h3>
+    <p style="font-size: 9pt;">《功德轮回：众生百态》v5.2 打印包 · 规则与平衡基于 3000 局 Monte Carlo 模拟验证。设计灵感来自佛教经济学、功德与礼物经济的人类学与社会学讨论；事件卡取材于贤愚经、本生经、华严经等经典。感谢所有试玩与反馈者。</p>
+    <p style="font-size: 8pt; color: #666;">— 功德轮回设计组</p>
+</div>
+
+</body>
+</html>

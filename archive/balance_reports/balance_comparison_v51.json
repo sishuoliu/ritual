@@ -1,0 +1,176 @@
+{
+  "original": {
+    "team_win_rate": 0.9996,
+    "role_win_rates": {
+      "农夫": 0.636654661864746,
+      "商人": 0.5220088035214085,
+      "学者": 0.7492997198879552,
+      "僧侣": 0.35674269707883155
+    },
+    "role_avg_scores": {
+      "农夫": 75.50540216086435,
+      "商人": 73.82192877150861,
+      "学者": 76.72509003601441,
+      "僧侣": 71.0500200080032
+    },
+    "role_vow_rates": {
+      "农夫": 0.8783513405362144,
+      "商人": 0.8029211684673869,
+      "学者": 0.9173669467787114,
+      "僧侣": 0.6676670668267307
+    },
+    "resource_economy": {
+      "avg_wealth_end": {
+        "农夫": 5.2724,
+        "商人": 6.174,
+        "学者": 5.5372,
+        "僧侣": 4.796
+      },
+      "avg_merit_end": {
+        "农夫": 43.9276,
+        "商人": 40.0676,
+        "学者": 23.2672,
+        "僧侣": 29.5876
+      },
+      "avg_hui_end": {
+        "农夫": 11.4816,
+        "商人": 9.5424,
+        "学者": 25.9716,
+        "僧侣": 16.3442
+      }
+    },
+    "action_usage": {
+      "农夫": {
+        "ActionType.PRACTICE": 1.775,
+        "ActionType.SAVE": 4.8366,
+        "ActionType.LABOR": 4.816,
+        "ActionType.DONATE": 0.5724
+      },
+      "商人": {
+        "ActionType.PRACTICE": 2.3848,
+        "ActionType.DONATE": 4.931,
+        "ActionType.LABOR": 3.7296,
+        "ActionType.SAVE": 0.9546
+      },
+      "学者": {
+        "ActionType.SAVE": 1.4742,
+        "ActionType.LABOR": 4.9618,
+        "ActionType.PRACTICE": 3.122,
+        "ActionType.DONATE": 2.442
+      },
+      "僧侣": {
+        "ActionType.SAVE": 0.7332,
+        "ActionType.LABOR": 6.0186,
+        "ActionType.PRACTICE": 2.4712,
+        "ActionType.DONATE": 2.777
+      }
+    },
+    "tension": {
+      "avg_calamity_margin": 26.4386,
+      "tight_games": 0.0,
+      "comfortable_games": 0.998
+    },
+    "calamity_stats": {
+      "avg_final_calamity": -6.4386,
+      "avg_saved": 7.9986
+    },
+    "vow_achievement_rates": {
+      "勤劳致功德": 0.9997162315550511,
+      "资施功德": 0.9830556340016945,
+      "传道授业": 0.9167381974248927,
+      "阿罗汉果": 0.9583692219351134,
+      "万世师表": 0.9182724252491694,
+      "菩萨道": 0.0,
+      "大商人之心": 0.36600411240575736,
+      "贫女一灯": 0.5887533875338753
+    }
+  },
+  "adjusted": {
+    "team_win_rate": 0.9666,
+    "role_win_rates": {
+      "农夫": 0.6579764121663563,
+      "学者": 0.6008690254500311,
+      "僧侣": 0.30767639147527415,
+      "商人": 0.42789157872956757
+    },
+    "role_avg_scores": {
+      "农夫": 76.73598179184772,
+      "商人": 72.05731429753776,
+      "学者": 74.52079453755431,
+      "僧侣": 70.68094351334575
+    },
+    "role_vow_rates": {
+      "农夫": 0.9344092696048003,
+      "商人": 0.8117111524932754,
+      "学者": 0.8270225532795366,
+      "僧侣": 0.6819780674529278
+    },
+    "resource_economy": {
+      "avg_wealth_end": {
+        "农夫": 3.7712,
+        "商人": 3.8828,
+        "学者": 4.0356,
+        "僧侣": 3.4686
+      },
+      "avg_merit_end": {
+        "农夫": 37.802,
+        "商人": 28.7372,
+        "学者": 19.3342,
+        "僧侣": 24.4126
+      },
+      "avg_hui_end": {
+        "农夫": 10.7302,
+        "商人": 9.8538,
+        "学者": 23.1886,
+        "僧侣": 15.5888
+      }
+    },
+    "action_usage": {
+      "农夫": {
+        "ActionType.PRACTICE": 1.707,
+        "ActionType.SAVE": 4.1952,
+        "ActionType.LABOR": 5.5924,
+        "ActionType.DONATE": 0.4598,
+        "ActionType.PROTECT": 0.0448
+      },
+      "商人": {
+        "ActionType.PRACTICE": 2.1766,
+        "ActionType.SAVE": 1.4954,
+        "ActionType.DONATE": 3.9054,
+        "ActionType.LABOR": 4.4158,
+        "ActionType.PROTECT": 0.006
+      },
+      "学者": {
+        "ActionType.SAVE": 1.518,
+        "ActionType.LABOR": 5.8944,
+        "ActionType.PRACTICE": 2.4136,
+        "ActionType.DONATE": 2.1732
+      },
+      "僧侣": {
+        "ActionType.LABOR": 6.8104,
+        "ActionType.DONATE": 2.375,
+        "ActionType.PRACTICE": 2.0346,
+        "ActionType.SAVE": 0.7792
+      }
+    },
+    "tension": {
+      "avg_calamity_margin": 18.8378,
+      "tight_games": 0.0,
+      "comfortable_games": 0.9238
+    },
+    "calamity_stats": {
+      "avg_final_calamity": 1.165,
+      "avg_saved": 7.9878
+    },
+    "vow_achievement_rates": {
+      "勤劳致功德": 1.0,
+      "大商人之心": 0.5821192052980132,
+      "传道授业": 0.8252371371083644,
+      "阿罗汉果": 0.9362967157417894,
+      "贫女一灯": 0.7812080536912752,
+      "资施功德": 0.8994269340974212,
+      "菩萨道": 0.07152588555858311,
+      "万世师表": 0.8211702827087443
+    }
+  }
+}

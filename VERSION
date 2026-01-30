@@ -1,0 +1,27 @@
+v5.8 FINAL
+Date: 2026-01-30
+Status: Production Ready
+
+Key Improvements v5.8:
+- Farmer Balance: "勤劳积德" passive (+2 merit if labor ≥5)
+- Farmer Vow Rewards: Simple +12, Difficult +20 (was 10/18)
+- Merchant Vow Fix: "资施功德" requires 5 donations (was 7)
+- Monk Protect Specialization: cost 1, merit +4, blessing +2
+- Mutual Aid Action: new 6th action type
+- Resource Token Cards: 45 printable tokens (1/2/5 × gold/red/blue)
+- Event Card Expansion: 20 universal + 16 profession-specific = 36 total
+
+Simulation Results (Base - 5000 games):
+- Team Win Rate: 72.7%
+- Average Calamity: 7.1
+- Protect Usage: 0.72/player/game
+- Role Balance (Avg Rank):
+  - Farmer: 2.95 (12.4% 1st)
+  - Merchant: 2.51 (19.0% 1st)
+  - Scholar: 2.33 (20.2% 1st)
+  - Monk: 2.22 (21.1% 1st)
+
+Simulation Results (Hell Mode - 5000 games):
+- Team Win Rate: 45-47%
+- Average Calamity: 13.1
+- Protect Usage: 1.23/player/game

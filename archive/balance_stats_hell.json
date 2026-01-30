@@ -1,0 +1,180 @@
+{
+  "total_games": 5000,
+  "team_wins": 2328,
+  "team_win_rate": 0.4656,
+  "avg_calamity": 13.003,
+  "avg_saves": 4.7806,
+  "by_role": {
+    "农夫": {
+      "count": 5000,
+      "avg_merit": 19.9662,
+      "avg_hui": 4.678,
+      "avg_wealth": 12.3964,
+      "vow_achieved": 2890,
+      "avg_labor": 4.2998,
+      "avg_practice": 0.5722,
+      "avg_donate": 1.3944,
+      "avg_save": 0.4432,
+      "avg_protect": 2.5212,
+      "vow_rate": 0.578
+    },
+    "商人": {
+      "count": 5000,
+      "avg_merit": 24.818,
+      "avg_hui": 2.9616,
+      "avg_wealth": 4.0094,
+      "vow_achieved": 1001,
+      "avg_labor": 2.3944,
+      "avg_practice": 0.5096,
+      "avg_donate": 4.3096,
+      "avg_save": 0.0458,
+      "avg_protect": 1.1272,
+      "vow_rate": 0.2002
+    },
+    "学者": {
+      "count": 5000,
+      "avg_merit": 14.9856,
+      "avg_hui": 18.2842,
+      "avg_wealth": 2.4302,
+      "vow_achieved": 1970,
+      "avg_labor": 2.1392,
+      "avg_practice": 3.2136,
+      "avg_donate": 1.0446,
+      "avg_save": 1.4082,
+      "avg_protect": 0.8574,
+      "vow_rate": 0.394
+    },
+    "僧侣": {
+      "count": 5000,
+      "avg_merit": 22.6684,
+      "avg_hui": 11.988,
+      "avg_wealth": 1.7844,
+      "vow_achieved": 2356,
+      "avg_labor": 3.7232,
+      "avg_practice": 0.785,
+      "avg_donate": 1.2908,
+      "avg_save": 2.8834,
+      "avg_protect": 0.5148,
+      "vow_rate": 0.4712
+    }
+  },
+  "by_faith": {
+    "大乘": {
+      "count": 6992,
+      "avg_merit": 18.966104118993137,
+      "avg_hui": 7.945509153318078,
+      "vow_achieved": 2132,
+      "vow_rate": 0.3049199084668192
+    },
+    "皈依": {
+      "count": 8564,
+      "avg_merit": 23.21450256889304,
+      "avg_hui": 10.438696870621206,
+      "vow_achieved": 4174,
+      "vow_rate": 0.48738907052779074
+    },
+    "不皈依": {
+      "count": 4444,
+      "avg_merit": 18.175292529252925,
+      "avg_hui": 10.037578757875787,
+      "vow_achieved": 1911,
+      "vow_rate": 0.43001800180018
+    }
+  },
+  "by_sacrifice": {
+    "舍功德迴向": {
+      "count": 2348,
+      "avg_merit": 18.368824531516182,
+      "vow_achieved": 781,
+      "bvow_achieved": 371,
+      "vow_rate": 0.33262350936967633,
+      "bvow_rate": 0.15800681431005112
+    },
+    "舍资施众": {
+      "count": 2287,
+      "avg_merit": 18.979886313948406,
+      "vow_achieved": 786,
+      "bvow_achieved": 314,
+      "vow_rate": 0.34368167905553126,
+      "bvow_rate": 0.13729777000437254
+    },
+    "舍慧度众": {
+      "count": 2357,
+      "avg_merit": 19.547730165464575,
+      "vow_achieved": 565,
+      "bvow_achieved": 243,
+      "vow_rate": 0.23971149766652525,
+      "bvow_rate": 0.103097157403479
+    }
+  },
+  "by_vow": {
+    "勤劳致功德": {
+      "count": 3504,
+      "achieved": 2310,
+      "rate": 0.6592465753424658
+    },
+    "资施功德": {
+      "count": 3500,
+      "achieved": 510,
+      "rate": 0.1457142857142857
+    },
+    "万世师表": {
+      "count": 1503,
+      "achieved": 577,
+      "rate": 0.38389886892880903
+    },
+    "阿罗汉果": {
+      "count": 3455,
+      "achieved": 1604,
+      "rate": 0.46425470332850943
+    },
+    "大商人之心": {
+      "count": 1500,
+      "achieved": 491,
+      "rate": 0.3273333333333333
+    },
+    "传道授业": {
+      "count": 3497,
+      "achieved": 1393,
+      "rate": 0.3983414355161567
+    },
+    "菩萨道": {
+      "count": 1545,
+      "achieved": 752,
+      "rate": 0.4867313915857605
+    },
+    "贫女一灯": {
+      "count": 1496,
+      "achieved": 580,
+      "rate": 0.3877005347593583
+    }
+  },
+  "by_bvow": {
+    "文殊愿": {
+      "count": 1754,
+      "achieved": 175,
+      "rate": 0.09977194982896237
+    },
+    "地藏愿": {
+      "count": 1745,
+      "achieved": 182,
+      "rate": 0.10429799426934097
+    },
+    "观音愿": {
+      "count": 1774,
+      "achieved": 433,
+      "rate": 0.24408117249154454
+    },
+    "普贤愿": {
+      "count": 1719,
+      "achieved": 138,
+      "rate": 0.08027923211169284
+    }
+  },
+  "action_stats": {
+    "avg_donate": 2.00985,
+    "avg_save": 1.19515,
+    "avg_protect": 1.25515
+  },
+  "mahayana_penalty_rate": 0.4490846681922197
+}

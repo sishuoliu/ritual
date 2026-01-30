@@ -1,7 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-《功德轮回：众生百态》v4.7 打印制作包生成器
-生成A4纸张PDF，可直接打印剪裁
+《功德轮回：众生百态》v5.0 打印制作包生成器（reportlab）
+生成 A4 纸张 PDF，可直接打印剪裁。
+
+依赖: pip install reportlab
+若需走代理安装: 先设置 http_proxy / https_proxy，或运行 pip_install_with_proxy.bat
+完整佛教典故故事版见: print_pack_v50.html（浏览器打开后打印为 PDF）
 """
 
 from reportlab.lib import colors
@@ -123,22 +127,22 @@ def create_styles():
     return styles
 
 class GamePrintPack:
-    def __init__(self, filename="功德轮回_v4.7_打印包.pdf"):
+    def __init__(self, filename="功德轮回_v5.0_打印包.pdf"):
         self.filename = filename
         self.styles = create_styles()
         
     def draw_card_border(self, c, x, y, width, height, title="", bg_color=colors.white):
-        """绘制卡牌边框"""
+        """绘制卡牌边框（外框为虚线剪裁线）"""
         # 背景
         c.setFillColor(bg_color)
         c.rect(x, y, width, height, fill=1, stroke=0)
-        
-        # 边框
+        # 外框虚线（沿此线剪裁）
         c.setStrokeColor(colors.black)
-        c.setLineWidth(1)
+        c.setLineWidth(1.5)
+        c.setDash([3*mm, 2*mm])
         c.rect(x, y, width, height, fill=0, stroke=1)
-        
-        # 内边框
+        c.setDash([])
+        # 内边框实线
         c.setLineWidth(0.5)
         c.rect(x + 2*mm, y + 2*mm, width - 4*mm, height - 4*mm, fill=0, stroke=1)
         
@@ -222,7 +226,7 @@ class GamePrintPack:
         c.drawCentredString(PAGE_WIDTH/2, PAGE_HEIGHT - 120*mm, "众生百态")
         
         c.setFont(FONT_NAME, 14)
-        c.drawCentredString(PAGE_WIDTH/2, PAGE_HEIGHT - 145*mm, "v4.7 精简版（最终平衡版）")
+        c.drawCentredString(PAGE_WIDTH/2, PAGE_HEIGHT - 145*mm, "v5.0")
         
         c.setFont(FONT_NAME, 12)
         c.drawCentredString(PAGE_WIDTH/2, PAGE_HEIGHT - 170*mm, "打印制作包")
@@ -291,7 +295,7 @@ class GamePrintPack:
         rules = [
             "【游戏目标】",
             "团队胜利：劫难≤12 且 渡化众生≥5",
-            "个人胜利：团队胜利后，福+慧最高者获胜",
+            "个人胜利：团队胜利后，功德+慧最高者获胜",
             "",
             "【回合流程】（共6回合）",
             "0. 发愿奖励阶段 - 获得发愿卡的每回合奖励",
@@ -299,24 +303,24 @@ class GamePrintPack:
             "2. 个人事件阶段 - 奇数回合每人抽1张",
             "3. 众生阶段 - 超时众生消失，新众生出现",
             "4. 行动阶段 - 每人执行2个行动",
-            "5. 结算阶段 - 偶数回合扣1财富或1福",
+            "5. 结算阶段 - 偶数回合扣1资粮或1功德",
             "",
             "【可用行动】",
-            "劳作：+3财富（农夫+4，不皈依者再+1）",
+            "劳作：+3资粮（农夫+4，不皈依+1）",
             "修行：+2慧（学者+4）",
-            "布施：-2财富，+2福（商人+4福），劫难-1",
-            "渡化：需慧≥5，支付众生卡的财富成本",
-            "护法：-2财富，+1福，劫难-2",
+            "布施：-2资粮，+2功德（商人+4功德），劫难-1",
+            "渡化：需慧≥5，支付众生卡的资粮成本",
+            "护法：-2资粮，+1功德，劫难-2",
             "",
-            "【v4.7平衡配置】",
-            "农夫：财5福2慧2，劳作+1，发愿每回合+1福",
-            "商人：财9福2慧1，布施+2福",
-            "学者：财4福2慧5，修行+2慧",
-            "僧侣：财1福5慧5，可用福代财",
+            "【v5.0 · 平衡沿用v4.7验证】",
+            "农夫：资5功德2慧2，劳作+1，发愿每回合+1功德",
+            "商人：资9功德2慧1，布施+2功德",
+            "学者：资4功德2慧5，修行+2慧",
+            "僧侣：资1功德5慧5，可用功德代资",
             "",
             "【发愿条件】",
-            "勤劳致福：福≥24（+12分）",
-            "贫女一灯：福≥30且财≤5（+18分）",
+            "勤劳致功德：功德≥24（+12分）",
+            "贫女一灯：功德≥30且资≤5（+18分）",
             "阿罗汉果：慧≥14（+12分）",
         ]
         
@@ -335,34 +339,34 @@ class GamePrintPack:
         roles = [
             {
                 "name": "农夫",
-                "quote": "耕读传家，勤劳致福",
-                "init": "财富5 | 福2 | 慧2",
-                "passive": "【被动·勤劳致富】劳作时+1财富（共+4）",
-                "active": "【主动·分享收成】每局2次\n给1名玩家2财富，双方各+1福",
+                "quote": "耕读传家，勤劳致功德",
+                "init": "资粮5 | 功德2 | 慧2",
+                "passive": "【被动·勤劳致富】劳作时+1资粮（共+4）",
+                "active": "【主动·分享收成】每局2次\n给1名玩家2资粮，双方各+1功德",
                 "color": colors.Color(0.9, 0.95, 0.8),  # 浅绿
             },
             {
                 "name": "商人",
                 "quote": "千金散尽还复来",
-                "init": "财富9 | 福2 | 慧1",
-                "passive": "【被动·广结善缘】布施时+2福（共+4）\n首次渡化后+2财富",
-                "active": "【主动·慷慨宴请】每局2次\n-3财富，全体+1福，劫难-1",
+                "init": "资粮9 | 功德2 | 慧1",
+                "passive": "【被动·广结善缘】布施时+2功德（共+4）\n首次渡化后+2资粮",
+                "active": "【主动·慷慨宴请】每局2次\n-3资粮，全体+1功德，劫难-1",
                 "color": colors.Color(1.0, 0.95, 0.8),  # 浅金
             },
             {
                 "name": "学者",
                 "quote": "学而不厌，诲人不倦",
-                "init": "财富4 | 福2 | 慧5",
+                "init": "资粮4 | 功德2 | 慧5",
                 "passive": "【被动·博学多闻】修行时+2慧（共+4）\n个人事件可弃掉重抽1次/局",
-                "active": "【主动·讲学传道】每局2次\n选2人各+1慧，自己+1福",
+                "active": "【主动·讲学传道】每局2次\n选2人各+1慧，自己+1功德",
                 "color": colors.Color(0.85, 0.9, 1.0),  # 浅蓝
             },
             {
                 "name": "僧侣",
                 "quote": "万法皆空，慈悲度世",
-                "init": "财富1 | 福5 | 慧5",
-                "passive": "【被动·化缘度日】渡化时可用福代财（每次≤2）\n渡化成本-1",
-                "active": "【主动·加持祈福】每局2次\n给1人转移≤2福，对方额外+1福",
+                "init": "资粮1 | 功德5 | 慧5",
+                "passive": "【被动·化缘度日】渡化时可用功德代资（每次≤2）\n渡化成本-1；资=0时每回合初+1资",
+                "active": "【主动·加持祈功德】每局2次\n-1功德，选1人下次行动收益+2",
                 "color": colors.Color(1.0, 0.9, 0.85),  # 浅橙
             },
         ]
@@ -425,14 +429,14 @@ class GamePrintPack:
             c.setLineWidth(0.5)
             c.setStrokeColor(colors.grey)
             
-            # 财富区
+            # 资粮区
             c.rect(x + 5*mm, y + 5*mm, 25*mm, 25*mm, fill=0, stroke=1)
             c.setFont(FONT_NAME, 8)
-            c.drawCentredString(x + 17.5*mm, y + 32*mm, "财富")
+            c.drawCentredString(x + 17.5*mm, y + 32*mm, "资粮")
             
-            # 福区
+            # 功德区
             c.rect(x + 32*mm, y + 5*mm, 25*mm, 25*mm, fill=0, stroke=1)
-            c.drawCentredString(x + 44.5*mm, y + 32*mm, "福")
+            c.drawCentredString(x + 44.5*mm, y + 32*mm, "功德")
             
             # 慧区
             c.rect(x + 59*mm, y + 5*mm, 25*mm, 25*mm, fill=0, stroke=1)
@@ -442,31 +446,31 @@ class GamePrintPack:
         """绘制发愿卡"""
         vows = [
             # 农夫
-            {"name": "勤劳致福", "role": "农夫", "type": "简单",
-             "effect": "每回合：福+1",
-             "condition": "结束时福≥24",
+            {"name": "勤劳致功德", "role": "农夫", "type": "简单",
+             "effect": "每回合：功德+1",
+             "condition": "结束时功德≥24",
              "reward": "+12分", "penalty": "-4分"},
             {"name": "贫女一灯", "role": "农夫", "type": "困难",
-             "effect": "每回合：福+1",
-             "condition": "结束时福≥30\n且财富≤5",
+             "effect": "每回合：功德+1",
+             "condition": "结束时功德≥30\n且资粮≤5",
              "reward": "+18分", "penalty": "-6分"},
             # 商人
-            {"name": "财施功德", "role": "商人", "type": "简单",
-             "effect": "每回合：财富+1",
+            {"name": "资施功德", "role": "商人", "type": "简单",
+             "effect": "每回合：资粮+1",
              "condition": "本局布施≥3次",
              "reward": "+12分", "penalty": "-4分"},
             {"name": "大商人之心", "role": "商人", "type": "困难",
              "effect": "每回合：慧+1",
-             "condition": "结束时福≥16\n且渡化≥2次",
+             "condition": "结束时功德≥18\n且渡化≥2次",
              "reward": "+16分", "penalty": "-6分"},
             # 学者
             {"name": "传道授业", "role": "学者", "type": "简单",
              "effect": "每回合：慧+1",
-             "condition": "结束时慧≥16",
+             "condition": "结束时慧≥18",
              "reward": "+12分", "penalty": "-4分"},
             {"name": "万世师表", "role": "学者", "type": "困难",
              "effect": "每回合：慧+1",
-             "condition": "结束时福≥12\n且慧≥18",
+             "condition": "结束时功德≥12\n且慧≥18",
              "reward": "+16分", "penalty": "-6分"},
             # 僧侣
             {"name": "阿罗汉果", "role": "僧侣", "type": "简单",
@@ -474,8 +478,8 @@ class GamePrintPack:
              "condition": "结束时慧≥14",
              "reward": "+12分", "penalty": "-4分"},
             {"name": "菩萨道", "role": "僧侣", "type": "困难",
-             "effect": "每回合：福+1",
-             "condition": "结束时福≥16\n且渡化≥3次",
+             "effect": "每回合：功德+1",
+             "condition": "结束时功德≥15\n且渡化≥3次",
              "reward": "+18分", "penalty": "-8分"},
         ]
         
@@ -535,12 +539,12 @@ class GamePrintPack:
              "condition": "团队获胜"},
             {"name": "观音愿",
              "quote": "千处祈求千处应",
-             "effect": "布施改为：\n给他人2财富，自己+2福",
+             "effect": "布施改为：\n给他人2资粮，自己+2功德",
              "condition": "帮助≥3名不同玩家"},
             {"name": "普贤愿",
              "quote": "礼敬诸佛，广修供养",
-             "effect": "每回合结束：\n1财富放入众生区",
-             "condition": "累计供养≥5财富"},
+             "effect": "每回合结束：\n1资粮放入众生区",
+             "condition": "累计供养≥5资粮"},
             {"name": "文殊愿",
              "quote": "以智慧剑斩烦恼",
              "effect": "修行时-1慧\n（基础收益）",
@@ -580,46 +584,46 @@ class GamePrintPack:
             c.drawString(x + 4*mm, y + 4*mm, card["condition"])
     
     def draw_collective_event_cards(self, c):
-        """绘制集体事件卡"""
+        """绘制集体事件卡（含英雄时刻·链式·条件触发）"""
         events = [
-            # 天灾共业 (4张) - 红色
+            # 天灾共业 (4张) - 红色，含英雄时刻
             {"name": "旱魃肆虐", "type": "天灾", "color": colors.Color(1.0, 0.9, 0.9),
-             "effect": "劫难+4\n每人选择：\nA:财-2，福+1\nB:财-1",
-             "note": "全A:劫难-2全体+1福"},
+             "effect": "劫难+4 | A/B同时揭示\nA:资-2功德+1 每多1人选A劫-1\nB:资-1 全B则劫难额外+2",
+             "note": "【英雄时刻】农夫开仓放粮：资-4功德+3劫-3，他人无需选"},
             {"name": "洪水滔天", "type": "天灾", "color": colors.Color(1.0, 0.9, 0.9),
-             "effect": "劫难+4\n每人选择：\nA:财-2，福+1\nB:财-1",
-             "note": "全B:劫难+3"},
+             "effect": "劫难+4 | A/B同时揭示\nA:资-2功德+1 每多1人A劫-1\nB:功德-1",
+             "note": "【英雄时刻】商人捐资筑堤：资-5功德+2劫-4，他人无需选；资≥10可免费"},
             {"name": "瘟疫流行", "type": "天灾", "color": colors.Color(1.0, 0.9, 0.9),
-             "effect": "劫难+4\n每人选择：\nA:财-2，福+1\nB:财-1",
-             "note": "使用A/B卡同时揭示"},
+             "effect": "劫难+5 | A/B揭示\nA:资-1慧-1功德+2 每多1人A劫-1\nB:慧-1",
+             "note": "【英雄】学者著书传方 或 僧侣诵经祈福，可多人同时宣布"},
             {"name": "蝗灾蔽日", "type": "天灾", "color": colors.Color(1.0, 0.9, 0.9),
-             "effect": "劫难+4\n每人选择：\nA:财-2，福+1\nB:财-1",
-             "note": "合作者越多劫难越少"},
+             "effect": "劫难+4 | 链式决策（按顺位）\nA跟随:资-2功德+1劫-2 B旁观:资-1\n全旁观:劫难额外+3",
+             "note": "【英雄时刻】资≤3选A时功德+2"},
             # 人祸共业 (2张) - 橙色
             {"name": "苛政如虎", "type": "人祸", "color": colors.Color(1.0, 0.95, 0.85),
-             "effect": "劫难+3\n所有人财富-1",
+             "effect": "劫难+3 所有人资粮-1\n条件:劫≥10改为劫+4资-2；任何人资=0改为功德-1",
+             "note": "【抵抗】慧≥8付慧-2取消全体资损，自己功德+2"},
+            {"name": "兵戈四起", "type": "人祸", "color": colors.Color(1.0, 0.95, 0.85),
+             "effect": "劫难+3 | 依次选:①缴军粮资-2 ②藏粮掷骰 ③挺身资-1功德+2劫-1",
+             "note": "【英雄时刻】僧侣调停止战：功德-4劫-5，他人无需选"},
+            # 共同功德 (6张) - 绿色
+            {"name": "风调雨顺", "type": "功德", "color": colors.Color(0.9, 1.0, 0.9),
+             "effect": "所有人资粮+1\n【丰年分享】可选:最高者分2资给最低者，双方各功德+1",
              "note": ""},
-            {"name": "战火将至", "type": "人祸", "color": colors.Color(1.0, 0.95, 0.85),
-             "effect": "劫难+3\n所有人财富-1",
+            {"name": "国泰民安", "type": "功德", "color": colors.Color(0.9, 1.0, 0.9),
+             "effect": "劫难-2\n【盛世庆典】若劫≤6:全体功德+1",
              "note": ""},
-            # 共同福报 (6张) - 绿色
-            {"name": "风调雨顺", "type": "福报", "color": colors.Color(0.9, 1.0, 0.9),
-             "effect": "所有人财富+1",
+            {"name": "浴佛盛会", "type": "功德", "color": colors.Color(0.9, 1.0, 0.9),
+             "effect": "所有人功德+1；皈依+1功德，大乘+1慧\n【虔诚供养】任选:资-2功德+2劫-1",
              "note": ""},
-            {"name": "国泰民安", "type": "福报", "color": colors.Color(0.9, 1.0, 0.9),
-             "effect": "劫难-2",
+            {"name": "盂兰盆节", "type": "功德", "color": colors.Color(0.9, 1.0, 0.9),
+             "effect": "所有人功德+1\n【超度功德】已渡化≥1则全体+1功德；未渡化则功德+0",
              "note": ""},
-            {"name": "浴佛盛会", "type": "福报", "color": colors.Color(0.9, 1.0, 0.9),
-             "effect": "所有人福+1\n皈依者额外+1福",
+            {"name": "高僧讲经", "type": "功德", "color": colors.Color(0.9, 1.0, 0.9),
+             "effect": "所有人慧+1；皈依额外+1慧\n【学者辅讲】可选:自己慧-1，其他所有人慧+1，自己功德+2",
              "note": ""},
-            {"name": "盂兰盆节", "type": "福报", "color": colors.Color(0.9, 1.0, 0.9),
-             "effect": "所有人福+1",
-             "note": ""},
-            {"name": "高僧讲经", "type": "福报", "color": colors.Color(0.9, 1.0, 0.9),
-             "effect": "所有人慧+1\n皈依者额外+1慧",
-             "note": ""},
-            {"name": "舍利现世", "type": "福报", "color": colors.Color(0.9, 1.0, 0.9),
-             "effect": "劫难-1\n所有人福+1",
+            {"name": "舍利现世", "type": "功德", "color": colors.Color(0.9, 1.0, 0.9),
+             "effect": "劫难-1 所有人功德+1\n【朝圣】任选:资-3→功德+3慧+1；全员皈依则劫额外-1",
              "note": ""},
         ]
         
@@ -631,7 +635,7 @@ class GamePrintPack:
                 c.setFont(FONT_NAME, 12)
                 start = i + 1
                 end = min(i + 6, len(events))
-                c.drawCentredString(PAGE_WIDTH/2, PAGE_HEIGHT - 15*mm, f"集体事件卡 ({start}-{end}/12) - 沿边框剪裁")
+                c.drawCentredString(PAGE_WIDTH/2, PAGE_HEIGHT - 15*mm, f"集体事件卡 ({start}-{end}/12) - 沿虚线剪裁")
             
             row = (i % 6) // 3
             col = (i % 6) % 3
@@ -663,42 +667,42 @@ class GamePrintPack:
         """绘制个人事件卡"""
         events = [
             # 经典故事 (8张)
-            {"name": "贫女一灯", "type": "故事", "effect": "若财≥2：财-2，福+3\n否则：福+1"},
-            {"name": "割肉喂鹰", "type": "故事", "effect": "福+2，财-1"},
-            {"name": "舍身饲虎", "type": "故事", "effect": "福+2"},
-            {"name": "目连救母", "type": "故事", "effect": "福+2"},
-            {"name": "须达拏太子", "type": "故事", "effect": "财-1，福+2"},
-            {"name": "鹿王本生", "type": "故事", "effect": "福+1，慧+1"},
-            {"name": "九色鹿", "type": "故事", "effect": "福+2"},
-            {"name": "释迦牟尼苦行", "type": "故事", "effect": "慧+2，财-1"},
+            {"name": "贫女一灯", "type": "故事", "effect": "若资≥2：资-2，功德+3\n否则：功德+1"},
+            {"name": "割肉喂鹰", "type": "故事", "effect": "功德+2，资-1"},
+            {"name": "舍身饲虎", "type": "故事", "effect": "功德+2"},
+            {"name": "目连救母", "type": "故事", "effect": "功德+2"},
+            {"name": "须达拏太子", "type": "故事", "effect": "资-1，功德+2"},
+            {"name": "鹿王本生", "type": "故事", "effect": "功德+1，慧+1"},
+            {"name": "九色鹿", "type": "故事", "effect": "功德+2"},
+            {"name": "释迦牟尼苦行", "type": "故事", "effect": "慧+2，资-1"},
             # 职业专属 (8张)
-            {"name": "丰年收成", "type": "农夫专属", "effect": "农夫：财+3\n其他：财+1"},
-            {"name": "歉收之年", "type": "农夫专属", "effect": "农夫：财-2，福+1\n其他：财-1"},
-            {"name": "大宗交易", "type": "商人专属", "effect": "商人：财+4\n其他：财+1"},
-            {"name": "海上风暴", "type": "商人专属", "effect": "商人：掷骰\n4+:财+3 1-3:财-2"},
-            {"name": "弟子求教", "type": "学者专属", "effect": "学者：慧+2，福+1\n其他：慧+1"},
-            {"name": "焚书之劫", "type": "学者专属", "effect": "学者：慧-1，福+2\n其他：慧-1"},
-            {"name": "皇帝供养", "type": "僧侣专属", "effect": "僧侣：财+3，福+2\n其他：福+1"},
-            {"name": "破戒边缘", "type": "僧侣专属", "effect": "僧侣：选择\n财-2福+1 或 福-2"},
+            {"name": "丰年收成", "type": "农夫专属", "effect": "农夫：资+3\n其他：资+1"},
+            {"name": "歉收之年", "type": "农夫专属", "effect": "农夫：资-2，功德+1\n其他：资-1"},
+            {"name": "大宗交易", "type": "商人专属", "effect": "商人：资+4\n其他：资+1"},
+            {"name": "海上风暴", "type": "商人专属", "effect": "商人：掷骰\n4+:资+3 1-3:资-2"},
+            {"name": "弟子求教", "type": "学者专属", "effect": "学者：慧+2，功德+1\n其他：慧+1"},
+            {"name": "焚书之劫", "type": "学者专属", "effect": "学者：慧-1，功德+2\n其他：慧-1"},
+            {"name": "皇帝供养", "type": "僧侣专属", "effect": "僧侣：资+3，功德+2\n其他：功德+1"},
+            {"name": "破戒边缘", "type": "僧侣专属", "effect": "僧侣：选择\n资-2功德+1 或 功德-2"},
             # 抉择类 (8张)
-            {"name": "一念之间", "type": "抉择", "effect": "选择：\n慧+2福-1 或 福+2慧-1"},
-            {"name": "神秘访客", "type": "抉择", "effect": "若财≥2可选：\n财-2，福+3"},
-            {"name": "拾金不昧", "type": "抉择", "effect": "选择：\n福+2 或 财+3福-1"},
-            {"name": "舍财救人", "type": "抉择", "effect": "选择：\n财-3，福+4 或 无"},
-            {"name": "诱惑考验", "type": "抉择", "effect": "选择：\n财+2慧-1 或 慧+1"},
-            {"name": "见死不救", "type": "抉择", "effect": "选择：\n无 或 财-2福+3"},
-            {"name": "施舍乞丐", "type": "抉择", "effect": "若财≥1可选：\n财-1，福+2"},
-            {"name": "智慧传承", "type": "抉择", "effect": "选择：\n慧-1给他人 福+1"},
+            {"name": "一念之间", "type": "抉择", "effect": "选择：\n慧+2功德-1 或 功德+2慧-1"},
+            {"name": "神秘访客", "type": "抉择", "effect": "若资≥2可选：\n资-2，功德+3"},
+            {"name": "拾金不昧", "type": "抉择", "effect": "选择：\n功德+2 或 资+3功德-1"},
+            {"name": "舍资救人", "type": "抉择", "effect": "选择：\n资-3，功德+4 或 无"},
+            {"name": "诱惑考验", "type": "抉择", "effect": "选择：\n资+2慧-1 或 慧+1"},
+            {"name": "见死不救", "type": "抉择", "effect": "选择：\n无 或 资-2功德+3"},
+            {"name": "施舍乞丐", "type": "抉择", "effect": "若资≥1可选：\n资-1，功德+2"},
+            {"name": "智慧传承", "type": "抉择", "effect": "选择：\n慧-1给他人 功德+1"},
             # 机遇命运 (4张)
-            {"name": "发现伏藏", "type": "机遇", "effect": "掷骰：\n5-6:慧+3福+2\n3-4:慧+1\n1-2:无"},
-            {"name": "遇见高人", "type": "机遇", "effect": "掷骰：\n4+:慧+2\n1-3:福+1"},
-            {"name": "命运之轮", "type": "机遇", "effect": "掷骰：\n5-6:福+2慧+2\n1-2:财-1福-1"},
+            {"name": "发现伏藏", "type": "机遇", "effect": "掷骰：\n5-6:慧+3功德+2\n3-4:慧+1\n1-2:无"},
+            {"name": "遇见高人", "type": "机遇", "effect": "掷骰：\n4+:慧+2\n1-3:功德+1"},
+            {"name": "命运之轮", "type": "机遇", "effect": "掷骰：\n5-6:功德+2慧+2\n1-2:资-1功德-1"},
             {"name": "奇遇仙人", "type": "机遇", "effect": "掷骰：\n6:全部资源+2\n1:全部资源-1"},
             # 互动类 (4张)
-            {"name": "求助他人", "type": "互动", "effect": "请求任一玩家\n给你1财富\n对方若同意+1福"},
+            {"name": "求助他人", "type": "互动", "effect": "请求任一玩家\n给你1资粮\n对方若同意+1功德"},
             {"name": "共修因缘", "type": "互动", "effect": "选1名玩家\n双方各+1慧"},
-            {"name": "布施供养", "type": "互动", "effect": "给任一玩家1财\n双方各+1福"},
-            {"name": "切磋论道", "type": "互动", "effect": "选1名玩家\n双方各+1慧+1福"},
+            {"name": "布施供养", "type": "互动", "effect": "给任一玩家1资\n双方各+1功德"},
+            {"name": "切磋论道", "type": "互动", "effect": "选1名玩家\n双方各+1慧+1功德"},
         ]
         
         for i, event in enumerate(events):
@@ -788,10 +792,10 @@ class GamePrintPack:
             c.line(x + 5*mm, y + CARD_HEIGHT - 28*mm, x + CARD_WIDTH - 5*mm, y + CARD_HEIGHT - 28*mm)
             
             c.setFont(FONT_NAME, 10)
-            c.drawCentredString(x + CARD_WIDTH/2, y + CARD_HEIGHT - 40*mm, f"渡化成本：{being['cost']}财富")
+            c.drawCentredString(x + CARD_WIDTH/2, y + CARD_HEIGHT - 40*mm, f"渡化成本：{being['cost']}资粮")
             
             c.setFont(FONT_NAME, 9)
-            c.drawCentredString(x + CARD_WIDTH/2, y + CARD_HEIGHT - 55*mm, f"奖励：福+{being['fu']}  慧+{being['hui']}")
+            c.drawCentredString(x + CARD_WIDTH/2, y + CARD_HEIGHT - 55*mm, f"奖励：功德+{being['fu']}  慧+{being['hui']}")
             
             c.setFont(FONT_NAME, 8)
             c.drawCentredString(x + CARD_WIDTH/2, y + 8*mm, "2回合不渡化则消失")
@@ -825,11 +829,11 @@ class GamePrintPack:
             c.drawCentredString(x + card_w/2, y + card_h - 10*mm, "行动提示卡")
             
             actions = [
-                ("劳作", "+3财富（农夫+4）"),
+                ("劳作", "+3资粮（农夫+4）"),
                 ("修行", "+2慧（学者+4）"),
-                ("布施", "-2财，+2福（商人+4）"),
+                ("布施", "-2资，+2功德（商人+4）"),
                 ("渡化", "需慧≥5，支付成本"),
-                ("护法", "-2财，+1福，劫难-2"),
+                ("护法", "-2资，+1功德，劫难-2"),
             ]
             
             c.setFont(FONT_NAME, 9)
@@ -979,9 +983,9 @@ class GamePrintPack:
         c.setFont(FONT_NAME, 12)
         c.drawCentredString(PAGE_WIDTH/2, PAGE_HEIGHT - 15*mm, "资源标记 - 剪裁后可折叠立起使用")
         
-        # 财富标记（金色）
+        # 资粮标记（金色）
         c.setFont(FONT_NAME, 10)
-        c.drawString(MARGIN, PAGE_HEIGHT - 35*mm, "财富标记（建议30个）")
+        c.drawString(MARGIN, PAGE_HEIGHT - 35*mm, "资粮标记（建议30个）")
         
         token_size = 15 * mm
         for i in range(30):
@@ -994,11 +998,11 @@ class GamePrintPack:
             c.circle(x + token_size/2, y + token_size/2, token_size/2 - 1*mm, fill=1, stroke=1)
             c.setFillColor(colors.black)
             c.setFont(FONT_NAME, 10)
-            c.drawCentredString(x + token_size/2, y + token_size/2 - 3*mm, "财")
+            c.drawCentredString(x + token_size/2, y + token_size/2 - 3*mm, "资")
         
-        # 福标记（红色）
+        # 功德标记（红色）
         c.setFont(FONT_NAME, 10)
-        c.drawString(MARGIN, PAGE_HEIGHT - 115*mm, "福标记（建议30个）")
+        c.drawString(MARGIN, PAGE_HEIGHT - 115*mm, "功德标记（建议30个）")
         
         for i in range(30):
             row = i // 10
@@ -1010,7 +1014,7 @@ class GamePrintPack:
             c.circle(x + token_size/2, y + token_size/2, token_size/2 - 1*mm, fill=1, stroke=1)
             c.setFillColor(colors.black)
             c.setFont(FONT_NAME, 10)
-            c.drawCentredString(x + token_size/2, y + token_size/2 - 3*mm, "福")
+            c.drawCentredString(x + token_size/2, y + token_size/2 - 3*mm, "功德")
         
         # 慧标记（蓝色）
         c.setFont(FONT_NAME, 10)
@@ -1054,7 +1058,7 @@ class GamePrintPack:
 
 def main():
     print("=" * 50)
-    print("《功德轮回》v4.7 打印制作包生成器")
+    print("《功德轮回》v5.0 打印制作包生成器")
     print("=" * 50)
     
     # 检查reportlab

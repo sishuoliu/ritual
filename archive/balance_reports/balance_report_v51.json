@@ -1,0 +1,87 @@
+{
+  "team_win_rate": 0.9996,
+  "role_win_rates": {
+    "学者": 0.7423969587835134,
+    "农夫": 0.6385554221688675,
+    "商人": 0.5199079631852741,
+    "僧侣": 0.3552420968387355
+  },
+  "role_avg_scores": {
+    "农夫": 75.62625050020009,
+    "商人": 73.74169667867147,
+    "学者": 76.68367346938776,
+    "僧侣": 71.05962384953982
+  },
+  "role_vow_rates": {
+    "农夫": 0.8835534213685474,
+    "商人": 0.7989195678271308,
+    "学者": 0.915766306522609,
+    "僧侣": 0.6679671868747499
+  },
+  "resource_economy": {
+    "avg_wealth_end": {
+      "农夫": 5.1955,
+      "商人": 6.0716,
+      "学者": 5.5227,
+      "僧侣": 4.8161
+    },
+    "avg_merit_end": {
+      "农夫": 43.8407,
+      "商人": 40.0373,
+      "学者": 23.1887,
+      "僧侣": 29.4944
+    },
+    "avg_hui_end": {
+      "农夫": 11.5039,
+      "商人": 9.6012,
+      "学者": 26.0394,
+      "僧侣": 16.4112
+    }
+  },
+  "action_usage": {
+    "农夫": {
+      "ActionType.PRACTICE": 1.7992,
+      "ActionType.SAVE": 4.8262,
+      "ActionType.LABOR": 4.7774,
+      "ActionType.DONATE": 0.597,
+      "ActionType.PROTECT": 0.0002
+    },
+    "商人": {
+      "ActionType.PRACTICE": 2.3876,
+      "ActionType.DONATE": 4.9415,
+      "ActionType.LABOR": 3.7169,
+      "ActionType.SAVE": 0.954
+    },
+    "学者": {
+      "ActionType.SAVE": 1.4832,
+      "ActionType.LABOR": 4.9337,
+      "ActionType.DONATE": 2.4469,
+      "ActionType.PRACTICE": 3.1362
+    },
+    "僧侣": {
+      "ActionType.LABOR": 6.0255,
+      "ActionType.SAVE": 0.7342,
+      "ActionType.PRACTICE": 2.495,
+      "ActionType.DONATE": 2.7453
+    }
+  },
+  "tension": {
+    "avg_calamity_margin": 26.5569,
+    "tight_games": 0.0,
+    "comfortable_games": 0.9991
+  },
+  "calamity_stats": {
+    "avg_final_calamity": -6.5569,
+    "avg_saved": 7.9976
+  },
+  "vow_achievement_rates": {
+    "勤劳致功德": 0.9998577524893314,
+    "资施功德": 0.985828800458059,
+    "万世师表": 0.9095127610208816,
+    "阿罗汉果": 0.9574193548387097,
+    "传道授业": 0.9183731920378061,
+    "菩萨道": 0.0006611570247933885,
+    "大商人之心": 0.36562707365627073,
+    "贫女一灯": 0.6084175084175084
+  }
+}
