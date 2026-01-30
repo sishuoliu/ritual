@@ -5,11 +5,14 @@
 | 文件 | 说明 |
 |------|------|
 | `功德轮回_完整规则书_v5.8_FINAL.md` | 完整游戏规则（中文） |
+| `游戏快速入门.md` | 新手必读！快速了解游戏 |
 | `print_pack_v58_FINAL.html` | 打印即玩包（A4纸打印） |
+| `print_pack_v58_FINAL.pdf` | 打印即玩包 PDF 版本 |
 | `simulator_v58_FINAL.py` | 平衡性测试模拟器 |
 | `balance_v58_FINAL.txt` | 最终平衡性测试报告 |
 | `人间炼狱扩展包设计.md` | 高难度扩展设计 |
 | `打印制作指南.md` | 打印制作说明 |
+| `html_to_pdf.py` | PDF 生成脚本 |
 
 ## 游玩所需
 
