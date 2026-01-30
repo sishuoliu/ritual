@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-《功德轮回》v5.7 全面平衡模拟器
-包含所有机制：皈依时机、大乘舍离、菩萨行愿能力、行持约束、僧侣护法专精、互助行动等
+《功德轮回》v6.0 全面平衡模拟器
+包含所有机制：皈依时机、大乘舍离、菩萨行愿能力、行持约束、僧侣护法专精、互助行动、共业倍率
+v6.0更新：职业平衡调整、共业倍率机制
 """
 
 import random
@@ -67,11 +68,11 @@ class EventType(Enum):
 @dataclass
 class GameConfig:
     """游戏配置参数"""
-    # 初始资源 (资粮, 功德, 慧)
-    init_farmer: Tuple[int, int, int] = (4, 2, 2)
+    # 初始资源 (资粮, 功德, 慧) v6.0调整
+    init_farmer: Tuple[int, int, int] = (5, 2, 3)   # v6.0: 资4→5, 慧2→3 增强农夫
     init_merchant: Tuple[int, int, int] = (8, 2, 1)
     init_scholar: Tuple[int, int, int] = (4, 2, 5)
-    init_monk: Tuple[int, int, int] = (1, 6, 5)
+    init_monk: Tuple[int, int, int] = (1, 5, 5)     # v6.0: 功德6→5 削弱僧侣
     
     # 不皈依奖励 (v5.5增强)
     secular_init_wealth: int = 5  # 4→5
@@ -103,23 +104,23 @@ class GameConfig:
     disaster_base_calamity_adj: int = 6  # 5→6 恢复压力
     misfortune_base_calamity_adj: int = 5  # 4→5 恢复压力
     
-    # 行动效果
+    # 行动效果 v6.0调整
     labor_base: int = 3
-    labor_farmer_bonus: int = 1
+    labor_farmer_bonus: int = 2   # v6.0: 1→2 农夫劳作+5资（之前+4）
     practice_base: int = 2
     practice_scholar_bonus: int = 1
     donate_cost: int = 2
     donate_merit: int = 1
     donate_calamity: int = 1
-    donate_merchant_bonus: int = 2
+    donate_merchant_bonus: int = 2   # v6.0: 恢复为2（商人特色）
     protect_cost: int = 2
     protect_merit: int = 3  # v5.5: 2→3 (增强吸引力)
     protect_calamity: int = 3
     protect_crisis_bonus: int = 1  # v5.5: 劫难>=8时额外功德
     protect_crisis_threshold: int = 8  # v5.5: 10→8 (更易触发)
     protect_team_save_bonus: int = 1  # v5.6新增: 护法后本回合队友渡化+1功德
-    # v5.7: 僧侣护法专精
-    monk_protect_cost: int = 1  # 僧侣护法成本
+    # v5.7/v6.0: 僧侣护法专精
+    monk_protect_cost: int = 2  # v6.0: 1→2 僧侣护法成本恢复正常
     monk_protect_merit_bonus: int = 1  # 僧侣护法额外功德
     monk_protect_blessing_bonus: int = 1  # 僧侣护法祝福额外加成
     # v5.7: 互助行动
@@ -163,21 +164,21 @@ class GameConfig:
     # 发愿条件 (v5.3 final)
     # 目标：简单愿~70%，困难愿~40%，菩萨愿~10%
     
-    # === 简单发愿 (目标70%) ===
-    vow_diligent_merit: int = 14      # 勤劳致功德 v5.8: 略降 15→14
-    vow_charity_donate: int = 5       # 资施功德 v5.8: 降低 7→5 (平均布施5.6)
-    vow_teaching_hui: int = 19        # 传道授业 92.0%→加难 16→19
-    vow_arhat_hui: int = 13           # 阿罗汉果 70.8%→合适
+    # === 简单发愿 (目标70%) v6.0调整 ===
+    vow_diligent_merit: int = 16      # v6.0: 14→16 勤劳致功德（86%→降低）
+    vow_charity_donate: int = 6       # v6.0: 5→6 资施功德（76%→降低）
+    vow_teaching_hui: int = 18        # v6.0: 19→18 传道授业（54%→提高）
+    vow_arhat_hui: int = 12           # v6.0: 13→12 阿罗汉果（57%→提高）
     
-    # === 困难发愿 (目标40%) ===
-    vow_poor_girl_merit: int = 16     # 贫女一灯 24.6%→放宽 18→16
-    vow_poor_girl_wealth: int = 10    # 放宽 8→10
-    vow_great_merchant_merit: int = 32  # 大商人之心 68.7%→加难 28→32
+    # === 困难发愿 (目标40%) v6.0调整 ===
+    vow_poor_girl_merit: int = 14     # v6.0: 16→14 贫女一灯（45%→提高）
+    vow_poor_girl_wealth: int = 12    # v6.0: 10→12 放宽资粮限制
+    vow_great_merchant_merit: int = 26  # v6.0: 32→26 大商人之心（36%→提高）
     vow_great_merchant_save: int = 0
-    vow_master_merit: int = 14        # 万世师表 55.6%→加难 12→14
-    vow_master_hui: int = 19          # 18→19
-    vow_bodhisattva_merit: int = 22   # 菩萨道 70.8%→加难 20→22
-    vow_bodhisattva_save: int = 3     # 2→3
+    vow_master_merit: int = 12        # v6.0: 14→12 万世师表（50%→合适）
+    vow_master_hui: int = 18          # v6.0: 19→18
+    vow_bodhisattva_merit: int = 20   # v6.0: 22→20 菩萨道（57%→合适）
+    vow_bodhisattva_save: int = 2     # v6.0: 3→2
     
     # === 菩萨愿条件 (v5.5 final) ===
     # 目标达成率：15-25%（困难但可达成，有成就感）
@@ -188,18 +189,18 @@ class GameConfig:
     bvow_samantabhadra_save: int = 6     # 团队渡化≥6
     bvow_manjusri_assist: int = 3        # 文殊愿：协助渡化≥3
     
-    # 发愿分数 (成功分, 失败分)
+    # 发愿分数 (成功分, 失败分) v6.0调整
     vow_scores: dict = field(default_factory=lambda: {
         # 简单发愿：中等奖励，中等惩罚
-        "勤劳致功德": (12, -4),  # v5.8: 10→12 提升农夫
-        "资施功德": (10, -4),
+        "勤劳致功德": (12, -4),  # v6.0: 保持12（农夫已增强）
+        "资施功德": (12, -4),    # v6.0: 10→12 增强商人
         "传道授业": (10, -4),
         "阿罗汉果": (10, -4),
         # 困难发愿：高奖励，中等惩罚
-        "贫女一灯": (20, -6),   # v5.8: 18→20 提升农夫
-        "大商人之心": (18, -6),
+        "贫女一灯": (18, -6),   # v6.0: 恢复18
+        "大商人之心": (20, -6), # v6.0: 18→20 增强商人
         "万世师表": (16, -6),
-        "菩萨道": (16, -6),
+        "菩萨道": (16, -6),     # v6.0: 恢复16
     })
     # 菩萨愿分数：极高奖励，低惩罚（鼓励挑战）
     bvow_scores: dict = field(default_factory=lambda: {
@@ -214,6 +215,13 @@ class GameConfig:
     win_calamity: int = 12
     win_save: int = 5
     total_rounds: int = 6
+    
+    # v6.0: 共业倍率机制
+    karma_multiplier_levels: list = field(default_factory=lambda: [
+        (4, 1.5),   # 劫难0-4: ×1.5 净土境界
+        (8, 1.2),   # 劫难5-8: ×1.2 功德圆满
+        (12, 1.0),  # 劫难9-12: ×1.0 勉强成功
+    ])
 
 # ============== 玩家状态 ==============
 
@@ -816,8 +824,15 @@ class GameEngine:
             return player.save_count >= config.bvow_manjusri_assist and total_help >= 6
         return False
     
-    def calculate_personal_score(self, player: Player, team_win: bool, vow_achieved: bool, bvow_achieved: bool) -> int:
-        """计算个人得分 (v5.7新增)"""
+    def get_karma_multiplier(self, calamity: int) -> float:
+        """v6.0: 获取共业倍率"""
+        for threshold, multiplier in self.config.karma_multiplier_levels:
+            if calamity <= threshold:
+                return multiplier
+        return 1.0  # 默认×1.0
+    
+    def calculate_personal_score(self, player: Player, team_win: bool, vow_achieved: bool, bvow_achieved: bool, calamity: int = 0) -> int:
+        """计算个人得分 (v6.0更新：加入共业倍率)"""
         if not team_win:
             return 0  # 团队失败全员0分
         
@@ -873,8 +888,13 @@ class GameEngine:
         # 5. 英雄标记
         hero_score = player.hero_marks * 5
         
-        # 总分
-        return max(0, base_score + vow_score + bvow_score + hero_score)
+        # 6. v6.0: 共业倍率
+        karma_multiplier = self.get_karma_multiplier(calamity)
+        
+        # 总分（应用共业倍率）
+        raw_score = base_score + vow_score + bvow_score + hero_score
+        final_score = int(raw_score * karma_multiplier)
+        return max(0, final_score)
     
     def run_game(self) -> Dict:
         """运行一局游戏"""
@@ -949,8 +969,8 @@ class GameEngine:
             vow_achieved = self.check_vow(p, state) if p.vow else False
             bvow_achieved = self.check_bodhisattva_vow(p, state) if p.bodhisattva_vow else False
             
-            # v5.7: 计算个人得分
-            personal_score = self.calculate_personal_score(p, team_win, vow_achieved, bvow_achieved)
+            # v6.0: 计算个人得分（含共业倍率）
+            personal_score = self.calculate_personal_score(p, team_win, vow_achieved, bvow_achieved, state.calamity)
             
             player_result = {
                 "role": p.role.value,

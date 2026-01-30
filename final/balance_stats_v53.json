@@ -1,0 +1,244 @@
+{
+  "total_games": 5000,
+  "team_wins": 3974,
+  "team_win_rate": 0.7948,
+  "avg_calamity": 6.5414,
+  "avg_saves": 6.9562,
+  "by_role": {
+    "农夫": {
+      "count": 5000,
+      "avg_merit": 22.2558,
+      "avg_hui": 8.7952,
+      "avg_wealth": 15.8512,
+      "vow_achieved": 3694,
+      "avg_labor": 5.013,
+      "avg_practice": 0.8006,
+      "avg_donate": 1.9668,
+      "avg_save": 1.914,
+      "avg_protect": 1.4294,
+      "avg_score": 65.2518,
+      "first_place": 1034,
+      "rank_1": 1034,
+      "rank_2": 842,
+      "rank_3": 857,
+      "rank_4": 1241,
+      "first_rate": 0.2068,
+      "vow_rate": 0.7388,
+      "score_std": 44.099954611767856,
+      "score_var": 1944.8059967599847,
+      "score_median": 77,
+      "score_min": 0,
+      "score_max": 162,
+      "rank_1_rate": 0.2068,
+      "rank_2_rate": 0.1684,
+      "rank_3_rate": 0.1714,
+      "rank_4_rate": 0.2482
+    },
+    "商人": {
+      "count": 5000,
+      "avg_merit": 28.721,
+      "avg_hui": 3.6728,
+      "avg_wealth": 3.8556,
+      "vow_achieved": 3268,
+      "avg_labor": 3.026,
+      "avg_practice": 0.7062,
+      "avg_donate": 5.6492,
+      "avg_save": 0.1194,
+      "avg_protect": 0.57,
+      "avg_score": 68.3562,
+      "first_place": 1207,
+      "rank_1": 1207,
+      "rank_2": 706,
+      "rank_3": 960,
+      "rank_4": 1101,
+      "first_rate": 0.2414,
+      "vow_rate": 0.6536,
+      "score_std": 46.17564857757819,
+      "score_var": 2132.190521559998,
+      "score_median": 73,
+      "score_min": 0,
+      "score_max": 165,
+      "rank_1_rate": 0.2414,
+      "rank_2_rate": 0.1412,
+      "rank_3_rate": 0.192,
+      "rank_4_rate": 0.2202
+    },
+    "学者": {
+      "count": 5000,
+      "avg_merit": 15.9824,
+      "avg_hui": 20.6132,
+      "avg_wealth": 2.9344,
+      "vow_achieved": 3064,
+      "avg_labor": 2.9484,
+      "avg_practice": 3.773,
+      "avg_donate": 1.6158,
+      "avg_save": 1.7808,
+      "avg_protect": 0.429,
+      "avg_score": 69.7438,
+      "first_place": 842,
+      "rank_1": 842,
+      "rank_2": 1236,
+      "rank_3": 1062,
+      "rank_4": 834,
+      "first_rate": 0.1684,
+      "vow_rate": 0.6128,
+      "score_std": 41.31793026713685,
+      "score_var": 1707.1713615599833,
+      "score_median": 90,
+      "score_min": 0,
+      "score_max": 150,
+      "rank_1_rate": 0.1684,
+      "rank_2_rate": 0.2472,
+      "rank_3_rate": 0.2124,
+      "rank_4_rate": 0.1668
+    },
+    "僧侣": {
+      "count": 5000,
+      "avg_merit": 23.7798,
+      "avg_hui": 12.6778,
+      "avg_wealth": 2.2616,
+      "vow_achieved": 3283,
+      "avg_labor": 4.7106,
+      "avg_practice": 1.0512,
+      "avg_donate": 2.1084,
+      "avg_save": 3.142,
+      "avg_protect": 0.2766,
+      "avg_score": 73.4332,
+      "first_place": 891,
+      "rank_1": 891,
+      "rank_2": 1190,
+      "rank_3": 1095,
+      "rank_4": 798,
+      "first_rate": 0.1782,
+      "vow_rate": 0.6566,
+      "score_std": 43.172777739682786,
+      "score_var": 1863.8887377600495,
+      "score_median": 90,
+      "score_min": 0,
+      "score_max": 159,
+      "rank_1_rate": 0.1782,
+      "rank_2_rate": 0.238,
+      "rank_3_rate": 0.219,
+      "rank_4_rate": 0.1596
+    }
+  },
+  "by_faith": {
+    "不皈依": {
+      "count": 4571,
+      "avg_merit": 18.87836359658718,
+      "avg_hui": 12.514110697877927,
+      "vow_achieved": 2784,
+      "vow_rate": 0.609057099103041
+    },
+    "皈依": {
+      "count": 8328,
+      "avg_merit": 25.384846301633043,
+      "avg_hui": 12.612632084534102,
+      "vow_achieved": 6518,
+      "vow_rate": 0.7826609029779059
+    },
+    "大乘": {
+      "count": 7101,
+      "avg_merit": 21.96831432192649,
+      "avg_hui": 9.372623574144487,
+      "vow_achieved": 4007,
+      "vow_rate": 0.5642867201802563
+    }
+  },
+  "by_sacrifice": {
+    "舍功德迴向": {
+      "count": 2368,
+      "avg_merit": 21.97381756756757,
+      "vow_achieved": 1533,
+      "bvow_achieved": 581,
+      "vow_rate": 0.6473817567567568,
+      "bvow_rate": 0.24535472972972974
+    },
+    "舍资施众": {
+      "count": 2423,
+      "avg_merit": 21.428807263722657,
+      "vow_achieved": 1510,
+      "bvow_achieved": 525,
+      "vow_rate": 0.6231943871234007,
+      "bvow_rate": 0.21667354519191084
+    },
+    "舍慧度众": {
+      "count": 2310,
+      "avg_merit": 22.52857142857143,
+      "vow_achieved": 964,
+      "bvow_achieved": 364,
+      "vow_rate": 0.4173160173160173,
+      "bvow_rate": 0.15757575757575756
+    }
+  },
+  "by_vow": {
+    "勤劳致功德": {
+      "count": 3495,
+      "achieved": 2934,
+      "rate": 0.8394849785407725
+    },
+    "资施功德": {
+      "count": 3504,
+      "achieved": 2121,
+      "rate": 0.6053082191780822
+    },
+    "传道授业": {
+      "count": 3549,
+      "achieved": 2205,
+      "rate": 0.621301775147929
+    },
+    "阿罗汉果": {
+      "count": 3533,
+      "achieved": 2292,
+      "rate": 0.6487404472120011
+    },
+    "贫女一灯": {
+      "count": 1505,
+      "achieved": 760,
+      "rate": 0.5049833887043189
+    },
+    "菩萨道": {
+      "count": 1467,
+      "achieved": 991,
+      "rate": 0.6755282890252216
+    },
+    "万世师表": {
+      "count": 1451,
+      "achieved": 859,
+      "rate": 0.5920055134390075
+    },
+    "大商人之心": {
+      "count": 1496,
+      "achieved": 1147,
+      "rate": 0.7667112299465241
+    }
+  },
+  "by_bvow": {
+    "普贤愿": {
+      "count": 1780,
+      "achieved": 309,
+      "rate": 0.17359550561797754
+    },
+    "地藏愿": {
+      "count": 1800,
+      "achieved": 314,
+      "rate": 0.17444444444444446
+    },
+    "观音愿": {
+      "count": 1779,
+      "achieved": 596,
+      "rate": 0.3350196739741428
+    },
+    "文殊愿": {
+      "count": 1742,
+      "achieved": 251,
+      "rate": 0.14408725602755454
+    }
+  },
+  "action_stats": {
+    "avg_donate": 2.83505,
+    "avg_save": 1.73905,
+    "avg_protect": 0.67625
+  },
+  "mahayana_penalty_rate": 0.6807491902548937
+}
