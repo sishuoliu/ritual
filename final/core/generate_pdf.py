@@ -4,8 +4,9 @@
 import subprocess
 import os
 
-html_file = os.path.abspath("print_pack_core_v1.html")
-pdf_file = os.path.abspath("print_pack_core_v1.pdf")
+# 可以指定要转换的文件
+html_file = os.path.abspath("print_pack_core_v1.1_COMPLETE.html")
+pdf_file = os.path.abspath("print_pack_core_v1.1_COMPLETE.pdf")
 
 # 尝试使用Edge headless
 edge_paths = [
@@ -16,13 +17,14 @@ edge_paths = [
 for edge_path in edge_paths:
     if os.path.exists(edge_path):
         try:
+            html_url = "file:///" + html_file.replace("\\", "/")
             subprocess.run([
                 edge_path,
                 "--headless",
                 "--disable-gpu",
                 f"--print-to-pdf={pdf_file}",
-                f"file:///{html_file.replace(os.sep, '/')}"
-            ], check=True, timeout=60)
+                html_url
+            ], check=True, timeout=120)
             print(f"已生成: {pdf_file}")
             break
         except Exception as e:
