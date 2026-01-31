@@ -1,0 +1,103 @@
+{
+  "total_games": 5000,
+  "team_wins": 2584,
+  "avg_calamity": 8.7202,
+  "avg_saves": 5.1528,
+  "by_role": {
+    "农夫": {
+      "count": 5000,
+      "avg_merit": 20.3964,
+      "avg_hui": 5.5204,
+      "avg_score": 22.1264,
+      "vow_achieved": 3526,
+      "rank_1": 655,
+      "rank_4": 541,
+      "vow_rate": 0.7052,
+      "rank_1_rate": 0.131,
+      "rank_4_rate": 0.1082,
+      "score_std": 22.708104787497966
+    },
+    "商人": {
+      "count": 5000,
+      "avg_merit": 26.94,
+      "avg_hui": 3.1872,
+      "avg_score": 22.4648,
+      "vow_achieved": 2824,
+      "rank_1": 731,
+      "rank_4": 512,
+      "vow_rate": 0.5648,
+      "rank_1_rate": 0.1462,
+      "rank_4_rate": 0.1024,
+      "score_std": 23.08637608980667
+    },
+    "学者": {
+      "count": 5000,
+      "avg_merit": 12.7252,
+      "avg_hui": 19.2668,
+      "avg_score": 21.6976,
+      "vow_achieved": 2385,
+      "rank_1": 530,
+      "rank_4": 605,
+      "vow_rate": 0.477,
+      "rank_1_rate": 0.106,
+      "rank_4_rate": 0.121,
+      "score_std": 22.19586795419345
+    },
+    "僧侣": {
+      "count": 5000,
+      "avg_merit": 20.9634,
+      "avg_hui": 8.0476,
+      "avg_score": 21.3416,
+      "vow_achieved": 1834,
+      "rank_1": 668,
+      "rank_4": 926,
+      "vow_rate": 0.3668,
+      "rank_1_rate": 0.1336,
+      "rank_4_rate": 0.1852,
+      "score_std": 22.504393114234137
+    }
+  },
+  "by_vow": {
+    "勤劳致功德": {
+      "count": 3518,
+      "achieved": 3026,
+      "rate": 0.8601478112563957
+    },
+    "资施功德": {
+      "count": 3516,
+      "achieved": 1805,
+      "rate": 0.5133674630261661
+    },
+    "传道授业": {
+      "count": 3481,
+      "achieved": 1905,
+      "rate": 0.5472565354783109
+    },
+    "阿罗汉果": {
+      "count": 3481,
+      "achieved": 978,
+      "rate": 0.28095374892272335
+    },
+    "贫女一灯": {
+      "count": 1482,
+      "achieved": 500,
+      "rate": 0.33738191632928477
+    },
+    "万世师表": {
+      "count": 1519,
+      "achieved": 480,
+      "rate": 0.31599736668861095
+    },
+    "大商人之心": {
+      "count": 1484,
+      "achieved": 1019,
+      "rate": 0.6866576819407008
+    },
+    "菩萨道": {
+      "count": 1519,
+      "achieved": 856,
+      "rate": 0.5635286372613562
+    }
+  },
+  "team_win_rate": 0.5168
+}
