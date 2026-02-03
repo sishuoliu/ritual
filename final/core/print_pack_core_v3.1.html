@@ -564,7 +564,7 @@
             <tr><td>游戏主板（左+右）</td><td>2张</td><td>P4-5</td><td>A4拼接成完整游戏板</td></tr>
             <tr><td>角色板</td><td>4张</td><td>P6-7</td><td>农夫/商人/学者/僧侣</td></tr>
             <tr><td>集体事件卡</td><td>12张</td><td>P8-9</td><td>红边，天灾/人祸/功德</td></tr>
-            <tr><td>个人事件卡</td><td>36张</td><td>P10-16</td><td>混合牌堆，每回合抽2选1</td></tr>
+            <tr><td>个人事件卡</td><td>36张</td><td>P10-16</td><td>职业堆(每人3张) + 通用堆</td></tr>
             <tr><td>众生卡</td><td>10张</td><td>P17-18</td><td>灰边</td></tr>
             <tr><td>发愿卡</td><td>8张</td><td>P19</td><td>绿/橙边</td></tr>
             <tr><td>菩萨行愿卡</td><td>4张</td><td>P20</td><td>紫边</td></tr>
@@ -635,7 +635,7 @@
             <tr><th>阶段</th><th>内容</th></tr>
             <tr><td><b>1. 集体事件</b></td><td>翻开1张集体事件卡，全体按卡牌指示执行抉择</td></tr>
             <tr><td><b>2. 众生阶段</b></td><td>场上众生滞留+1，超时（≥2）未渡化：劫难+5并移除</td></tr>
-            <tr><td><b>3. 个人事件</b></td><td>每人<b>抽2张选1张</b>执行，另1张放回牌底</td></tr>
+            <tr><td><b>3. 个人事件</b></td><td>职业堆抽1 + 通用堆抽1，选1执行</td></tr>
             <tr><td><b>4. 行动阶段</b></td><td>按顺序，每人执行 <b>2次行动</b>（见下方行动表）</td></tr>
             <tr><td><b>5. 回合结束</b></td><td><b>偶数回合</b>（2/4/6）：全体资粮-1</td></tr>
         </table>
@@ -839,29 +839,29 @@
             <div class="round-track">
                 <div class="round-cell odd">
                     <span class="round-num">1</span>
-                    抽2选1
+                    职业+通用<br>各抽1选1
                 </div>
                 <div class="round-cell even">
                     <span class="round-num">2</span>
-                    抽2选1<br>
+                    职业+通用<br>
                     <b>资粮-1</b>
                 </div>
                 <div class="round-cell odd">
                     <span class="round-num">3</span>
-                    抽2选1
+                    职业+通用<br>各抽1选1
                 </div>
                 <div class="round-cell even">
                     <span class="round-num">4</span>
-                    抽2选1<br>
+                    职业+通用<br>
                     <b>资粮-1</b>
                 </div>
                 <div class="round-cell odd">
                     <span class="round-num">5</span>
-                    抽2选1
+                    职业+通用<br>各抽1选1
                 </div>
                 <div class="round-cell even" style="background: #ffcdd2;">
                     <span class="round-num">6</span>
-                    抽2选1<br>
+                    职业+通用<br>
                     <b>资粮-1</b><br>
                     <b>终局结算</b>
                 </div>
@@ -1412,7 +1412,7 @@
 <!-- ==================== 第10-17页：个人事件卡（简化版，每页6张） ==================== -->
 <div class="page">
     <div class="page-title">个人事件卡 PERSONAL EVENTS (1/6)</div>
-    <div class="page-subtitle">混合牌堆 | 每回合抽2选1 | 职业专属有加成</div>
+    <div class="page-subtitle">职业专属卡（每人3张）| 放入自己的职业堆</div>
     
     <div class="card-grid">
         <!-- 农夫事件 -->
@@ -1513,7 +1513,7 @@
 
 <div class="page">
     <div class="page-title">个人事件卡 PERSONAL EVENTS (2/6)</div>
-    <div class="page-subtitle">混合牌堆 | 每回合抽2选1 | 职业专属有加成</div>
+    <div class="page-subtitle">职业专属卡（每人3张）| 放入自己的职业堆</div>
     
     <div class="card-grid">
         <!-- 学者事件 -->
@@ -1614,7 +1614,7 @@
 <!-- 新增职业专属卡页面 -->
 <div class="page">
     <div class="page-title">个人事件卡 PERSONAL EVENTS (3/6)</div>
-    <div class="page-subtitle">混合牌堆 | 每回合抽2选1 | 职业专属有加成</div>
+    <div class="page-subtitle">职业专属卡（每人3张）| 放入自己的职业堆</div>
     
     <div class="card-grid">
         <!-- 农夫新增 -->
@@ -1721,7 +1721,7 @@
 
 <div class="page">
     <div class="page-title">个人事件卡 PERSONAL EVENTS (4/6)</div>
-    <div class="page-subtitle">混合牌堆 | 每回合抽2选1 | 经典佛教故事</div>
+    <div class="page-subtitle">通用事件卡 | 放入共用通用堆 | 经典佛教故事</div>
     
     <div class="card-grid">
         <div class="card" style="border-color: #9c27b0; background: #f3e5f5;">
@@ -1821,7 +1821,7 @@
 
 <div class="page">
     <div class="page-title">个人事件卡 PERSONAL EVENTS (5/6)</div>
-    <div class="page-subtitle">混合牌堆 | 每回合抽2选1 | 通用事件</div>
+    <div class="page-subtitle">通用事件卡 | 放入共用通用堆</div>
     
     <div class="card-grid">
         <div class="card" style="background: #e8f5e9;">
@@ -1902,7 +1902,7 @@
 <!-- 新增通用事件卡页面 -->
 <div class="page">
     <div class="page-title">个人事件卡 PERSONAL EVENTS (6/6)</div>
-    <div class="page-subtitle">混合牌堆 | 每回合抽2选1 | 通用事件</div>
+    <div class="page-subtitle">通用事件卡 | 放入共用通用堆</div>
     
     <div class="card-grid">
         <div class="card" style="background: #fff8e1; border-color: #ffc107;">
@@ -2686,7 +2686,7 @@
                 <b>0. 发愿奖励</b>：发愿卡每回合奖励同时结算<br>
                 <b>1. 集体事件</b>：翻红底卡，A/B同时亮牌<br>
                 <b>2. 众生阶段</b>：滞留+1，超时移除，补充<br>
-                <b>3. 个人事件</b>：每人抽2选1执行<br>
+                <b>3. 个人事件</b>：职业堆抽1+通用堆抽1，选1执行<br>
                 <b>4. 行动阶段</b>：每人2次行动<br>
                 <b>5. 回合结束</b>：偶数回合资粮-1
             </div>
@@ -2890,7 +2890,7 @@
             <li><b>功德×2计分</b>：功德每点2分，利他更有价值</li>
             <li><b>偶数回合消耗</b>：2/4/6回合资粮-1</li>
             <li><b>共修行动</b>：每局2次重抽集体事件</li>
-            <li><b>抽2选1</b>：个人事件卡混合牌堆</li>
+            <li><b>职业独立堆</b>：职业卡各自独立，通用卡共享</li>
             <li><b>核心体验</b>：个人利益与集体利益的平衡抉择</li>
         </ul>
         <p style="text-align: center; margin-top: 5mm; font-size: 8pt;">
