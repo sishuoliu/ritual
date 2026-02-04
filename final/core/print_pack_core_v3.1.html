@@ -623,7 +623,7 @@
             <tr><th>团队胜利（必须同时满足）</th><th>个人胜利</th><th>立即失败</th></tr>
             <tr>
                 <td>游戏结束时 <b>劫难 ≤ 12</b><br>游戏结束时 <b>渡化众生 ≥ 5</b></td>
-                <td>团队胜利后<br><b>功德 + 慧</b> 最高者获胜</td>
+                <td>团队胜利后<br><b>功德×2 + 慧</b> 最高者获胜</td>
                 <td>任意时刻 <b>劫难 ≥ 20</b></td>
             </tr>
         </table>
@@ -668,8 +668,8 @@
         <ul style="margin: 0; font-size: 8pt;">
             <li><b>开局选择</b>：从本职业的2张发愿卡中选1张</li>
             <li><b>达成条件</b>：游戏结束时满足发愿卡上的条件</li>
-            <li><b>发愿奖励</b>：简单愿+10分，困难愿+18分</li>
-            <li><b>菩萨行愿</b>：大乘者额外选1张，达成+25分</li>
+            <li><b>发愿奖励</b>：简单愿+8分，困难愿+12分</li>
+            <li><b>菩萨行愿</b>：大乘者额外选1张，达成+15分</li>
         </ul>
     </div>
     
@@ -741,7 +741,7 @@
     <div class="instructions" style="background: #fff8e1;">
         <h3>📝 示例：第1回合演练（4人游戏）</h3>
         <div style="font-size: 8pt; line-height: 1.4;">
-            <p><b>设置完成</b>：农夫(资5功德2慧3)、商人(资8功德2慧1)、学者(资4功德2慧5)、僧侣(资1功德5慧5)。众生区有2张众生卡。</p>
+            <p><b>设置完成</b>：农夫(资5功德2慧3)、商人(资8功德2慧1)、学者(资4功德2慧5)、僧侣(资3功德6慧6)。众生区有2张众生卡。</p>
             
             <p><b>阶段1 - 集体事件</b>：翻开「旱魃肆虐」，劫难+6。大家同时亮A/B卡：<br>
             · 农夫选A（资-2，功德+1）→ 资3，功德3<br>
@@ -752,7 +752,7 @@
             
             <p><b>阶段2 - 众生阶段</b>：2张众生卡滞留+1，现在都是1回合。</p>
             
-            <p><b>阶段3 - 个人事件</b>：第1回合是奇数，每人抽1张通用事件卡执行。</p>
+            <p><b>阶段3 - 个人事件</b>：每人从自己的职业堆抽1张 + 从通用堆抽1张，选1张执行。</p>
             
             <p><b>阶段4 - 行动阶段</b>（每人2次行动）：<br>
             · 农夫：劳作(+5资)→资8，劳作(+5资)→资13<br>
@@ -779,7 +779,7 @@
     </div>
     
     <div class="instructions" style="background: #e8f5e9;">
-        <h3>🔄 共修行动（每局限1次）</h3>
+        <h3>🔄 共修行动（每局限2次）</h3>
         <p style="margin: 0; font-size: 8pt;">
             翻开集体事件后，任意玩家可发起<b>"共修"</b>。<br>
             若<b>全体同意</b>：将该事件放回牌底，重抽下一张。<br>
@@ -2146,9 +2146,8 @@
             <div class="card-content">
                 <i>"以勤劳养家，以布施积功德。"</i><br><br>
                 <b>达成条件</b>：<br>
-                游戏结束时 功德 ≥ <b>15</b><br><br>
-                <b>成功</b>：+10分<br>
-                <b>失败</b>：-4分
+                游戏结束时 功德 ≥ <b>16</b><br><br>
+                <b>成功</b>：<b>+8分</b>
             </div>
         </div>
         
@@ -2158,9 +2157,8 @@
             <div class="card-content">
                 <i>"纵使家贫，亦不忘供养三宝。"</i><br><br>
                 <b>达成条件</b>：<br>
-                功德 ≥ <b>16</b> 且 资粮 ≤ <b>10</b><br><br>
-                <b>成功</b>：+18分<br>
-                <b>失败</b>：-6分
+                功德 ≥ <b>14</b> 且 资粮 ≤ <b>10</b><br><br>
+                <b>成功</b>：<b>+12分</b>
             </div>
         </div>
         
@@ -2172,9 +2170,8 @@
                 <i>"以资布施，广结善缘。"</i><br><br>
                 <b>每回合</b>：资粮+1<br><br>
                 <b>达成条件</b>：<br>
-                本局执行 布施 ≥ <b>7</b> 次<br><br>
-                <b>成功</b>：+10分<br>
-                <b>失败</b>：-4分
+                本局执行 布施 ≥ <b>5</b> 次<br><br>
+                <b>成功</b>：<b>+8分</b>
             </div>
         </div>
         
@@ -2185,23 +2182,21 @@
                 <i>"富而好礼，贵而不骄。"</i><br><br>
                 <b>每回合</b>：慧+1<br><br>
                 <b>达成条件</b>：<br>
-                功德 ≥ <b>32</b><br><br>
-                <b>成功</b>：+18分<br>
-                <b>失败</b>：-6分
+                功德 ≥ <b>22</b><br><br>
+                <b>成功</b>：<b>+12分</b>
             </div>
         </div>
         
         <!-- 学者 -->
         <div class="card bg-vow-simple" style="border-color: #2196f3;">
             <div class="card-title">📚 传道授业</div>
-            <div class="card-subtitle">【学者·简单】⭐新手推荐 v5.4</div>
+            <div class="card-subtitle">【学者·简单】⭐新手推荐</div>
             <div class="card-content">
                 <i>"学而不厌，诲人不倦。"</i><br><br>
                 <b>每回合</b>：慧+1<br><br>
                 <b>达成条件</b>：<br>
-                慧 ≥ <b>18</b> 且 使用过「讲学传道」≥1次<br><br>
-                <b>成功</b>：+10分<br>
-                <b>失败</b>：-4分
+                慧 ≥ <b>16</b><br><br>
+                <b>成功</b>：<b>+8分</b>
             </div>
         </div>
         
@@ -2212,9 +2207,8 @@
                 <i>"德才兼备，功德慧双修。"</i><br><br>
                 <b>每回合</b>：慧+1<br><br>
                 <b>达成条件</b>：<br>
-                功德 ≥ <b>14</b> 且 慧 ≥ <b>19</b><br><br>
-                <b>成功</b>：+16分<br>
-                <b>失败</b>：-6分
+                功德 ≥ <b>10</b> 且 慧 ≥ <b>16</b><br><br>
+                <b>成功</b>：<b>+12分</b>
             </div>
         </div>
     </div>
@@ -2253,45 +2247,45 @@
         <!-- 菩萨愿 -->
         <div class="card bg-bodhisattva" style="border-width: 3px;">
             <div class="card-title">🌍 地藏愿</div>
-            <div class="card-subtitle">【菩萨行愿】v5.5 约25%达成</div>
+            <div class="card-subtitle">【菩萨行愿】</div>
             <div class="card-content">
                 <i>"地狱不空，誓不成佛。"</i><br><br>
                 <b>🔥主动</b>：每回合可替1人承受损失（你受双倍）<br><br>
-                <b>达成</b>：劫难 ≤ <b>4</b> 且 承受 ≥ <b>2</b>次<br>
-                <b>成功</b>：+25分 | <b>失败</b>：-6分
+                <b>达成</b>：劫难 ≤ <b>6</b> 且 承受 ≥ <b>2</b>次<br>
+                <b>成功</b>：<b>+15分</b>
             </div>
         </div>
         
         <div class="card bg-bodhisattva" style="border-width: 3px;">
             <div class="card-title">🙏 观音愿</div>
-            <div class="card-subtitle">【菩萨行愿】v5.5 约30%达成</div>
+            <div class="card-subtitle">【菩萨行愿】</div>
             <div class="card-content">
                 <i>"千处祈求千处应。"</i><br><br>
                 <b>🔥主动</b>：任意玩家资粮归0时，可立即赠予2资粮<br><br>
-                <b>达成</b>：帮助行动 ≥ <b>7</b> 次<br>
-                <b>成功</b>：+22分 | <b>失败</b>：-4分
+                <b>达成</b>：帮助行动 ≥ <b>5</b> 次<br>
+                <b>成功</b>：<b>+15分</b>
             </div>
         </div>
         
         <div class="card bg-bodhisattva" style="border-width: 3px;">
             <div class="card-title">🪷 普贤愿</div>
-            <div class="card-subtitle">【菩萨行愿】v5.5 约23%达成</div>
+            <div class="card-subtitle">【菩萨行愿】</div>
             <div class="card-content">
                 <i>"恒顺众生，广修供养。"</i><br><br>
                 <b>🔥主动</b>：布施可分配给1-3人，每人各+1功德<br><br>
-                <b>达成</b>：布施 ≥ <b>6</b> 且 团队渡化 ≥ <b>6</b><br>
-                <b>成功</b>：+16分 | <b>失败</b>：-8分
+                <b>达成</b>：布施 ≥ <b>4</b> 且 团队渡化 ≥ <b>5</b><br>
+                <b>成功</b>：<b>+15分</b>
             </div>
         </div>
         
         <div class="card bg-bodhisattva" style="border-width: 3px;">
             <div class="card-title">📿 文殊愿</div>
-            <div class="card-subtitle">【菩萨行愿】v5.5 约14%达成</div>
+            <div class="card-subtitle">【菩萨行愿】</div>
             <div class="card-content">
                 <i>"愿我智慧光明，照破众生无明。"</i><br><br>
                 <b>🔥主动</b>：每回合可消耗2慧，选1人本回合行动效果+1<br><br>
-                <b>达成</b>：协助队友渡化 ≥ <b>3</b> 次<br>
-                <b>成功</b>：+14分 | <b>失败</b>：-6分
+                <b>达成</b>：协助队友渡化 ≥ <b>2</b> 次<br>
+                <b>成功</b>：<b>+15分</b>
             </div>
         </div>
     </div>
@@ -2638,21 +2632,21 @@
                 <td>★ 或 ●●●●● (5)</td>
                 <td>●●●●●●●● 或 ★+●●● (8)</td>
                 <td>●●●● (4)</td>
-                <td>● (1)</td>
+                <td><b>●●● (3)</b></td>
             </tr>
             <tr>
                 <td>功德</td>
                 <td>◆◆ (2)</td>
                 <td>◆◆ (2)</td>
                 <td>◆◆ (2)</td>
-                <td>★ 或 ◆◆◆◆◆ (5)</td>
+                <td><b>★+◆ 或 ◆◆◆◆◆◆ (6)</b></td>
             </tr>
             <tr>
                 <td>慧</td>
                 <td>▲▲▲ (3)</td>
                 <td>▲ (1)</td>
                 <td>★ 或 ▲▲▲▲▲ (5)</td>
-                <td>★ 或 ▲▲▲▲▲ (5)</td>
+                <td><b>★+▲ 或 ▲▲▲▲▲▲ (6)</b></td>
             </tr>
         </table>
     </div>
@@ -2701,7 +2695,7 @@
                 劫难 ≥ 20 立即失败<br>
                 或游戏结束未达标<br><br>
                 <b>个人胜利</b><br>
-                团队胜利后，功德+慧最高者获胜
+                团队胜利后，<b>功德×2+慧</b>最高者获胜
             </div>
         </div>
         
